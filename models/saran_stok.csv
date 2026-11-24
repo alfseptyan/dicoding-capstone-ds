@@ -1,0 +1,107 @@
+ingredient_id,ingredient_name,kategori,satuan,kelompok,umur_simpan_hari,hari_cakupan,kebutuhan,safety_stock,target_stok,stok_saat_ini,saran_beli,estimasi_biaya_idr,di_bawah_minimum_stock,catatan
+ING001,Ayam Potong (Paha/Dada),protein,gram,rutin,2,2,1851.9,2755.8,4607.7,0.0,4650.0,167400,True,cakupan dibatasi umur simpan (2 hari)
+ING002,Ayam Fillet Dada,protein,gram,rutin,2,2,971.1,1415.2,2386.2,0.0,2400.0,100800,True,cakupan dibatasi umur simpan (2 hari)
+ING003,Daging Sapi Slice,protein,gram,rutin,3,3,275.6,319.5,595.1,0.0,600.0,72000,True,cakupan dibatasi umur simpan (3 hari)
+ING004,Udang,protein,gram,rutin,2,2,124.0,193.6,317.6,0.0,350.0,26250,True,cakupan dibatasi umur simpan (2 hari)
+ING005,Cumi,protein,gram,rutin,2,2,237.7,355.5,593.2,0.0,600.0,42000,True,cakupan dibatasi umur simpan (2 hari)
+ING006,Kerang Hijau,protein,gram,jarang,2,2,118.8,445.1,563.9,0.0,600.0,13200,True,cakupan dibatasi umur simpan (2 hari)
+ING007,Ikan Dori Fillet,protein,gram,jarang,2,2,45.2,165.6,210.9,0.0,250.0,10000,True,cakupan dibatasi umur simpan (2 hari)
+ING008,Ikan Gurame,protein,gram,rutin,2,2,1532.2,2582.6,4114.8,0.0,4150.0,166000,True,cakupan dibatasi umur simpan (2 hari)
+ING009,Ikan Nila,protein,gram,jarang,2,2,222.0,1062.0,1284.1,0.0,1300.0,36400,True,cakupan dibatasi umur simpan (2 hari)
+ING010,Ikan Lele,protein,gram,jarang,2,2,350.3,1304.2,1654.5,0.0,1700.0,40800,True,cakupan dibatasi umur simpan (2 hari)
+ING011,Ikan Teri,protein,gram,sangat_jarang,180,7,4.8,40.0,500.0,0.0,500.0,50000,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING012,Telur Ayam,protein,piece,rutin,21,7,40.9,34.9,75.8,0.0,76.0,159600,True,
+ING013,Sosis Ayam,protein,piece,sangat_jarang,30,7,0.9,7.6,10.0,0.0,10.0,18000,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING014,Tahu Putih,protein,piece,jarang,2,2,1.0,3.4,4.4,0.0,5.0,4500,True,cakupan dibatasi umur simpan (2 hari)
+ING015,Tempe,protein,gram,jarang,3,3,63.0,208.4,271.4,0.0,300.0,6000,True,cakupan dibatasi umur simpan (3 hari)
+ING016,Beras,karbohidrat,gram,rutin,180,7,2793.5,2216.2,5009.7,0.0,5050.0,70700,True,
+ING017,Mie Telur Basah,karbohidrat,gram,jarang,2,2,129.0,596.6,725.6,0.0,750.0,13500,True,cakupan dibatasi umur simpan (2 hari)
+ING018,Mie Instan,karbohidrat,piece,jarang,270,7,1.8,4.5,6.3,0.0,7.0,22400,True,
+ING019,Kwetiau Basah,karbohidrat,gram,jarang,2,2,148.4,549.0,697.5,0.0,700.0,12600,True,cakupan dibatasi umur simpan (2 hari)
+ING020,Bihun Kering,karbohidrat,gram,rutin,365,7,2307.6,1869.6,4177.2,0.0,4200.0,126000,True,
+ING021,Spaghetti Kering,karbohidrat,gram,jarang,365,7,260.4,620.5,880.8,0.0,900.0,22500,True,
+ING022,Kentang Beku,karbohidrat,gram,jarang,180,7,174.2,446.2,620.4,0.0,650.0,20800,True,
+ING023,Singkong,karbohidrat,gram,sangat_jarang,4,4,35.9,436.6,500.0,0.0,500.0,4000,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING024,Pisang,karbohidrat,gram,sangat_jarang,4,4,30.6,327.4,500.0,0.0,500.0,6000,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING025,Tepung Terigu,karbohidrat,gram,rutin,180,7,788.3,631.4,1419.7,0.0,1450.0,17400,True,
+ING026,Tepung Bumbu Crispy,karbohidrat,gram,rutin,180,7,890.2,753.4,1643.6,0.0,1650.0,46200,True,
+ING027,Tepung Ketan,karbohidrat,gram,jarang,180,7,82.8,222.3,305.2,0.0,350.0,6300,True,
+ING028,Kerupuk Mentah,karbohidrat,piece,jarang,180,7,9.0,20.8,29.8,0.0,30.0,9000,True,
+ING029,Sawi Hijau,sayur_buah,gram,rutin,4,4,1040.6,1120.2,2160.8,0.0,2200.0,26400,True,cakupan dibatasi umur simpan (4 hari)
+ING030,Kol,sayur_buah,gram,rutin,5,5,328.5,345.9,674.3,0.0,700.0,7000,True,cakupan dibatasi umur simpan (5 hari)
+ING031,Wortel,sayur_buah,gram,rutin,7,7,681.3,550.0,1231.3,0.0,1250.0,17500,True,
+ING032,Kangkung,sayur_buah,gram,jarang,2,2,140.3,644.7,785.0,0.0,800.0,8000,True,cakupan dibatasi umur simpan (2 hari)
+ING033,Kacang Panjang,sayur_buah,gram,jarang,3,3,38.9,125.3,164.1,0.0,200.0,3000,True,cakupan dibatasi umur simpan (3 hari)
+ING034,Tauge,sayur_buah,gram,rutin,2,2,167.9,264.4,432.3,0.0,450.0,5400,True,cakupan dibatasi umur simpan (2 hari)
+ING035,Tomat,sayur_buah,gram,rutin,5,5,440.7,430.2,870.8,0.0,900.0,13500,True,cakupan dibatasi umur simpan (5 hari)
+ING036,Timun,sayur_buah,gram,jarang,5,5,62.4,178.7,241.1,0.0,250.0,2500,True,cakupan dibatasi umur simpan (5 hari)
+ING037,Labu Siam,sayur_buah,gram,sangat_jarang,7,7,37.3,211.0,500.0,0.0,500.0,5000,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING038,Jagung Manis Pipil,sayur_buah,gram,rutin,4,4,471.6,502.8,974.4,0.0,1000.0,15000,True,cakupan dibatasi umur simpan (4 hari)
+ING039,Bawang Merah,sayur_buah,gram,rutin,21,7,841.0,672.3,1513.4,0.0,1550.0,62000,True,
+ING040,Bawang Putih,sayur_buah,gram,rutin,21,7,790.9,642.0,1433.0,0.0,1450.0,55100,True,
+ING041,Bawang Bombay,sayur_buah,gram,rutin,21,7,961.8,762.8,1724.6,0.0,1750.0,43750,True,
+ING042,Cabai Merah,sayur_buah,gram,rutin,4,4,244.6,260.7,505.3,0.0,550.0,24750,True,cakupan dibatasi umur simpan (4 hari)
+ING043,Cabai Rawit,sayur_buah,gram,rutin,4,4,168.0,178.0,346.0,0.0,350.0,21000,True,cakupan dibatasi umur simpan (4 hari)
+ING044,Cabai Hijau,sayur_buah,gram,jarang,4,4,100.8,385.3,486.1,0.0,500.0,16000,True,cakupan dibatasi umur simpan (4 hari)
+ING045,Jahe,sayur_buah,gram,sangat_jarang,14,7,8.2,66.6,500.0,0.0,500.0,12500,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING046,Daun Bawang,sayur_buah,gram,rutin,4,4,83.0,90.3,173.3,0.0,200.0,5000,True,cakupan dibatasi umur simpan (4 hari)
+ING047,Jamur Tiram,sayur_buah,gram,jarang,3,3,56.8,179.5,236.3,0.0,250.0,7500,True,cakupan dibatasi umur simpan (3 hari)
+ING048,Kelapa Parut,sayur_buah,gram,jarang,2,2,26.0,127.5,153.6,0.0,200.0,3000,True,cakupan dibatasi umur simpan (2 hari)
+ING049,Lalapan Segar Mix,sayur_buah,gram,jarang,2,2,163.9,621.5,785.4,0.0,800.0,12000,True,cakupan dibatasi umur simpan (2 hari)
+ING050,Jeruk Nipis,sayur_buah,gram,jarang,10,7,95.8,206.4,302.2,0.0,350.0,8750,True,
+ING051,Lemon,sayur_buah,gram,jarang,10,7,690.8,1756.4,2447.2,0.0,2450.0,122500,True,
+ING052,Jeruk Peras,sayur_buah,gram,jarang,10,7,8045.5,19489.9,27535.3,0.0,27550.0,495900,True,
+ING053,Alpukat,sayur_buah,gram,sangat_jarang,3,3,38.4,488.6,527.0,0.0,550.0,16500,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING054,Buah Naga,sayur_buah,gram,sangat_jarang,5,5,55.0,591.4,646.3,0.0,650.0,14300,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING055,Jambu Biji,sayur_buah,gram,sangat_jarang,4,4,65.7,579.3,645.0,0.0,650.0,11700,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING056,Mangga,sayur_buah,gram,sangat_jarang,4,4,62.9,554.1,617.0,0.0,650.0,14300,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING057,Melon,sayur_buah,gram,sangat_jarang,5,5,50.9,591.4,642.3,0.0,650.0,7800,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING058,Sirsak,sayur_buah,gram,sangat_jarang,3,3,15.6,247.2,500.0,0.0,500.0,20000,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING059,Strawberry,sayur_buah,gram,sangat_jarang,5,5,28.5,356.7,500.0,0.0,500.0,25000,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING060,Apel,sayur_buah,gram,sangat_jarang,14,7,36.4,293.2,500.0,0.0,500.0,17500,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING061,Lychee Kaleng,sayur_buah,gram,sangat_jarang,365,7,9.7,80.0,500.0,0.0,500.0,30000,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING062,Minyak Goreng,bumbu_saus,milliliter,rutin,365,7,5321.9,4409.7,9731.6,0.0,9750.0,175500,True,
+ING063,Mentega/Margarin,bumbu_saus,gram,rutin,120,7,501.1,409.1,910.2,0.0,950.0,28500,True,
+ING064,Kecap Manis,bumbu_saus,milliliter,rutin,365,7,1036.3,839.6,1876.0,0.0,1900.0,43700,True,
+ING065,Saus Tomat,bumbu_saus,milliliter,rutin,365,7,241.6,214.4,456.0,0.0,500.0,9000,True,
+ING066,Saus Sambal,bumbu_saus,milliliter,rutin,365,7,178.5,158.4,336.9,0.0,350.0,7000,True,
+ING067,Saus Tiram,bumbu_saus,milliliter,jarang,365,7,122.3,259.9,382.2,0.0,400.0,14000,True,
+ING068,Saus Teriyaki,bumbu_saus,milliliter,jarang,365,7,192.4,418.3,610.7,0.0,650.0,19500,True,
+ING069,Saus Blackpepper,bumbu_saus,milliliter,rutin,180,7,715.1,564.8,1279.8,0.0,1300.0,39000,True,
+ING070,Saus BBQ,bumbu_saus,milliliter,sangat_jarang,365,7,6.6,62.2,500.0,0.0,500.0,15000,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING071,Saus Asam Manis,bumbu_saus,milliliter,jarang,180,7,508.0,1127.8,1635.8,0.0,1650.0,41250,True,
+ING072,Saus Salted Egg,bumbu_saus,gram,jarang,60,7,87.9,189.0,277.0,0.0,300.0,21000,True,
+ING073,Saus Signature Hotplate,bumbu_saus,milliliter,jarang,60,7,27.4,75.5,102.9,0.0,150.0,5250,True,
+ING074,Keju Cheddar,bumbu_saus,gram,sangat_jarang,60,7,20.3,159.9,500.0,0.0,500.0,40000,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING075,Madu,bumbu_saus,milliliter,jarang,365,7,104.9,237.8,342.7,0.0,350.0,35000,True,
+ING076,Gula Pasir,bumbu_saus,gram,jarang,365,7,573.9,1263.2,1837.1,0.0,1850.0,31450,True,
+ING077,Gula Merah,bumbu_saus,gram,jarang,365,7,34.6,98.4,133.0,0.0,150.0,3750,True,
+ING078,Garam,bumbu_saus,gram,rutin,365,7,197.2,159.8,357.0,0.0,400.0,3200,True,
+ING079,Merica Bubuk,bumbu_saus,gram,rutin,365,7,10.2,8.3,18.5,0.0,50.0,8000,True,
+ING080,Kaldu Bubuk,bumbu_saus,gram,rutin,365,7,143.5,115.4,259.0,0.0,300.0,18000,True,
+ING081,Terasi,bumbu_saus,gram,jarang,180,7,20.0,42.4,62.3,0.0,100.0,10000,True,
+ING082,Santan,bumbu_saus,milliliter,sangat_jarang,3,3,9.3,160.0,500.0,0.0,500.0,10000,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING083,Asam Jawa,bumbu_saus,gram,sangat_jarang,365,7,3.3,17.8,500.0,0.0,500.0,15000,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING084,Bumbu Dasar Soto,bumbu_saus,gram,sangat_jarang,3,3,0.1,1.7,500.0,0.0,500.0,22500,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING085,Bumbu Dasar Kuning,bumbu_saus,gram,sangat_jarang,3,3,0.9,16.0,500.0,0.0,500.0,20000,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING086,Bumbu Acar,bumbu_saus,gram,jarang,3,3,65.8,241.4,307.2,0.0,350.0,17500,True,cakupan dibatasi umur simpan (3 hari)
+ING087,Bumbu Bali,bumbu_saus,gram,jarang,3,3,81.6,319.5,401.1,0.0,450.0,24750,True,cakupan dibatasi umur simpan (3 hari)
+ING088,Kacang Tanah,bumbu_saus,gram,sangat_jarang,180,7,4.1,22.2,500.0,0.0,500.0,20000,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING089,Teh Celup,minuman_pelengkap,piece,jarang,365,7,53.4,111.7,165.1,0.0,166.0,74700,True,
+ING090,Kopi Bubuk,minuman_pelengkap,gram,jarang,180,7,463.7,1038.7,1502.4,0.0,1550.0,186000,True,
+ING091,Susu UHT,minuman_pelengkap,milliliter,sangat_jarang,120,7,37.7,344.3,500.0,0.0,500.0,9000,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING092,Susu Kental Manis,minuman_pelengkap,gram,jarang,365,7,69.3,148.3,217.7,0.0,250.0,7500,True,
+ING093,Coklat Bubuk,minuman_pelengkap,gram,sangat_jarang,365,7,0.1,0.9,500.0,0.0,500.0,45000,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING094,Coklat Meses,minuman_pelengkap,gram,sangat_jarang,180,7,3.7,23.3,500.0,0.0,500.0,45000,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING095,Gula Cair,minuman_pelengkap,milliliter,rutin,60,7,2539.3,1909.4,4448.7,0.0,4450.0,89000,True,
+ING096,Sirup Rasa,minuman_pelengkap,milliliter,jarang,365,7,34.5,86.0,120.5,0.0,150.0,3750,True,
+ING097,Soda Water,minuman_pelengkap,milliliter,sangat_jarang,180,7,62.8,499.8,562.6,0.0,600.0,5400,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING098,Es Batu,minuman_pelengkap,gram,rutin,1,1,1752.7,2947.3,4700.0,0.0,4700.0,4700,True,cakupan dibatasi umur simpan (1 hari)
+ING099,Air Minum Isi Ulang,minuman_pelengkap,milliliter,rutin,1,1,1223.4,2157.0,3380.4,0.0,3400.0,0,True,cakupan dibatasi umur simpan (1 hari)
+ING100,Sprite 250 ml,minuman_pelengkap,piece,sangat_jarang,365,7,0.2,2.4,10.0,0.0,10.0,30000,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING101,Air Mineral Botol,minuman_pelengkap,piece,rutin,365,7,53.0,43.5,96.5,0.0,97.0,174600,True,
+ING102,Cup Minum + Tutup,kemasan,piece,jarang,730,7,1.1,3.0,4.1,0.0,5.0,3000,True,
+ING103,Mika Kecil,kemasan,piece,sangat_jarang,730,7,0.2,1.3,50.0,0.0,50.0,35000,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING104,Mika Tanggung,kemasan,piece,sangat_jarang,730,7,0.1,1.3,50.0,0.0,50.0,55000,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING105,Mika Besar,kemasan,piece,sangat_jarang,730,7,0.3,2.7,50.0,0.0,50.0,75000,True,forecast tidak andal (sangat jarang): lantai minimum_stock
+ING106,Sterofoam,kemasan,piece,sangat_jarang,730,7,0.0,0.2,50.0,0.0,50.0,40000,True,forecast tidak andal (sangat jarang): lantai minimum_stock

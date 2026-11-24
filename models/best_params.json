@@ -1,0 +1,8 @@
+{
+  "selected_model": "random_forest",
+  "params": {
+    "max_depth": 6,
+    "min_samples_leaf": 20
+  },
+  "protocol": "Nested Two-Fold Time-Series Split (A_sep & B_okt)"
+}
