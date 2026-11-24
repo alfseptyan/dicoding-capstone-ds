@@ -6,6 +6,8 @@ Repositori ini merupakan artefak lengkap **Data Science (DS)** untuk proyek Caps
 
 ## Daftar Isi & Pemetaan Pemenuhan 100% Rubrik Data Science
 
+> **Dokumen Tracking Checklist Lengkap (21/21 Kriteria `TRUE`):** Lihat **[`QUEST_TRACKING_CHECKLIST.md`](QUEST_TRACKING_CHECKLIST.md)** untuk rincian bukti implementasi, penjelasan proses, metrik evaluasi, dan tautan file untuk setiap butir kriteria penilaian Data Science.
+
 | Kategori Rubrik | Butir Kriteria Penilaian Data Science | Lokasi Bukti & Artefak di Repositori Ini | Status |
 | :--- | :--- | :--- | :---: |
 | **1. Analisis Masalah & Data Wrangling (Main Quest)** | Mengidentifikasi dan menganalisis bersama tim masalah UMKM yang akan diselesaikan dan menjelaskan peran data dalam solusi tersebut. | Bagian 1 di `README.md` ini & `docs/TECHNICAL_GUIDELINE_DS.md` | **TERPENUHI** |
