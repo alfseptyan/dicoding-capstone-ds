@@ -1,0 +1,308 @@
+id,menu_item_id,name,min_selections,max_selections,sort_order,is_active
+45d71087-b9ad-421a-a21c-a02948a830e0,034a7c06-fe52-4ef4-b044-dfe4c0d43150,Pilihan Cocolan,0,1,0,True
+cbe5978d-e79e-4ba7-a891-7d9c11f0a1b4,03eed66d-954f-44b0-9072-a0454687222a,Level Pedas Saus,1,1,0,True
+c9882cd6-fd78-42ed-a357-2cd5e3c0f85d,03eed66d-954f-44b0-9072-a0454687222a,Tambahan Topping Hotplate,0,2,10,True
+ffd17646-6794-430b-a41f-f8f7124dbbf8,04435ec8-9bad-4faa-bebc-00b0de5f985e,Level Kepedasan,1,1,0,True
+7c4856aa-d75d-4efa-a424-d6f51d0337f3,04435ec8-9bad-4faa-bebc-00b0de5f985e,Tambahan Topping,0,2,10,True
+4bdf7886-0f1d-4715-aec8-3f54128241d3,054b6e70-1efa-4472-b57e-63f53ce3cef9,Suhu Minuman,1,1,0,True
+fba91b7c-706b-43cf-a5b5-692ab3b348d8,054b6e70-1efa-4472-b57e-63f53ce3cef9,Tingkat Kemanisan,1,1,10,True
+d2a709bf-5f4e-48e8-a56f-61b6d3f1a4d1,058ab4e1-7634-4c63-98f8-66c963430c7e,Tingkat Pedas Sayuran,1,1,0,True
+2efda9d6-2adb-40b9-a9ed-d4661e205df2,065a3e89-d044-4b83-bee6-9e098d572f29,Pilihan Sambal Cocolan,0,1,0,True
+04942f52-9d70-437e-a0d8-798711a29e86,065a3e89-d044-4b83-bee6-9e098d572f29,Tingkat Kematangan Goreng,1,1,10,True
+14cb537f-35fc-4e9c-a5a0-158c1ebedac7,065a3e89-d044-4b83-bee6-9e098d572f29,Porsi Tambahan,0,1,20,True
+b2f74249-1561-47a9-a899-f4b10848bd62,095a8227-9d5b-407d-a87e-72db51f6988a,Level Kepedasan,1,1,0,True
+5124f65a-1a02-4707-a683-613dae7b6afd,095a8227-9d5b-407d-a87e-72db51f6988a,Tambahan Topping,0,2,10,True
+e67fec2a-3dbf-4339-afae-a2dacf188f67,10ed88a3-e8fa-4ddd-8445-064bf09476fa,Tingkat Kemanisan,1,1,10,True
+d5ac3132-81c6-422b-a13f-43df96720c3d,10ed88a3-e8fa-4ddd-8445-064bf09476fa,Pilihan Tambahan,0,1,20,True
+176d3da0-2c55-41d0-a18a-608ed239b8ad,11373b09-9134-4a68-8f7e-7482017df28e,Pilihan Sambal Cocolan,0,1,0,True
+90d3b81a-52bf-4d51-a335-4e14f332041f,129b9f73-8eca-49a2-8db9-066aacb8e177,Pilihan Sambal Cocolan,0,1,0,True
+c32dcc78-11ba-4992-a7c4-70d156d6ccd6,129b9f73-8eca-49a2-8db9-066aacb8e177,Porsi Tambahan,0,1,20,True
+5abcb106-f920-41e1-a115-2f179103d056,13424a55-e166-4160-9c68-ea2e65608289,Level Kepedasan,1,1,0,True
+acfa7436-79e1-4b49-ac7a-6bad95b03aba,13424a55-e166-4160-9c68-ea2e65608289,Tambahan Topping,0,2,10,True
+f7cfac04-9d07-4d22-a915-e5d1b7303356,14802802-47d1-457f-833e-faa4fa65eb77,Pilihan Sambal Meja,1,1,0,True
+fb7f1985-fc96-41db-a9a8-00fbf792a47b,1628eccd-222f-471f-8bd4-d1ab9034f9c3,Pilihan Sambal Meja,1,1,0,True
+7a23c30a-b6f9-4d5b-a5bd-05db76e06227,162e79a4-3f2b-46f6-9b12-92e4fed14438,Pilihan Cocolan,0,1,0,True
+d33d78c2-b13a-4182-ae21-c078ccbb5df3,16561b1f-d328-4d04-9339-3a4d867630b7,Level Kepedasan,1,1,0,True
+c9f37c46-d0cd-4657-a6a3-93b8580742f6,16561b1f-d328-4d04-9339-3a4d867630b7,Tambahan Topping,0,2,10,True
+0355ad24-b32b-4994-aeaa-e6f165e531c0,19feebc0-59e5-4bfb-b8a5-290627956161,Pelengkap Soto,0,2,0,True
+70dc8071-146b-4e6d-a247-dd3988d04c0b,1beaf997-2fda-499f-a5e4-2e40bb6a7e5f,Suhu Minuman,1,1,0,True
+388a3bf6-e22a-41a6-aa5c-0348b7dcd789,1beaf997-2fda-499f-a5e4-2e40bb6a7e5f,Tingkat Kemanisan,1,1,10,True
+bbc8c6db-4875-424f-a55e-11ae9028c0f3,1c9429b5-8b2c-4a43-b46e-15e72518391a,Pilihan Sambal Cocolan,0,1,0,True
+0354f772-987d-49c9-ade1-c3049eac1a01,1c9429b5-8b2c-4a43-b46e-15e72518391a,Porsi Tambahan,0,1,20,True
+1326ac86-4a98-47d9-af74-eb9395969c64,1d14df28-7414-430d-891a-fcf9d58bc64b,Tingkat Kemanisan,1,1,10,True
+2e3be20b-4e1c-4847-acc8-f2e61d56aea6,1d14df28-7414-430d-891a-fcf9d58bc64b,Pilihan Tambahan,0,1,20,True
+95108085-79c6-47d8-a8f6-07293112038c,20d3a4a9-abc5-4528-b020-ffe159b29764,Level Kepedasan,1,1,0,True
+2aa45b84-fe71-4b59-ae40-4be783c26f5d,20d3a4a9-abc5-4528-b020-ffe159b29764,Tambahan Topping,0,2,10,True
+d8750bd0-3fbc-49a9-abe0-ff3151926c7b,21841d95-c89c-4491-bd3e-7db20a03fae0,Pilihan Cocolan,0,1,0,True
+d25f32fc-e43c-4676-a7f3-481d96a133f7,2288f56e-24eb-48bf-9dc6-d0ca732d1ef3,Tambahan Topping Manis,0,3,0,True
+b08dba96-12db-4e63-acaf-cf0d09f98181,2291f9d2-0b5d-4b89-9938-800983e93e45,Level Pedas Saus,1,1,0,True
+49c89c4d-1ad8-4142-a650-faa8e3f57a65,2291f9d2-0b5d-4b89-9938-800983e93e45,Tambahan Topping Hotplate,0,2,10,True
+1d08b7f7-1b98-410e-a56b-4e86c3ab309f,23c4127e-d5e9-4f2b-9ca9-dd91d0629f2f,Level Kepedasan,1,1,0,True
+21911a2b-f526-4c26-a80e-285399030658,23c4127e-d5e9-4f2b-9ca9-dd91d0629f2f,Tambahan Topping,0,2,10,True
+bb5e6d03-48ce-4bb3-a3cf-b783ac4a2ec8,26bd0a46-2c79-4468-92fa-fc4d84bf229c,Tingkat Kemanisan,1,1,10,True
+b2c8d47c-eade-4fc7-a698-1a73ce284521,26bd0a46-2c79-4468-92fa-fc4d84bf229c,Pilihan Tambahan,0,1,20,True
+eec3cc21-72a4-4747-acc1-845162d6bec1,28193b1b-ec48-4345-bff6-158d431e1850,Pilihan Sambal Cocolan,0,1,0,True
+900c156a-3e42-469d-ac41-f1d69f91b79d,28193b1b-ec48-4345-bff6-158d431e1850,Tingkat Kematangan Goreng,1,1,10,True
+b6440358-82ed-4410-ac72-34c47d1f585f,28193b1b-ec48-4345-bff6-158d431e1850,Porsi Tambahan,0,1,20,True
+d62e7347-eea4-47fe-a09e-5ebfbe39a135,29117792-8e2e-49d3-8dc9-2ff1cbd6329f,Level Pedas Saus,1,1,0,True
+d0b88082-0c37-45f0-a408-fe434abd3a41,29117792-8e2e-49d3-8dc9-2ff1cbd6329f,Tambahan Topping Hotplate,0,2,10,True
+d1e46eb4-c3fc-4f46-a4c7-1612405cd61c,2a351e3b-54ad-4ff3-8586-012e3942cef2,Suhu Minuman,1,1,0,True
+ef037f86-32eb-4e58-a20d-db405d454f9e,2a351e3b-54ad-4ff3-8586-012e3942cef2,Tingkat Kemanisan,1,1,10,True
+7d42c8ee-7187-40cf-a01f-2756020a898a,2a7f6bca-3fc3-4588-83c8-cedac0f7b603,Level Kepedasan,1,1,0,True
+0380be16-c854-47d2-a27d-5aeb7556fb44,2a7f6bca-3fc3-4588-83c8-cedac0f7b603,Tambahan Topping,0,2,10,True
+e9823353-f7b6-4b22-a905-aa94e868bd8d,2b81b761-c621-4e41-94f7-4d95d6bf2653,Pilihan Sambal Cocolan,0,1,0,True
+7a0835ed-08c7-42e2-a047-f282d7924858,2b81b761-c621-4e41-94f7-4d95d6bf2653,Porsi Tambahan,0,1,20,True
+65b214b1-fbc8-460a-a99e-07c4b1a6ac90,2c2f270a-ae25-4749-a65d-081d8b27477e,Level Pedas Saus,1,1,0,True
+b90df5ef-1768-4af2-ac31-eecc56fb06ae,2c2f270a-ae25-4749-a65d-081d8b27477e,Tambahan Topping Hotplate,0,2,10,True
+c1dc5007-4850-418c-a806-926bda5bdf8d,2c6cbf45-4d77-4e88-bd92-a44fa8c19e76,Tambahan Topping Manis,0,3,0,True
+aae7a0cd-c47d-46ef-af41-47027a91ce1e,32491123-1626-4cda-8eaf-f7842ebd69d8,Pilihan Sambal Cocolan,0,1,0,True
+03e0a713-e813-4936-aa36-c5671a1180b3,32491123-1626-4cda-8eaf-f7842ebd69d8,Porsi Tambahan,0,1,20,True
+0e038875-6625-4a76-a205-5dbb3782b20e,328a467f-8f64-4b9e-ae56-39ec6278a734,Tingkat Kemanisan,1,1,10,True
+5747d2ae-dd18-49e8-a482-ff7ba09a1037,328a467f-8f64-4b9e-ae56-39ec6278a734,Pilihan Tambahan,0,1,20,True
+fa2bc506-aada-4f88-ab40-cf228609b7c5,33e85600-c808-4f99-98ec-3380ebb21502,Tambahan Topping Manis,0,3,0,True
+b26f293a-c6ef-45b7-a13f-99da51a2fdaf,34192578-39a7-4fc4-8ac7-02c14e777330,Level Kepedasan,1,1,0,True
+df096578-5587-457c-a87b-a7d835b5e002,34192578-39a7-4fc4-8ac7-02c14e777330,Tambahan Topping,0,2,10,True
+d8993157-2875-4c8a-a9d2-5644a4dbfac6,359f2f6e-a903-41c0-8745-6f8ff5f96287,Suhu Minuman,1,1,0,True
+3bcd7a57-ff78-490d-a45c-b641105a519f,359f2f6e-a903-41c0-8745-6f8ff5f96287,Tingkat Kemanisan,1,1,10,True
+5c5e2099-5b43-41f8-ac96-347de494ab78,375690cd-a7ef-47a6-b849-5bfd1f70db58,Suhu Minuman,1,1,0,True
+ddac8cc6-2198-4526-aba3-f8f38f860052,375690cd-a7ef-47a6-b849-5bfd1f70db58,Tingkat Kemanisan,1,1,10,True
+4c15f270-0935-4688-a7cb-c8113297f245,38be7cad-3bac-416d-8510-0903bc04d954,Level Kepedasan,1,1,0,True
+f1573b21-8476-4e33-adb9-edcf512e168a,38be7cad-3bac-416d-8510-0903bc04d954,Tambahan Topping,0,2,10,True
+a50f7bb7-6b47-49c9-acc0-9c132b01efcd,3c476b12-f193-4b88-8d70-f418e807d7ba,Level Pedas Saus,1,1,0,True
+100cda5d-d400-4ed7-a1bd-6b6e46558ae6,3c476b12-f193-4b88-8d70-f418e807d7ba,Tambahan Topping Hotplate,0,2,10,True
+c4b47fb0-d07c-43cd-a28a-c6e3b529c7ec,3ce21015-2994-49d8-8c3f-44c7e356b1ee,Suhu Minuman,1,1,0,True
+55e13039-0bac-4c7e-a081-2730c204bd76,3ce21015-2994-49d8-8c3f-44c7e356b1ee,Tingkat Kemanisan,1,1,10,True
+33c704cf-2f0a-4edd-ac48-46ad9df7731f,3eb64a1f-4fdf-4341-b3fe-7d78edb9cd78,Level Pedas Saus,1,1,0,True
+eb68186b-dbe9-40bc-ae0d-49687a91a8b5,3eb64a1f-4fdf-4341-b3fe-7d78edb9cd78,Tambahan Topping Hotplate,0,2,10,True
+dfdae52b-ae31-49f3-aa05-6b130f1d7f26,41b06794-cffd-4a20-adfa-5905367a208f,Pilihan Sambal Cocolan,0,1,0,True
+2fa78488-4bcf-44cd-a92f-d344cc93b559,43ca83e1-4962-407e-a437-9db6ad5ce79f,Pilihan Sambal Cocolan,0,1,0,True
+0dbcc4c5-acb1-449a-a059-e50dd69a3559,43ca83e1-4962-407e-a437-9db6ad5ce79f,Porsi Tambahan,0,1,20,True
+9fa813f6-46eb-47a2-a122-1c8263fe5261,43e9c01e-d9a5-4692-b987-aada15596add,Pilihan Sambal Cocolan,0,1,0,True
+3f6afa85-7107-4785-a322-a3a61b814c65,4612a5b2-d106-4fbe-a931-284d7a9ae0cd,Pilihan Tambahan,0,1,20,True
+19074787-3271-4b73-a9e8-f96ccde31667,4754e954-6714-4f98-8d75-42982d2ae17e,Suhu Minuman,1,1,0,True
+0eb9c663-e0ae-4115-a7b6-633d99386799,48304423-0923-4df7-96fb-ec62c6c41414,Level Kepedasan,1,1,0,True
+cdca69bf-48f8-4f28-ac03-464c8326a956,48304423-0923-4df7-96fb-ec62c6c41414,Tambahan Topping,0,2,10,True
+9c0fdd84-5593-4417-a6b3-46ea4d63e592,48d56551-856b-4af9-809c-5d3ddc9754a6,Level Kepedasan,1,1,0,True
+5559aa7d-afb0-40b6-acca-62cced149034,48d56551-856b-4af9-809c-5d3ddc9754a6,Tambahan Topping,0,2,10,True
+356835f7-1e11-41be-a167-461b257b1b18,48edfeb3-d05a-4069-aa5e-950b5a362042,Tingkat Kemanisan,1,1,10,True
+7c3c3f4a-f4fa-45d6-aeaf-2d5ac0ba4dde,48edfeb3-d05a-4069-aa5e-950b5a362042,Pilihan Tambahan,0,1,20,True
+f7532360-800c-4473-a2e6-7135136a82c2,4afd501a-3f44-44ba-86fe-643ad3c49130,Pilihan Sambal Cocolan,0,1,0,True
+7ead1f4d-3670-4577-a0c1-f994e213aca9,4b573007-c6bf-4f43-82c0-ad26048871ff,Pilihan Sambal Cocolan,0,1,0,True
+f0bc7cce-230a-4c68-aa80-fa607012f4e6,4b573007-c6bf-4f43-82c0-ad26048871ff,Tingkat Kematangan Goreng,1,1,10,True
+1e20992f-ca2a-4a85-aa85-adb754f2798d,4b9c274f-cef2-475f-a0ce-c57fe3c3d2cf,Pilihan Sambal Cocolan,0,1,0,True
+762a3506-97eb-49b5-adfc-656318df9d0c,4b9c274f-cef2-475f-a0ce-c57fe3c3d2cf,Porsi Tambahan,0,1,20,True
+f2bb4468-a3c3-4e96-a353-5a0f2edd4c3a,4c882d21-385d-472f-a43e-591a2ede9235,Tingkat Kemanisan,1,1,10,True
+b9c651e4-50b5-4772-a1ed-ba91bfcbd231,4ca8c94d-b6d0-477d-83df-da7860a8e38d,Level Kepedasan,1,1,0,True
+6fff3d32-0a37-433e-ac2c-4f026e002b94,4ca8c94d-b6d0-477d-83df-da7860a8e38d,Tambahan Topping,0,2,10,True
+6243c25f-60b4-4bd8-ad0d-9332aa8e39c4,4e599235-b822-4f58-8a7b-106f074a416f,Level Kepedasan,1,1,0,True
+8773f441-3877-4c3c-aef0-59973ab5a17f,4e599235-b822-4f58-8a7b-106f074a416f,Tambahan Topping,0,2,10,True
+bb762659-79e7-433c-ae50-fb83d4d869d1,503c1225-d8ea-4a85-ad0b-fac7cde75718,Tingkat Kemanisan,1,1,10,True
+a019c55e-feed-4b69-a3ec-931049cc23ec,503c1225-d8ea-4a85-ad0b-fac7cde75718,Pilihan Tambahan,0,1,20,True
+244b0631-61f6-4f72-a95f-7aea23f95083,51417f8a-027a-4f3b-9ea3-568822927959,Tingkat Pedas Sayuran,1,1,0,True
+e3a9ab51-d172-4917-a51c-b99481ba4ff3,51c86c72-3444-46c7-aa44-a8bcc9305e60,Pilihan Sambal Cocolan,0,1,0,True
+916e8464-22e4-43ef-a42c-2004c967cfb1,51c86c72-3444-46c7-aa44-a8bcc9305e60,Porsi Tambahan,0,1,20,True
+47a5da60-a3ba-4d79-ada1-bc31f217b2c4,53b35fe2-2a02-48b1-a328-2fe605155fc5,Pilihan Sambal Cocolan,0,1,0,True
+e57eb889-efb1-47e4-ac89-480cb5250926,544f9d48-ccf6-449b-a034-1762e352856c,Suhu Minuman,1,1,0,True
+06ba04e4-da8b-4f25-a8e0-465a57e3a8ef,544f9d48-ccf6-449b-a034-1762e352856c,Tingkat Kemanisan,1,1,10,True
+286e009c-188f-4a44-a727-ed3ec871b5ca,563c28d7-45dc-4831-a18d-16e239809776,Level Kepedasan,1,1,0,True
+f856cc4b-6540-4420-a918-117b6340dc7d,563c28d7-45dc-4831-a18d-16e239809776,Tambahan Topping,0,2,10,True
+01b8c8b7-d333-46c5-a32d-a8f64e0bd974,57d5bd20-6632-4041-9798-7b6542ac2f93,Pilihan Cocolan,0,1,0,True
+ccad56fd-3aa4-453c-ae3c-3ecd9a055ca2,5a95da19-773a-4147-bb91-c1cca3a63343,Level Kepedasan,1,1,0,True
+523bf058-617b-410d-aa12-22e6cf5babe2,5a95da19-773a-4147-bb91-c1cca3a63343,Tambahan Topping,0,2,10,True
+ce73d852-a1c0-46aa-acec-4d4baa2e1e24,5ac2c938-9450-4e40-936f-d9915bc27732,Suhu Minuman,1,1,0,True
+f7ef20e0-ca7b-4dcf-aa05-8944c027ddf2,5ac2c938-9450-4e40-936f-d9915bc27732,Tingkat Kemanisan,1,1,10,True
+43750611-c5a6-4581-a4a9-62e913f125e0,5b42c54f-33d9-46d4-86ac-55cd061feda2,Pilihan Sambal Cocolan,0,1,0,True
+44b3d589-feec-4402-aefc-430a7b17e2a9,5b42c54f-33d9-46d4-86ac-55cd061feda2,Porsi Tambahan,0,1,20,True
+50620aa9-d14b-453a-a73f-0a586cf3d201,5bc42b2d-8cb4-4aa0-b2c7-48173b0754d2,Tingkat Kemanisan,1,1,10,True
+2f0512ac-3a4f-4220-a1ea-bbe26bb9087f,5bc42b2d-8cb4-4aa0-b2c7-48173b0754d2,Pilihan Tambahan,0,1,20,True
+1888df86-23c1-4da5-ad7d-0d900ee01e0a,5d06e6a0-52e9-4fec-8cb1-0c1fd780d177,Level Pedas Saus,1,1,0,True
+f559decf-bc9b-4e43-a19e-213e21822366,5d06e6a0-52e9-4fec-8cb1-0c1fd780d177,Tambahan Topping Hotplate,0,2,10,True
+87db6818-ba3f-4c74-a7fd-1e776027e5c9,5d5651cd-aa9d-4f36-a01f-74bf8e6dd5f1,Pilihan Sambal Cocolan,0,1,0,True
+a45e75ec-5383-4738-a0e0-cafac03d7054,5d5651cd-aa9d-4f36-a01f-74bf8e6dd5f1,Porsi Tambahan,0,1,20,True
+c121e425-e6e8-4730-ac2d-cf9c72094254,5ec4773e-5be7-4943-ae35-32bd5e9bc10c,Tingkat Pedas Sayuran,1,1,0,True
+d1d6cd6d-a94d-4483-a7c2-afa366d16432,639c84f7-a381-4ddd-9499-89edf7a15e28,Pilihan Tambahan,0,1,20,True
+aaf52c6d-00ad-48b9-ab2a-661d4b8749b0,63d464ec-8f8c-4ab3-b7cf-789e90905c59,Pilihan Sambal Cocolan,0,1,0,True
+9e733e79-54bb-4b77-aeec-9f77fcc881f8,63d464ec-8f8c-4ab3-b7cf-789e90905c59,Porsi Tambahan,0,1,20,True
+450c79f6-dd0e-41ff-aa4f-9677b69b252d,65342196-62c5-4ded-8da1-cc6ca5b3a488,Pilihan Sambal Cocolan,0,1,0,True
+bdd1007f-3a15-496e-a066-f9e807bc375c,65342196-62c5-4ded-8da1-cc6ca5b3a488,Porsi Tambahan,0,1,20,True
+28250df5-ae4f-4255-a1d0-4bf272bafac1,6801e665-6a93-474b-872b-faa914c9f7b8,Pilihan Sambal Cocolan,0,1,0,True
+da89c556-b6da-4677-af4b-228dadd3b306,6801e665-6a93-474b-872b-faa914c9f7b8,Tingkat Kematangan Goreng,1,1,10,True
+29736c6d-ebf1-4e74-a2e4-ee183ab2db62,6801e665-6a93-474b-872b-faa914c9f7b8,Porsi Tambahan,0,1,20,True
+59f6baf8-2873-4418-a188-5bb0937d9eca,68526056-351b-45b0-9d14-7d35e1d635f5,Suhu Minuman,1,1,0,True
+1f45fd50-29ea-4c9f-a41f-a65b898efe3f,68526056-351b-45b0-9d14-7d35e1d635f5,Tingkat Kemanisan,1,1,10,True
+649a8cc2-c4cd-4118-acce-9e79470ebc3a,69251c40-645c-4fc3-859b-f8cfcd4e43c6,Pilihan Sambal Cocolan,0,1,0,True
+a44431ab-ce6c-4b28-af77-b6e6ffb1b4f6,69251c40-645c-4fc3-859b-f8cfcd4e43c6,Tingkat Kematangan Goreng,1,1,10,True
+135ae3b3-84c3-4a3e-af3d-a901302fcacd,69251c40-645c-4fc3-859b-f8cfcd4e43c6,Porsi Tambahan,0,1,20,True
+a921bc6c-cf94-4def-a4b1-27c3c377e2c9,6ac310f4-bbc8-4208-9d60-263430569215,Level Pedas Saus,1,1,0,True
+3cac1fae-95ab-4ac6-aa50-30ce593e8ced,6ac310f4-bbc8-4208-9d60-263430569215,Tambahan Topping Hotplate,0,2,10,True
+a866f592-efed-427b-ae9f-26ad12f781c5,6b3c0c15-35b3-48f9-9eea-2664a7b845ec,Pilihan Cocolan,0,1,0,True
+b3efaf24-aede-4fde-ac9e-e6b59481878f,6d21110f-9da1-45b1-91a6-c2b89eb0c858,Pilihan Sambal Cocolan,0,1,0,True
+72ef5641-cdbc-42c5-adc0-8352d1b7ed7d,6d21110f-9da1-45b1-91a6-c2b89eb0c858,Tingkat Kematangan Goreng,1,1,10,True
+5fddb4d0-d928-47e5-a4e7-c5bb03872212,6ffc3f65-0dcc-4ce0-b740-ab7db2f3eeb4,Suhu Minuman,1,1,0,True
+1e69343c-713a-4702-a30a-e1262bfc60a8,711ec08e-b238-4b2f-8338-8b1cafcac784,Pilihan Sambal Cocolan,0,1,0,True
+f0cd00f3-1789-46df-a06d-4d1e8f66647f,711ec08e-b238-4b2f-8338-8b1cafcac784,Porsi Tambahan,0,1,20,True
+85ef02d9-7c76-466d-a300-3095383fa2c9,71fe7fbe-72ae-4871-93c9-43bfac98c731,Suhu Minuman,1,1,0,True
+d50e7399-7940-47cc-a947-6caa82773ccb,71fe7fbe-72ae-4871-93c9-43bfac98c731,Tingkat Kemanisan,1,1,10,True
+f03acfe7-5381-40d5-a279-74fcd6e6d8b4,756326de-e25d-4cc5-b1de-1ea795abe848,Pilihan Tambahan,0,1,20,True
+e8882b00-eb8d-41d3-a189-f7bc13a75454,7678404d-2d2a-4fa5-b860-4cbfe3e1c8e4,Suhu Minuman,1,1,0,True
+4e3e8200-17e5-49e8-a211-d0fad34d9352,7678404d-2d2a-4fa5-b860-4cbfe3e1c8e4,Tingkat Kemanisan,1,1,10,True
+43b595e7-d4dd-4bc2-aa8b-7e34ea27d642,775cff41-353c-45e1-b4d0-3de2db7d64bd,Level Pedas Saus,1,1,0,True
+35442331-b8ca-4528-ab4c-97b278e2639d,775cff41-353c-45e1-b4d0-3de2db7d64bd,Tambahan Topping Hotplate,0,2,10,True
+0b60efa5-727c-4dcd-ac6e-b09ee12c6d1a,78d9c154-fa7c-4397-b8f7-65293c2d0f75,Level Pedas Saus,1,1,0,True
+f1ee4dff-3512-42de-a9f6-e196f1616ba2,78d9c154-fa7c-4397-b8f7-65293c2d0f75,Tambahan Topping Hotplate,0,2,10,True
+27d5a5a0-d7b3-4d55-a00f-3b91bc8e4e2e,7909339c-f1d5-4faf-857a-f58cb8261e40,Tingkat Pedas Sayuran,1,1,0,True
+35609c70-84d0-43bb-a170-62d7816b42ca,79fd991a-b444-402e-8be8-c0798999d3e2,Level Kepedasan,1,1,0,True
+08d566a4-6084-4595-a4a9-65e3235debed,79fd991a-b444-402e-8be8-c0798999d3e2,Tambahan Topping,0,2,10,True
+b2bf666f-9ff5-408b-a9ae-4fbaa4304189,7a297541-af99-42a5-aa5b-2c107a0a69b7,Level Kepedasan,1,1,0,True
+e1432e99-22b6-4000-ab0b-814d52e5b2de,7a297541-af99-42a5-aa5b-2c107a0a69b7,Tambahan Topping,0,2,10,True
+a059a2a2-01bf-48b0-acae-59a2053a2a41,7a384ddc-a262-45cc-9ce4-2265ed63644f,Level Pedas Saus,1,1,0,True
+4ab0e9fb-2d7d-47c5-a6f9-54190466022b,7a384ddc-a262-45cc-9ce4-2265ed63644f,Tambahan Topping Hotplate,0,2,10,True
+f3219f34-4148-455e-a9dc-0f09b7308723,7bb52067-a1dd-4c42-8ddf-9649f95229f4,Pilihan Sambal Cocolan,0,1,0,True
+61e6e77a-22e9-424c-a6ee-c5b1c7af7610,7bb52067-a1dd-4c42-8ddf-9649f95229f4,Tingkat Kematangan Goreng,1,1,10,True
+df4703a2-a6e9-4e17-a33e-be5732ba1480,7bb52067-a1dd-4c42-8ddf-9649f95229f4,Porsi Tambahan,0,1,20,True
+07ed2b52-6ed3-42d5-abde-e3eb813716bd,7c4c4669-3ac5-4764-8024-d8f1d243079c,Pilihan Sambal Meja,1,1,0,True
+35a1f6a9-91f3-49c1-aace-fef370e6c21a,7f5947b7-a73d-4400-bcac-2e590dbca46d,Pilihan Sambal Meja,1,1,0,True
+33b44f1e-7f11-465f-a50b-cccb33afa450,8002d577-e88b-4058-8554-3b5be580ae33,Pilihan Sambal Cocolan,0,1,0,True
+8976bf17-5536-4c82-aced-731f8b5ce14c,8002d577-e88b-4058-8554-3b5be580ae33,Porsi Tambahan,0,1,20,True
+3f6a4b61-f63d-41ec-a2ae-4a49de3b279e,803a6175-2601-4c8b-bd66-6d8cde909966,Level Pedas Saus,1,1,0,True
+7f6c4cc5-e583-4caa-a90e-185ff2be96ae,803a6175-2601-4c8b-bd66-6d8cde909966,Tambahan Topping Hotplate,0,2,10,True
+37542a37-3806-4f85-a56d-d11a3b096f03,80445b1e-abed-4d3b-aa07-43cf98cd277a,Level Kepedasan,1,1,0,True
+d072a068-f287-4ff8-ae79-8ed7eba02b2b,80445b1e-abed-4d3b-aa07-43cf98cd277a,Tambahan Topping,0,2,10,True
+29d11edc-eb7e-4124-a9d3-b5657e40a5f5,8242b72c-b3ba-47e0-834d-99cdc1f1eed3,Level Kepedasan,1,1,0,True
+4d187e89-9218-4a0a-a6c7-1a806f59c2f9,8242b72c-b3ba-47e0-834d-99cdc1f1eed3,Tambahan Topping,0,2,10,True
+8270c539-f0e6-4812-afa6-0ef86bd5e96b,8332e074-3c96-48ae-9ec7-ea64eccdde9f,Pilihan Sambal Cocolan,0,1,0,True
+01d7e5f7-dde2-4dc5-ada7-1750d439aa93,8332e074-3c96-48ae-9ec7-ea64eccdde9f,Porsi Tambahan,0,1,20,True
+e0ac481f-a2f1-4a04-a119-7f6650410cc5,83c6ca94-5dd5-47a7-adb6-87162133a553,Pilihan Sambal Cocolan,0,1,0,True
+b090d15e-df24-457b-a5a5-3291ec001c7b,83c6ca94-5dd5-47a7-adb6-87162133a553,Porsi Tambahan,0,1,20,True
+430b5a85-0932-4d05-a66f-71eca8c5009f,84e37309-72b1-4e36-99af-2bb5bf4d93fd,Tingkat Pedas Sayuran,1,1,0,True
+6715a173-46ca-4137-a623-242bfb62e63a,84f62100-e2c9-4490-b4d4-5f404e1a05ed,Pilihan Sambal Cocolan,0,1,0,True
+9b251977-c160-4c1d-a43c-259ea3cedbc8,860a0ac0-eb55-43b7-895b-4014d875dff8,Pilihan Sambal Cocolan,0,1,0,True
+2d58914b-9f6d-49cd-a2e0-0aedec2a9b7b,87da04ea-1f67-48c6-85fd-ed837f7212ec,Level Kepedasan,1,1,0,True
+b648eef9-c2f4-45cc-a01b-d79c2b4ab5cd,87da04ea-1f67-48c6-85fd-ed837f7212ec,Tambahan Topping,0,2,10,True
+7f99d848-961b-49c7-a6ab-5ed64991237a,8924346a-470b-455f-8e9c-945ba65a5aa3,Suhu Minuman,1,1,0,True
+f4735204-3da8-4c61-a34c-fe08ec5860eb,8924346a-470b-455f-8e9c-945ba65a5aa3,Tingkat Kemanisan,1,1,10,True
+fbc04c6c-fd2b-4e02-ab8a-712a9319b68c,89668082-935e-4a7b-b150-1e69231dff5d,Level Kepedasan,1,1,0,True
+f50cf306-c178-47eb-a385-657c9e941f16,89668082-935e-4a7b-b150-1e69231dff5d,Tambahan Topping,0,2,10,True
+bace0140-3d7e-4c06-ace9-ef9f1fd048af,8badc3c2-0f89-49c8-bed7-1d89b5721f74,Pilihan Tambahan,0,1,20,True
+cbfc798a-3d42-4c4d-abe0-12824ef87ef8,8fc37134-b2a2-4680-adbe-8e2863517f01,Level Kepedasan,1,1,0,True
+1be4b978-5c2f-4f6a-a73d-ba249882e3f5,8fc37134-b2a2-4680-adbe-8e2863517f01,Tambahan Topping,0,2,10,True
+0a8a191f-5ebe-459a-a0b7-e2181e608b3a,90d9637e-bb2f-4616-b151-049bff9ec9d7,Pilihan Sambal Cocolan,0,1,0,True
+58ab55f0-a56e-4c73-a714-c0cf53ac42b1,90d9637e-bb2f-4616-b151-049bff9ec9d7,Porsi Tambahan,0,1,20,True
+56f407f5-d659-482c-a791-b2c59b7295df,92643b19-81e2-42d4-ba88-06797214c646,Suhu Minuman,1,1,0,True
+ab640324-328a-458d-ab8d-08a8808e9f40,92643b19-81e2-42d4-ba88-06797214c646,Tingkat Kemanisan,1,1,10,True
+936d3198-0daf-4ff2-a0a1-3d6fff4e09cd,931c3090-2d5d-4824-ac3e-f5fc9f92bf3a,Tingkat Pedas Sayuran,1,1,0,True
+f00ef1a4-75f2-49c5-a76e-cedaefec7a2b,9546a5fa-231c-420d-a529-7efb26c0473c,Suhu Minuman,1,1,0,True
+4ea7ac51-5073-4bc3-aa47-51b4d24a1722,9546a5fa-231c-420d-a529-7efb26c0473c,Tingkat Kemanisan,1,1,10,True
+a3ea5ec8-72cf-4de5-a006-ebb2eb09106d,95af1cfa-f9ae-46d5-99f3-6f991f4d051f,Level Kepedasan,1,1,0,True
+be92f4c0-5032-472e-a6d2-89ebd7545161,95af1cfa-f9ae-46d5-99f3-6f991f4d051f,Tambahan Topping,0,2,10,True
+e1599a19-1156-4738-a99c-8ac2ce04d3b5,9828191b-6706-4740-bc2c-4933c88cb818,Pilihan Sambal Cocolan,0,1,0,True
+996bf6fe-ab1b-4284-a8b6-556eb640e2be,9828191b-6706-4740-bc2c-4933c88cb818,Porsi Tambahan,0,1,20,True
+f6775afd-3649-4282-aa57-c1ec65436926,98d64307-91a5-4573-90f8-06758a585fae,Level Kepedasan,1,1,0,True
+c29f2601-bad1-4f7f-af8f-340c7584883f,98d64307-91a5-4573-90f8-06758a585fae,Tambahan Topping,0,2,10,True
+fc7ef12a-55dc-46b9-a904-24bd67ee9338,9b5ecec8-47ed-4e16-8fc3-14d1b48b78eb,Level Kepedasan,1,1,0,True
+3ce443e6-1f15-4994-a941-819560baa6ec,9b5ecec8-47ed-4e16-8fc3-14d1b48b78eb,Tambahan Topping,0,2,10,True
+5034fbd7-19a7-4936-afc5-54238e1fd247,9ce7174a-5887-4890-bffb-dec7d8c034c7,Pilihan Sambal Cocolan,0,1,0,True
+06a36ffe-f11e-4891-a0fe-9248db692ce0,9ce7174a-5887-4890-bffb-dec7d8c034c7,Tingkat Kematangan Goreng,1,1,10,True
+6bef4981-7e6f-448a-a5c0-51a151941f79,9ce7174a-5887-4890-bffb-dec7d8c034c7,Porsi Tambahan,0,1,20,True
+e3f2f043-5662-4fbf-a9ca-8d4dccb5cae6,a204a82c-8b94-4140-a7a6-d41b86b8c90d,Pilihan Sambal Cocolan,0,1,0,True
+41e3be82-701b-43bc-a68c-bd32652442bc,a204a82c-8b94-4140-a7a6-d41b86b8c90d,Tingkat Kematangan Goreng,1,1,10,True
+f67520c6-bb38-4df8-a278-8abae5b85705,a3986af4-1e58-4029-9fe0-5a3253910c73,Tingkat Pedas Sayuran,1,1,0,True
+9ee3b75d-86cb-430c-a4b1-bd9bcc8775a1,a440bec7-8fd7-449b-91d1-14e7756a1a49,Tingkat Kemanisan,1,1,10,True
+8b6bf7a2-1422-4c5b-ad6f-29fd0c76d282,a440bec7-8fd7-449b-91d1-14e7756a1a49,Pilihan Tambahan,0,1,20,True
+492d82a4-22fa-4e7a-afda-61213f6bce02,a524431a-93e7-47ff-8587-bd58082d0e33,Pilihan Sambal Cocolan,0,1,0,True
+853638dd-913f-4e4a-a46e-e5fc21884b9b,a524431a-93e7-47ff-8587-bd58082d0e33,Tingkat Kematangan Goreng,1,1,10,True
+23bef9c2-045f-4af6-a0b6-7c463fcb213c,a524431a-93e7-47ff-8587-bd58082d0e33,Porsi Tambahan,0,1,20,True
+26d965bd-714c-40dd-ae38-55f27c807a59,a564749d-26a0-4fa9-9da3-f7ed9f408270,Pilihan Sambal Cocolan,0,1,0,True
+a33424d3-7f53-4ac8-a58f-560849eec397,a564749d-26a0-4fa9-9da3-f7ed9f408270,Porsi Tambahan,0,1,20,True
+e3a82fc4-0aa4-4d0a-ad9a-4f11b5ff707a,a5a5e583-9265-4783-857e-febd0e15d087,Level Kepedasan,1,1,0,True
+29eba7dc-9e65-4299-abfa-e13df6fdc310,a5a5e583-9265-4783-857e-febd0e15d087,Tambahan Topping,0,2,10,True
+4b6e16e7-7f96-4e3d-a1e1-69fc2af693a1,a77b3fd3-30ae-46cc-bdfd-e9b85672704d,Pilihan Sambal Meja,1,1,0,True
+95611dbf-c34c-4fc0-ab9b-51e89d4db630,a82ed45e-f89d-40a3-802f-65fd093b2696,Pilihan Sambal Cocolan,0,1,0,True
+44c1d6c3-eb53-451a-abf8-219ddb9999be,a82ed45e-f89d-40a3-802f-65fd093b2696,Porsi Tambahan,0,1,20,True
+919072e6-a076-4021-ae95-8d02ce9a0840,aa66dff0-a92c-4c73-b8e9-411e55d0cf84,Pilihan Cocolan,0,1,0,True
+9973f22e-653d-4ef5-a9b4-404d2848abb5,ab713d14-d74d-4a84-85aa-df6fdedbe02a,Suhu Minuman,1,1,0,True
+405871b3-d90e-4456-a3f6-823f08577e92,ab713d14-d74d-4a84-85aa-df6fdedbe02a,Tingkat Kemanisan,1,1,10,True
+723d71f2-af78-4529-af9a-82e825c646a8,adafa777-0e52-4a0b-a6f2-0cb0c69bd265,Level Kepedasan,1,1,0,True
+6ed4eb03-ccb8-4bc7-a7cd-a9405e20114c,adafa777-0e52-4a0b-a6f2-0cb0c69bd265,Tambahan Topping,0,2,10,True
+83590272-0206-4a3e-a826-f13b0f4ade33,b04ab154-94a6-4fc1-9a56-75c7f14db21d,Pilihan Sambal Cocolan,0,1,0,True
+eb1e351d-2247-4f57-a28b-89c32a2f443d,b39364b5-6534-4af7-b7de-ce97f6f85215,Pilihan Cocolan,0,1,0,True
+6861cae1-f01c-4cb5-acbd-f6096cf31a95,b4fb620f-9a5a-4892-90aa-82dd438556f9,Pilihan Cocolan,0,1,0,True
+81408371-9778-47dd-a15a-33f87932c87e,b7d0f02d-7d81-466c-95c7-294712e2e4ac,Level Kepedasan,1,1,0,True
+85f78f85-beaf-47f1-a555-42be1a492d63,b7d0f02d-7d81-466c-95c7-294712e2e4ac,Tambahan Topping,0,2,10,True
+eda0fff6-de74-47fa-a07c-3b91178e6ba6,b8f68daf-61ae-488e-b228-d4245e8359bc,Pilihan Sambal Cocolan,0,1,0,True
+c7ebb116-7726-4628-a002-55127d73e30e,ba698291-5745-4902-85db-ceaeac28e82f,Tingkat Pedas Sayuran,1,1,0,True
+3d2429db-fa51-4838-a430-3528762feae0,bee4487c-f05d-4b19-bcfb-ce18402752ae,Suhu Minuman,1,1,0,True
+8751fbdd-855a-442b-a653-2390b6706553,bee4487c-f05d-4b19-bcfb-ce18402752ae,Tingkat Kemanisan,1,1,10,True
+52e0312a-bae5-43b5-adf0-e78b159ae5c0,bef6299b-55ca-4671-9533-a18685c7e416,Level Kepedasan,1,1,0,True
+e2e44ab3-8e4a-4602-a7dc-8c94e32f8bfe,bef6299b-55ca-4671-9533-a18685c7e416,Tambahan Topping,0,2,10,True
+2679f3d7-fc26-45de-a8f4-bd95c4358069,c065f798-1539-4cba-afa1-1c5108df1c99,Pilihan Sambal Cocolan,0,1,0,True
+2a2c4978-6a63-48a4-ae66-2155066b4c09,c065f798-1539-4cba-afa1-1c5108df1c99,Porsi Tambahan,0,1,20,True
+43577a8f-421d-4db1-a385-41f8c63764dc,c2986900-2a07-4e48-be4c-841f11d14675,Pilihan Sambal Cocolan,0,1,0,True
+a1348b68-0ace-4b2f-ac33-84510b1b8c37,c2986900-2a07-4e48-be4c-841f11d14675,Porsi Tambahan,0,1,20,True
+f96f7d0d-748f-4080-aeb6-ae9300468e4d,c4cc677f-3375-4c15-bff7-8c4b0ce0926b,Pilihan Sambal Cocolan,0,1,0,True
+af9dfa98-851c-4f7e-aaf0-191c2ed096e8,c4cc677f-3375-4c15-bff7-8c4b0ce0926b,Porsi Tambahan,0,1,20,True
+91072cda-ecb3-4613-a365-b27722f7cb2f,c5ba99c7-409b-4915-a40f-ab880a5f2d0e,Pilihan Sambal Cocolan,0,1,0,True
+a1f524df-98fe-4079-a5a5-e7586330341d,c5ba99c7-409b-4915-a40f-ab880a5f2d0e,Porsi Tambahan,0,1,20,True
+b31dfa25-5547-4838-aedb-2895155ce888,c67ebee7-f0c4-4bee-bed7-97f5d3f39717,Pilihan Sambal Cocolan,0,1,0,True
+a6903a11-502e-45a9-a12a-d3dc6d1efbae,c67ebee7-f0c4-4bee-bed7-97f5d3f39717,Porsi Tambahan,0,1,20,True
+e8f37293-6e59-4b2e-ad37-d0c7504f18f8,c70c87c3-b105-46f5-b61a-5692032d691e,Suhu Minuman,1,1,0,True
+ca693a97-e595-4825-af4a-4faeaea04f5a,c70c87c3-b105-46f5-b61a-5692032d691e,Tingkat Kemanisan,1,1,10,True
+cad3f850-f468-49a3-ad69-41d6147cc4aa,c85b6118-3c5d-45c3-8b90-71a3cacfe940,Pilihan Sambal Cocolan,0,1,0,True
+15a8205f-bd7a-48a8-a948-62ba1a8c31c9,c85b6118-3c5d-45c3-8b90-71a3cacfe940,Tingkat Kematangan Goreng,1,1,10,True
+0ad23814-8831-4164-a307-64dc7fba263f,c85b6118-3c5d-45c3-8b90-71a3cacfe940,Porsi Tambahan,0,1,20,True
+c4620f93-c085-4fcf-a14d-85f74fbf2ea7,c99e7b98-a060-45d0-89a4-c321d6ef7a58,Pilihan Sambal Cocolan,0,1,0,True
+0644dd3d-9f32-4635-a815-e8d628d5a946,c99e7b98-a060-45d0-89a4-c321d6ef7a58,Porsi Tambahan,0,1,20,True
+b2b0258a-cfde-4e20-acec-2e4fdcb708f7,ca1162a0-3cc5-4626-94e7-1fd89b36b15a,Pilihan Sambal Cocolan,0,1,0,True
+4139dad8-7a1a-4927-a94e-94e04ce33783,ca1162a0-3cc5-4626-94e7-1fd89b36b15a,Tingkat Kematangan Goreng,1,1,10,True
+dd3847ae-337b-4575-a8bc-186bc574b9dc,ca1162a0-3cc5-4626-94e7-1fd89b36b15a,Porsi Tambahan,0,1,20,True
+f2b339cc-eab3-4e71-aa7c-602a6514ab14,cd0bed4e-ece2-4abf-bf6f-d3c69f4ffb0f,Level Kepedasan,1,1,0,True
+40b9c9d3-5059-4c93-aa0c-39525ace3f26,cd0bed4e-ece2-4abf-bf6f-d3c69f4ffb0f,Tambahan Topping,0,2,10,True
+dbcffe6b-bf61-467c-ae74-0a6d0634b34b,d2a11f2d-b27c-4866-ac53-febafeeec9ac,Tingkat Kemanisan,1,1,10,True
+334e6f85-8d84-48ab-a1b9-aa3c0c4eb672,d2a11f2d-b27c-4866-ac53-febafeeec9ac,Pilihan Tambahan,0,1,20,True
+6c7dacb3-ae89-4c44-a859-7e47bdea5816,d325cd0a-8d83-40d3-a936-9382b88b24f9,Tingkat Kemanisan,1,1,10,True
+109c176f-4a8d-42ba-a003-b6dbc6025e51,d325cd0a-8d83-40d3-a936-9382b88b24f9,Pilihan Tambahan,0,1,20,True
+118a382d-67c0-40ba-a8b2-a7082eb384b3,d48e4d4f-f233-43fc-9c50-5e1032989303,Pilihan Sambal Cocolan,0,1,0,True
+c923392e-f3e9-4a84-a8d1-5ce7c08e05e8,d48e4d4f-f233-43fc-9c50-5e1032989303,Tingkat Kematangan Goreng,1,1,10,True
+b7d22815-1466-41a6-aa3e-5bc6ebbeef69,d9008bbc-7e9b-4c49-a4f2-b1774f5e973c,Level Kepedasan,1,1,0,True
+65890554-b09b-44b2-ab67-8b6879cb7106,d9008bbc-7e9b-4c49-a4f2-b1774f5e973c,Tambahan Topping,0,2,10,True
+a54f3715-e18c-4f90-a3b7-1cb6f4470981,d9780239-70a4-46e6-bf86-14b0a2053d77,Pilihan Sambal Cocolan,0,1,0,True
+8f079151-281e-42f4-ac1d-1aa40b933e46,da873d12-1a41-4ca4-8a8f-2eff49624f58,Pilihan Sambal Meja,1,1,0,True
+b366fb97-642f-48b5-a5b3-cb917c6d6990,dc3a2376-af24-47af-8bed-cd14e6ce6357,Level Pedas Saus,1,1,0,True
+e09c7dd1-e674-4075-abb2-f8ac2ca5c16d,dc3a2376-af24-47af-8bed-cd14e6ce6357,Tambahan Topping Hotplate,0,2,10,True
+73991f4f-c78f-4970-a2aa-17d859546266,de340682-7313-4d08-b0d1-d5302570f133,Pilihan Sambal Cocolan,0,1,0,True
+9321ee2c-237d-4b82-a50d-86796a931569,de340682-7313-4d08-b0d1-d5302570f133,Tingkat Kematangan Goreng,1,1,10,True
+fa2a68c9-76ba-4458-aea3-10c41da23da2,de340682-7313-4d08-b0d1-d5302570f133,Porsi Tambahan,0,1,20,True
+78daf1df-58e4-4eb3-a24b-09addc9ba09d,de47b13c-848d-410c-a086-f09e58e27d2b,Level Pedas Saus,1,1,0,True
+986bdd75-95d8-4b8d-ae6e-7b1ba6893b83,de47b13c-848d-410c-a086-f09e58e27d2b,Tambahan Topping Hotplate,0,2,10,True
+6a73438f-4ffb-45de-abac-8bb747958fea,dfd30ff5-1e62-43eb-914a-20d5c312320f,Level Kepedasan,1,1,0,True
+56b23e44-f781-443c-a48a-80e9ee24b7a3,dfd30ff5-1e62-43eb-914a-20d5c312320f,Tambahan Topping,0,2,10,True
+cae4c4ae-bf38-4125-a832-3c4764581cac,e0bd3d95-6c42-426e-98f5-a22a1b81b717,Pilihan Sambal Cocolan,0,1,0,True
+e1a05f9f-8a72-4d9f-a87f-2b5cdfea7abc,e0bd3d95-6c42-426e-98f5-a22a1b81b717,Porsi Tambahan,0,1,20,True
+47c8cccf-c52c-41b0-ae83-d9e18890c2e1,e4a10042-bf4d-4123-a9f8-488e19811371,Pilihan Sambal Cocolan,0,1,0,True
+1fdf8ff8-cb23-4298-ad5e-4a273ccb2a6d,e4a10042-bf4d-4123-a9f8-488e19811371,Porsi Tambahan,0,1,20,True
+74411027-590a-43b1-af1d-7d2e5838cd78,e585b1d1-1faf-4804-b442-29a7453626a1,Suhu Minuman,1,1,0,True
+1716406c-0865-420c-a514-9745ae373b64,e585b1d1-1faf-4804-b442-29a7453626a1,Tingkat Kemanisan,1,1,10,True
+e9473371-6a95-493b-a981-e43bca523d4b,e5b7e976-f55f-4cef-a257-1ff6859aec45,Suhu Minuman,1,1,0,True
+ea315745-86fc-40a5-af9b-8c4c3069b98f,e5b7e976-f55f-4cef-a257-1ff6859aec45,Tingkat Kemanisan,1,1,10,True
+44c58ded-c746-4732-a47b-c8ddfd15e54a,e67305db-ee29-4cb4-853f-634713ec89de,Tingkat Pedas Sayuran,1,1,0,True
+49ccd59a-d528-4019-a716-64da2b18d217,e86e0d91-54a5-4df6-9443-9d84716ebc94,Level Kepedasan,1,1,0,True
+a17c251b-f693-48e5-a2f1-3997a67507a1,e86e0d91-54a5-4df6-9443-9d84716ebc94,Tambahan Topping,0,2,10,True
+76204589-8ac7-4493-ad65-60783e8295bb,e89505d2-b372-4dc7-9daa-895c6f52328e,Tambahan Topping Manis,0,3,0,True
+27b940ee-8749-4faa-aad6-ad8bac7103cd,eabf2d88-7b37-4b9e-b29c-47fef849e07c,Level Kepedasan,1,1,0,True
+6ef84672-0264-45bd-aca0-c3702b8b806a,eabf2d88-7b37-4b9e-b29c-47fef849e07c,Tambahan Topping,0,2,10,True
+e908b005-dcf0-49ac-a8bd-bed0421520e4,eb0ba1ca-c9f7-41a0-aea3-93037c3f46ca,Level Kepedasan,1,1,0,True
+7780f145-b684-438f-a4f8-4d4bf5009518,eb0ba1ca-c9f7-41a0-aea3-93037c3f46ca,Tambahan Topping,0,2,10,True
+312e9af4-820e-42ce-ad52-e5dadf143ccc,ec820f3a-8aa3-498b-80cc-cb4b1d5289e9,Suhu Minuman,1,1,0,True
+825b94e3-b4c5-4253-ab0c-97818e0d2733,ec820f3a-8aa3-498b-80cc-cb4b1d5289e9,Tingkat Kemanisan,1,1,10,True
+5b4fdc94-ff0a-4198-ac17-5b29962973e7,f25ff139-e3f2-4a54-af32-43db036c7cef,Pilihan Sambal Cocolan,0,1,0,True
+263e6fe8-9424-4616-aaa4-ecb39b963ebc,f63a90db-6604-4bb2-89c4-76fd7293541d,Level Kepedasan,1,1,0,True
+27f5d29d-dd20-4ac8-a611-5db5fedd48a6,f63a90db-6604-4bb2-89c4-76fd7293541d,Tambahan Topping,0,2,10,True
+1d55d3e6-6ec9-47cc-ac00-0e648c1c57a3,f88977c9-762c-4c18-bc20-3dc048cb8d41,Tambahan Topping Manis,0,3,0,True
+4560db4e-f6b7-431c-aaa0-262ffba88976,f920da58-ead0-4bfa-a3d8-8c7e720fba54,Pilihan Cocolan,0,1,0,True
+20c48d53-ed81-4faa-a201-58b65c5ffdce,f98385ca-512d-4a16-9610-c3ece0f5d7fe,Pilihan Sambal Cocolan,0,1,0,True
+cf0f7036-7c04-4eb4-aaef-50d5dd33e3ca,f98385ca-512d-4a16-9610-c3ece0f5d7fe,Tingkat Kematangan Goreng,1,1,10,True
+9ce5aff7-3c8f-4cc5-ac67-7a806503c45d,f98385ca-512d-4a16-9610-c3ece0f5d7fe,Porsi Tambahan,0,1,20,True
+20adc9d2-1493-4a91-a3a9-17ac5a72ffef,fcb00898-7525-4e13-8467-4c7a2e86dde1,Level Kepedasan,1,1,0,True
+55a23da2-9027-4208-acd9-24ed7f7e50dc,fcb00898-7525-4e13-8467-4c7a2e86dde1,Tambahan Topping,0,2,10,True
+609bf8c9-2295-484b-a205-913124048944,fdd06c38-b8fd-4e15-ac45-cde3cd3e0bfe,Pilihan Sambal Cocolan,0,1,0,True
+112a4e51-adc2-4785-a3fa-c2a713c85483,fdd06c38-b8fd-4e15-ac45-cde3cd3e0bfe,Tingkat Kematangan Goreng,1,1,10,True

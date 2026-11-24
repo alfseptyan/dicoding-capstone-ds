@@ -160,15 +160,31 @@ Dievaluasi pada **546 kalimat unik** setelah pembersihan & penghapusan 448 dupli
 
 ---
 
-## 8. Cara Menjalankan Pipeline Data Science
+## 8. Struktur Folder Dataset per Modul (Kode A s.d. Kode E) untuk Developer
+
+Agar tim Developer (**Full-Stack** & **Gen AI Engineer**) dapat langsung mengambil dataset yang dibutuhkan sesuai tabel spesifikasi modul tanpa harus mencari di satu folder bercampur, seluruh dataset telah dikelompokkan berdasarkan **Kode Modul (A s.d. E)** di dalam folder [`data/modules/`](data/modules/):
+
+| Kode | Nama Folder di `data/modules/` | Jenis & Tempat Dipakai | Prioritas | File Dataset Utama di Dalam Folder |
+| :---: | :--- | :--- | :---: | :--- |
+| **A** | **[`kode_A_forecasting_permintaan_dan_kebutuhan_bahan/`](data/modules/kode_A_forecasting_permintaan_dan_kebutuhan_bahan/)** | **Forecasting / Regresi**<br>*(Dashboard Pemilik, Warehouse)* | **Wajib** | • `daily_ingredient_usage_timeseries.csv` *(Pemakaian harian 106 bahan)*<br>• `daily_menu_demand_timeseries.csv` *(Penjualan porsi harian per menu)*<br>• `ingredients_clean.csv` & `recipes_bom_clean.csv`<br>• `orders_clean.csv` & `order_items_clean.csv`<br>• `forecast_7_hari.csv` & `saran_stok.csv`<br>• `ringkasan_rata_rata_lipatan.csv` & `evaluasi_semua_lipatan.csv` |
+| **B** | **[`kode_B_rekomendasi_menu_item_to_item/`](data/modules/kode_B_rekomendasi_menu_item_to_item/)** | **Recommender Item-to-Item**<br>*(Halaman QR Pelanggan)* | **Wajib** | • `menu_top_recommendations.csv` *(Top-5 rekomendasi per menu, 985 baris)*<br>• `menu_cooccurrence_pairs.csv` *(4.168 pasangan Cosine + Lift)*<br>• `recommender_baskets_train.csv` (80%) & `recommender_baskets_test.csv` (20%)<br>• `menu_items_clean.csv` & `order_items_clean.csv`<br>• `evaluasi_recommender_3_metode.csv` |
+| **C** | **[`kode_C_chatbot_menu_rag/`](data/modules/kode_C_chatbot_menu_rag/)** | **Gen AI / RAG Knowledge Base**<br>*(Halaman QR, Kanal Chat)* | **Wajib** | • `chatbot_rag_knowledge_chunks.csv` *(202 dokumen RAG: info resto, jam buka, fasilitas, katalog, komposisi BOM, & tag alergen)*<br>• `menu_items_clean.csv` *(199 menu)*<br>• `menu_option_groups.csv` (307 grup) & `menu_option_choices.csv` (809 opsi)<br>• `menu_top_recommendations.csv`<br>• `chatbot_context_snapshot.json` |
+| **D** | **[`kode_D_klasifikasi_intent_chatbot/`](data/modules/kode_D_klasifikasi_intent_chatbot/)** | **Klasifikasi Teks (5 Kelas)**<br>*(Router Chatbot)* | **Nilai Tambah** | • `intent_dataset_clean.csv` *(546 kalimat unik bersih: `pemesanan`, `tanya_menu`, `info_resto`, `keluhan`, `lainnya`)*<br>• `intent_train.csv` (436 baris — 80%) & `intent_test.csv` (110 baris — 20%)<br>• `intent_raw.csv` *(994 kalimat mentah sebelum deduplikasi)*<br>• `evaluasi_intent_4_metode.csv` |
+| **E** | **[`kode_E_analisis_sentimen_ulasan/`](data/modules/kode_E_analisis_sentimen_ulasan/)** | **Klasifikasi Teks (Sentimen)**<br>*(Dashboard Pemilik)* | **Nilai Tambah** | • `reviews_clean.csv` *(2.000 ulasan pelanggan berbahasa Indonesia)*<br>• `reviews_independent_handwritten_test_100.csv` *(100 kalimat uji tulisan tangan: normal & sulit/negasi)*<br>• `reviews_v2_prediksi.csv` *(Hasil prediksi Out-of-Fold 5-Fold CV + skor)*<br>• `evaluasi_sentimen_7_metode.csv` |
+
+---
+
+## 9. Cara Menjalankan Pipeline Data Science
 
 ```powershell
 cd "c:\Kerjaan Septyan\STUDI INDEPENDEN\Output\dicoding-capstone-ds"
 py -3.12 scripts/run_ds_pipeline.py
+py -3.12 scripts/build_module_b_and_d.py
+py -3.12 scripts/organize_datasets_by_module.py
 ```
 
 Perintah di atas akan:
 1. Mengaudit seluruh dataset mentah di `data/raw/`.
-2. Menghasilkan dataset bersih siap pakai di `data/processed/` (`menu_items_clean.csv`, `ingredients_clean.csv`, `recipes_bom_clean.csv`, `orders_clean.csv`, `reviews_clean.csv`).
-3. Menjalankan *Data Quality Verification Gate* (`assert` konsistensi finansial & *anti-leakage chronological split*).
+2. Menghasilkan dataset bersih siap pakai di `data/processed/` dan mengelompokkannya ke dalam 5 folder modul di `data/modules/kode_A_*` s.d. `kode_E_*`.
+3. Menjalankan *Data Quality Verification Gate* (`assert` konsistensi finansial & *anti-leakage chronological/stratified split*).
 4. Menyimpan laporan evaluasi JSON di `data/processed/ds_evaluation_summary.json`.

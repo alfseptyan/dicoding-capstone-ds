@@ -1,0 +1,5 @@
+model,cv_5fold_macro_f1,test_accuracy,test_macro_precision,test_macro_recall,test_macro_f1
+"M2 Kandidat 1: Word TF-IDF (1,2) + Logistic Regression (balanced)",0.9917,1.0,1.0,1.0,1.0
+"M3 Kandidat 2: Word TF-IDF (1,2) + Calibrated LinearSVM",0.9917,1.0,1.0,1.0,1.0
+M4 Kandidat 3 (Winner): Hybrid Word+Char TF-IDF + Logistic Regression,0.9891,1.0,1.0,1.0,1.0
+"M1 Baseline: Word TF-IDF (1,2) + Multinomial Naive Bayes",0.9829,0.9818,0.9845,0.9777,0.9806

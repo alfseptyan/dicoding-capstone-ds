@@ -1,0 +1,107 @@
+tenant_id,ingredient_id,ingredient_name,category,base_unit,minimum_stock,shelf_life_days,reference_unit_cost_idr,allergen_tags,data_origin
+BBR001,ING001,Ayam Potong (Paha/Dada),protein,gram,800,2,36,,primary_validated
+BBR001,ING002,Ayam Fillet Dada,protein,gram,1700,2,42,,primary_validated
+BBR001,ING003,Daging Sapi Slice,protein,gram,500,3,120,,primary_validated
+BBR001,ING004,Udang,protein,gram,500,2,75,udang;krustasea,primary_validated
+BBR001,ING005,Cumi,protein,gram,500,2,70,cumi;moluska,primary_validated
+BBR001,ING006,Kerang Hijau,protein,gram,500,2,22,kerang;moluska,primary_validated
+BBR001,ING007,Ikan Dori Fillet,protein,gram,500,2,40,ikan,primary_validated
+BBR001,ING008,Ikan Gurame,protein,gram,1000,2,40,ikan,primary_validated
+BBR001,ING009,Ikan Nila,protein,gram,500,2,28,ikan,primary_validated
+BBR001,ING010,Ikan Lele,protein,gram,500,2,24,ikan,primary_validated
+BBR001,ING011,Ikan Teri,protein,gram,500,180,100,ikan,primary_validated
+BBR001,ING012,Telur Ayam,protein,piece,25,21,2100,telur,primary_validated
+BBR001,ING013,Sosis Ayam,protein,piece,10,30,1800,,primary_validated
+BBR001,ING014,Tahu Putih,protein,piece,10,2,900,kedelai,primary_validated
+BBR001,ING015,Tempe,protein,gram,500,3,20,kedelai,primary_validated
+BBR001,ING016,Beras,karbohidrat,gram,2500,180,14,,primary_validated
+BBR001,ING017,Mie Telur Basah,karbohidrat,gram,900,2,18,gluten;telur,primary_validated
+BBR001,ING018,Mie Instan,karbohidrat,piece,10,270,3200,gluten,primary_validated
+BBR001,ING019,Kwetiau Basah,karbohidrat,gram,700,2,18,,primary_validated
+BBR001,ING020,Bihun Kering,karbohidrat,gram,500,365,30,,primary_validated
+BBR001,ING021,Spaghetti Kering,karbohidrat,gram,500,365,25,gluten,primary_validated
+BBR001,ING022,Kentang Beku,karbohidrat,gram,500,180,32,,primary_validated
+BBR001,ING023,Singkong,karbohidrat,gram,500,4,8,,primary_validated
+BBR001,ING024,Pisang,karbohidrat,gram,500,4,12,,primary_validated
+BBR001,ING025,Tepung Terigu,karbohidrat,gram,500,180,12,gluten,primary_validated
+BBR001,ING026,Tepung Bumbu Crispy,karbohidrat,gram,500,180,28,gluten,primary_validated
+BBR001,ING027,Tepung Ketan,karbohidrat,gram,500,180,18,,primary_validated
+BBR001,ING028,Kerupuk Mentah,karbohidrat,piece,10,180,300,,primary_validated
+BBR001,ING029,Sawi Hijau,sayur_buah,gram,900,4,12,,primary_validated
+BBR001,ING030,Kol,sayur_buah,gram,500,5,10,,primary_validated
+BBR001,ING031,Wortel,sayur_buah,gram,500,7,14,,primary_validated
+BBR001,ING032,Kangkung,sayur_buah,gram,500,2,10,,primary_validated
+BBR001,ING033,Kacang Panjang,sayur_buah,gram,500,3,15,,primary_validated
+BBR001,ING034,Tauge,sayur_buah,gram,500,2,12,,primary_validated
+BBR001,ING035,Tomat,sayur_buah,gram,500,5,15,,primary_validated
+BBR001,ING036,Timun,sayur_buah,gram,500,5,10,,primary_validated
+BBR001,ING037,Labu Siam,sayur_buah,gram,500,7,10,,primary_validated
+BBR001,ING038,Jagung Manis Pipil,sayur_buah,gram,500,4,15,,primary_validated
+BBR001,ING039,Bawang Merah,sayur_buah,gram,500,21,40,,primary_validated
+BBR001,ING040,Bawang Putih,sayur_buah,gram,500,21,38,,primary_validated
+BBR001,ING041,Bawang Bombay,sayur_buah,gram,500,21,25,,primary_validated
+BBR001,ING042,Cabai Merah,sayur_buah,gram,500,4,45,,primary_validated
+BBR001,ING043,Cabai Rawit,sayur_buah,gram,500,4,60,,primary_validated
+BBR001,ING044,Cabai Hijau,sayur_buah,gram,500,4,32,,primary_validated
+BBR001,ING045,Jahe,sayur_buah,gram,500,14,25,,primary_validated
+BBR001,ING046,Daun Bawang,sayur_buah,gram,500,4,25,,primary_validated
+BBR001,ING047,Jamur Tiram,sayur_buah,gram,500,3,30,,primary_validated
+BBR001,ING048,Kelapa Parut,sayur_buah,gram,500,2,15,,primary_validated
+BBR001,ING049,Lalapan Segar Mix,sayur_buah,gram,600,2,15,,primary_validated
+BBR001,ING050,Jeruk Nipis,sayur_buah,gram,500,10,25,,primary_validated
+BBR001,ING051,Lemon,sayur_buah,gram,500,10,50,,primary_validated
+BBR001,ING052,Jeruk Peras,sayur_buah,gram,500,10,18,,primary_validated
+BBR001,ING053,Alpukat,sayur_buah,gram,500,3,30,,primary_validated
+BBR001,ING054,Buah Naga,sayur_buah,gram,500,5,22,,primary_validated
+BBR001,ING055,Jambu Biji,sayur_buah,gram,500,4,18,,primary_validated
+BBR001,ING056,Mangga,sayur_buah,gram,500,4,22,,primary_validated
+BBR001,ING057,Melon,sayur_buah,gram,500,5,12,,primary_validated
+BBR001,ING058,Sirsak,sayur_buah,gram,500,3,40,,primary_validated
+BBR001,ING059,Strawberry,sayur_buah,gram,500,5,50,,primary_validated
+BBR001,ING060,Apel,sayur_buah,gram,500,14,35,,primary_validated
+BBR001,ING061,Lychee Kaleng,sayur_buah,gram,500,365,60,,primary_validated
+BBR001,ING062,Minyak Goreng,bumbu_saus,milliliter,1300,365,18,,primary_validated
+BBR001,ING063,Mentega/Margarin,bumbu_saus,gram,500,120,30,susu,primary_validated
+BBR001,ING064,Kecap Manis,bumbu_saus,milliliter,500,365,23,kedelai,primary_validated
+BBR001,ING065,Saus Tomat,bumbu_saus,milliliter,500,365,18,,primary_validated
+BBR001,ING066,Saus Sambal,bumbu_saus,milliliter,500,365,20,,primary_validated
+BBR001,ING067,Saus Tiram,bumbu_saus,milliliter,500,365,35,kedelai;moluska,primary_validated
+BBR001,ING068,Saus Teriyaki,bumbu_saus,milliliter,500,365,30,kedelai;gluten,primary_validated
+BBR001,ING069,Saus Blackpepper,bumbu_saus,milliliter,500,180,30,,primary_validated
+BBR001,ING070,Saus BBQ,bumbu_saus,milliliter,500,365,30,,primary_validated
+BBR001,ING071,Saus Asam Manis,bumbu_saus,milliliter,500,180,25,,primary_validated
+BBR001,ING072,Saus Salted Egg,bumbu_saus,gram,500,60,70,telur;susu,primary_validated
+BBR001,ING073,Saus Signature Hotplate,bumbu_saus,milliliter,500,60,35,,primary_validated
+BBR001,ING074,Keju Cheddar,bumbu_saus,gram,500,60,80,susu,primary_validated
+BBR001,ING075,Madu,bumbu_saus,milliliter,1000,365,100,,primary_validated
+BBR001,ING076,Gula Pasir,bumbu_saus,gram,500,365,17,,primary_validated
+BBR001,ING077,Gula Merah,bumbu_saus,gram,500,365,25,,primary_validated
+BBR001,ING078,Garam,bumbu_saus,gram,500,365,8,,primary_validated
+BBR001,ING079,Merica Bubuk,bumbu_saus,gram,500,365,160,,primary_validated
+BBR001,ING080,Kaldu Bubuk,bumbu_saus,gram,500,365,60,,primary_validated
+BBR001,ING081,Terasi,bumbu_saus,gram,500,180,100,udang,primary_validated
+BBR001,ING082,Santan,bumbu_saus,milliliter,500,3,20,,primary_validated
+BBR001,ING083,Asam Jawa,bumbu_saus,gram,500,365,30,,primary_validated
+BBR001,ING084,Bumbu Dasar Soto,bumbu_saus,gram,500,3,45,,primary_validated
+BBR001,ING085,Bumbu Dasar Kuning,bumbu_saus,gram,500,3,40,,primary_validated
+BBR001,ING086,Bumbu Acar,bumbu_saus,gram,1000,3,50,,primary_validated
+BBR001,ING087,Bumbu Bali,bumbu_saus,gram,1000,3,55,,primary_validated
+BBR001,ING088,Kacang Tanah,bumbu_saus,gram,500,180,40,kacang,primary_validated
+BBR001,ING089,Teh Celup,minuman_pelengkap,piece,15,365,450,,primary_validated
+BBR001,ING090,Kopi Bubuk,minuman_pelengkap,gram,500,180,120,,primary_validated
+BBR001,ING091,Susu UHT,minuman_pelengkap,milliliter,500,120,18,susu,primary_validated
+BBR001,ING092,Susu Kental Manis,minuman_pelengkap,gram,500,365,30,susu,primary_validated
+BBR001,ING093,Coklat Bubuk,minuman_pelengkap,gram,500,365,90,,primary_validated
+BBR001,ING094,Coklat Meses,minuman_pelengkap,gram,500,180,90,,primary_validated
+BBR001,ING095,Gula Cair,minuman_pelengkap,milliliter,500,60,20,,primary_validated
+BBR001,ING096,Sirup Rasa,minuman_pelengkap,milliliter,500,365,25,,primary_validated
+BBR001,ING097,Soda Water,minuman_pelengkap,milliliter,500,180,9,,primary_validated
+BBR001,ING098,Es Batu,minuman_pelengkap,gram,1900,1,1,,primary_validated
+BBR001,ING099,Air Minum Isi Ulang,minuman_pelengkap,milliliter,500,1,0,,primary_validated
+BBR001,ING100,Sprite 250 ml,minuman_pelengkap,piece,10,365,3000,,primary_validated
+BBR001,ING101,Air Mineral Botol,minuman_pelengkap,piece,10,365,1800,,primary_validated
+BBR001,ING102,Cup Minum + Tutup,kemasan,piece,50,730,600,,primary_validated
+BBR001,ING103,Mika Kecil,kemasan,piece,50,730,700,,primary_validated
+BBR001,ING104,Mika Tanggung,kemasan,piece,50,730,1100,,primary_validated
+BBR001,ING105,Mika Besar,kemasan,piece,50,730,1500,,primary_validated
+BBR001,ING106,Sterofoam,kemasan,piece,50,730,800,,primary_validated

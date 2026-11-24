@@ -1,0 +1,405 @@
+tenant_id,order_id,ordered_at,basket_size,menu_ids,menu_names,categories
+BBR001,ORD001840,2026-09-26 21:53:08,2,M0133;M0177,Nila Bumbu Acar | Sprite 250 ml,Nila;Soda
+BBR001,ORD001841,2026-09-27 10:16:55,2,M0126;M0049,Nasi Goreng Teri | Jeruk,Nasi Goreng;Minuman Standar
+BBR001,ORD001843,2026-09-27 11:28:04,2,M0050;M0002,Jeruk 1/2 Jumbo | Air Putih Gelas,Minuman Jumbo;Minuman Standar
+BBR001,ORD001844,2026-09-27 11:28:41,2,M0003;M0001,Ayam Bakar Tok | Air Mineral Botol,Alacarte;Minuman Standar
+BBR001,ORD001845,2026-09-27 11:30:01,3,M0009;M0049;M0066,Bihun Goreng Sapi Spesial BP | Jeruk | Kerupuk,Bihun;Minuman Standar;Snack
+BBR001,ORD001847,2026-09-27 13:01:26,3,M0038;M0059;M0168,Gurame Bakar Pedas | Juice Mangga | Sayur Lodeh,Gurame;Juice;Sayuran
+BBR001,ORD001848,2026-09-27 13:24:54,2,M0009;M0061,Bihun Goreng Sapi Spesial BP | Juice Sirsak,Bihun;Juice
+BBR001,ORD001849,2026-09-27 13:38:55,1,M0092,Lemon Tea Jumbo,Minuman Jumbo
+BBR001,ORD001850,2026-09-27 13:51:30,3,M0003;M0182;M0006,Ayam Bakar Tok | Susu Putih/Coklat | Bakwan Sayur,Alacarte;Minuman Standar;Snack
+BBR001,ORD001851,2026-09-27 13:59:37,2,M0040;M0062,Gurame Bumbu Acar | Juice Strawbery,Gurame;Juice
+BBR001,ORD001852,2026-09-27 14:34:43,1,M0008,Bihun Goreng Ayam Spesial BP,Bihun
+BBR001,ORD001853,2026-09-27 15:02:49,3,M0086;M0003;M0185,Lele Cabe Ijo | Ayam Bakar Tok | Teh,Lele;Alacarte;Minuman Standar
+BBR001,ORD001854,2026-09-27 15:09:04,2,M0096;M0181,Mie Goreng Ayam | Susu Jahe,Mie;Minuman Standar
+BBR001,ORD001855,2026-09-27 17:12:00,2,M0037;M0052,Gurame Bakar Manis | Jeruk Nipis,Gurame;Minuman Standar
+BBR001,ORD001856,2026-09-27 17:58:25,4,M0003;M0132;M0059;M0155,Ayam Bakar Tok | Nila Bakar Spesial | Juice Mangga | Pisang Goreng Ori,Alacarte;Nila;Juice;Snack
+BBR001,ORD001857,2026-09-27 18:30:41,4,M0008;M0079;M0175;M0017,Bihun Goreng Ayam Spesial BP | Kwetiau Siram Ayam Spesial Blackpepper | Soda Susu | Cha Kangkung,Bihun;Kwetiau;Soda;Sayuran
+BBR001,ORD001859,2026-09-27 19:02:24,4,M0040;M0003;M0062;M0167,Gurame Bumbu Acar | Ayam Bakar Tok | Juice Strawbery | Sayur Asem,Gurame;Alacarte;Juice;Sayuran
+BBR001,ORD001860,2026-09-27 19:03:20,2,M0053;M0047,Jeruk Nipis | Healthy Juice,Makanan;Juice
+BBR001,ORD001861,2026-09-27 19:03:53,3,M0007;M0055;M0016,Bihun Goreng Ayam | Juice Alpukat | Cap Cay Spesial Banyu Bening,Bihun;Juice;Sayuran
+BBR001,ORD001862,2026-09-27 19:14:19,4,M0004;M0007;M0174;M0017,Ayam Goreng Kremezz Tok | Bihun Goreng Ayam | Soda Gembira | Cha Kangkung,Alacarte;Bihun;Soda;Sayuran
+BBR001,ORD001864,2026-09-27 19:25:45,2,M0009;M0049,Bihun Goreng Sapi Spesial BP | Jeruk,Bihun;Minuman Standar
+BBR001,ORD001865,2026-09-27 19:29:41,3,M0007;M0029;M0016,Bihun Goreng Ayam | Es Sirup | Cap Cay Spesial Banyu Bening,Bihun;Minuman Standar;Sayuran
+BBR001,ORD001866,2026-09-27 20:41:30,4,M0038;M0004;M0056;M0067,Gurame Bakar Pedas | Ayam Goreng Kremezz Tok | Juice Buah Naga | Kerupuk Prasmanan,Gurame;Alacarte;Juice;Snack
+BBR001,ORD001867,2026-09-27 21:18:19,3,M0036;M0132;M0029,Gurame Bakar Madu | Nila Bakar Spesial | Es Sirup,Gurame;Nila;Minuman Standar
+BBR001,ORD001868,2026-09-27 21:24:05,3,M0003;M0041;M0001,Ayam Bakar Tok | Gurame Bumbu Bali | Air Mineral Botol,Alacarte;Gurame;Minuman Standar
+BBR001,ORD001869,2026-09-27 21:54:12,3,M0013;M0054;M0022,Bihun Siram Ayam Spesial BP | Jeruk Teko | Crispy Chicken Tok,Bihun;Minuman Teko;Snack
+BBR001,ORD001870,2026-09-28 11:06:59,2,M0004;M0094,Ayam Goreng Kremezz Tok | Lychee Tea,Alacarte;Minuman Standar
+BBR001,ORD001871,2026-09-28 12:32:58,1,M0003,Ayam Bakar Tok,Alacarte
+BBR001,ORD001872,2026-09-28 13:53:55,4,M0041;M0003;M0185;M0158,Gurame Bumbu Bali | Ayam Bakar Tok | Teh | Sambal Kecap,Gurame;Alacarte;Minuman Standar;Sambal
+BBR001,ORD001873,2026-09-28 14:31:34,2,M0003;M0017,Ayam Bakar Tok | Cha Kangkung,Alacarte;Sayuran
+BBR001,ORD001874,2026-09-28 16:38:13,3,M0148;M0007;M0185,Paket Lele | Bihun Goreng Ayam | Teh,Paket Personal;Bihun;Minuman Standar
+BBR001,ORD001875,2026-09-28 16:56:07,3,M0105;M0175;M0156,Mie Siram Sapi Spesial Blackpepper | Soda Susu | Sambal Bawang,Mie;Soda;Sambal
+BBR001,ORD001876,2026-09-28 18:26:10,3,M0004;M0002;M0017,Ayam Goreng Kremezz Tok | Air Putih Gelas | Cha Kangkung,Alacarte;Minuman Standar;Sayuran
+BBR001,ORD001877,2026-09-28 19:04:38,3,M0008;M0047;M0160,Bihun Goreng Ayam Spesial BP | Healthy Juice | Sambal Tomat,Bihun;Juice;Sambal
+BBR001,ORD001878,2026-09-28 19:18:32,3,M0114;M0185;M0194,Nasi Ayam Ori Bp Spesial BB | Teh | Tempe Penyet,Aneka Nasi;Minuman Standar;Snack
+BBR001,ORD001879,2026-09-28 19:57:42,4,M0033;M0012;M0093;M0156,Fuyung Hai Spesial BB | Bihun Kuah Seafood | Lime Squash | Sambal Bawang,Alacarte;Bihun;Soda;Sambal
+BBR001,ORD001880,2026-09-29 11:14:50,2,M0126;M0095,Nasi Goreng Teri | Mendoan,Nasi Goreng;Snack
+BBR001,ORD001881,2026-09-29 12:05:53,2,M0136;M0185,Nila Goreng | Teh,Nila;Minuman Standar
+BBR001,ORD001882,2026-09-29 12:06:33,3,M0003;M0009;M0001,Ayam Bakar Tok | Bihun Goreng Sapi Spesial BP | Air Mineral Botol,Alacarte;Bihun;Minuman Standar
+BBR001,ORD001883,2026-09-29 12:44:24,3,M0003;M0001;M0005,Ayam Bakar Tok | Air Mineral Botol | Bakwan Jagung,Alacarte;Minuman Standar;Snack
+BBR001,ORD001884,2026-09-29 12:50:54,2,M0003;M0029,Ayam Bakar Tok | Es Sirup,Alacarte;Minuman Standar
+BBR001,ORD001885,2026-09-29 16:39:39,1,M0123,Nasi Goreng Sig. Beef Hotplate,Nasi Goreng
+BBR001,ORD001886,2026-09-29 17:27:12,3,M0014;M0059;M0066,Bihun Siram Ayam Spesial Teriyaki | Juice Mangga | Kerupuk,Bihun;Juice;Snack
+BBR001,ORD001887,2026-09-29 18:03:39,2,M0097;M0056,Mie Goreng Ayam Spesial BP Hotplate | Juice Buah Naga,Mie;Juice
+BBR001,ORD001888,2026-09-29 18:06:05,3,M0011;M0124;M0185,Bihun Kuah Ayam | Nasi Goreng Sosis | Teh,Bihun;Nasi Goreng;Minuman Standar
+BBR001,ORD001889,2026-09-29 18:32:40,2,M0136;M0181,Nila Goreng | Susu Jahe,Nila;Minuman Standar
+BBR001,ORD001891,2026-09-29 19:27:05,4,M0180;M0042;M0182;M0017,Sup Nila | Gurame Cabe Ijo | Susu Putih/Coklat | Cha Kangkung,Nila;Gurame;Minuman Standar;Sayuran
+BBR001,ORD001892,2026-09-29 19:38:15,3,M0003;M0010;M0002,Ayam Bakar Tok | Bihun Goreng Seafood | Air Putih Gelas,Alacarte;Bihun;Minuman Standar
+BBR001,ORD001893,2026-09-29 19:55:24,2,M0020;M0057,Crispy Chicken Rice Hotplate | Juice Jambu,Hotplate;Juice
+BBR001,ORD001894,2026-09-30 11:07:32,2,M0004;M0057,Ayam Goreng Kremezz Tok | Juice Jambu,Alacarte;Juice
+BBR001,ORD001895,2026-09-30 11:16:30,4,M0003;M0100;M0029;M0005,Ayam Bakar Tok | Mie Goreng Seafood | Es Sirup | Bakwan Jagung,Alacarte;Mie;Minuman Standar;Snack
+BBR001,ORD001896,2026-09-30 12:00:59,3,M0011;M0054;M0066,Bihun Kuah Ayam | Jeruk Teko | Kerupuk,Bihun;Minuman Teko;Snack
+BBR001,ORD001897,2026-09-30 12:13:02,2,M0004;M0002,Ayam Goreng Kremezz Tok | Air Putih Gelas,Alacarte;Minuman Standar
+BBR001,ORD001900,2026-09-30 12:59:13,3,M0008;M0058;M0017,Bihun Goreng Ayam Spesial BP | Juice Jeruk | Cha Kangkung,Bihun;Juice;Sayuran
+BBR001,ORD001901,2026-09-30 13:38:46,2,M0008;M0058,Bihun Goreng Ayam Spesial BP | Juice Jeruk,Bihun;Juice
+BBR001,ORD001902,2026-09-30 14:52:17,3,M0026;M0007;M0072,Cumi Asam Manis | Bihun Goreng Ayam | Kopi Susu Spesial Mix,Alacarte;Bihun;Minuman Standar
+BBR001,ORD001903,2026-09-30 14:56:36,2,M0018;M0082,Crispy Chicken indomie Hotplate | Lalap Sambal Krupuk,Hotplate;Sayuran
+BBR001,ORD001904,2026-09-30 19:22:57,3,M0003;M0002;M0005,Ayam Bakar Tok | Air Putih Gelas | Bakwan Jagung,Alacarte;Minuman Standar;Snack
+BBR001,ORD001905,2026-09-30 20:32:09,2,M0019;M0189,Crispy Chicken Pasta Hotplate | Teh Tarik,Hotplate;Minuman Standar
+BBR001,ORD001906,2026-09-30 20:52:26,2,M0007;M0068,Bihun Goreng Ayam | Kopi Hitam,Bihun;Minuman Standar
+BBR001,ORD001908,2026-09-30 21:27:41,3,M0010;M0052;M0032,Bihun Goreng Seafood | Jeruk Nipis | French Fries,Bihun;Minuman Standar;Snack
+BBR001,ORD001909,2026-10-01 10:20:53,1,M0077,Kwetiau Kuah Ayam,Kwetiau
+BBR001,ORD001910,2026-10-01 11:47:22,3,M0096;M0199;M0174,Mie Goreng Ayam | Udang Asam Pedas | Soda Gembira,Mie;Alacarte;Soda
+BBR001,ORD001911,2026-10-01 12:02:06,4,M0007;M0009;M0068;M0016,Bihun Goreng Ayam | Bihun Goreng Sapi Spesial BP | Kopi Hitam | Cap Cay Spesial Banyu Bening,Bihun;Bihun;Minuman Standar;Sayuran
+BBR001,ORD001912,2026-10-01 12:18:00,3,M0086;M0073;M0058,Lele Cabe Ijo | Kwetiau Goreng Ayam | Juice Jeruk,Lele;Kwetiau;Juice
+BBR001,ORD001913,2026-10-01 13:46:03,2,M0084;M0071,Lele Bakar Manis | Kopi Hitam Teko,Lele;Minuman Teko
+BBR001,ORD001914,2026-10-01 14:32:19,4,M0004;M0103;M0002;M0006,Ayam Goreng Kremezz Tok | Mie Siram Ayam Spesial Blackpepper | Air Putih Gelas | Bakwan Sayur,Alacarte;Mie;Minuman Standar;Snack
+BBR001,ORD001915,2026-10-01 15:51:02,2,M0003;M0002,Ayam Bakar Tok | Air Putih Gelas,Alacarte;Minuman Standar
+BBR001,ORD001916,2026-10-01 18:20:23,2,M0003;M0001,Ayam Bakar Tok | Air Mineral Botol,Alacarte;Minuman Standar
+BBR001,ORD001917,2026-10-01 18:27:12,3,M0009;M0012;M0190,Bihun Goreng Sapi Spesial BP | Bihun Kuah Seafood | Teh Teko,Bihun;Bihun;Minuman Teko
+BBR001,ORD001918,2026-10-01 18:40:08,2,M0007;M0068,Bihun Goreng Ayam | Kopi Hitam,Bihun;Minuman Standar
+BBR001,ORD001919,2026-10-01 19:07:26,3,M0140;M0003;M0029,Paket Ayam Bakar | Ayam Bakar Tok | Es Sirup,Paket Personal;Alacarte;Minuman Standar
+BBR001,ORD001920,2026-10-01 19:20:24,3,M0004;M0182;M0006,Ayam Goreng Kremezz Tok | Susu Putih/Coklat | Bakwan Sayur,Alacarte;Minuman Standar;Snack
+BBR001,ORD001921,2026-10-01 19:37:10,3,M0013;M0185;M0034,Bihun Siram Ayam Spesial BP | Teh | Gemblong Cotot,Bihun;Minuman Standar;Snack
+BBR001,ORD001922,2026-10-02 12:01:26,4,M0073;M0007;M0056;M0016,Kwetiau Goreng Ayam | Bihun Goreng Ayam | Juice Buah Naga | Cap Cay Spesial Banyu Bening,Kwetiau;Bihun;Juice;Sayuran
+BBR001,ORD001923,2026-10-02 12:44:13,1,M0126,Nasi Goreng Teri,Nasi Goreng
+BBR001,ORD001924,2026-10-02 13:20:37,2,M0040;M0181,Gurame Bumbu Acar | Susu Jahe,Gurame;Minuman Standar
+BBR001,ORD001925,2026-10-02 13:26:43,3,M0091;M0003;M0056,Lemon Tea 1/2 Jumbo | Ayam Bakar Tok | Juice Buah Naga,Minuman Jumbo;Alacarte;Juice
+BBR001,ORD001926,2026-10-02 14:30:11,4,M0139;M0077;M0190;M0005,Paket Asik | Kwetiau Kuah Ayam | Teh Teko | Bakwan Jagung,Paket Ber 5;Kwetiau;Minuman Teko;Snack
+BBR001,ORD001927,2026-10-02 14:31:51,4,M0087;M0019;M0093;M0109,Lele Goreng | Crispy Chicken Pasta Hotplate | Lime Squash | Mix Platter,Lele;Hotplate;Soda;Snack
+BBR001,ORD001929,2026-10-02 15:41:22,2,M0150;M0058,Paket Nila | Juice Jeruk,Paket Personal;Juice
+BBR001,ORD001930,2026-10-02 17:28:37,2,M0069;M0054,Kopi Hitam 1/2 Jumbo | Jeruk Teko,Minuman Jumbo;Minuman Teko
+BBR001,ORD001931,2026-10-02 18:23:53,2,M0021;M0197,Crispy Chicken Salted Egg Hotplate | Tumis Kangkung,Hotplate;Sayuran
+BBR001,ORD001932,2026-10-02 18:47:04,4,M0004;M0114;M0057;M0117,Ayam Goreng Kremezz Tok | Nasi Ayam Ori Bp Spesial BB | Juice Jambu | Nasi Bakul Tanggung,Alacarte;Aneka Nasi;Juice;Snack
+BBR001,ORD001933,2026-10-02 19:43:31,4,M0003;M0008;M0001;M0154,Ayam Bakar Tok | Bihun Goreng Ayam Spesial BP | Air Mineral Botol | Pisang Goreng Coklat,Alacarte;Bihun;Minuman Standar;Snack
+BBR001,ORD001936,2026-10-02 21:27:25,2,M0004;M0049,Ayam Goreng Kremezz Tok | Jeruk,Alacarte;Minuman Standar
+BBR001,ORD001937,2026-10-03 12:11:32,3,M0003;M0149;M0001,Ayam Bakar Tok | Paket Nagih | Air Mineral Botol,Alacarte;Paket Ber 5;Minuman Standar
+BBR001,ORD001938,2026-10-03 12:23:17,2,M0044;M0189,Gurame Goreng | Teh Tarik,Gurame;Minuman Standar
+BBR001,ORD001939,2026-10-03 12:52:33,4,M0098;M0009;M0093;M0157,Mie Goreng Chezzy Chicken Hotplate | Bihun Goreng Sapi Spesial BP | Lime Squash | Sambal Ijo,Mie;Bihun;Soda;Sambal
+BBR001,ORD001940,2026-10-03 12:54:01,3,M0014;M0047;M0066,Bihun Siram Ayam Spesial Teriyaki | Healthy Juice | Kerupuk,Bihun;Juice;Snack
+BBR001,ORD001941,2026-10-03 14:35:36,3,M0081;M0023;M0054,Kwetiau Siram Sapi Spesial Blackpepper | Crispy Cumi Rice Hotplate | Jeruk Teko,Kwetiau;Hotplate;Minuman Teko
+BBR001,ORD001942,2026-10-03 14:55:39,3,M0198;M0189;M0196,Udang Asam Manis | Teh Tarik | Trancam,Alacarte;Minuman Standar;Sayuran
+BBR001,ORD001943,2026-10-03 15:13:45,3,M0020;M0061;M0173,Crispy Chicken Rice Hotplate | Juice Sirsak | Singkong Keju,Hotplate;Juice;Snack
+BBR001,ORD001944,2026-10-03 17:58:20,2,M0003;M0005,Ayam Bakar Tok | Bakwan Jagung,Alacarte;Snack
+BBR001,ORD001945,2026-10-03 18:47:20,2,M0040;M0062,Gurame Bumbu Acar | Juice Strawbery,Gurame;Juice
+BBR001,ORD001946,2026-10-03 19:22:32,1,M0008,Bihun Goreng Ayam Spesial BP,Bihun
+BBR001,ORD001947,2026-10-03 19:29:34,3,M0010;M0023;M0183,Bihun Goreng Seafood | Crispy Cumi Rice Hotplate | Tahu Goreng,Bihun;Hotplate;Snack
+BBR001,ORD001948,2026-10-03 19:42:11,2,M0020;M0061,Crispy Chicken Rice Hotplate | Juice Sirsak,Hotplate;Juice
+BBR001,ORD001949,2026-10-03 20:30:19,3,M0100;M0189;M0066,Mie Goreng Seafood | Teh Tarik | Kerupuk,Mie;Minuman Standar;Snack
+BBR001,ORD001950,2026-10-03 21:21:30,2,M0004;M0002,Ayam Goreng Kremezz Tok | Air Putih Gelas,Alacarte;Minuman Standar
+BBR001,ORD001951,2026-10-04 12:22:23,4,M0003;M0008;M0001;M0083,Ayam Bakar Tok | Bihun Goreng Ayam Spesial BP | Air Mineral Botol | Lalapan,Alacarte;Bihun;Minuman Standar;Sayuran
+BBR001,ORD001952,2026-10-04 13:03:53,3,M0009;M0049;M0195,Bihun Goreng Sapi Spesial BP | Jeruk | Timus,Bihun;Minuman Standar;Snack
+BBR001,ORD001953,2026-10-04 13:12:08,2,M0051;M0068,Jeruk Jumbo | Kopi Hitam,Minuman Jumbo;Minuman Standar
+BBR001,ORD001954,2026-10-04 13:39:38,3,M0003;M0001;M0160,Ayam Bakar Tok | Air Mineral Botol | Sambal Tomat,Alacarte;Minuman Standar;Sambal
+BBR001,ORD001955,2026-10-04 14:56:03,3,M0069;M0190;M0017,Kopi Hitam 1/2 Jumbo | Teh Teko | Cha Kangkung,Minuman Jumbo;Minuman Teko;Sayuran
+BBR001,ORD001956,2026-10-04 16:35:10,2,M0015;M0058,Bihun Siram Sapi Spesial BP | Juice Jeruk,Bihun;Juice
+BBR001,ORD001957,2026-10-04 18:10:52,2,M0003;M0063,Ayam Bakar Tok | Juice Tomat,Alacarte;Juice
+BBR001,ORD001958,2026-10-04 18:16:25,2,M0130;M0094,Nila Bakar Manis | Lychee Tea,Nila;Minuman Standar
+BBR001,ORD001959,2026-10-04 18:41:07,2,M0008;M0072,Bihun Goreng Ayam Spesial BP | Kopi Susu Spesial Mix,Bihun;Minuman Standar
+BBR001,ORD001960,2026-10-04 19:33:01,3,M0019;M0077;M0054,Crispy Chicken Pasta Hotplate | Kwetiau Kuah Ayam | Jeruk Teko,Hotplate;Kwetiau;Minuman Teko
+BBR001,ORD001961,2026-10-04 19:33:06,4,M0040;M0172;M0181;M0109,Gurame Bumbu Acar | Sig. Chicken Rice Hotplate | Susu Jahe | Mix Platter,Gurame;Hotplate;Minuman Standar;Snack
+BBR001,ORD001962,2026-10-04 19:48:47,4,M0007;M0110;M0055;M0196,Bihun Goreng Ayam | Nasi Ayam Bakar | Juice Alpukat | Trancam,Bihun;Aneka Nasi;Juice;Sayuran
+BBR001,ORD001963,2026-10-05 11:01:16,2,M0009;M0061,Bihun Goreng Sapi Spesial BP | Juice Sirsak,Bihun;Juice
+BBR001,ORD001964,2026-10-05 14:06:29,3,M0113;M0056;M0193,Nasi Ayam Goreng Kremez | Juice Buah Naga | Tempe Goreng,Aneka Nasi;Juice;Snack
+BBR001,ORD001965,2026-10-05 14:46:14,3,M0027;M0063;M0155,Cumi Asam Pedas | Juice Tomat | Pisang Goreng Ori,Alacarte;Juice;Snack
+BBR001,ORD001966,2026-10-05 15:20:53,2,M0020;M0010,Crispy Chicken Rice Hotplate | Bihun Goreng Seafood,Hotplate;Bihun
+BBR001,ORD001967,2026-10-05 20:28:35,2,M0007;M0055,Bihun Goreng Ayam | Juice Alpukat,Bihun;Juice
+BBR001,ORD001968,2026-10-05 20:35:33,2,M0007;M0029,Bihun Goreng Ayam | Es Sirup,Bihun;Minuman Standar
+BBR001,ORD001969,2026-10-05 20:41:15,2,M0169;M0093,Sig. Beef Pasta Hotplate | Lime Squash,Hotplate;Soda
+BBR001,ORD001970,2026-10-05 20:55:43,3,M0069;M0185;M0005,Kopi Hitam 1/2 Jumbo | Teh | Bakwan Jagung,Minuman Jumbo;Minuman Standar;Snack
+BBR001,ORD001971,2026-10-06 10:53:20,3,M0003;M0098;M0017,Ayam Bakar Tok | Mie Goreng Chezzy Chicken Hotplate | Cha Kangkung,Alacarte;Mie;Sayuran
+BBR001,ORD001972,2026-10-06 11:23:57,3,M0008;M0047;M0035,Bihun Goreng Ayam Spesial BP | Healthy Juice | Gudangan,Bihun;Juice;Sayuran
+BBR001,ORD001973,2026-10-06 11:36:24,3,M0003;M0029;M0017,Ayam Bakar Tok | Es Sirup | Cha Kangkung,Alacarte;Minuman Standar;Sayuran
+BBR001,ORD001974,2026-10-06 12:47:06,1,M0011,Bihun Kuah Ayam,Bihun
+BBR001,ORD001975,2026-10-06 13:16:25,2,M0087;M0190,Lele Goreng | Teh Teko,Lele;Minuman Teko
+BBR001,ORD001976,2026-10-06 13:45:55,3,M0025;M0071;M0127,Crispy Udang Rice Hotplate | Kopi Hitam Teko | Nasi Putih,Hotplate;Minuman Teko;Snack
+BBR001,ORD001977,2026-10-06 14:21:35,3,M0004;M0013;M0002,Ayam Goreng Kremezz Tok | Bihun Siram Ayam Spesial BP | Air Putih Gelas,Alacarte;Bihun;Minuman Standar
+BBR001,ORD001978,2026-10-06 14:44:30,2,M0105;M0067,Mie Siram Sapi Spesial Blackpepper | Kerupuk Prasmanan,Mie;Snack
+BBR001,ORD001979,2026-10-06 17:00:02,3,M0013;M0007;M0056,Bihun Siram Ayam Spesial BP | Bihun Goreng Ayam | Juice Buah Naga,Bihun;Bihun;Juice
+BBR001,ORD001980,2026-10-06 17:41:50,2,M0077;M0060,Kwetiau Kuah Ayam | Juice Melon,Kwetiau;Juice
+BBR001,ORD001981,2026-10-06 17:45:53,1,M0021,Crispy Chicken Salted Egg Hotplate,Hotplate
+BBR001,ORD001982,2026-10-06 18:29:23,4,M0011;M0008;M0090;M0191,Bihun Kuah Ayam | Bihun Goreng Ayam Spesial BP | Lemon Tea | Telur Ceplok,Bihun;Bihun;Minuman Standar;Snack
+BBR001,ORD001983,2026-10-06 20:11:01,3,M0092;M0063;M0154,Lemon Tea Jumbo | Juice Tomat | Pisang Goreng Coklat,Minuman Jumbo;Juice;Snack
+BBR001,ORD001984,2026-10-06 21:23:41,3,M0003;M0001;M0006,Ayam Bakar Tok | Air Mineral Botol | Bakwan Sayur,Alacarte;Minuman Standar;Snack
+BBR001,ORD001985,2026-10-07 11:10:22,3,M0025;M0071;M0127,Crispy Udang Rice Hotplate | Kopi Hitam Teko | Nasi Putih,Hotplate;Minuman Teko;Snack
+BBR001,ORD001986,2026-10-07 11:24:23,2,M0098;M0190,Mie Goreng Chezzy Chicken Hotplate | Teh Teko,Mie;Minuman Teko
+BBR001,ORD001988,2026-10-07 15:36:13,2,M0044;M0090,Gurame Goreng | Lemon Tea,Gurame;Minuman Standar
+BBR001,ORD001989,2026-10-07 17:17:54,2,M0074;M0043,Kwetiau Goreng Ayam Spesial BP | Gurame Crispy Fillet,Kwetiau;Gurame
+BBR001,ORD001990,2026-10-07 20:35:43,3,M0149;M0057;M0156,Paket Nagih | Juice Jambu | Sambal Bawang,Paket Ber 5;Juice;Sambal
+BBR001,ORD001991,2026-10-08 10:02:27,1,M0018,Crispy Chicken indomie Hotplate,Hotplate
+BBR001,ORD001993,2026-10-08 12:28:24,1,M0003,Ayam Bakar Tok,Alacarte
+BBR001,ORD001994,2026-10-08 13:41:04,2,M0014;M0052,Bihun Siram Ayam Spesial Teriyaki | Jeruk Nipis,Bihun;Minuman Standar
+BBR001,ORD001995,2026-10-08 14:28:07,3,M0130;M0094;M0082,Nila Bakar Manis | Lychee Tea | Lalap Sambal Krupuk,Nila;Minuman Standar;Sayuran
+BBR001,ORD001996,2026-10-08 19:38:00,2,M0010;M0052,Bihun Goreng Seafood | Jeruk Nipis,Bihun;Minuman Standar
+BBR001,ORD001997,2026-10-08 20:31:28,3,M0064;M0049;M0196,Kerang Asam Manis | Jeruk | Trancam,Alacarte;Minuman Standar;Sayuran
+BBR001,ORD001998,2026-10-09 10:16:57,3,M0134;M0062;M0016,Nila Bumbu Bali | Juice Strawbery | Cap Cay Spesial Banyu Bening,Nila;Juice;Sayuran
+BBR001,ORD001999,2026-10-09 12:04:59,2,M0122;M0189,Nasi Goreng Seafood | Teh Tarik,Nasi Goreng;Minuman Standar
+BBR001,ORD002000,2026-10-09 13:08:00,3,M0134;M0062;M0167,Nila Bumbu Bali | Juice Strawbery | Sayur Asem,Nila;Juice;Sayuran
+BBR001,ORD002001,2026-10-09 13:21:38,3,M0119;M0019;M0059,Nasi Goreng Banyu Bening Hotplate | Crispy Chicken Pasta Hotplate | Juice Mangga,Nasi Goreng;Hotplate;Juice
+BBR001,ORD002002,2026-10-09 13:57:17,3,M0099;M0188;M0048,Mie Goreng Sapi Spesial BP Hotplate | Teh Kampul | Jamur Crispy,Mie;Minuman Standar;Snack
+BBR001,ORD002003,2026-10-09 14:48:14,3,M0012;M0007;M0174,Bihun Kuah Seafood | Bihun Goreng Ayam | Soda Gembira,Bihun;Bihun;Soda
+BBR001,ORD002004,2026-10-09 15:12:20,3,M0018;M0012;M0047,Crispy Chicken indomie Hotplate | Bihun Kuah Seafood | Healthy Juice,Hotplate;Bihun;Juice
+BBR001,ORD002005,2026-10-09 16:20:43,2,M0003;M0001,Ayam Bakar Tok | Air Mineral Botol,Alacarte;Minuman Standar
+BBR001,ORD002007,2026-10-09 17:13:46,2,M0008;M0058,Bihun Goreng Ayam Spesial BP | Juice Jeruk,Bihun;Juice
+BBR001,ORD002008,2026-10-09 19:29:32,2,M0010;M0052,Bihun Goreng Seafood | Jeruk Nipis,Bihun;Minuman Standar
+BBR001,ORD002009,2026-10-09 19:44:37,4,M0014;M0004;M0047;M0066,Bihun Siram Ayam Spesial Teriyaki | Ayam Goreng Kremezz Tok | Healthy Juice | Kerupuk,Bihun;Alacarte;Juice;Snack
+BBR001,ORD002010,2026-10-09 19:57:21,3,M0014;M0057;M0066,Bihun Siram Ayam Spesial Teriyaki | Juice Jambu | Kerupuk,Bihun;Juice;Snack
+BBR001,ORD002011,2026-10-09 21:00:16,2,M0076;M0074,Kwetiau Goreng Seafood | Kwetiau Goreng Ayam Spesial BP,Kwetiau;Kwetiau
+BBR001,ORD002012,2026-10-10 12:12:17,2,M0130;M0094,Nila Bakar Manis | Lychee Tea,Nila;Minuman Standar
+BBR001,ORD002013,2026-10-10 12:56:47,2,M0113;M0093,Nasi Ayam Goreng Kremez | Lime Squash,Aneka Nasi;Soda
+BBR001,ORD002014,2026-10-10 13:07:08,3,M0111;M0135;M0052,Nasi Ayam Crispy Saus Kecap | Nila Cabe Ijo | Jeruk Nipis,Aneka Nasi;Nila;Minuman Standar
+BBR001,ORD002015,2026-10-10 17:03:25,3,M0004;M0049;M0173,Ayam Goreng Kremezz Tok | Jeruk | Singkong Keju,Alacarte;Minuman Standar;Snack
+BBR001,ORD002016,2026-10-10 17:16:26,2,M0012;M0055,Bihun Kuah Seafood | Juice Alpukat,Bihun;Juice
+BBR001,ORD002017,2026-10-10 18:37:09,2,M0171;M0052,Sig. Chicken Pasta Hotplate | Jeruk Nipis,Hotplate;Minuman Standar
+BBR001,ORD002018,2026-10-10 19:32:23,3,M0004;M0002;M0017,Ayam Goreng Kremezz Tok | Air Putih Gelas | Cha Kangkung,Alacarte;Minuman Standar;Sayuran
+BBR001,ORD002019,2026-10-10 20:36:18,2,M0051;M0068,Jeruk Jumbo | Kopi Hitam,Minuman Jumbo;Minuman Standar
+BBR001,ORD002020,2026-10-11 10:03:31,3,M0003;M0094;M0006,Ayam Bakar Tok | Lychee Tea | Bakwan Sayur,Alacarte;Minuman Standar;Snack
+BBR001,ORD002023,2026-10-11 13:00:03,1,M0004,Ayam Goreng Kremezz Tok,Alacarte
+BBR001,ORD002024,2026-10-11 13:32:41,2,M0084;M0071,Lele Bakar Manis | Kopi Hitam Teko,Lele;Minuman Teko
+BBR001,ORD002025,2026-10-11 14:10:33,3,M0003;M0139;M0002,Ayam Bakar Tok | Paket Asik | Air Putih Gelas,Alacarte;Paket Ber 5;Minuman Standar
+BBR001,ORD002026,2026-10-11 14:31:08,2,M0080;M0155,Kwetiau Siram Ayam Spesial Teriyaki | Pisang Goreng Ori,Kwetiau;Snack
+BBR001,ORD002028,2026-10-11 16:32:11,2,M0003;M0189,Ayam Bakar Tok | Teh Tarik,Alacarte;Minuman Standar
+BBR001,ORD002029,2026-10-11 18:55:12,3,M0008;M0047;M0017,Bihun Goreng Ayam Spesial BP | Healthy Juice | Cha Kangkung,Bihun;Juice;Sayuran
+BBR001,ORD002030,2026-10-11 19:15:52,4,M0004;M0098;M0061;M0006,Ayam Goreng Kremezz Tok | Mie Goreng Chezzy Chicken Hotplate | Juice Sirsak | Bakwan Sayur,Alacarte;Mie;Juice;Snack
+BBR001,ORD002031,2026-10-11 19:26:24,2,M0013;M0181,Bihun Siram Ayam Spesial BP | Susu Jahe,Bihun;Minuman Standar
+BBR001,ORD002032,2026-10-11 19:34:10,1,M0013,Bihun Siram Ayam Spesial BP,Bihun
+BBR001,ORD002033,2026-10-11 19:47:29,2,M0008;M0047,Bihun Goreng Ayam Spesial BP | Healthy Juice,Bihun;Juice
+BBR001,ORD002034,2026-10-11 20:19:51,3,M0078;M0009;M0057,Kwetiau Kuah Seafood | Bihun Goreng Sapi Spesial BP | Juice Jambu,Kwetiau;Bihun;Juice
+BBR001,ORD002036,2026-10-11 20:40:27,3,M0003;M0020;M0006,Ayam Bakar Tok | Crispy Chicken Rice Hotplate | Bakwan Sayur,Alacarte;Hotplate;Snack
+BBR001,ORD002037,2026-10-12 10:45:44,3,M0008;M0102;M0175,Bihun Goreng Ayam Spesial BP | Mie Kuah Seafood | Soda Susu,Bihun;Mie;Soda
+BBR001,ORD002039,2026-10-12 11:28:26,4,M0008;M0148;M0047;M0035,Bihun Goreng Ayam Spesial BP | Paket Lele | Healthy Juice | Gudangan,Bihun;Paket Personal;Juice;Sayuran
+BBR001,ORD002040,2026-10-12 11:35:53,3,M0004;M0057;M0006,Ayam Goreng Kremezz Tok | Juice Jambu | Bakwan Sayur,Alacarte;Juice;Snack
+BBR001,ORD002042,2026-10-12 13:21:09,3,M0007;M0052;M0016,Bihun Goreng Ayam | Jeruk Nipis | Cap Cay Spesial Banyu Bening,Bihun;Minuman Standar;Sayuran
+BBR001,ORD002043,2026-10-12 13:41:55,4,M0164;M0036;M0071;M0197,Saus Asam Manis/Pedas | Gurame Bakar Madu | Kopi Hitam Teko | Tumis Kangkung,Saus;Gurame;Minuman Teko;Sayuran
+BBR001,ORD002044,2026-10-12 14:08:00,3,M0073;M0056;M0032,Kwetiau Goreng Ayam | Juice Buah Naga | French Fries,Kwetiau;Juice;Snack
+BBR001,ORD002045,2026-10-12 15:02:23,3,M0110;M0049;M0117,Nasi Ayam Bakar | Jeruk | Nasi Bakul Tanggung,Aneka Nasi;Minuman Standar;Snack
+BBR001,ORD002046,2026-10-12 15:57:22,3,M0009;M0047;M0022,Bihun Goreng Sapi Spesial BP | Healthy Juice | Crispy Chicken Tok,Bihun;Juice;Snack
+BBR001,ORD002047,2026-10-12 16:09:36,3,M0004;M0055;M0194,Ayam Goreng Kremezz Tok | Juice Alpukat | Tempe Penyet,Alacarte;Juice;Snack
+BBR001,ORD002048,2026-10-12 19:18:44,2,M0148;M0056,Paket Lele | Juice Buah Naga,Paket Personal;Juice
+BBR001,ORD002049,2026-10-12 19:22:09,4,M0009;M0007;M0049;M0159,Bihun Goreng Sapi Spesial BP | Bihun Goreng Ayam | Jeruk | Sambal Terasi,Bihun;Bihun;Minuman Standar;Sambal
+BBR001,ORD002050,2026-10-12 19:47:02,3,M0021;M0062;M0109,Crispy Chicken Salted Egg Hotplate | Juice Strawbery | Mix Platter,Hotplate;Juice;Snack
+BBR001,ORD002051,2026-10-13 11:37:34,3,M0009;M0003;M0061,Bihun Goreng Sapi Spesial BP | Ayam Bakar Tok | Juice Sirsak,Bihun;Alacarte;Juice
+BBR001,ORD002052,2026-10-13 12:01:58,2,M0018;M0059,Crispy Chicken indomie Hotplate | Juice Mangga,Hotplate;Juice
+BBR001,ORD002053,2026-10-13 12:57:09,3,M0033;M0093;M0095,Fuyung Hai Spesial BB | Lime Squash | Mendoan,Alacarte;Soda;Snack
+BBR001,ORD002055,2026-10-13 18:52:57,3,M0003;M0175;M0005,Ayam Bakar Tok | Soda Susu | Bakwan Jagung,Alacarte;Soda;Snack
+BBR001,ORD002056,2026-10-13 19:01:06,3,M0131;M0052;M0157,Nila Bakar Pedas | Jeruk Nipis | Sambal Ijo,Nila;Minuman Standar;Sambal
+BBR001,ORD002057,2026-10-13 20:37:38,3,M0147;M0055;M0168,Paket Gokil | Juice Alpukat | Sayur Lodeh,Paket Ber 5;Juice;Sayuran
+BBR001,ORD002058,2026-10-14 12:14:01,2,M0009;M0153,Bihun Goreng Sapi Spesial BP | Paket Sapi Lada Hitam,Bihun;Paket Personal
+BBR001,ORD002059,2026-10-14 12:25:15,3,M0134;M0057;M0192,Nila Bumbu Bali | Juice Jambu | Telur Dadar,Nila;Juice;Snack
+BBR001,ORD002060,2026-10-14 12:32:03,3,M0008;M0174;M0017,Bihun Goreng Ayam Spesial BP | Soda Gembira | Cha Kangkung,Bihun;Soda;Sayuran
+BBR001,ORD002061,2026-10-14 12:46:00,2,M0003;M0103,Ayam Bakar Tok | Mie Siram Ayam Spesial Blackpepper,Alacarte;Mie
+BBR001,ORD002062,2026-10-14 12:50:15,3,M0011;M0054;M0034,Bihun Kuah Ayam | Jeruk Teko | Gemblong Cotot,Bihun;Minuman Teko;Snack
+BBR001,ORD002063,2026-10-14 13:06:06,2,M0024;M0094,Crispy Dori Rice Hotplate | Lychee Tea,Hotplate;Minuman Standar
+BBR001,ORD002064,2026-10-14 20:30:39,4,M0148;M0003;M0181;M0005,Paket Lele | Ayam Bakar Tok | Susu Jahe | Bakwan Jagung,Paket Personal;Alacarte;Minuman Standar;Snack
+BBR001,ORD002065,2026-10-14 20:53:58,2,M0020;M0001,Crispy Chicken Rice Hotplate | Air Mineral Botol,Hotplate;Minuman Standar
+BBR001,ORD002066,2026-10-14 21:39:20,3,M0019;M0142;M0060,Crispy Chicken Pasta Hotplate | Paket Ayam Kremez | Juice Melon,Hotplate;Paket Personal;Juice
+BBR001,ORD002067,2026-10-15 10:16:27,2,M0010;M0068,Bihun Goreng Seafood | Kopi Hitam,Bihun;Minuman Standar
+BBR001,ORD002069,2026-10-15 12:09:35,4,M0003;M0112;M0001;M0005,Ayam Bakar Tok | Nasi Ayam Crispy Saus Merah | Air Mineral Botol | Bakwan Jagung,Alacarte;Aneka Nasi;Minuman Standar;Snack
+BBR001,ORD002070,2026-10-15 12:37:49,3,M0003;M0007;M0001,Ayam Bakar Tok | Bihun Goreng Ayam | Air Mineral Botol,Alacarte;Bihun;Minuman Standar
+BBR001,ORD002071,2026-10-15 14:03:07,2,M0009;M0001,Bihun Goreng Sapi Spesial BP | Air Mineral Botol,Bihun;Minuman Standar
+BBR001,ORD002072,2026-10-15 14:40:49,3,M0009;M0049;M0066,Bihun Goreng Sapi Spesial BP | Jeruk | Kerupuk,Bihun;Minuman Standar;Snack
+BBR001,ORD002073,2026-10-15 18:49:04,4,M0003;M0007;M0002;M0005,Ayam Bakar Tok | Bihun Goreng Ayam | Air Putih Gelas | Bakwan Jagung,Alacarte;Bihun;Minuman Standar;Snack
+BBR001,ORD002074,2026-10-15 19:36:53,2,M0003;M0008,Ayam Bakar Tok | Bihun Goreng Ayam Spesial BP,Alacarte;Bihun
+BBR001,ORD002075,2026-10-15 19:48:12,2,M0098;M0061,Mie Goreng Chezzy Chicken Hotplate | Juice Sirsak,Mie;Juice
+BBR001,ORD002076,2026-10-16 11:18:14,3,M0087;M0055;M0184,Lele Goreng | Juice Alpukat | Tahu Penyet,Lele;Juice;Snack
+BBR001,ORD002077,2026-10-16 11:41:28,3,M0026;M0072;M0155,Cumi Asam Manis | Kopi Susu Spesial Mix | Pisang Goreng Ori,Alacarte;Minuman Standar;Snack
+BBR001,ORD002078,2026-10-16 12:09:11,3,M0079;M0060;M0048,Kwetiau Siram Ayam Spesial Blackpepper | Juice Melon | Jamur Crispy,Kwetiau;Juice;Snack
+BBR001,ORD002079,2026-10-16 12:24:21,2,M0015;M0067,Bihun Siram Sapi Spesial BP | Kerupuk Prasmanan,Bihun;Snack
+BBR001,ORD002081,2026-10-16 13:57:49,2,M0088;M0061,Lele Goreng Asam Manis | Juice Sirsak,Lele;Juice
+BBR001,ORD002082,2026-10-16 16:55:52,3,M0027;M0185;M0016,Cumi Asam Pedas | Teh | Cap Cay Spesial Banyu Bening,Alacarte;Minuman Standar;Sayuran
+BBR001,ORD002083,2026-10-16 18:04:01,4,M0123;M0013;M0063;M0017,Nasi Goreng Sig. Beef Hotplate | Bihun Siram Ayam Spesial BP | Juice Tomat | Cha Kangkung,Nasi Goreng;Bihun;Juice;Sayuran
+BBR001,ORD002084,2026-10-16 19:30:57,4,M0148;M0004;M0181;M0154,Paket Lele | Ayam Goreng Kremezz Tok | Susu Jahe | Pisang Goreng Coklat,Paket Personal;Alacarte;Minuman Standar;Snack
+BBR001,ORD002085,2026-10-16 21:08:37,2,M0012;M0093,Bihun Kuah Seafood | Lime Squash,Bihun;Soda
+BBR001,ORD002086,2026-10-17 11:01:38,1,M0098,Mie Goreng Chezzy Chicken Hotplate,Mie
+BBR001,ORD002087,2026-10-17 11:44:16,3,M0007;M0055;M0032,Bihun Goreng Ayam | Juice Alpukat | French Fries,Bihun;Juice;Snack
+BBR001,ORD002088,2026-10-17 12:08:43,4,M0003;M0039;M0029;M0005,Ayam Bakar Tok | Gurame Bakar Spesial | Es Sirup | Bakwan Jagung,Alacarte;Gurame;Minuman Standar;Snack
+BBR001,ORD002089,2026-10-17 12:15:50,2,M0073;M0181,Kwetiau Goreng Ayam | Susu Jahe,Kwetiau;Minuman Standar
+BBR001,ORD002090,2026-10-17 12:23:47,4,M0004;M0018;M0002;M0006,Ayam Goreng Kremezz Tok | Crispy Chicken indomie Hotplate | Air Putih Gelas | Bakwan Sayur,Alacarte;Hotplate;Minuman Standar;Snack
+BBR001,ORD002091,2026-10-17 12:58:33,2,M0024;M0068,Crispy Dori Rice Hotplate | Kopi Hitam,Hotplate;Minuman Standar
+BBR001,ORD002092,2026-10-17 13:23:45,3,M0007;M0003;M0054,Bihun Goreng Ayam | Ayam Bakar Tok | Jeruk Teko,Bihun;Alacarte;Minuman Teko
+BBR001,ORD002093,2026-10-17 13:43:25,3,M0152;M0091;M0068,Paket Santuy | Lemon Tea 1/2 Jumbo | Kopi Hitam,Paket Ber 5;Minuman Jumbo;Minuman Standar
+BBR001,ORD002094,2026-10-17 13:47:45,1,M0153,Paket Sapi Lada Hitam,Paket Personal
+BBR001,ORD002095,2026-10-17 14:06:37,3,M0126;M0072;M0095,Nasi Goreng Teri | Kopi Susu Spesial Mix | Mendoan,Nasi Goreng;Minuman Standar;Snack
+BBR001,ORD002096,2026-10-17 14:21:43,4,M0004;M0076;M0002;M0006,Ayam Goreng Kremezz Tok | Kwetiau Goreng Seafood | Air Putih Gelas | Bakwan Sayur,Alacarte;Kwetiau;Minuman Standar;Snack
+BBR001,ORD002097,2026-10-17 14:57:06,3,M0018;M0047;M0082,Crispy Chicken indomie Hotplate | Healthy Juice | Lalap Sambal Krupuk,Hotplate;Juice;Sayuran
+BBR001,ORD002098,2026-10-17 16:55:06,3,M0041;M0052;M0158,Gurame Bumbu Bali | Jeruk Nipis | Sambal Kecap,Gurame;Minuman Standar;Sambal
+BBR001,ORD002099,2026-10-17 17:03:46,2,M0096;M0181,Mie Goreng Ayam | Susu Jahe,Mie;Minuman Standar
+BBR001,ORD002100,2026-10-17 17:05:37,3,M0010;M0092;M0068,Bihun Goreng Seafood | Lemon Tea Jumbo | Kopi Hitam,Bihun;Minuman Jumbo;Minuman Standar
+BBR001,ORD002101,2026-10-17 18:40:34,2,M0025;M0061,Crispy Udang Rice Hotplate | Juice Sirsak,Hotplate;Juice
+BBR001,ORD002102,2026-10-17 18:40:39,3,M0040;M0062;M0109,Gurame Bumbu Acar | Juice Strawbery | Mix Platter,Gurame;Juice;Snack
+BBR001,ORD002103,2026-10-17 18:42:03,2,M0064;M0174,Kerang Asam Manis | Soda Gembira,Alacarte;Soda
+BBR001,ORD002104,2026-10-17 19:20:57,3,M0087;M0062;M0109,Lele Goreng | Juice Strawbery | Mix Platter,Lele;Juice;Snack
+BBR001,ORD002105,2026-10-17 19:24:38,2,M0125;M0188,Nasi Goreng Telur | Teh Kampul,Nasi Goreng;Minuman Standar
+BBR001,ORD002106,2026-10-17 19:34:35,2,M0010;M0082,Bihun Goreng Seafood | Lalap Sambal Krupuk,Bihun;Sayuran
+BBR001,ORD002107,2026-10-17 19:34:39,3,M0003;M0029;M0005,Ayam Bakar Tok | Es Sirup | Bakwan Jagung,Alacarte;Minuman Standar;Snack
+BBR001,ORD002108,2026-10-17 19:56:21,2,M0134;M0181,Nila Bumbu Bali | Susu Jahe,Nila;Minuman Standar
+BBR001,ORD002109,2026-10-17 19:56:46,3,M0003;M0029;M0197,Ayam Bakar Tok | Es Sirup | Tumis Kangkung,Alacarte;Minuman Standar;Sayuran
+BBR001,ORD002110,2026-10-17 20:12:53,3,M0104;M0061;M0154,Mie Siram Ayam Spesial Teriyaki | Juice Sirsak | Pisang Goreng Coklat,Mie;Juice;Snack
+BBR001,ORD002111,2026-10-17 21:53:34,3,M0081;M0002;M0067,Kwetiau Siram Sapi Spesial Blackpepper | Air Putih Gelas | Kerupuk Prasmanan,Kwetiau;Minuman Standar;Snack
+BBR001,ORD002112,2026-10-18 11:27:56,1,M0088,Lele Goreng Asam Manis,Lele
+BBR001,ORD002113,2026-10-18 12:02:44,3,M0104;M0029;M0154,Mie Siram Ayam Spesial Teriyaki | Es Sirup | Pisang Goreng Coklat,Mie;Minuman Standar;Snack
+BBR001,ORD002114,2026-10-18 12:10:53,3,M0130;M0094;M0066,Nila Bakar Manis | Lychee Tea | Kerupuk,Nila;Minuman Standar;Snack
+BBR001,ORD002115,2026-10-18 12:43:07,4,M0003;M0015;M0001;M0117,Ayam Bakar Tok | Bihun Siram Sapi Spesial BP | Air Mineral Botol | Nasi Bakul Tanggung,Alacarte;Bihun;Minuman Standar;Snack
+BBR001,ORD002116,2026-10-18 12:50:46,3,M0023;M0063;M0116,Crispy Cumi Rice Hotplate | Juice Tomat | Nasi Bakul Besar,Hotplate;Juice;Snack
+BBR001,ORD002117,2026-10-18 13:02:17,2,M0123;M0063,Nasi Goreng Sig. Beef Hotplate | Juice Tomat,Nasi Goreng;Juice
+BBR001,ORD002118,2026-10-18 13:09:44,2,M0051;M0068,Jeruk Jumbo | Kopi Hitam,Minuman Jumbo;Minuman Standar
+BBR001,ORD002119,2026-10-18 13:13:21,3,M0003;M0063;M0005,Ayam Bakar Tok | Juice Tomat | Bakwan Jagung,Alacarte;Juice;Snack
+BBR001,ORD002121,2026-10-18 14:38:42,3,M0097;M0049;M0156,Mie Goreng Ayam Spesial BP Hotplate | Jeruk | Sambal Bawang,Mie;Minuman Standar;Sambal
+BBR001,ORD002122,2026-10-18 16:23:33,4,M0149;M0004;M0057;M0156,Paket Nagih | Ayam Goreng Kremezz Tok | Juice Jambu | Sambal Bawang,Paket Ber 5;Alacarte;Juice;Sambal
+BBR001,ORD002123,2026-10-18 17:00:50,4,M0140;M0080;M0029;M0155,Paket Ayam Bakar | Kwetiau Siram Ayam Spesial Teriyaki | Es Sirup | Pisang Goreng Ori,Paket Personal;Kwetiau;Minuman Standar;Snack
+BBR001,ORD002124,2026-10-18 17:29:28,3,M0141;M0020;M0184,Paket Ayam Crispy Kecap | Crispy Chicken Rice Hotplate | Tahu Penyet,Paket Personal;Hotplate;Snack
+BBR001,ORD002125,2026-10-18 17:31:07,2,M0003;M0005,Ayam Bakar Tok | Bakwan Jagung,Alacarte;Snack
+BBR001,ORD002126,2026-10-18 17:33:13,3,M0023;M0003;M0063,Crispy Cumi Rice Hotplate | Ayam Bakar Tok | Juice Tomat,Hotplate;Alacarte;Juice
+BBR001,ORD002127,2026-10-18 18:32:53,4,M0162;M0079;M0062;M0167,Sapo Tahu Sapi Hotplate | Kwetiau Siram Ayam Spesial Blackpepper | Juice Strawbery | Sayur Asem,Sapo Tahu;Kwetiau;Juice;Sayuran
+BBR001,ORD002128,2026-10-18 18:45:04,3,M0131;M0002;M0067,Nila Bakar Pedas | Air Putih Gelas | Kerupuk Prasmanan,Nila;Minuman Standar;Snack
+BBR001,ORD002129,2026-10-18 19:07:37,3,M0138;M0126;M0052,Nila Goreng Asam Pedas | Nasi Goreng Teri | Jeruk Nipis,Nila;Nasi Goreng;Minuman Standar
+BBR001,ORD002130,2026-10-18 19:40:04,3,M0081;M0043;M0068,Kwetiau Siram Sapi Spesial Blackpepper | Gurame Crispy Fillet | Kopi Hitam,Kwetiau;Gurame;Minuman Standar
+BBR001,ORD002131,2026-10-18 20:16:45,2,M0008;M0058,Bihun Goreng Ayam Spesial BP | Juice Jeruk,Bihun;Juice
+BBR001,ORD002132,2026-10-19 12:08:41,2,M0096;M0159,Mie Goreng Ayam | Sambal Terasi,Mie;Sambal
+BBR001,ORD002133,2026-10-19 12:10:55,3,M0003;M0175;M0005,Ayam Bakar Tok | Soda Susu | Bakwan Jagung,Alacarte;Soda;Snack
+BBR001,ORD002134,2026-10-19 12:19:21,1,M0025,Crispy Udang Rice Hotplate,Hotplate
+BBR001,ORD002135,2026-10-19 12:32:27,1,M0112,Nasi Ayam Crispy Saus Merah,Aneka Nasi
+BBR001,ORD002136,2026-10-19 13:06:32,2,M0046;M0062,Gurame Goreng Asam Pedas | Juice Strawbery,Gurame;Juice
+BBR001,ORD002137,2026-10-19 14:11:45,2,M0041;M0158,Gurame Bumbu Bali | Sambal Kecap,Gurame;Sambal
+BBR001,ORD002138,2026-10-19 14:32:08,4,M0003;M0037;M0029;M0048,Ayam Bakar Tok | Gurame Bakar Manis | Es Sirup | Jamur Crispy,Alacarte;Gurame;Minuman Standar;Snack
+BBR001,ORD002139,2026-10-19 14:42:04,1,M0119,Nasi Goreng Banyu Bening Hotplate,Nasi Goreng
+BBR001,ORD002140,2026-10-19 15:50:14,3,M0012;M0075;M0055,Bihun Kuah Seafood | Kwetiau Goreng Sapi Spesial BP | Juice Alpukat,Bihun;Kwetiau;Juice
+BBR001,ORD002141,2026-10-19 16:49:40,3,M0012;M0063;M0006,Bihun Kuah Seafood | Juice Tomat | Bakwan Sayur,Bihun;Juice;Snack
+BBR001,ORD002142,2026-10-19 17:02:37,3,M0153;M0001;M0183,Paket Sapi Lada Hitam | Air Mineral Botol | Tahu Goreng,Paket Personal;Minuman Standar;Snack
+BBR001,ORD002143,2026-10-19 18:06:44,3,M0003;M0002;M0006,Ayam Bakar Tok | Air Putih Gelas | Bakwan Sayur,Alacarte;Minuman Standar;Snack
+BBR001,ORD002144,2026-10-19 19:53:48,2,M0003;M0002,Ayam Bakar Tok | Air Putih Gelas,Alacarte;Minuman Standar
+BBR001,ORD002145,2026-10-19 20:14:17,3,M0007;M0029;M0032,Bihun Goreng Ayam | Es Sirup | French Fries,Bihun;Minuman Standar;Snack
+BBR001,ORD002147,2026-10-20 18:06:49,3,M0021;M0055;M0109,Crispy Chicken Salted Egg Hotplate | Juice Alpukat | Mix Platter,Hotplate;Juice;Snack
+BBR001,ORD002148,2026-10-20 18:16:41,2,M0009;M0066,Bihun Goreng Sapi Spesial BP | Kerupuk,Bihun;Snack
+BBR001,ORD002149,2026-10-20 20:47:29,2,M0091;M0061,Lemon Tea 1/2 Jumbo | Juice Sirsak,Minuman Jumbo;Juice
+BBR001,ORD002150,2026-10-20 20:56:36,3,M0004;M0002;M0017,Ayam Goreng Kremezz Tok | Air Putih Gelas | Cha Kangkung,Alacarte;Minuman Standar;Sayuran
+BBR001,ORD002151,2026-10-21 12:00:35,2,M0179;M0181,Sup Gurame | Susu Jahe,Gurame;Minuman Standar
+BBR001,ORD002152,2026-10-21 12:07:54,2,M0076;M0079,Kwetiau Goreng Seafood | Kwetiau Siram Ayam Spesial Blackpepper,Kwetiau;Kwetiau
+BBR001,ORD002153,2026-10-21 12:54:29,1,M0015,Bihun Siram Sapi Spesial BP,Bihun
+BBR001,ORD002155,2026-10-21 17:14:36,1,M0021,Crispy Chicken Salted Egg Hotplate,Hotplate
+BBR001,ORD002156,2026-10-21 18:19:48,3,M0026;M0189;M0154,Cumi Asam Manis | Teh Tarik | Pisang Goreng Coklat,Alacarte;Minuman Standar;Snack
+BBR001,ORD002157,2026-10-21 18:51:16,3,M0105;M0188;M0183,Mie Siram Sapi Spesial Blackpepper | Teh Kampul | Tahu Goreng,Mie;Minuman Standar;Snack
+BBR001,ORD002158,2026-10-21 19:03:58,3,M0003;M0008;M0001,Ayam Bakar Tok | Bihun Goreng Ayam Spesial BP | Air Mineral Botol,Alacarte;Bihun;Minuman Standar
+BBR001,ORD002159,2026-10-21 19:25:05,2,M0007;M0029,Bihun Goreng Ayam | Es Sirup,Bihun;Minuman Standar
+BBR001,ORD002160,2026-10-21 19:42:28,3,M0011;M0054;M0160,Bihun Kuah Ayam | Jeruk Teko | Sambal Tomat,Bihun;Minuman Teko;Sambal
+BBR001,ORD002161,2026-10-21 20:49:43,3,M0010;M0052;M0032,Bihun Goreng Seafood | Jeruk Nipis | French Fries,Bihun;Minuman Standar;Snack
+BBR001,ORD002162,2026-10-22 12:13:13,4,M0008;M0004;M0175;M0017,Bihun Goreng Ayam Spesial BP | Ayam Goreng Kremezz Tok | Soda Susu | Cha Kangkung,Bihun;Alacarte;Soda;Sayuran
+BBR001,ORD002163,2026-10-22 13:13:44,3,M0018;M0059;M0159,Crispy Chicken indomie Hotplate | Juice Mangga | Sambal Terasi,Hotplate;Juice;Sambal
+BBR001,ORD002164,2026-10-22 13:17:59,3,M0007;M0055;M0016,Bihun Goreng Ayam | Juice Alpukat | Cap Cay Spesial Banyu Bening,Bihun;Juice;Sayuran
+BBR001,ORD002165,2026-10-22 15:42:04,3,M0018;M0015;M0173,Crispy Chicken indomie Hotplate | Bihun Siram Sapi Spesial BP | Singkong Keju,Hotplate;Bihun;Snack
+BBR001,ORD002166,2026-10-22 18:03:11,2,M0170;M0035,Sig. Beef Rice Hotplate | Gudangan,Hotplate;Sayuran
+BBR001,ORD002167,2026-10-22 19:51:13,2,M0007;M0055,Bihun Goreng Ayam | Juice Alpukat,Bihun;Juice
+BBR001,ORD002168,2026-10-22 20:46:57,3,M0008;M0047;M0017,Bihun Goreng Ayam Spesial BP | Healthy Juice | Cha Kangkung,Bihun;Juice;Sayuran
+BBR001,ORD002169,2026-10-23 11:12:28,4,M0037;M0100;M0052;M0158,Gurame Bakar Manis | Mie Goreng Seafood | Jeruk Nipis | Sambal Kecap,Gurame;Mie;Minuman Standar;Sambal
+BBR001,ORD002170,2026-10-23 12:22:06,4,M0008;M0018;M0058;M0035,Bihun Goreng Ayam Spesial BP | Crispy Chicken indomie Hotplate | Juice Jeruk | Gudangan,Bihun;Hotplate;Juice;Sayuran
+BBR001,ORD002171,2026-10-23 12:29:00,2,M0076;M0059,Kwetiau Goreng Seafood | Juice Mangga,Kwetiau;Juice
+BBR001,ORD002172,2026-10-23 13:10:44,3,M0003;M0001;M0006,Ayam Bakar Tok | Air Mineral Botol | Bakwan Sayur,Alacarte;Minuman Standar;Snack
+BBR001,ORD002173,2026-10-23 13:38:01,2,M0180;M0182,Sup Nila | Susu Putih/Coklat,Nila;Minuman Standar
+BBR001,ORD002174,2026-10-23 13:39:22,2,M0003;M0001,Ayam Bakar Tok | Air Mineral Botol,Alacarte;Minuman Standar
+BBR001,ORD002177,2026-10-23 18:15:22,2,M0009;M0049,Bihun Goreng Sapi Spesial BP | Jeruk,Bihun;Minuman Standar
+BBR001,ORD002178,2026-10-23 18:47:03,3,M0003;M0007;M0177,Ayam Bakar Tok | Bihun Goreng Ayam | Sprite 250 ml,Alacarte;Bihun;Soda
+BBR001,ORD002179,2026-10-23 19:02:52,3,M0078;M0061;M0035,Kwetiau Kuah Seafood | Juice Sirsak | Gudangan,Kwetiau;Juice;Sayuran
+BBR001,ORD002180,2026-10-23 19:30:43,4,M0040;M0176;M0181;M0109,Gurame Bumbu Acar | Soto Ayam Banyu Bening | Susu Jahe | Mix Platter,Gurame;Soto;Minuman Standar;Snack
+BBR001,ORD002181,2026-10-23 19:52:38,2,M0046;M0058,Gurame Goreng Asam Pedas | Juice Jeruk,Gurame;Juice
+BBR001,ORD002182,2026-10-23 20:30:26,2,M0033;M0072,Fuyung Hai Spesial BB | Kopi Susu Spesial Mix,Alacarte;Minuman Standar
+BBR001,ORD002183,2026-10-23 20:46:39,2,M0004;M0017,Ayam Goreng Kremezz Tok | Cha Kangkung,Alacarte;Sayuran
+BBR001,ORD002184,2026-10-24 11:13:54,2,M0003;M0001,Ayam Bakar Tok | Air Mineral Botol,Alacarte;Minuman Standar
+BBR001,ORD002185,2026-10-24 11:45:54,4,M0142;M0079;M0175;M0157,Paket Ayam Kremez | Kwetiau Siram Ayam Spesial Blackpepper | Soda Susu | Sambal Ijo,Paket Personal;Kwetiau;Soda;Sambal
+BBR001,ORD002186,2026-10-24 11:53:09,2,M0114;M0181,Nasi Ayam Ori Bp Spesial BB | Susu Jahe,Aneka Nasi;Minuman Standar
+BBR001,ORD002188,2026-10-24 12:51:26,2,M0143;M0047,Paket Ayam Lada Hitam | Healthy Juice,Paket Personal;Juice
+BBR001,ORD002190,2026-10-24 13:40:56,3,M0092;M0068;M0154,Lemon Tea Jumbo | Kopi Hitam | Pisang Goreng Coklat,Minuman Jumbo;Minuman Standar;Snack
+BBR001,ORD002191,2026-10-24 18:26:39,4,M0010;M0064;M0054;M0082,Bihun Goreng Seafood | Kerang Asam Manis | Jeruk Teko | Lalap Sambal Krupuk,Bihun;Alacarte;Minuman Teko;Sayuran
+BBR001,ORD002192,2026-10-24 19:19:25,3,M0009;M0012;M0159,Bihun Goreng Sapi Spesial BP | Bihun Kuah Seafood | Sambal Terasi,Bihun;Bihun;Sambal
+BBR001,ORD002193,2026-10-24 19:46:55,3,M0163;M0068;M0173,Sapo Tahu Seafood Hotplate | Kopi Hitam | Singkong Keju,Sapo Tahu;Minuman Standar;Snack
+BBR001,ORD002195,2026-10-24 20:35:32,2,M0041;M0047,Gurame Bumbu Bali | Healthy Juice,Gurame;Juice
+BBR001,ORD002196,2026-10-25 11:51:59,3,M0003;M0094;M0006,Ayam Bakar Tok | Lychee Tea | Bakwan Sayur,Alacarte;Minuman Standar;Snack
+BBR001,ORD002197,2026-10-25 11:55:13,2,M0003;M0002,Ayam Bakar Tok | Air Putih Gelas,Alacarte;Minuman Standar
+BBR001,ORD002198,2026-10-25 12:22:49,1,M0112,Nasi Ayam Crispy Saus Merah,Aneka Nasi
+BBR001,ORD002199,2026-10-25 12:33:03,3,M0080;M0063;M0155,Kwetiau Siram Ayam Spesial Teriyaki | Juice Tomat | Pisang Goreng Ori,Kwetiau;Juice;Snack
+BBR001,ORD002200,2026-10-25 12:58:16,3,M0081;M0072;M0157,Kwetiau Siram Sapi Spesial Blackpepper | Kopi Susu Spesial Mix | Sambal Ijo,Kwetiau;Minuman Standar;Sambal
+BBR001,ORD002201,2026-10-25 13:02:21,3,M0085;M0093;M0083,Lele Bakar Pedas | Lime Squash | Lalapan,Lele;Soda;Sayuran
+BBR001,ORD002203,2026-10-25 14:58:22,3,M0009;M0049;M0022,Bihun Goreng Sapi Spesial BP | Jeruk | Crispy Chicken Tok,Bihun;Minuman Standar;Snack
+BBR001,ORD002204,2026-10-25 16:33:24,2,M0004;M0002,Ayam Goreng Kremezz Tok | Air Putih Gelas,Alacarte;Minuman Standar
+BBR001,ORD002205,2026-10-25 18:19:03,4,M0036;M0053;M0052;M0034,Gurame Bakar Madu | Jeruk Nipis | Jeruk Nipis | Gemblong Cotot,Gurame;Makanan;Minuman Standar;Snack
+BBR001,ORD002206,2026-10-25 18:44:57,3,M0036;M0094;M0034,Gurame Bakar Madu | Lychee Tea | Gemblong Cotot,Gurame;Minuman Standar;Snack
+BBR001,ORD002207,2026-10-25 18:56:15,2,M0124;M0071,Nasi Goreng Sosis | Kopi Hitam Teko,Nasi Goreng;Minuman Teko
+BBR001,ORD002208,2026-10-25 20:59:39,3,M0003;M0002;M0017,Ayam Bakar Tok | Air Putih Gelas | Cha Kangkung,Alacarte;Minuman Standar;Sayuran
+BBR001,ORD002209,2026-10-25 20:59:42,2,M0104;M0007,Mie Siram Ayam Spesial Teriyaki | Bihun Goreng Ayam,Mie;Bihun
+BBR001,ORD002210,2026-10-26 11:23:21,2,M0023;M0063,Crispy Cumi Rice Hotplate | Juice Tomat,Hotplate;Juice
+BBR001,ORD002211,2026-10-26 12:21:04,2,M0121;M0001,Nasi Goreng Mawut | Air Mineral Botol,Nasi Goreng;Minuman Standar
+BBR001,ORD002212,2026-10-26 12:32:33,3,M0003;M0040;M0182,Ayam Bakar Tok | Gurame Bumbu Acar | Susu Putih/Coklat,Alacarte;Gurame;Minuman Standar
+BBR001,ORD002213,2026-10-26 12:37:04,4,M0007;M0003;M0029;M0032,Bihun Goreng Ayam | Ayam Bakar Tok | Es Sirup | French Fries,Bihun;Alacarte;Minuman Standar;Snack
+BBR001,ORD002215,2026-10-26 14:29:27,2,M0011;M0090,Bihun Kuah Ayam | Lemon Tea,Bihun;Minuman Standar
+BBR001,ORD002217,2026-10-26 14:44:01,2,M0025;M0090,Crispy Udang Rice Hotplate | Lemon Tea,Hotplate;Minuman Standar
+BBR001,ORD002218,2026-10-26 14:59:22,3,M0024;M0062;M0117,Crispy Dori Rice Hotplate | Juice Strawbery | Nasi Bakul Tanggung,Hotplate;Juice;Snack
+BBR001,ORD002219,2026-10-26 18:06:03,3,M0003;M0065;M0001,Ayam Bakar Tok | Kerang Asam Pedas | Air Mineral Botol,Alacarte;Alacarte;Minuman Standar
+BBR001,ORD002220,2026-10-26 18:34:16,4,M0139;M0003;M0190;M0154,Paket Asik | Ayam Bakar Tok | Teh Teko | Pisang Goreng Coklat,Paket Ber 5;Alacarte;Minuman Teko;Snack
+BBR001,ORD002221,2026-10-26 18:44:07,3,M0013;M0010;M0056,Bihun Siram Ayam Spesial BP | Bihun Goreng Seafood | Juice Buah Naga,Bihun;Bihun;Juice
+BBR001,ORD002223,2026-10-26 20:46:04,3,M0019;M0060;M0167,Crispy Chicken Pasta Hotplate | Juice Melon | Sayur Asem,Hotplate;Juice;Sayuran
+BBR001,ORD002224,2026-10-27 13:24:56,3,M0125;M0062;M0032,Nasi Goreng Telur | Juice Strawbery | French Fries,Nasi Goreng;Juice;Snack
+BBR001,ORD002225,2026-10-27 14:20:12,3,M0003;M0029;M0005,Ayam Bakar Tok | Es Sirup | Bakwan Jagung,Alacarte;Minuman Standar;Snack
+BBR001,ORD002226,2026-10-27 18:25:59,2,M0114;M0020,Nasi Ayam Ori Bp Spesial BB | Crispy Chicken Rice Hotplate,Aneka Nasi;Hotplate
+BBR001,ORD002227,2026-10-27 18:34:15,3,M0004;M0010;M0006,Ayam Goreng Kremezz Tok | Bihun Goreng Seafood | Bakwan Sayur,Alacarte;Bihun;Snack
+BBR001,ORD002228,2026-10-27 19:17:51,3,M0099;M0062;M0167,Mie Goreng Sapi Spesial BP Hotplate | Juice Strawbery | Sayur Asem,Mie;Juice;Sayuran
+BBR001,ORD002229,2026-10-27 20:00:01,4,M0073;M0003;M0175;M0032,Kwetiau Goreng Ayam | Ayam Bakar Tok | Soda Susu | French Fries,Kwetiau;Alacarte;Soda;Snack
+BBR001,ORD002230,2026-10-27 20:46:13,2,M0051;M0093,Jeruk Jumbo | Lime Squash,Minuman Jumbo;Soda
+BBR001,ORD002231,2026-10-27 21:25:29,2,M0003;M0001,Ayam Bakar Tok | Air Mineral Botol,Alacarte;Minuman Standar
+BBR001,ORD002233,2026-10-28 11:43:24,2,M0009;M0177,Bihun Goreng Sapi Spesial BP | Sprite 250 ml,Bihun;Soda
+BBR001,ORD002234,2026-10-28 12:13:28,3,M0018;M0047;M0157,Crispy Chicken indomie Hotplate | Healthy Juice | Sambal Ijo,Hotplate;Juice;Sambal
+BBR001,ORD002235,2026-10-28 17:22:43,1,M0140,Paket Ayam Bakar,Paket Personal
+BBR001,ORD002236,2026-10-28 17:42:26,3,M0051;M0029;M0194,Jeruk Jumbo | Es Sirup | Tempe Penyet,Minuman Jumbo;Minuman Standar;Snack
+BBR001,ORD002237,2026-10-28 18:20:11,3,M0019;M0054;M0083,Crispy Chicken Pasta Hotplate | Jeruk Teko | Lalapan,Hotplate;Minuman Teko;Sayuran
+BBR001,ORD002238,2026-10-28 18:43:20,3,M0088;M0029;M0095,Lele Goreng Asam Manis | Es Sirup | Mendoan,Lele;Minuman Standar;Snack
+BBR001,ORD002239,2026-10-28 19:07:47,3,M0069;M0061;M0116,Kopi Hitam 1/2 Jumbo | Juice Sirsak | Nasi Bakul Besar,Minuman Jumbo;Juice;Snack
+BBR001,ORD002240,2026-10-28 19:30:12,2,M0003;M0002,Ayam Bakar Tok | Air Putih Gelas,Alacarte;Minuman Standar
+BBR001,ORD002241,2026-10-28 19:38:53,3,M0003;M0177;M0167,Ayam Bakar Tok | Sprite 250 ml | Sayur Asem,Alacarte;Soda;Sayuran
+BBR001,ORD002242,2026-10-28 19:39:37,2,M0079;M0054,Kwetiau Siram Ayam Spesial Blackpepper | Jeruk Teko,Kwetiau;Minuman Teko
+BBR001,ORD002243,2026-10-28 20:04:16,3,M0051;M0003;M0067,Jeruk Jumbo | Ayam Bakar Tok | Kerupuk Prasmanan,Minuman Jumbo;Alacarte;Snack
+BBR001,ORD002245,2026-10-29 11:39:24,2,M0103;M0002,Mie Siram Ayam Spesial Blackpepper | Air Putih Gelas,Mie;Minuman Standar
+BBR001,ORD002246,2026-10-29 13:14:59,3,M0003;M0050;M0001,Ayam Bakar Tok | Jeruk 1/2 Jumbo | Air Mineral Botol,Alacarte;Minuman Jumbo;Minuman Standar
+BBR001,ORD002247,2026-10-29 14:22:36,2,M0004;M0019,Ayam Goreng Kremezz Tok | Crispy Chicken Pasta Hotplate,Alacarte;Hotplate
+BBR001,ORD002248,2026-10-29 19:42:49,2,M0015;M0058,Bihun Siram Sapi Spesial BP | Juice Jeruk,Bihun;Juice
+BBR001,ORD002249,2026-10-29 19:48:32,4,M0003;M0069;M0001;M0109,Ayam Bakar Tok | Kopi Hitam 1/2 Jumbo | Air Mineral Botol | Mix Platter,Alacarte;Minuman Jumbo;Minuman Standar;Snack
+BBR001,ORD002250,2026-10-29 19:56:06,3,M0025;M0094;M0005,Crispy Udang Rice Hotplate | Lychee Tea | Bakwan Jagung,Hotplate;Minuman Standar;Snack
+BBR001,ORD002251,2026-10-29 20:45:17,2,M0172;M0082,Sig. Chicken Rice Hotplate | Lalap Sambal Krupuk,Hotplate;Sayuran
+BBR001,ORD002252,2026-10-30 10:54:34,2,M0051;M0055,Jeruk Jumbo | Juice Alpukat,Minuman Jumbo;Juice
+BBR001,ORD002254,2026-10-30 11:30:36,3,M0009;M0190;M0022,Bihun Goreng Sapi Spesial BP | Teh Teko | Crispy Chicken Tok,Bihun;Minuman Teko;Snack
+BBR001,ORD002255,2026-10-30 11:35:57,1,M0003,Ayam Bakar Tok,Alacarte
+BBR001,ORD002256,2026-10-30 12:01:05,1,M0102,Mie Kuah Seafood,Mie
+BBR001,ORD002257,2026-10-30 12:53:10,2,M0036;M0094,Gurame Bakar Madu | Lychee Tea,Gurame;Minuman Standar
+BBR001,ORD002258,2026-10-30 12:55:13,4,M0033;M0008;M0093;M0022,Fuyung Hai Spesial BB | Bihun Goreng Ayam Spesial BP | Lime Squash | Crispy Chicken Tok,Alacarte;Bihun;Soda;Snack
+BBR001,ORD002259,2026-10-30 12:56:28,3,M0009;M0062;M0048,Bihun Goreng Sapi Spesial BP | Juice Strawbery | Jamur Crispy,Bihun;Juice;Snack
+BBR001,ORD002260,2026-10-30 16:53:48,2,M0021;M0020,Crispy Chicken Salted Egg Hotplate | Crispy Chicken Rice Hotplate,Hotplate;Hotplate
+BBR001,ORD002261,2026-10-30 17:25:38,2,M0014;M0057,Bihun Siram Ayam Spesial Teriyaki | Juice Jambu,Bihun;Juice
+BBR001,ORD002262,2026-10-30 19:05:47,3,M0110;M0049;M0158,Nasi Ayam Bakar | Jeruk | Sambal Kecap,Aneka Nasi;Minuman Standar;Sambal
+BBR001,ORD002263,2026-10-30 19:13:55,3,M0019;M0060;M0083,Crispy Chicken Pasta Hotplate | Juice Melon | Lalapan,Hotplate;Juice;Sayuran
+BBR001,ORD002265,2026-10-30 19:25:41,3,M0045;M0059;M0191,Gurame Goreng Asam Manis | Juice Mangga | Telur Ceplok,Gurame;Juice;Snack
+BBR001,ORD002266,2026-10-30 19:47:10,3,M0050;M0002;M0116,Jeruk 1/2 Jumbo | Air Putih Gelas | Nasi Bakul Besar,Minuman Jumbo;Minuman Standar;Snack
+BBR001,ORD002267,2026-10-30 21:11:14,2,M0008;M0047,Bihun Goreng Ayam Spesial BP | Healthy Juice,Bihun;Juice
+BBR001,ORD002268,2026-10-31 12:42:50,1,M0091,Lemon Tea 1/2 Jumbo,Minuman Jumbo
+BBR001,ORD002270,2026-10-31 14:36:44,2,M0069;M0197,Kopi Hitam 1/2 Jumbo | Tumis Kangkung,Minuman Jumbo;Sayuran
+BBR001,ORD002271,2026-10-31 15:14:48,4,M0011;M0004;M0094;M0194,Bihun Kuah Ayam | Ayam Goreng Kremezz Tok | Lychee Tea | Tempe Penyet,Bihun;Alacarte;Minuman Standar;Snack
+BBR001,ORD002272,2026-10-31 15:30:19,2,M0024;M0068,Crispy Dori Rice Hotplate | Kopi Hitam,Hotplate;Minuman Standar
+BBR001,ORD002273,2026-10-31 16:33:46,3,M0112;M0054;M0067,Nasi Ayam Crispy Saus Merah | Jeruk Teko | Kerupuk Prasmanan,Aneka Nasi;Minuman Teko;Snack
+BBR001,ORD002274,2026-10-31 17:53:31,3,M0007;M0037;M0029,Bihun Goreng Ayam | Gurame Bakar Manis | Es Sirup,Bihun;Gurame;Minuman Standar
+BBR001,ORD002275,2026-10-31 18:28:37,2,M0026;M0005,Cumi Asam Manis | Bakwan Jagung,Alacarte;Snack
+BBR001,ORD002276,2026-10-31 18:28:40,3,M0038;M0056;M0067,Gurame Bakar Pedas | Juice Buah Naga | Kerupuk Prasmanan,Gurame;Juice;Snack
+BBR001,ORD002277,2026-10-31 19:17:51,4,M0009;M0153;M0190;M0159,Bihun Goreng Sapi Spesial BP | Paket Sapi Lada Hitam | Teh Teko | Sambal Terasi,Bihun;Paket Personal;Minuman Teko;Sambal
+BBR001,ORD002278,2026-10-31 19:18:45,3,M0003;M0001;M0005,Ayam Bakar Tok | Air Mineral Botol | Bakwan Jagung,Alacarte;Minuman Standar;Snack
+BBR001,ORD002279,2026-10-31 19:29:28,3,M0027;M0125;M0155,Cumi Asam Pedas | Nasi Goreng Telur | Pisang Goreng Ori,Alacarte;Nasi Goreng;Snack
+BBR001,ORD002281,2026-10-31 19:30:45,4,M0069;M0087;M0054;M0005,Kopi Hitam 1/2 Jumbo | Lele Goreng | Jeruk Teko | Bakwan Jagung,Minuman Jumbo;Lele;Minuman Teko;Snack
+BBR001,ORD002282,2026-10-31 20:06:24,3,M0003;M0029;M0006,Ayam Bakar Tok | Es Sirup | Bakwan Sayur,Alacarte;Minuman Standar;Snack
+BBR001,ORD002283,2026-10-31 20:33:04,4,M0150;M0014;M0058;M0184,Paket Nila | Bihun Siram Ayam Spesial Teriyaki | Juice Jeruk | Tahu Penyet,Paket Personal;Bihun;Juice;Snack
+BBR001,ORD002285,2026-10-31 21:39:34,3,M0033;M0190;M0184,Fuyung Hai Spesial BB | Teh Teko | Tahu Penyet,Alacarte;Minuman Teko;Snack

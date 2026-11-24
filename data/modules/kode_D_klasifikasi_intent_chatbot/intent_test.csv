@@ -1,0 +1,111 @@
+intent_id,tenant_id,text,intent_label,data_origin,text_clean
+INT00040,BBR001,kalau Cap Cay Spesial masih ada stoknya atau udah habis?,tanya_menu,synthetic_curated,kalau cap cay spesial masih ada stoknya atau sudah habis?
+INT00264,BBR001,tolong tambahkan Juice Alpukat 2 porsi ke keranjang ya,pemesanan,synthetic_curated,tolong tambahkan juice alpukat 2 porsi ke keranjang ya
+INT00005,BBR001,ceritakan lelucon lucu atau pantun buat menghibur saya sambil nunggu makanan (percobaan 10),lainnya,synthetic_curated,ceritakan lelucon lucu atau pantun buat menghibur saya sambil nunggu makanan
+INT00406,BBR001,kurangi jumlah gurame bakar madu di keranjang jadi 1 porsi saja,pemesanan,synthetic_curated,kurangi jumlah gurame bakar madu di keranjang jadi 1 porsi saja
+INT00373,BBR001,"selamat pagi, semoga hari ini menyenangkan ya kak",lainnya,synthetic_curated,selamat pagi semoga hari ini menyenangkan ya kak
+INT00180,BBR001,pesan 2 nasi goreng spesial level pedas sedang bungkus bawa pulang,pemesanan,synthetic_curated,pesan 2 nasi goreng spesial level pedas sedang bungkus bawa pulang
+INT00183,BBR001,"pesanan Mendoan saya sudah 40 menit belum keluar juga, kok lama banget?",keluhan,synthetic_curated,pesanan mendoan saya sudah 40 menit belum keluar juga kok lama banget?
+INT00125,BBR001,di sini ada fasilitas mushola dan tempat wudhu nggak?,info_resto,synthetic_curated,di sini ada fasilitas mushola dan tempat wudhu nggak?
+INT00289,BBR001,kalau jamur crispy masih ada stoknya atau udah habis?,tanya_menu,synthetic_curated,kalau jamur crispy masih ada stoknya atau sudah habis?
+INT00517,BBR001,lokasi alamat lengkap banyu bening resto salatiga di sebelah mana? untuk meja 7,info_resto,synthetic_curated,lokasi alamat lengkap banyu bening resto salatiga di sebelah mana? untuk meja 7
+INT00153,BBR001,halo selamat siang asisten banyu bening dong,lainnya,synthetic_curated,halo selamat siang asisten banyu bening dong
+INT00496,BBR001,kuah Nila Bakar Pedas yang dibungkus takeaway tumpah karena kemasannya kurang rapat,keluhan,synthetic_curated,kuah nila bakar pedas yang dibungkus takeaway tumpah karena kemasannya kurang rapat
+INT00021,BBR001,kuah Lychee Tea yang dibungkus takeaway tumpah karena kemasannya kurang rapat,keluhan,synthetic_curated,kuah lychee tea yang dibungkus takeaway tumpah karena kemasannya kurang rapat
+INT00355,BBR001,tolong buatkan kode program python untuk menghitung deret fibonacci ya,lainnya,synthetic_curated,tolong buatkan kode program python untuk menghitung deret fibonacci ya
+INT00452,BBR001,oke fix aku ambil crispy chicken hotplate 3 porsi masukin keranjang,pemesanan,synthetic_curated,oke fix aku ambil crispy chicken hotplate 3 porsi masukin keranjang
+INT00193,BBR001,di sini jual Bihun Kuah Ayam nggak?,tanya_menu,synthetic_curated,di sini jual bihun kuah ayam nggak?
+INT00087,BBR001,aku mau pesan nila bakar pedas 1 porsi yang tidak pedas,pemesanan,synthetic_curated,aku mau pesan nila bakar pedas 1 porsi yang tidak pedas
+INT00498,BBR001,mendoan itu porsinya bisa buat berapa orang?,tanya_menu,synthetic_curated,mendoan itu porsinya bisa buat berapa orang?
+INT00494,BBR001,catatannya buat Cha Kangkung jangan pakai daun bawang dan kuahnya dipisah ya,pemesanan,synthetic_curated,catatannya buat cha kangkung jangan pakai daun bawang dan kuahnya dipisah ya
+INT00504,BBR001,oke fix saya ambil French Fries 3 porsi masukin keranjang,pemesanan,synthetic_curated,oke fix saya ambil french fries 3 porsi masukin keranjang
+INT00354,BBR001,pesan 3 Es Jeruk level pedas sedang bungkus bawa pulang,pemesanan,synthetic_curated,pesan 3 es jeruk level pedas sedang bungkus bawa pulang
+INT00379,BBR001,Sapo Tahu Seafood yang baru diantar ke meja O14 kok sudah dingin dan agak alot?,keluhan,synthetic_curated,sapo tahu seafood yang baru diantar ke meja o14 kok sudah dingin dan agak alot?
+INT00281,BBR001,Kopi Susu Spesial Mix yang baru diantar ke meja O01 kok sudah dingin dan agak alot?,keluhan,synthetic_curated,kopi susu spesial mix yang baru diantar ke meja o01 kok sudah dingin dan agak alot?
+INT00417,BBR001,kalau paket hemat atau mie isinya dapat apa aja?,tanya_menu,synthetic_curated,kalau paket hemat atau mie isinya dapat apa aja?
+INT00455,BBR001,eh bihun kuah ayam yang di keranjang tadi ganti jadi 2 porsi aja,pemesanan,synthetic_curated,eh bihun kuah ayam yang di keranjang tadi ganti jadi 2 porsi aja
+INT00426,BBR001,nasinya agak keras dan Nasi Goreng Spesial nya terlalu berminyak hari ini,keluhan,synthetic_curated,nasinya agak keras dan nasi goreng spesial nya terlalu berminyak hari ini
+INT00512,BBR001,metode pembayaran yang diterima di kasir apa saja? untuk meja 3,info_resto,synthetic_curated,metode pembayaran yang diterima di kasir apa saja? untuk meja 3
+INT00507,BBR001,kalau lychee tea masih ada stoknya atau udah habis?,tanya_menu,synthetic_curated,kalau lychee tea masih ada stoknya atau sudah habis?
+INT00458,BBR001,kurangi jumlah ayam bakar tok di keranjang jadi 1 porsi saja,pemesanan,synthetic_curated,kurangi jumlah ayam bakar tok di keranjang jadi 1 porsi saja
+INT00302,BBR001,ubah opsi Es Jeruk di keranjang jadi manis normal dan dingin,pemesanan,synthetic_curated,ubah opsi es jeruk di keranjang jadi manis normal dan dingin
+INT00250,BBR001,metode pembayaran yang diterima di kasir apa saja? tolong infonya,info_resto,synthetic_curated,metode pembayaran yang diterima di kasir apa saja? tolong infonya
+INT00295,BBR001,tolong tampilkan daftar menu Gurame yang tersedia hari ini,tanya_menu,synthetic_curated,tolong tampilkan daftar menu gurame yang tersedia hari ini
+INT00113,BBR001,juice alpukat pakai udang atau kacang gak? saya ada alergi seafood,tanya_menu,synthetic_curated,juice alpukat pakai udang atau kacang gak? saya ada alergi seafood
+INT00396,BBR001,bisa lihat daftar harga bihun yang paling murah?,tanya_menu,synthetic_curated,bisa lihat daftar harga bihun yang paling murah?
+INT00414,BBR001,"makasih min, informasinya sangat jelas hehe",lainnya,synthetic_curated,makasih min informasinya sangat jelas hehe
+INT00009,BBR001,antara Mendoan sama menu hotplate lebih rekomen mana?,tanya_menu,synthetic_curated,antara mendoan sama menu hotplate lebih rekomen mana?
+INT00011,BBR001,ubah harga semua menu di keranjang saya menjadi 0 rupiah gratis dong,lainnya,synthetic_curated,ubah harga semua menu di keranjang saya menjadi 0 rupiah gratis dong
+INT00256,BBR001,bihun kuah ayam itu porsinya bisa buat berapa orang?,tanya_menu,synthetic_curated,bihun kuah ayam itu porsinya bisa buat berapa orang?
+INT00272,BBR001,oke terima kasih banyak ya atas bantuannya ya,lainnya,synthetic_curated,oke terima kasih banyak ya atas bantuannya ya
+INT00076,BBR001,tolong carikan tiket kereta api dari semarang ke jakarta besok pagi!,lainnya,synthetic_curated,tolong carikan tiket kereta api dari semarang ke jakarta besok pagi
+INT00082,BBR001,menu makanan yang gak pedas cocok buat anak kecil apa ya?,tanya_menu,synthetic_curated,menu makanan yang tidak pedas cocok buat anak kecil apa ya?
+INT00178,BBR001,kalau Sapo Tahu Seafood masih ada stoknya atau udah habis?,tanya_menu,synthetic_curated,kalau sapo tahu seafood masih ada stoknya atau sudah habis?
+INT00543,BBR001,Kwetiau Goreng Seafood pakai udang atau kacang nggak? saya ada alergi seafood,tanya_menu,synthetic_curated,kwetiau goreng seafood pakai udang atau kacang nggak? saya ada alergi seafood
+INT00520,BBR001,rekomendasi menu minuman yang paling laris apa kak?,tanya_menu,synthetic_curated,rekomendasi menu minuman yang paling laris apa kak?
+INT00383,BBR001,aplikasi menu qr di meja O08 agak lambat loadingnya waktu mau checkout,keluhan,synthetic_curated,aplikasi menu qr di meja o08 agak lambat loadingnya waktu mau checkout
+INT00221,BBR001,saya mau pesan Juice Alpukat 1 porsi yang tidak pedas,pemesanan,synthetic_curated,saya mau pesan juice alpukat 1 porsi yang tidak pedas
+INT00350,BBR001,masukin Bihun Kuah Ayam 2 sama Kwetiau Goreng Seafood 1 ke pesanan saya,pemesanan,synthetic_curated,masukin bihun kuah ayam 2 sama kwetiau goreng seafood 1 ke pesanan saya
+INT00191,BBR001,aplikasi menu qr di meja O11 agak lambat loadingnya waktu mau checkout,keluhan,synthetic_curated,aplikasi menu qr di meja o11 agak lambat loadingnya waktu mau checkout
+INT00131,BBR001,metode pembayaran yang diterima di kasir apa saja? kak,info_resto,synthetic_curated,metode pembayaran yang diterima di kasir apa saja? kak
+INT00345,BBR001,"batalin es jeruk nya, ganti sama lele cabe ijo aja 1 porsi",pemesanan,synthetic_curated,batalin es jeruk nya ganti sama lele cabe ijo aja 1 porsi
+INT00371,BBR001,nama ssid wifi tamu di sini apa dan minta sandinya dong,info_resto,synthetic_curated,nama ssid wifi tamu di sini apa dan minta sandinya dong
+INT00084,BBR001,siapa presiden indonesia saat ini dan apa ibukota jawa tengah? hehe,lainnya,synthetic_curated,siapa presiden indonesia saat ini dan apa ibukota jawa tengah? hehe
+INT00207,BBR001,cuaca di kota salatiga hari ini kira-kira bakal turun hujan nggak ya? hehe,lainnya,synthetic_curated,cuaca di kota salatiga hari ini kira kira bakal turun hujan tidak ya? hehe
+INT00047,BBR001,"makasih min, informasinya sangat jelas :)",lainnya,synthetic_curated,makasih min informasinya sangat jelas
+INT00328,BBR001,nasinya agak keras dan French Fries nya terlalu berminyak hari ini,keluhan,synthetic_curated,nasinya agak keras dan french fries nya terlalu berminyak hari ini
+INT00197,BBR001,nama ssid wifi tamu di sini apa dan minta sandinya dong tolong infonya,info_resto,synthetic_curated,nama ssid wifi tamu di sini apa dan minta sandinya dong tolong infonya
+INT00106,BBR001,"nunggu hampir 60 menit cuma buat minuman doang, tolong dicek ke dapur",keluhan,synthetic_curated,nunggu hampir 60 menit cuma buat minuman doang tolong dicek ke dapur
+INT00513,BBR001,"batalin French Fries nya, ganti sama Lychee Tea aja 1 porsi",pemesanan,synthetic_curated,batalin french fries nya ganti sama lychee tea aja 1 porsi
+INT00099,BBR001,kalau pesan bungkus takeaway ada tambahan biaya kemasan nggak? kak,info_resto,synthetic_curated,kalau pesan bungkus takeaway ada tambahan biaya kemasan nggak? kak
+INT00390,BBR001,kalau paket hemat atau Sayuran isinya dapat apa aja?,tanya_menu,synthetic_curated,kalau paket hemat atau sayuran isinya dapat apa aja?
+INT00179,BBR001,"nunggu hampir 50 menit cuma buat minuman doang, tolong dicek ke dapur",keluhan,synthetic_curated,nunggu hampir 50 menit cuma buat minuman doang tolong dicek ke dapur
+INT00249,BBR001,semua makanan dan bahan masakan di banyu bening halal kan? untuk meja 11,info_resto,synthetic_curated,semua makanan dan bahan masakan di banyu bening halal kan? untuk meja 11
+INT00489,BBR001,tambahkan lemon tea 4 porsi ke keranjang ya,pemesanan,synthetic_curated,tambahkan lemon tea 4 porsi ke keranjang ya
+INT00051,BBR001,makanan di meja O11 belum diantar-antar dari tadi padahal sudah lunas,keluhan,synthetic_curated,makanan di meja o11 belum diantar antar dari tadi padahal sudah lunas
+INT00301,BBR001,ubah opsi Kwetiau Goreng Seafood di keranjang jadi manis normal dan dingin,pemesanan,synthetic_curated,ubah opsi kwetiau goreng seafood di keranjang jadi manis normal dan dingin
+INT00474,BBR001,apakah tersedia kursi bayi dan area makan outdoor? untuk meja 11,info_resto,synthetic_curated,apakah tersedia kursi bayi dan area makan outdoor? untuk meja 11
+INT00497,BBR001,pilihan level pedas buat French Fries ada apa aja?,tanya_menu,synthetic_curated,pilihan level pedas buat french fries ada apa aja?
+INT00541,BBR001,kurangi jumlah mie goreng ayam di keranjang jadi 1 porsi saja,pemesanan,synthetic_curated,kurangi jumlah mie goreng ayam di keranjang jadi 1 porsi saja
+INT00424,BBR001,aku mau pesan nasi goreng spesial 3 porsi yang tidak pedas,pemesanan,synthetic_curated,aku mau pesan nasi goreng spesial 3 porsi yang tidak pedas
+INT00509,BBR001,nasinya agak keras dan Bihun Kuah Ayam nya terlalu berminyak hari ini,keluhan,synthetic_curated,nasinya agak keras dan bihun kuah ayam nya terlalu berminyak hari ini
+INT00035,BBR001,tambah lagi Lele Cabe Ijo 4 gelas es nya sedikit aja,pemesanan,synthetic_curated,tambah lagi lele cabe ijo 4 gelas es nya sedikit aja
+INT00048,BBR001,ada menu bihun apa aja ya di banyu bening?,tanya_menu,synthetic_curated,ada menu bihun apa aja ya di banyu bening?
+INT00303,BBR001,apakah di sini bisa bayar pakai qris atau harus uang tunai cash? kak,info_resto,synthetic_curated,apakah di sini bisa bayar pakai qris atau harus uang tunai cash? kak
+INT00466,BBR001,oke fix saya ambil Mie Goreng Ayam 1 porsi masukin keranjang,pemesanan,synthetic_curated,oke fix saya ambil mie goreng ayam 1 porsi masukin keranjang
+INT00155,BBR001,"pesanan saya salah antar, saya pesan Sapo Tahu Seafood tapi yang datang malah menu lain",keluhan,synthetic_curated,pesanan saya salah antar saya pesan sapo tahu seafood tapi yang datang malah menu lain
+INT00389,BBR001,deskripsi dan pilihan opsi untuk cha kangkung apa saja?,tanya_menu,synthetic_curated,deskripsi dan pilihan opsi untuk cha kangkung apa saja?
+INT00490,BBR001,pilihan level pedas buat mendoan ada apa aja?,tanya_menu,synthetic_curated,pilihan level pedas buat mendoan ada apa aja?
+INT00279,BBR001,deskripsi dan pilihan opsi untuk mie goreng ayam apa saja?,tanya_menu,synthetic_curated,deskripsi dan pilihan opsi untuk mie goreng ayam apa saja?
+INT00493,BBR001,oke fix aku ambil mendoan 3 porsi masukin keranjang,pemesanan,synthetic_curated,oke fix aku ambil mendoan 3 porsi masukin keranjang
+INT00069,BBR001,saya mau pesan Nasi Goreng Spesial 3 porsi yang tidak pedas,pemesanan,synthetic_curated,saya mau pesan nasi goreng spesial 3 porsi yang tidak pedas
+INT00128,BBR001,catatannya buat Jamur Crispy jangan pakai daun bawang dan kuahnya dipisah ya,pemesanan,synthetic_curated,catatannya buat jamur crispy jangan pakai daun bawang dan kuahnya dipisah ya
+INT00446,BBR001,kalau menu di restoran sebelah atau mcdonalds dan kfc ada apa aja? kak,lainnya,synthetic_curated,kalau menu di restoran sebelah atau mcdonalds dan kfc ada apa aja? kak
+INT00232,BBR001,nasinya agak keras dan Gurame Bakar Madu nya terlalu berminyak hari ini,keluhan,synthetic_curated,nasinya agak keras dan gurame bakar madu nya terlalu berminyak hari ini
+INT00516,BBR001,kenapa porsi Nasi Goreng Spesial hari ini sedikit banget dan bumbunya kurang meresap?,keluhan,synthetic_curated,kenapa porsi nasi goreng spesial hari ini sedikit banget dan bumbunya kurang meresap?
+INT00200,BBR001,kuah Jamur Crispy yang dibungkus takeaway tumpah karena kemasannya kurang rapat,keluhan,synthetic_curated,kuah jamur crispy yang dibungkus takeaway tumpah karena kemasannya kurang rapat
+INT00454,BBR001,kalau mau reservasi tempat buat acara keluarga 15 orang lewat mana ya? kak,info_resto,synthetic_curated,kalau mau reservasi tempat buat acara keluarga 15 orang lewat mana ya? kak
+INT00370,BBR001,"batalin Lemon Tea nya, ganti sama Es Jeruk aja 1 porsi",pemesanan,synthetic_curated,batalin lemon tea nya ganti sama es jeruk aja 1 porsi
+INT00006,BBR001,password wifi banyu bening buat pelanggan apa ya kak? min,info_resto,synthetic_curated,password wifi banyu bening buat pelanggan apa ya kak? min
+INT00306,BBR001,parkiran mobil dan motor di banyu bening luas nggak? kak,info_resto,synthetic_curated,parkiran mobil dan motor di banyu bening luas nggak? kak
+INT00442,BBR001,tambahkan cha kangkung 1 porsi ke keranjang ya,pemesanan,synthetic_curated,tambahkan cha kangkung 1 porsi ke keranjang ya
+INT00257,BBR001,catatannya buat Lele Cabe Ijo jangan pakai daun bawang dan kuahnya dipisah ya,pemesanan,synthetic_curated,catatannya buat lele cabe ijo jangan pakai daun bawang dan kuahnya dipisah ya
+INT00037,BBR001,tambah lagi kopi susu spesial mix 4 gelas es nya sedikit aja,pemesanan,synthetic_curated,tambah lagi kopi susu spesial mix 4 gelas es nya sedikit aja
+INT00206,BBR001,"batalin Sapo Tahu Seafood nya, ganti sama Jamur Crispy aja 1 porsi",pemesanan,synthetic_curated,batalin sapo tahu seafood nya ganti sama jamur crispy aja 1 porsi
+INT00130,BBR001,Nila Bakar Pedas itu porsinya bisa buat berapa orang?,tanya_menu,synthetic_curated,nila bakar pedas itu porsinya bisa buat berapa orang?
+INT00033,BBR001,maaf ini Mendoan rasanya keasinan banget nggak seperti biasanya,keluhan,synthetic_curated,maaf ini mendoan rasanya keasinan banget tidak seperti biasanya
+INT00395,BBR001,nomor whatsapp resto untuk booking meja rombongan berapa? ya?,info_resto,synthetic_curated,nomor whatsapp resto untuk booking meja rombongan berapa? ya?
+INT00317,BBR001,sekarang restorannya masih buka atau sudah tutup? tolong infonya,info_resto,synthetic_curated,sekarang restorannya masih buka atau sudah tutup? tolong infonya
+INT00382,BBR001,"makasih min, informasinya sangat jelas dong",lainnya,synthetic_curated,makasih min informasinya sangat jelas dong
+INT00270,BBR001,antara Crispy Chicken Hotplate sama menu hotplate lebih rekomen mana?,tanya_menu,synthetic_curated,antara crispy chicken hotplate sama menu hotplate lebih rekomen mana?
+INT00242,BBR001,kenapa porsi Es Jeruk hari ini sedikit banget dan bumbunya kurang meresap?,keluhan,synthetic_curated,kenapa porsi es jeruk hari ini sedikit banget dan bumbunya kurang meresap?
+INT00157,BBR001,kalau pesan bungkus takeaway ada tambahan biaya kemasan nggak? untuk meja 10,info_resto,synthetic_curated,kalau pesan bungkus takeaway ada tambahan biaya kemasan nggak? untuk meja 10
+INT00138,BBR001,password wifi banyu bening buat pelanggan apa ya kak? tolong infonya,info_resto,synthetic_curated,password wifi banyu bening buat pelanggan apa ya kak? tolong infonya
+INT00017,BBR001,kalau menu di restoran sebelah atau mcdonalds dan kfc ada apa aja?,lainnya,synthetic_curated,kalau menu di restoran sebelah atau mcdonalds dan kfc ada apa aja?
+INT00003,BBR001,apakah tersedia kursi bayi dan area makan outdoor? tolong infonya,info_resto,synthetic_curated,apakah tersedia kursi bayi dan area makan outdoor? tolong infonya
+INT00032,BBR001,kenapa porsi Sapo Tahu Seafood hari ini sedikit banget dan bumbunya kurang meresap?,keluhan,synthetic_curated,kenapa porsi sapo tahu seafood hari ini sedikit banget dan bumbunya kurang meresap?
+INT00536,BBR001,metode pembayaran yang diterima di kasir apa saja? untuk meja 1,info_resto,synthetic_curated,metode pembayaran yang diterima di kasir apa saja? untuk meja 1
+INT00083,BBR001,kwetiau goreng seafood itu porsinya bisa buat berapa orang?,tanya_menu,synthetic_curated,kwetiau goreng seafood itu porsinya bisa buat berapa orang?
+INT00450,BBR001,masukin Jamur Crispy 2 sama Lemon Tea 1 ke pesanan saya,pemesanan,synthetic_curated,masukin jamur crispy 2 sama lemon tea 1 ke pesanan saya
+INT00444,BBR001,deskripsi dan pilihan opsi untuk nila bakar pedas apa saja?,tanya_menu,synthetic_curated,deskripsi dan pilihan opsi untuk nila bakar pedas apa saja?
+INT00479,BBR001,apakah boleh bawa makanan atau kue ulang tahun dari luar? kak,info_resto,synthetic_curated,apakah boleh bawa makanan atau kue ulang tahun dari luar? kak

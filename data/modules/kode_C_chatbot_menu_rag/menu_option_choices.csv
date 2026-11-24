@@ -1,0 +1,810 @@
+id,group_id,name,price_delta,sort_order,is_active
+ebb4976f-343b-4c16-a93e-df30e24f07cd,01b8c8b7-d333-46c5-a32d-a8f64e0bd974,Sambal Kecap Rawit,0,0,True
+80862e04-b4de-4676-a4ab-d0650abf9d09,01b8c8b7-d333-46c5-a32d-a8f64e0bd974,Sambal Bawang Pedas,0,1,True
+d407fa1b-e700-4400-a354-1ff786547ce4,01d7e5f7-dde2-4dc5-ada7-1750d439aa93,Tambah Nasi Putih Porsi,5000,0,True
+f37e9dd2-060e-4e2f-aa8f-e78f55e35454,0354f772-987d-49c9-ade1-c3049eac1a01,Tambah Nasi Putih Porsi,5000,0,True
+2e907c67-e2e2-4148-a6e4-87b2f57ee47e,0355ad24-b32b-4994-aeaa-e6f165e531c0,Ekstra Sambal Rawit Soto,0,0,True
+b50c288e-f65c-4c76-adf6-43fac52c221e,0355ad24-b32b-4994-aeaa-e6f165e531c0,Ekstra Jeruk Nipis Segar,1000,1,True
+853aacc0-1084-4f72-ad9e-9edd59f372c6,0380be16-c854-47d2-a27d-5aeb7556fb44,Ekstra Telur Ceplok,4000,0,True
+2f1a01a4-540d-4e59-ad08-2cd5e6080965,0380be16-c854-47d2-a27d-5aeb7556fb44,Ekstra Sosis,4000,1,True
+4c28cda1-96da-4172-acd8-a06651c8b3d5,03e0a713-e813-4936-aa36-c5671a1180b3,Tambah Nasi Putih Porsi,5000,0,True
+6a846d7a-df08-4e96-a6a8-a7eacd59b128,04942f52-9d70-437e-a0d8-798711a29e86,Goreng Kering Crispy,0,0,True
+d04588d4-ca4c-4898-ab28-7de7d24120ff,04942f52-9d70-437e-a0d8-798711a29e86,Goreng Gurih Standar,0,1,True
+1477336f-25df-40f2-aefb-1d42c0568fda,0644dd3d-9f32-4635-a815-e8d628d5a946,Tambah Nasi Putih Porsi,5000,0,True
+7b6720c5-0879-4513-acb8-8e1018cca703,06a36ffe-f11e-4891-a0fe-9248db692ce0,Goreng Kering Crispy,0,0,True
+d2ebb460-a041-4d82-af17-4e6c213f67b0,06a36ffe-f11e-4891-a0fe-9248db692ce0,Goreng Gurih Standar,0,1,True
+584e095c-4cef-4644-a1c1-a99e85e164e5,06ba04e4-da8b-4f25-a8e0-465a57e3a8ef,Manis Normal (Standar),0,0,True
+c2b0b3be-1b5d-4c55-ae8b-e83852af79f0,06ba04e4-da8b-4f25-a8e0-465a57e3a8ef,Sedikit Gula (Less Sugar),0,1,True
+2df591eb-9d78-4107-a881-47e6a8b79f18,06ba04e4-da8b-4f25-a8e0-465a57e3a8ef,Tanpa Gula (Tawar),0,2,True
+71ce8aab-9033-4fe8-a5a2-b62995fdf230,07ed2b52-6ed3-42d5-abde-e3eb813716bd,Sambal Terasi Meja,0,0,True
+aa8316e1-e37e-4189-aae9-d67f2e8ff936,07ed2b52-6ed3-42d5-abde-e3eb813716bd,Sambal Bawang Meja,0,1,True
+4daf675d-5505-4f6b-a10c-a1a6b51650d2,07ed2b52-6ed3-42d5-abde-e3eb813716bd,Sambal Kecap Meja,0,2,True
+c3f62b5c-795f-4b4e-a7a9-230b478acb25,08d566a4-6084-4595-a4a9-65e3235debed,Ekstra Telur Ceplok,4000,0,True
+92de5332-c9c8-44ce-af26-3c062fc69394,08d566a4-6084-4595-a4a9-65e3235debed,Ekstra Sosis,4000,1,True
+aa0cfb4b-7b29-413a-a2f5-e6b16acc3007,0a8a191f-5ebe-459a-a0b7-e2181e608b3a,Sambal Terasi (Khas BB),0,0,True
+67a4a564-7413-4dcb-a0fc-d9787e3264c1,0a8a191f-5ebe-459a-a0b7-e2181e608b3a,Sambal Bawang Gurih,0,1,True
+808d20f3-5e92-4362-ab03-3149149e8eae,0a8a191f-5ebe-459a-a0b7-e2181e608b3a,Sambal Kecap Pedas,0,2,True
+338b3747-215b-45cd-a055-9ed36807e59e,0a8a191f-5ebe-459a-a0b7-e2181e608b3a,Sambal Tomat Segar,0,3,True
+b22a1cf7-3e86-47f1-abdc-4ac8d7caa14e,0ad23814-8831-4164-a307-64dc7fba263f,Tambah Nasi Putih Porsi,5000,0,True
+ad70045c-f53b-4fd8-a1d4-470e4a489e94,0b60efa5-727c-4dcd-ac6e-b09ee12c6d1a,Sedang (Standar),0,0,True
+ed4ed37a-9353-4f4f-a010-ef677d0baac5,0b60efa5-727c-4dcd-ac6e-b09ee12c6d1a,Pedas Lada Hitam Mantap,0,1,True
+a1b6e007-73e6-4670-a6e8-d98a37ea16d8,0b60efa5-727c-4dcd-ac6e-b09ee12c6d1a,Ekstra Pedas Cabai Rawit,2000,2,True
+c33b067e-4c46-41ef-a16d-12514bc1574c,0dbcc4c5-acb1-449a-a059-e50dd69a3559,Tambah Nasi Putih Porsi,5000,0,True
+011a318a-8480-4b22-aa3f-da6f4007bf7c,0e038875-6625-4a76-a205-5dbb3782b20e,Manis Normal (Standar),0,0,True
+a4d424d8-802f-499b-ac12-ee067d0daaf9,0e038875-6625-4a76-a205-5dbb3782b20e,Sedikit Gula (Less Sugar),0,1,True
+2a87c1fc-1bee-415f-a9ce-c3ef0751b4f0,0e038875-6625-4a76-a205-5dbb3782b20e,Tanpa Gula (Tawar),0,2,True
+75c98d0c-ebe4-4764-a228-f8f0332c3cd8,0eb9c663-e0ae-4115-a7b6-633d99386799,Tidak Pedas,0,0,True
+36489159-0c63-448c-ad33-be055307bf1e,0eb9c663-e0ae-4115-a7b6-633d99386799,Pedas Sedang (Standar),0,1,True
+56d4d00e-794b-4183-a132-6110c10410c2,0eb9c663-e0ae-4115-a7b6-633d99386799,Pedas Mantap (Level 1),0,2,True
+61ef5e9f-25f1-4ea9-ae86-66d6c99028d2,0eb9c663-e0ae-4115-a7b6-633d99386799,Ekstra Pedas (Level 2),2000,3,True
+345f79e9-f026-4afb-a547-6e1050df462a,100cda5d-d400-4ed7-a1bd-6b6e46558ae6,Ekstra Keju Cheddar Lumer,4000,0,True
+71fb4dd1-359a-43a7-aa99-43bcc6aef41c,100cda5d-d400-4ed7-a1bd-6b6e46558ae6,Ekstra Telur Sizzling,4000,1,True
+0a0fbc8a-a86d-48c0-a1c4-0c9a58619402,109c176f-4a8d-42ba-a003-b6dbc6025e51,Tambah Susu Kental Manis,2000,0,True
+799734f1-b5cf-452c-aa07-95d796a4bc8e,112a4e51-adc2-4785-a3fa-c2a713c85483,Goreng Kering Crispy,0,0,True
+999b0f79-1e61-4d2e-a87d-23f3a51373da,112a4e51-adc2-4785-a3fa-c2a713c85483,Goreng Gurih Standar,0,1,True
+f78908bf-de45-48e0-ae84-ab136ec6c6d8,118a382d-67c0-40ba-a8b2-a7082eb384b3,Sambal Terasi (Khas BB),0,0,True
+cad66c00-d14e-4dac-a175-ae91f00e32a1,118a382d-67c0-40ba-a8b2-a7082eb384b3,Sambal Bawang Gurih,0,1,True
+39dc7536-f6f9-4d81-a496-a7c9c39068e2,118a382d-67c0-40ba-a8b2-a7082eb384b3,Sambal Kecap Pedas,0,2,True
+60e347a3-d106-4f56-a0e0-5ba4c5835304,118a382d-67c0-40ba-a8b2-a7082eb384b3,Sambal Tomat Segar,0,3,True
+c44f2e76-e3c6-4864-a6bd-15cdeff93ce6,1326ac86-4a98-47d9-af74-eb9395969c64,Manis Normal (Standar),0,0,True
+6ead6db6-6bab-449c-a079-60cb9c045a52,1326ac86-4a98-47d9-af74-eb9395969c64,Sedikit Gula (Less Sugar),0,1,True
+5acdadc8-0fa2-4cec-a4fc-ee62438c8afb,1326ac86-4a98-47d9-af74-eb9395969c64,Tanpa Gula (Tawar),0,2,True
+d8c88274-1b86-4508-aabb-75a078cc4b73,135ae3b3-84c3-4a3e-af3d-a901302fcacd,Tambah Nasi Putih Porsi,5000,0,True
+988bd825-65b5-49db-a60d-7ddd0567575b,14cb537f-35fc-4e9c-a5a0-158c1ebedac7,Tambah Nasi Putih Porsi,5000,0,True
+edcd135b-faa1-4250-a497-7b11b06fe7a1,15a8205f-bd7a-48a8-a948-62ba1a8c31c9,Goreng Kering Crispy,0,0,True
+810c74e1-4e1f-4f09-a1cf-888e5e1c613b,15a8205f-bd7a-48a8-a948-62ba1a8c31c9,Goreng Gurih Standar,0,1,True
+a4678604-cd33-466b-a33b-d3881aad37b0,1716406c-0865-420c-a514-9745ae373b64,Manis Normal (Standar),0,0,True
+219fe07e-47b9-40ab-aba5-dcc5279d5dcd,1716406c-0865-420c-a514-9745ae373b64,Sedikit Gula (Less Sugar),0,1,True
+c759e5ae-4046-4c7f-ac15-6dc7d701d1a4,1716406c-0865-420c-a514-9745ae373b64,Tanpa Gula (Tawar),0,2,True
+01fe7a0b-aa6e-4f34-af5f-fe192379f5cc,176d3da0-2c55-41d0-a18a-608ed239b8ad,Sambal Terasi (Khas BB),0,0,True
+7e88f4d7-a4c3-4c01-af9e-da6ccce08239,176d3da0-2c55-41d0-a18a-608ed239b8ad,Sambal Bawang Gurih,0,1,True
+dfb504e9-0f4d-454f-ade9-0e1f1858521d,176d3da0-2c55-41d0-a18a-608ed239b8ad,Sambal Kecap Pedas,0,2,True
+118eb50e-1610-46cb-a71f-35e95a417818,176d3da0-2c55-41d0-a18a-608ed239b8ad,Sambal Tomat Segar,0,3,True
+f2faebb5-5695-4654-a0e9-c4f6f298e424,1888df86-23c1-4da5-ad7d-0d900ee01e0a,Sedang (Standar),0,0,True
+18359638-b3d8-437d-a50a-cabc91e72722,1888df86-23c1-4da5-ad7d-0d900ee01e0a,Pedas Lada Hitam Mantap,0,1,True
+fdf69e08-1036-4f50-a490-baba0aeb441f,1888df86-23c1-4da5-ad7d-0d900ee01e0a,Ekstra Pedas Cabai Rawit,2000,2,True
+f7ba838e-d4e1-4611-ae37-f046fe8bd2d9,19074787-3271-4b73-a9e8-f96ccde31667,Dingin (Pakai Es),0,0,True
+17029f39-bfee-4ea8-a269-51240e42239d,19074787-3271-4b73-a9e8-f96ccde31667,Hangat (Tanpa Es),0,1,True
+9e203bec-7ece-4540-a29f-6db4af2fa7d1,1be4b978-5c2f-4f6a-a73d-ba249882e3f5,Ekstra Telur Ceplok,4000,0,True
+1a32c9d2-732f-4516-ab9e-44b8d54f49fc,1be4b978-5c2f-4f6a-a73d-ba249882e3f5,Ekstra Sosis,4000,1,True
+bf931511-b41b-429b-a9b4-53f9e7a5e415,1d08b7f7-1b98-410e-a56b-4e86c3ab309f,Tidak Pedas,0,0,True
+8c521ff3-2e43-402b-ae07-e282dc7c69d1,1d08b7f7-1b98-410e-a56b-4e86c3ab309f,Pedas Sedang (Standar),0,1,True
+ec2a81c5-564f-4f30-a599-e79d9204f0c2,1d08b7f7-1b98-410e-a56b-4e86c3ab309f,Pedas Mantap (Level 1),0,2,True
+2df88463-9806-4ab2-a81f-1d335daad03e,1d08b7f7-1b98-410e-a56b-4e86c3ab309f,Ekstra Pedas (Level 2),2000,3,True
+7f39651b-5248-4a18-a633-66ae54f907d8,1d55d3e6-6ec9-47cc-ac00-0e648c1c57a3,Ekstra Parutan Keju,3000,0,True
+5217e13b-6d45-4377-a9f2-fc8666c51fce,1d55d3e6-6ec9-47cc-ac00-0e648c1c57a3,Ekstra Coklat Meses,3000,1,True
+8ee5040d-6e83-42fe-ad70-73c9aebf79b9,1d55d3e6-6ec9-47cc-ac00-0e648c1c57a3,Ekstra Susu Kental Manis,2000,2,True
+dd152f2d-a447-4d18-a854-1f42c3e3a4f0,1e20992f-ca2a-4a85-aa85-adb754f2798d,Sambal Terasi (Khas BB),0,0,True
+c329d903-7d55-444f-aa6a-314d6dece87b,1e20992f-ca2a-4a85-aa85-adb754f2798d,Sambal Bawang Gurih,0,1,True
+993f3794-e9bf-447f-ac46-4afba770f174,1e20992f-ca2a-4a85-aa85-adb754f2798d,Sambal Kecap Pedas,0,2,True
+0e2dc63b-0c3e-4e96-a477-ddf462a58963,1e20992f-ca2a-4a85-aa85-adb754f2798d,Sambal Tomat Segar,0,3,True
+e55c515f-1ce1-4225-a94a-3f8fdc74b6cd,1e69343c-713a-4702-a30a-e1262bfc60a8,Sambal Terasi (Khas BB),0,0,True
+b8dace04-deee-4f50-a969-f565681c1123,1e69343c-713a-4702-a30a-e1262bfc60a8,Sambal Bawang Gurih,0,1,True
+dac13e16-d317-4823-ae99-ab6baed046ff,1e69343c-713a-4702-a30a-e1262bfc60a8,Sambal Kecap Pedas,0,2,True
+ad970dd0-06cb-4de3-a5f7-de6b6726298c,1e69343c-713a-4702-a30a-e1262bfc60a8,Sambal Tomat Segar,0,3,True
+99d7cc1f-f6eb-49b1-a40a-58ef94a7387f,1f45fd50-29ea-4c9f-a41f-a65b898efe3f,Manis Normal (Standar),0,0,True
+3cfb6607-32eb-470e-afe8-fc3b70b44050,1f45fd50-29ea-4c9f-a41f-a65b898efe3f,Sedikit Gula (Less Sugar),0,1,True
+f5369196-1b87-4ee5-a492-db23ed6e35bb,1f45fd50-29ea-4c9f-a41f-a65b898efe3f,Tanpa Gula (Tawar),0,2,True
+bd605f97-e7f4-4a6a-a6c4-7d771ab42279,1fdf8ff8-cb23-4298-ad5e-4a273ccb2a6d,Tambah Nasi Putih Porsi,5000,0,True
+9befe1c6-d946-4ab6-a713-21b3b15e8284,20adc9d2-1493-4a91-a3a9-17ac5a72ffef,Tidak Pedas,0,0,True
+ce64c1e0-2fbe-4ba9-ab62-d3810de1083f,20adc9d2-1493-4a91-a3a9-17ac5a72ffef,Pedas Sedang (Standar),0,1,True
+1a1b746a-2fb3-4bee-a75f-7838ce7dc2e2,20adc9d2-1493-4a91-a3a9-17ac5a72ffef,Pedas Mantap (Level 1),0,2,True
+c16a5d53-3c1c-4fe4-a0fe-6f5ac54bb0b5,20adc9d2-1493-4a91-a3a9-17ac5a72ffef,Ekstra Pedas (Level 2),2000,3,True
+499d0914-14ae-4695-acfe-46de660240f4,20c48d53-ed81-4faa-a201-58b65c5ffdce,Sambal Terasi (Khas BB),0,0,True
+8d1d7149-c99d-423a-ac4f-d193026a9d1b,20c48d53-ed81-4faa-a201-58b65c5ffdce,Sambal Bawang Gurih,0,1,True
+4aae78d5-9871-408b-aaf4-f14044fbae3e,20c48d53-ed81-4faa-a201-58b65c5ffdce,Sambal Kecap Pedas,0,2,True
+ce712ec0-53e7-4667-a975-43efd48af032,20c48d53-ed81-4faa-a201-58b65c5ffdce,Sambal Tomat Segar,0,3,True
+eb807e7f-1777-419f-a987-889839063e11,21911a2b-f526-4c26-a80e-285399030658,Ekstra Telur Ceplok,4000,0,True
+7c8d8627-62a3-4fa9-a9d0-3aa001395b92,21911a2b-f526-4c26-a80e-285399030658,Ekstra Sosis,4000,1,True
+72729a31-8e8e-41c4-ab08-e256d002864f,23bef9c2-045f-4af6-a0b6-7c463fcb213c,Tambah Nasi Putih Porsi,5000,0,True
+bb659750-58c2-4d3a-ab0b-9a64053090a7,244b0631-61f6-4f72-a95f-7aea23f95083,Tidak Pedas (Bening Gurih),0,0,True
+6568d103-c85b-456d-ac97-e2f44ed6246e,244b0631-61f6-4f72-a95f-7aea23f95083,Pedas Sedang (Standar),0,1,True
+35c72fbc-d7a0-4ca6-ad4e-bbdc4f8a4e46,244b0631-61f6-4f72-a95f-7aea23f95083,Pedas Cabai Rawit Mantap,0,2,True
+9e85e05c-562a-402b-a609-75a863cf7c06,263e6fe8-9424-4616-aaa4-ecb39b963ebc,Tidak Pedas,0,0,True
+70a397cf-4182-4680-a41c-1ace852f4c77,263e6fe8-9424-4616-aaa4-ecb39b963ebc,Pedas Sedang (Standar),0,1,True
+7266dffd-b53b-42e0-a127-9d682cee890d,263e6fe8-9424-4616-aaa4-ecb39b963ebc,Pedas Mantap (Level 1),0,2,True
+a1ea26ff-031a-4221-a1fe-3099b655e47d,263e6fe8-9424-4616-aaa4-ecb39b963ebc,Ekstra Pedas (Level 2),2000,3,True
+788fdbf2-78d7-49c8-a541-bb455bc0f59c,2679f3d7-fc26-45de-a8f4-bd95c4358069,Sambal Terasi (Khas BB),0,0,True
+cf6d2168-e56b-42f4-a5e5-8ed0b0fc3512,2679f3d7-fc26-45de-a8f4-bd95c4358069,Sambal Bawang Gurih,0,1,True
+d81b4ed9-a920-4d50-a580-3728b1915ead,2679f3d7-fc26-45de-a8f4-bd95c4358069,Sambal Kecap Pedas,0,2,True
+b4990b28-689d-40e8-a061-6f108fcfcad2,2679f3d7-fc26-45de-a8f4-bd95c4358069,Sambal Tomat Segar,0,3,True
+388a3881-a38d-4459-ab82-74f37548840a,26d965bd-714c-40dd-ae38-55f27c807a59,Sambal Terasi (Khas BB),0,0,True
+dff5e1b8-755c-4fb8-abac-b0a56d424559,26d965bd-714c-40dd-ae38-55f27c807a59,Sambal Bawang Gurih,0,1,True
+11542b86-fc78-4b12-a31e-4ec0a7d77ff3,26d965bd-714c-40dd-ae38-55f27c807a59,Sambal Kecap Pedas,0,2,True
+36d22676-2c6f-4fc0-ad45-d570afdb9d5a,26d965bd-714c-40dd-ae38-55f27c807a59,Sambal Tomat Segar,0,3,True
+b85e1491-b0bf-4b5a-a1d4-af23afd58f47,27b940ee-8749-4faa-aad6-ad8bac7103cd,Tidak Pedas,0,0,True
+9b362e73-5952-4931-a36f-850db662379d,27b940ee-8749-4faa-aad6-ad8bac7103cd,Pedas Sedang (Standar),0,1,True
+454dd200-c5c4-4fb7-a426-4141aeb3e207,27b940ee-8749-4faa-aad6-ad8bac7103cd,Pedas Mantap (Level 1),0,2,True
+889f314d-e5c7-4b76-a1e6-51c6c8bfb654,27b940ee-8749-4faa-aad6-ad8bac7103cd,Ekstra Pedas (Level 2),2000,3,True
+04ac4e46-f366-451c-a3e7-3985dcb296e3,27d5a5a0-d7b3-4d55-a00f-3b91bc8e4e2e,Tidak Pedas (Bening Gurih),0,0,True
+67fcfcd7-c147-430b-ab89-d77c92dfbe3e,27d5a5a0-d7b3-4d55-a00f-3b91bc8e4e2e,Pedas Sedang (Standar),0,1,True
+d0475966-dca9-4c2b-a08b-44286136da83,27d5a5a0-d7b3-4d55-a00f-3b91bc8e4e2e,Pedas Cabai Rawit Mantap,0,2,True
+d2db29a6-f211-452d-abf8-8f79e75176d5,27f5d29d-dd20-4ac8-a611-5db5fedd48a6,Ekstra Telur Ceplok,4000,0,True
+20edc5ea-af12-42b8-af34-1280a04f4be1,27f5d29d-dd20-4ac8-a611-5db5fedd48a6,Ekstra Sosis,4000,1,True
+c9fc0fde-0e4a-4a92-a97f-1445b329ba00,28250df5-ae4f-4255-a1d0-4bf272bafac1,Sambal Terasi (Khas BB),0,0,True
+23fd8e43-144a-44ad-a773-ef860be06771,28250df5-ae4f-4255-a1d0-4bf272bafac1,Sambal Bawang Gurih,0,1,True
+ac45113e-1f9f-483b-a91b-a698bb7f8d45,28250df5-ae4f-4255-a1d0-4bf272bafac1,Sambal Kecap Pedas,0,2,True
+79440a11-9b19-40d1-a5c5-83de0e84fa74,28250df5-ae4f-4255-a1d0-4bf272bafac1,Sambal Tomat Segar,0,3,True
+65e302e3-1ec4-4d64-a7c9-a00694d5e2bb,286e009c-188f-4a44-a727-ed3ec871b5ca,Tidak Pedas,0,0,True
+0c4ecf3d-af47-4fe4-ad1f-0c194625fe56,286e009c-188f-4a44-a727-ed3ec871b5ca,Pedas Sedang (Standar),0,1,True
+fb88b966-57a8-4895-a077-b352eb7bfd8c,286e009c-188f-4a44-a727-ed3ec871b5ca,Pedas Mantap (Level 1),0,2,True
+b9e97b45-2df2-482e-a35b-4a7fb93d8767,286e009c-188f-4a44-a727-ed3ec871b5ca,Ekstra Pedas (Level 2),2000,3,True
+432a30ff-66f1-42c1-a7f4-629cf3652745,29736c6d-ebf1-4e74-a2e4-ee183ab2db62,Tambah Nasi Putih Porsi,5000,0,True
+66fba06c-5826-4bc6-a75f-44eb52a69295,29d11edc-eb7e-4124-a9d3-b5657e40a5f5,Tidak Pedas,0,0,True
+a42e0832-b272-4053-a1ce-df2ab1ed0d8b,29d11edc-eb7e-4124-a9d3-b5657e40a5f5,Pedas Sedang (Standar),0,1,True
+4d4d2a23-3c81-41a6-a3bc-03cf3b459bdf,29d11edc-eb7e-4124-a9d3-b5657e40a5f5,Pedas Mantap (Level 1),0,2,True
+4b52bf44-ae3e-446d-aef4-0a23116dd29a,29d11edc-eb7e-4124-a9d3-b5657e40a5f5,Ekstra Pedas (Level 2),2000,3,True
+9153bbf8-fbf2-4393-a9f7-a772d30575d7,29eba7dc-9e65-4299-abfa-e13df6fdc310,Ekstra Telur Ceplok,4000,0,True
+dc18ee9b-2162-45c0-afcd-039977a6ae43,29eba7dc-9e65-4299-abfa-e13df6fdc310,Ekstra Sosis,4000,1,True
+fbc63f1e-946c-4a8e-a850-1d717de1b4b0,2a2c4978-6a63-48a4-ae66-2155066b4c09,Tambah Nasi Putih Porsi,5000,0,True
+0bc16138-fd7b-41d0-ad22-c8ed70c5f56e,2aa45b84-fe71-4b59-ae40-4be783c26f5d,Ekstra Telur Ceplok,4000,0,True
+31101d23-a2df-40cf-a9b4-2a7a2cf367b8,2aa45b84-fe71-4b59-ae40-4be783c26f5d,Ekstra Sosis,4000,1,True
+e0d385f0-a2d4-44aa-aa09-a691048d1c99,2d58914b-9f6d-49cd-a2e0-0aedec2a9b7b,Tidak Pedas,0,0,True
+9381ef95-7721-4339-a435-ec95d6ce0406,2d58914b-9f6d-49cd-a2e0-0aedec2a9b7b,Pedas Sedang (Standar),0,1,True
+491b8b44-2835-4adc-a6d5-1563e8f6d8c8,2d58914b-9f6d-49cd-a2e0-0aedec2a9b7b,Pedas Mantap (Level 1),0,2,True
+5de230b0-2166-48f3-abda-ffe6d932f1f9,2d58914b-9f6d-49cd-a2e0-0aedec2a9b7b,Ekstra Pedas (Level 2),2000,3,True
+af0fc903-b0ba-41d6-a61d-4c102d38da6d,2e3be20b-4e1c-4847-acc8-f2e61d56aea6,Tambah Susu Kental Manis,2000,0,True
+9abd80a7-8ae3-4d8d-ae8b-08f798a80b0c,2efda9d6-2adb-40b9-a9ed-d4661e205df2,Sambal Terasi (Khas BB),0,0,True
+302f2e26-4793-40fe-a8e7-4e2cc67c3520,2efda9d6-2adb-40b9-a9ed-d4661e205df2,Sambal Bawang Gurih,0,1,True
+52c85e41-b981-485c-a27d-cdd95b5428b7,2efda9d6-2adb-40b9-a9ed-d4661e205df2,Sambal Kecap Pedas,0,2,True
+99fda9cf-9185-4f6d-a07f-967156462f4c,2efda9d6-2adb-40b9-a9ed-d4661e205df2,Sambal Tomat Segar,0,3,True
+03f49bfc-5bda-42da-ac7f-ef3a3adee6e3,2f0512ac-3a4f-4220-a1ea-bbe26bb9087f,Tambah Susu Kental Manis,2000,0,True
+732745db-42ed-4257-a2ab-a69d234ff127,2fa78488-4bcf-44cd-a92f-d344cc93b559,Sambal Terasi (Khas BB),0,0,True
+ca44c458-8544-4598-a250-242ff3c6474d,2fa78488-4bcf-44cd-a92f-d344cc93b559,Sambal Bawang Gurih,0,1,True
+fbee5985-42a6-47bc-a81f-e31667ae0bcf,2fa78488-4bcf-44cd-a92f-d344cc93b559,Sambal Kecap Pedas,0,2,True
+b3be8785-13aa-4a2a-ae11-ca4d439a0957,2fa78488-4bcf-44cd-a92f-d344cc93b559,Sambal Tomat Segar,0,3,True
+c9e4233e-6f88-4f7d-a7e6-d2b71b1b88aa,312e9af4-820e-42ce-ad52-e5dadf143ccc,Dingin (Pakai Es),0,0,True
+3339c5b6-8bd0-4625-a6e6-1924d2fa5eba,312e9af4-820e-42ce-ad52-e5dadf143ccc,Hangat (Tanpa Es),0,1,True
+d5619150-4342-4ac6-a738-ea92388b0d62,334e6f85-8d84-48ab-a1b9-aa3c0c4eb672,Tambah Susu Kental Manis,2000,0,True
+aa11bc59-db40-49ed-a002-62e49e9c88e4,33b44f1e-7f11-465f-a50b-cccb33afa450,Sambal Terasi (Khas BB),0,0,True
+491c77b1-9aad-42b4-a8ee-7bb70c8b5edd,33b44f1e-7f11-465f-a50b-cccb33afa450,Sambal Bawang Gurih,0,1,True
+9eae19b6-89bc-43d7-aa0f-fe80a7a8e972,33b44f1e-7f11-465f-a50b-cccb33afa450,Sambal Kecap Pedas,0,2,True
+b28ea11a-a533-41f0-a972-1adf5b9e0838,33b44f1e-7f11-465f-a50b-cccb33afa450,Sambal Tomat Segar,0,3,True
+5e611e52-94fb-4d5d-a320-e1e87df97db9,33c704cf-2f0a-4edd-ac48-46ad9df7731f,Sedang (Standar),0,0,True
+1be4901d-6573-4776-ad36-b3e085f54e98,33c704cf-2f0a-4edd-ac48-46ad9df7731f,Pedas Lada Hitam Mantap,0,1,True
+c248c939-5cef-4d68-af30-7eaf7c94ea29,33c704cf-2f0a-4edd-ac48-46ad9df7731f,Ekstra Pedas Cabai Rawit,2000,2,True
+2d84dfd0-97c5-4449-a878-07d3f96cf79b,35442331-b8ca-4528-ab4c-97b278e2639d,Ekstra Keju Cheddar Lumer,4000,0,True
+21cad4ae-490b-459d-ab28-064126bbdb4c,35442331-b8ca-4528-ab4c-97b278e2639d,Ekstra Telur Sizzling,4000,1,True
+0ff95a46-5ebe-4f3f-ac64-219e9e0dbdfa,35609c70-84d0-43bb-a170-62d7816b42ca,Tidak Pedas,0,0,True
+af476a96-b875-4d8a-aa37-a5b12fc62202,35609c70-84d0-43bb-a170-62d7816b42ca,Pedas Sedang (Standar),0,1,True
+7926decc-b641-4eb8-a128-d4957605214c,35609c70-84d0-43bb-a170-62d7816b42ca,Pedas Mantap (Level 1),0,2,True
+3dc77f99-b83d-4364-a857-30613b754bff,35609c70-84d0-43bb-a170-62d7816b42ca,Ekstra Pedas (Level 2),2000,3,True
+58999766-9530-48cb-a1d8-d93e816a602d,356835f7-1e11-41be-a167-461b257b1b18,Manis Normal (Standar),0,0,True
+223d2a20-5d7d-4050-ae53-e6b33cbc7aba,356835f7-1e11-41be-a167-461b257b1b18,Sedikit Gula (Less Sugar),0,1,True
+58468a2e-355a-42d8-aa59-e32067196abe,356835f7-1e11-41be-a167-461b257b1b18,Tanpa Gula (Tawar),0,2,True
+a247dae6-2690-432b-ad0b-1f858ea4f331,35a1f6a9-91f3-49c1-aace-fef370e6c21a,Sambal Terasi Meja,0,0,True
+322eaca6-ee5b-4bf7-ac56-8ccf2ec20a11,35a1f6a9-91f3-49c1-aace-fef370e6c21a,Sambal Bawang Meja,0,1,True
+672fa26c-4156-49b3-a816-702333466ef6,35a1f6a9-91f3-49c1-aace-fef370e6c21a,Sambal Kecap Meja,0,2,True
+83bf3555-3ad7-4470-a00d-c7014d3facd5,37542a37-3806-4f85-a56d-d11a3b096f03,Tidak Pedas,0,0,True
+fad0a1cb-4100-4ef4-adf9-35c2aeef8b69,37542a37-3806-4f85-a56d-d11a3b096f03,Pedas Sedang (Standar),0,1,True
+03eb1ee2-b9b0-42db-a98e-b7de16d82815,37542a37-3806-4f85-a56d-d11a3b096f03,Pedas Mantap (Level 1),0,2,True
+fdaa2052-ae9e-4b6a-ac73-2b21562552ea,37542a37-3806-4f85-a56d-d11a3b096f03,Ekstra Pedas (Level 2),2000,3,True
+271ae9cc-93b2-4002-ac98-f54ce1cc9513,388a3bf6-e22a-41a6-aa5c-0348b7dcd789,Manis Normal (Standar),0,0,True
+21d39761-9551-47ef-aa3a-daaa9773a101,388a3bf6-e22a-41a6-aa5c-0348b7dcd789,Sedikit Gula (Less Sugar),0,1,True
+90a8cfa9-4913-4c3d-a020-39a9cebbd129,388a3bf6-e22a-41a6-aa5c-0348b7dcd789,Tanpa Gula (Tawar),0,2,True
+a64d39b2-7664-4cd7-a243-feffd9c6bf12,3bcd7a57-ff78-490d-a45c-b641105a519f,Manis Normal (Standar),0,0,True
+91eee1d7-01d8-4423-a66f-cf069c20edaa,3bcd7a57-ff78-490d-a45c-b641105a519f,Sedikit Gula (Less Sugar),0,1,True
+af89130e-8bfe-4d74-ad1c-dfd5601e0919,3bcd7a57-ff78-490d-a45c-b641105a519f,Tanpa Gula (Tawar),0,2,True
+697a3bec-d1d1-44a0-a1f3-325f943a8b95,3cac1fae-95ab-4ac6-aa50-30ce593e8ced,Ekstra Keju Cheddar Lumer,4000,0,True
+8c2396a3-3ba2-4c8f-a8e7-8be50b1db398,3cac1fae-95ab-4ac6-aa50-30ce593e8ced,Ekstra Telur Sizzling,4000,1,True
+dbbb599a-8a67-4e94-a42f-e1f5abe80912,3ce443e6-1f15-4994-a941-819560baa6ec,Ekstra Telur Ceplok,4000,0,True
+1b0f7846-3c36-4333-a0f7-dc73bcca9cad,3ce443e6-1f15-4994-a941-819560baa6ec,Ekstra Sosis,4000,1,True
+7315e690-bc14-40eb-a4dc-43a3ba1fe237,3d2429db-fa51-4838-a430-3528762feae0,Dingin (Pakai Es),0,0,True
+43f3af54-2673-4095-af10-b5314574d9de,3d2429db-fa51-4838-a430-3528762feae0,Hangat (Tanpa Es),0,1,True
+9a0ab7c2-eb32-4a78-ae9c-7bd48a58b586,3f6a4b61-f63d-41ec-a2ae-4a49de3b279e,Sedang (Standar),0,0,True
+def20b2c-b255-473c-ae7b-121d7ac87983,3f6a4b61-f63d-41ec-a2ae-4a49de3b279e,Pedas Lada Hitam Mantap,0,1,True
+bdc23520-8c51-4dc4-a2fb-f34c68d8c6e6,3f6a4b61-f63d-41ec-a2ae-4a49de3b279e,Ekstra Pedas Cabai Rawit,2000,2,True
+8112ada6-04cb-40b0-ab8a-aeab8530dfe4,3f6afa85-7107-4785-a322-a3a61b814c65,Tambah Susu Kental Manis,2000,0,True
+db9ea18e-3e64-4c87-ab78-28c825d49860,405871b3-d90e-4456-a3f6-823f08577e92,Manis Normal (Standar),0,0,True
+d0da27d3-dd20-418f-a5f3-6977946997fd,405871b3-d90e-4456-a3f6-823f08577e92,Sedikit Gula (Less Sugar),0,1,True
+b839b1f1-5369-4c57-aebd-dfade82e5b92,405871b3-d90e-4456-a3f6-823f08577e92,Tanpa Gula (Tawar),0,2,True
+82900ddc-08b3-41ca-ae86-c9edcc191262,40b9c9d3-5059-4c93-aa0c-39525ace3f26,Ekstra Telur Ceplok,4000,0,True
+bcf97964-425d-4605-a815-09ec7a6c11e1,40b9c9d3-5059-4c93-aa0c-39525ace3f26,Ekstra Sosis,4000,1,True
+dd5b8a06-90ab-450d-a9bf-2dad2324b4e3,4139dad8-7a1a-4927-a94e-94e04ce33783,Goreng Kering Crispy,0,0,True
+4ab5daaf-eab8-4a7c-a10f-ef96733e6bb0,4139dad8-7a1a-4927-a94e-94e04ce33783,Goreng Gurih Standar,0,1,True
+6b7143e5-d9b3-44ac-a362-9fe91eaf5a5e,41e3be82-701b-43bc-a68c-bd32652442bc,Goreng Kering Crispy,0,0,True
+a7d4d032-b70f-4ca0-ae18-8d98af13dd20,41e3be82-701b-43bc-a68c-bd32652442bc,Goreng Gurih Standar,0,1,True
+95da7eee-d4cd-45d4-af3b-c291465a0856,430b5a85-0932-4d05-a66f-71eca8c5009f,Tidak Pedas (Bening Gurih),0,0,True
+65bdb0ba-e513-4dd8-a634-4b37cdbcecd8,430b5a85-0932-4d05-a66f-71eca8c5009f,Pedas Sedang (Standar),0,1,True
+1821e1fc-adb6-4c2a-ac0c-c0f019037200,430b5a85-0932-4d05-a66f-71eca8c5009f,Pedas Cabai Rawit Mantap,0,2,True
+c97f93ef-cd96-4b57-a923-8e7db175e606,43577a8f-421d-4db1-a385-41f8c63764dc,Sambal Terasi (Khas BB),0,0,True
+d00367db-8e5e-4c6d-a41e-5749ffbb9144,43577a8f-421d-4db1-a385-41f8c63764dc,Sambal Bawang Gurih,0,1,True
+70dffdad-cc84-4e2d-afbb-3773125e9eca,43577a8f-421d-4db1-a385-41f8c63764dc,Sambal Kecap Pedas,0,2,True
+ad2daa64-d142-4bf7-a96d-6d19b1a49da4,43577a8f-421d-4db1-a385-41f8c63764dc,Sambal Tomat Segar,0,3,True
+b9b8c029-d760-4af9-a443-878315518e05,43750611-c5a6-4581-a4a9-62e913f125e0,Sambal Terasi (Khas BB),0,0,True
+92cad1f1-3cec-4261-af93-35469d3b0aae,43750611-c5a6-4581-a4a9-62e913f125e0,Sambal Bawang Gurih,0,1,True
+5fa8b74a-6f9a-4180-a1e1-1d54f3ad7a87,43750611-c5a6-4581-a4a9-62e913f125e0,Sambal Kecap Pedas,0,2,True
+a91537f1-c41d-4ebb-a0b7-3bac3dcb8e9d,43750611-c5a6-4581-a4a9-62e913f125e0,Sambal Tomat Segar,0,3,True
+58a76360-2a6e-46e4-af32-d2857e5eb461,43b595e7-d4dd-4bc2-aa8b-7e34ea27d642,Sedang (Standar),0,0,True
+4f959c39-de6a-4154-a64c-e54eebfb7ecd,43b595e7-d4dd-4bc2-aa8b-7e34ea27d642,Pedas Lada Hitam Mantap,0,1,True
+866aff67-3971-4abf-a692-3cbec9a5e742,43b595e7-d4dd-4bc2-aa8b-7e34ea27d642,Ekstra Pedas Cabai Rawit,2000,2,True
+e985170f-b10a-4d52-aa2b-9ba47f3bbe1e,44b3d589-feec-4402-aefc-430a7b17e2a9,Tambah Nasi Putih Porsi,5000,0,True
+756eba33-1fb7-47e5-a18a-e9fbb49b00bd,44c1d6c3-eb53-451a-abf8-219ddb9999be,Tambah Nasi Putih Porsi,5000,0,True
+0d220b97-4dee-4838-a59b-a52662051154,44c58ded-c746-4732-a47b-c8ddfd15e54a,Tidak Pedas (Bening Gurih),0,0,True
+7bdb0cfc-1f1a-408f-a488-db4dc81fdd49,44c58ded-c746-4732-a47b-c8ddfd15e54a,Pedas Sedang (Standar),0,1,True
+3215afc5-8315-4adb-acb1-d2f6ae39dd91,44c58ded-c746-4732-a47b-c8ddfd15e54a,Pedas Cabai Rawit Mantap,0,2,True
+7279f679-f33d-4255-a062-4bd3d3705a27,450c79f6-dd0e-41ff-aa4f-9677b69b252d,Sambal Terasi (Khas BB),0,0,True
+50744709-ac6d-4f9e-a61b-520bc10fe5aa,450c79f6-dd0e-41ff-aa4f-9677b69b252d,Sambal Bawang Gurih,0,1,True
+05e0b9cd-f986-4b9b-aa4b-2a448ce5408a,450c79f6-dd0e-41ff-aa4f-9677b69b252d,Sambal Kecap Pedas,0,2,True
+30631f66-b752-49d2-a471-7c5a969405df,450c79f6-dd0e-41ff-aa4f-9677b69b252d,Sambal Tomat Segar,0,3,True
+04b43ddb-576d-48ab-ab50-71c0639627da,4560db4e-f6b7-431c-aaa0-262ffba88976,Sambal Kecap Rawit,0,0,True
+16bf97c1-0e86-4a18-ac75-44a0964c7a23,4560db4e-f6b7-431c-aaa0-262ffba88976,Sambal Bawang Pedas,0,1,True
+e39a55d1-5913-47e1-a94e-0289f8413e39,45d71087-b9ad-421a-a21c-a02948a830e0,Sambal Kecap Rawit,0,0,True
+c0f5ab97-b99c-4260-a96e-9eff3e3550b3,45d71087-b9ad-421a-a21c-a02948a830e0,Sambal Bawang Pedas,0,1,True
+f216aad5-9902-4293-aad7-26364fb3483f,47a5da60-a3ba-4d79-ada1-bc31f217b2c4,Sambal Terasi (Khas BB),0,0,True
+ffa360d1-f3ef-46f8-a7d7-855dfa1f7010,47a5da60-a3ba-4d79-ada1-bc31f217b2c4,Sambal Bawang Gurih,0,1,True
+5620c74e-deef-4352-ac63-3d9b05514186,47a5da60-a3ba-4d79-ada1-bc31f217b2c4,Sambal Kecap Pedas,0,2,True
+c9b3be58-1741-4980-a944-0228eaa93092,47a5da60-a3ba-4d79-ada1-bc31f217b2c4,Sambal Tomat Segar,0,3,True
+4444d9b4-1ede-41ab-a706-3263f030a9b1,47c8cccf-c52c-41b0-ae83-d9e18890c2e1,Sambal Terasi (Khas BB),0,0,True
+0d7b7de9-91eb-4e4f-a9c4-c343b971b211,47c8cccf-c52c-41b0-ae83-d9e18890c2e1,Sambal Bawang Gurih,0,1,True
+79a6d920-2fda-473d-aa27-67d2f65b59a4,47c8cccf-c52c-41b0-ae83-d9e18890c2e1,Sambal Kecap Pedas,0,2,True
+276fd192-fbd3-4358-ac0e-6691d120fb12,47c8cccf-c52c-41b0-ae83-d9e18890c2e1,Sambal Tomat Segar,0,3,True
+ae7df7ab-5631-48ed-a028-bb18a060af20,492d82a4-22fa-4e7a-afda-61213f6bce02,Sambal Terasi (Khas BB),0,0,True
+97b2f718-5fcd-4801-a075-158677451e4b,492d82a4-22fa-4e7a-afda-61213f6bce02,Sambal Bawang Gurih,0,1,True
+a2242589-4a4c-450c-afc7-b6942fba784d,492d82a4-22fa-4e7a-afda-61213f6bce02,Sambal Kecap Pedas,0,2,True
+fa43857d-2b2b-44c2-a6e7-f89c8931dba6,492d82a4-22fa-4e7a-afda-61213f6bce02,Sambal Tomat Segar,0,3,True
+8c725b17-fd5c-4efb-a9e2-6f8e2b34c26d,49c89c4d-1ad8-4142-a650-faa8e3f57a65,Ekstra Keju Cheddar Lumer,4000,0,True
+1e05ea2f-8024-4888-a81d-4ac13bfe0084,49c89c4d-1ad8-4142-a650-faa8e3f57a65,Ekstra Telur Sizzling,4000,1,True
+d829bf8b-5361-4a25-af7c-3bae5a298878,49ccd59a-d528-4019-a716-64da2b18d217,Tidak Pedas,0,0,True
+eff6f814-2e9c-45ab-af44-5f2ac7c7b07d,49ccd59a-d528-4019-a716-64da2b18d217,Pedas Sedang (Standar),0,1,True
+bbe1586a-ab00-4f17-ae71-11b77cd428e6,49ccd59a-d528-4019-a716-64da2b18d217,Pedas Mantap (Level 1),0,2,True
+a83ef3e5-5b68-4715-a562-00d1e2e62621,49ccd59a-d528-4019-a716-64da2b18d217,Ekstra Pedas (Level 2),2000,3,True
+85f9c45a-07c2-4f51-afd0-848a799e6266,4ab0e9fb-2d7d-47c5-a6f9-54190466022b,Ekstra Keju Cheddar Lumer,4000,0,True
+f909833b-1faa-4e93-a85f-192feb85c239,4ab0e9fb-2d7d-47c5-a6f9-54190466022b,Ekstra Telur Sizzling,4000,1,True
+70adb47d-06dd-49fc-afa5-910a3b69844a,4b6e16e7-7f96-4e3d-a1e1-69fc2af693a1,Sambal Terasi Meja,0,0,True
+9250e65c-d4c3-4440-a81c-e73ee6994ff4,4b6e16e7-7f96-4e3d-a1e1-69fc2af693a1,Sambal Bawang Meja,0,1,True
+fc251416-75cd-4d4a-a566-420039a67bfc,4b6e16e7-7f96-4e3d-a1e1-69fc2af693a1,Sambal Kecap Meja,0,2,True
+a0caa9b7-464b-4f6d-aa7b-596d51574338,4bdf7886-0f1d-4715-aec8-3f54128241d3,Dingin (Pakai Es),0,0,True
+867ca1df-9c56-4e73-a37e-0a56302cb343,4bdf7886-0f1d-4715-aec8-3f54128241d3,Hangat (Tanpa Es),0,1,True
+6295a059-c992-416d-a600-eb336cd014fc,4c15f270-0935-4688-a7cb-c8113297f245,Tidak Pedas,0,0,True
+5e082a3a-091d-48f8-a57c-d8b4493708ea,4c15f270-0935-4688-a7cb-c8113297f245,Pedas Sedang (Standar),0,1,True
+bd5edf47-676d-48cf-a111-452bca4a3118,4c15f270-0935-4688-a7cb-c8113297f245,Pedas Mantap (Level 1),0,2,True
+d23e0b44-e399-47ba-a52a-3e50cdbedf83,4c15f270-0935-4688-a7cb-c8113297f245,Ekstra Pedas (Level 2),2000,3,True
+0ca2d226-84f0-4cb4-a2fb-6df6a913e8c0,4d187e89-9218-4a0a-a6c7-1a806f59c2f9,Ekstra Telur Ceplok,4000,0,True
+fc4587ab-885d-481d-afb2-02493f013602,4d187e89-9218-4a0a-a6c7-1a806f59c2f9,Ekstra Sosis,4000,1,True
+88801bca-bf6b-432f-af44-a094517c85ae,4e3e8200-17e5-49e8-a211-d0fad34d9352,Manis Normal (Standar),0,0,True
+cbb5880c-b15f-4ca0-a93b-745cd3e1c439,4e3e8200-17e5-49e8-a211-d0fad34d9352,Sedikit Gula (Less Sugar),0,1,True
+92c58f02-c73e-4748-a214-d7279f831bb7,4e3e8200-17e5-49e8-a211-d0fad34d9352,Tanpa Gula (Tawar),0,2,True
+1104d803-8f98-43bb-a90e-46ff919c080a,4ea7ac51-5073-4bc3-aa47-51b4d24a1722,Manis Normal (Standar),0,0,True
+e0b64dbd-ca3b-4375-add4-b2009b9a72d9,4ea7ac51-5073-4bc3-aa47-51b4d24a1722,Sedikit Gula (Less Sugar),0,1,True
+69a45ebe-2d64-456b-ac88-2385a81e76f4,4ea7ac51-5073-4bc3-aa47-51b4d24a1722,Tanpa Gula (Tawar),0,2,True
+fb43a126-9f10-45bd-a3d5-82db5b6abe51,5034fbd7-19a7-4936-afc5-54238e1fd247,Sambal Terasi (Khas BB),0,0,True
+d4e63ee0-1886-4346-a613-57a000424b19,5034fbd7-19a7-4936-afc5-54238e1fd247,Sambal Bawang Gurih,0,1,True
+9153cbb0-3262-41e5-a915-37d80642a9aa,5034fbd7-19a7-4936-afc5-54238e1fd247,Sambal Kecap Pedas,0,2,True
+c4b91964-ec01-4da3-a0c0-24ad5b7fda1f,5034fbd7-19a7-4936-afc5-54238e1fd247,Sambal Tomat Segar,0,3,True
+f630154c-943f-424f-a1d3-8948d0a1b1d0,50620aa9-d14b-453a-a73f-0a586cf3d201,Manis Normal (Standar),0,0,True
+7bb6c450-3caf-45ce-a6c3-08d38eb94f44,50620aa9-d14b-453a-a73f-0a586cf3d201,Sedikit Gula (Less Sugar),0,1,True
+15422895-2445-476e-a4af-1ace6bda230f,50620aa9-d14b-453a-a73f-0a586cf3d201,Tanpa Gula (Tawar),0,2,True
+36a62365-682c-426d-a8ad-0e7fc02abe70,5124f65a-1a02-4707-a683-613dae7b6afd,Ekstra Telur Ceplok,4000,0,True
+d44d470c-1146-496e-aff0-18a81f41dfd0,5124f65a-1a02-4707-a683-613dae7b6afd,Ekstra Sosis,4000,1,True
+e1f526e3-80ab-42f9-a1bb-ab9efe84a080,523bf058-617b-410d-aa12-22e6cf5babe2,Ekstra Telur Ceplok,4000,0,True
+f0e155cb-5651-41d6-ae32-0e21796aa030,523bf058-617b-410d-aa12-22e6cf5babe2,Ekstra Sosis,4000,1,True
+bed765aa-a10e-481f-add2-b79554ed7199,52e0312a-bae5-43b5-adf0-e78b159ae5c0,Tidak Pedas,0,0,True
+e8f348e0-5e4f-44c7-ab10-081f5af96eab,52e0312a-bae5-43b5-adf0-e78b159ae5c0,Pedas Sedang (Standar),0,1,True
+6d027826-ac12-46d5-abf0-50236828e285,52e0312a-bae5-43b5-adf0-e78b159ae5c0,Pedas Mantap (Level 1),0,2,True
+30edff5b-4a83-4adc-a7cf-eb6fc09f7518,52e0312a-bae5-43b5-adf0-e78b159ae5c0,Ekstra Pedas (Level 2),2000,3,True
+bb1ae20f-22a5-462c-a447-a818683f69a6,5559aa7d-afb0-40b6-acca-62cced149034,Ekstra Telur Ceplok,4000,0,True
+8232af3d-22ec-45e0-ad2e-e0bd956a3348,5559aa7d-afb0-40b6-acca-62cced149034,Ekstra Sosis,4000,1,True
+25d0b7b4-98e7-43c0-a6da-cdefd275bda4,55a23da2-9027-4208-acd9-24ed7f7e50dc,Ekstra Telur Ceplok,4000,0,True
+11e0ab66-4bf6-4e60-a364-d875d8883c1c,55a23da2-9027-4208-acd9-24ed7f7e50dc,Ekstra Sosis,4000,1,True
+ce5a1cfe-f787-4568-a5af-50cce8a27981,55e13039-0bac-4c7e-a081-2730c204bd76,Manis Normal (Standar),0,0,True
+5ddd5991-025b-4d3e-a861-118b347ab430,55e13039-0bac-4c7e-a081-2730c204bd76,Sedikit Gula (Less Sugar),0,1,True
+cd7a512a-721b-4653-a315-7ee6e2ae7da9,55e13039-0bac-4c7e-a081-2730c204bd76,Tanpa Gula (Tawar),0,2,True
+20518c4f-7bfc-43fb-a706-4083a37ca005,56b23e44-f781-443c-a48a-80e9ee24b7a3,Ekstra Telur Ceplok,4000,0,True
+85d5b2c2-6618-4d96-a4b1-83ebc9565674,56b23e44-f781-443c-a48a-80e9ee24b7a3,Ekstra Sosis,4000,1,True
+5913aa95-bf68-49a8-aa17-0c9889fe051e,56f407f5-d659-482c-a791-b2c59b7295df,Dingin (Pakai Es),0,0,True
+eb85c9b2-5d88-409a-a753-2c8149d50584,56f407f5-d659-482c-a791-b2c59b7295df,Hangat (Tanpa Es),0,1,True
+53e91437-a32e-47fe-a977-0400a36ea9a2,5747d2ae-dd18-49e8-a482-ff7ba09a1037,Tambah Susu Kental Manis,2000,0,True
+ff38d202-f1c0-41d0-a17e-e6d966130608,58ab55f0-a56e-4c73-a714-c0cf53ac42b1,Tambah Nasi Putih Porsi,5000,0,True
+9c5070a4-c97b-487a-abff-c72d8103b50d,59f6baf8-2873-4418-a188-5bb0937d9eca,Dingin (Pakai Es),0,0,True
+ce78430a-13eb-45a3-a7fe-86430bbeb20d,59f6baf8-2873-4418-a188-5bb0937d9eca,Hangat (Tanpa Es),0,1,True
+124fff27-afd0-4cb5-aff6-55151f78d148,5abcb106-f920-41e1-a115-2f179103d056,Tidak Pedas,0,0,True
+0aaaa876-f484-4e2b-afa8-87651a0f9b02,5abcb106-f920-41e1-a115-2f179103d056,Pedas Sedang (Standar),0,1,True
+724ce881-284f-4276-a126-3f56d0345892,5abcb106-f920-41e1-a115-2f179103d056,Pedas Mantap (Level 1),0,2,True
+cdff11df-164e-49ff-a744-14bd51b94387,5abcb106-f920-41e1-a115-2f179103d056,Ekstra Pedas (Level 2),2000,3,True
+7af6235f-0a57-45a3-a7d0-7edf3a14156b,5b4fdc94-ff0a-4198-ac17-5b29962973e7,Sambal Terasi (Khas BB),0,0,True
+7e77499a-dfcb-46e8-a9f5-a9e48a343975,5b4fdc94-ff0a-4198-ac17-5b29962973e7,Sambal Bawang Gurih,0,1,True
+74271885-86b9-45cc-a496-fa230bd6c4ee,5b4fdc94-ff0a-4198-ac17-5b29962973e7,Sambal Kecap Pedas,0,2,True
+10d8e873-7d2a-4df6-a10a-0ea539b3819b,5b4fdc94-ff0a-4198-ac17-5b29962973e7,Sambal Tomat Segar,0,3,True
+cf14f87d-911c-46ed-a53d-b0e9cdaddee8,5c5e2099-5b43-41f8-ac96-347de494ab78,Dingin (Pakai Es),0,0,True
+5198da16-46ec-42ea-a2ac-90752703e0a9,5c5e2099-5b43-41f8-ac96-347de494ab78,Hangat (Tanpa Es),0,1,True
+8669313a-5b94-4436-a4e0-1a83d5b99292,5fddb4d0-d928-47e5-a4e7-c5bb03872212,Dingin (Pakai Es),0,0,True
+3c57c710-afb7-42c8-a028-e07e6f5ce6cd,5fddb4d0-d928-47e5-a4e7-c5bb03872212,Hangat (Tanpa Es),0,1,True
+71450b4a-bd15-4b1f-a24d-0e2fbe36f81a,609bf8c9-2295-484b-a205-913124048944,Sambal Terasi (Khas BB),0,0,True
+3537f1db-4bbc-45b3-a773-4be70474781a,609bf8c9-2295-484b-a205-913124048944,Sambal Bawang Gurih,0,1,True
+86a6085a-afb4-45d3-ade9-116840c01417,609bf8c9-2295-484b-a205-913124048944,Sambal Kecap Pedas,0,2,True
+b74daa4d-fb67-4994-a56a-23f004315f1d,609bf8c9-2295-484b-a205-913124048944,Sambal Tomat Segar,0,3,True
+76799882-480c-4130-a981-08faff550471,61e6e77a-22e9-424c-a6ee-c5b1c7af7610,Goreng Kering Crispy,0,0,True
+08de9031-e6b8-47dc-a300-5f9c998840f2,61e6e77a-22e9-424c-a6ee-c5b1c7af7610,Goreng Gurih Standar,0,1,True
+c85e33bb-2f50-4e86-a563-de54c379ea87,6243c25f-60b4-4bd8-ad0d-9332aa8e39c4,Tidak Pedas,0,0,True
+e21cbc59-5f3d-49df-a298-affef09ede07,6243c25f-60b4-4bd8-ad0d-9332aa8e39c4,Pedas Sedang (Standar),0,1,True
+0cf938ee-5257-41ac-a2b2-4651ba3b6a31,6243c25f-60b4-4bd8-ad0d-9332aa8e39c4,Pedas Mantap (Level 1),0,2,True
+4dd98bbb-c9cd-40d4-a8e9-5074bd159978,6243c25f-60b4-4bd8-ad0d-9332aa8e39c4,Ekstra Pedas (Level 2),2000,3,True
+62400a8c-2712-4b2f-ab1f-60534d3f1443,649a8cc2-c4cd-4118-acce-9e79470ebc3a,Sambal Terasi (Khas BB),0,0,True
+e6eec3e9-43a2-4bcb-adf9-a91a68e52933,649a8cc2-c4cd-4118-acce-9e79470ebc3a,Sambal Bawang Gurih,0,1,True
+9b4c053b-57df-478e-aa08-16fa13bd5c8e,649a8cc2-c4cd-4118-acce-9e79470ebc3a,Sambal Kecap Pedas,0,2,True
+40fada72-b641-4ee2-af0d-a7a5953698cc,649a8cc2-c4cd-4118-acce-9e79470ebc3a,Sambal Tomat Segar,0,3,True
+5bb1952e-4609-4524-ae26-5b557e52b0e5,65890554-b09b-44b2-ab67-8b6879cb7106,Ekstra Telur Ceplok,4000,0,True
+705f589e-ce03-45f2-a9b9-8361e0dd745d,65890554-b09b-44b2-ab67-8b6879cb7106,Ekstra Sosis,4000,1,True
+58f72815-6d50-49ef-a3d2-10e33f7979c7,65b214b1-fbc8-460a-a99e-07c4b1a6ac90,Sedang (Standar),0,0,True
+34579bd9-8057-4761-acba-6fa9a72278b8,65b214b1-fbc8-460a-a99e-07c4b1a6ac90,Pedas Lada Hitam Mantap,0,1,True
+c7a53ef7-a943-4646-aec0-31b8c199ad2f,65b214b1-fbc8-460a-a99e-07c4b1a6ac90,Ekstra Pedas Cabai Rawit,2000,2,True
+7ae1438c-b889-4e5d-a012-9777a4dda7cc,6715a173-46ca-4137-a623-242bfb62e63a,Sambal Terasi (Khas BB),0,0,True
+dd2cce1a-e0d1-431b-a535-9993b7f26e9e,6715a173-46ca-4137-a623-242bfb62e63a,Sambal Bawang Gurih,0,1,True
+a636261a-3b7d-4dcb-a59a-a7ab2293342c,6715a173-46ca-4137-a623-242bfb62e63a,Sambal Kecap Pedas,0,2,True
+6ed64cd9-97fb-4742-a5dc-86783e56bd67,6715a173-46ca-4137-a623-242bfb62e63a,Sambal Tomat Segar,0,3,True
+6aff571d-5d3a-4442-aa42-c6e894045cff,6861cae1-f01c-4cb5-acbd-f6096cf31a95,Sambal Kecap Rawit,0,0,True
+b1150a98-c26c-4570-a7c4-de403f82fbd4,6861cae1-f01c-4cb5-acbd-f6096cf31a95,Sambal Bawang Pedas,0,1,True
+597a87dd-86ff-4e32-a059-a315cfe08e29,6a73438f-4ffb-45de-abac-8bb747958fea,Tidak Pedas,0,0,True
+7085cc0c-cfd8-4627-a396-43ece16224a0,6a73438f-4ffb-45de-abac-8bb747958fea,Pedas Sedang (Standar),0,1,True
+18b6e85e-ec16-4761-a101-05122dfd89f0,6a73438f-4ffb-45de-abac-8bb747958fea,Pedas Mantap (Level 1),0,2,True
+d7f6a897-c901-4166-a9a8-6135b6db5c45,6a73438f-4ffb-45de-abac-8bb747958fea,Ekstra Pedas (Level 2),2000,3,True
+b173e296-1090-48a2-ac86-94af77851a67,6bef4981-7e6f-448a-a5c0-51a151941f79,Tambah Nasi Putih Porsi,5000,0,True
+4b8e6f7d-0e54-4197-aca8-d678b4ed2b28,6c7dacb3-ae89-4c44-a859-7e47bdea5816,Manis Normal (Standar),0,0,True
+445a4ec7-269b-4bad-a4c1-b35e188d3c91,6c7dacb3-ae89-4c44-a859-7e47bdea5816,Sedikit Gula (Less Sugar),0,1,True
+4119f571-0e8b-49e9-a5b0-6180e74ca891,6c7dacb3-ae89-4c44-a859-7e47bdea5816,Tanpa Gula (Tawar),0,2,True
+fbb51180-b33b-4ea5-a1fb-3fca1b9fed4e,6ed4eb03-ccb8-4bc7-a7cd-a9405e20114c,Ekstra Telur Ceplok,4000,0,True
+134eecd0-655c-48ba-a0da-2895dad97c8a,6ed4eb03-ccb8-4bc7-a7cd-a9405e20114c,Ekstra Sosis,4000,1,True
+1b7828a8-bc0d-4ecc-a805-3ca16dcd24b3,6ef84672-0264-45bd-aca0-c3702b8b806a,Ekstra Telur Ceplok,4000,0,True
+d6e24e49-68b3-41cc-aa1d-80e5a9bbe94b,6ef84672-0264-45bd-aca0-c3702b8b806a,Ekstra Sosis,4000,1,True
+e87f6771-2124-4358-ab7f-0e9ad1913246,6fff3d32-0a37-433e-ac2c-4f026e002b94,Ekstra Telur Ceplok,4000,0,True
+55f77da4-d726-42f5-af40-57cce6cbacce,6fff3d32-0a37-433e-ac2c-4f026e002b94,Ekstra Sosis,4000,1,True
+b29c02bd-956e-43d5-ad5e-a1af6d7a6c46,70dc8071-146b-4e6d-a247-dd3988d04c0b,Dingin (Pakai Es),0,0,True
+3b3245a0-a498-44d9-a603-eab5a72a59f9,70dc8071-146b-4e6d-a247-dd3988d04c0b,Hangat (Tanpa Es),0,1,True
+87357479-18b1-4930-a747-ecedcb9f6894,723d71f2-af78-4529-af9a-82e825c646a8,Tidak Pedas,0,0,True
+6aa69aee-2c80-47b5-a371-22746869afd2,723d71f2-af78-4529-af9a-82e825c646a8,Pedas Sedang (Standar),0,1,True
+2994b8fd-5154-4d90-a46b-3f1d0c876bfd,723d71f2-af78-4529-af9a-82e825c646a8,Pedas Mantap (Level 1),0,2,True
+aa054270-1641-4f5f-ae47-6090ed16e306,723d71f2-af78-4529-af9a-82e825c646a8,Ekstra Pedas (Level 2),2000,3,True
+8f964fd4-c581-46d9-a5de-bf1e8d4be4d5,72ef5641-cdbc-42c5-adc0-8352d1b7ed7d,Goreng Kering Crispy,0,0,True
+3be971a2-5b00-4bf3-afcb-ab4c02953886,72ef5641-cdbc-42c5-adc0-8352d1b7ed7d,Goreng Gurih Standar,0,1,True
+abaaf941-5dbf-4380-ae40-6acd9ac6ed10,73991f4f-c78f-4970-a2aa-17d859546266,Sambal Terasi (Khas BB),0,0,True
+61f9eea6-fbb0-41c5-a31d-6be85920c522,73991f4f-c78f-4970-a2aa-17d859546266,Sambal Bawang Gurih,0,1,True
+00f68746-9d01-44b5-ae9f-f1d188ca1964,73991f4f-c78f-4970-a2aa-17d859546266,Sambal Kecap Pedas,0,2,True
+30211a50-6feb-4e0b-a865-096fb6e0c319,73991f4f-c78f-4970-a2aa-17d859546266,Sambal Tomat Segar,0,3,True
+e29485f7-5607-48fc-a647-974057a43305,74411027-590a-43b1-af1d-7d2e5838cd78,Dingin (Pakai Es),0,0,True
+520ff736-a938-46b5-aabd-5f4c5097f030,74411027-590a-43b1-af1d-7d2e5838cd78,Hangat (Tanpa Es),0,1,True
+0b17f0ab-ce28-44bc-a7c4-e44f96cdca12,76204589-8ac7-4493-ad65-60783e8295bb,Ekstra Parutan Keju,3000,0,True
+b95cab04-6868-4e4f-a5da-9e99b66eff6a,76204589-8ac7-4493-ad65-60783e8295bb,Ekstra Coklat Meses,3000,1,True
+0b43c4c5-0989-40ef-ad53-a464b4956541,76204589-8ac7-4493-ad65-60783e8295bb,Ekstra Susu Kental Manis,2000,2,True
+2275e9f6-9be8-460c-abbd-4efb22c00a57,762a3506-97eb-49b5-adfc-656318df9d0c,Tambah Nasi Putih Porsi,5000,0,True
+7d7a558c-a558-400c-afbb-e7ef250dc32a,7780f145-b684-438f-a4f8-4d4bf5009518,Ekstra Telur Ceplok,4000,0,True
+dfe0488a-6576-4681-af1a-6590fca82ce2,7780f145-b684-438f-a4f8-4d4bf5009518,Ekstra Sosis,4000,1,True
+efe282e4-5d52-4f61-a637-05cd8d237876,78daf1df-58e4-4eb3-a24b-09addc9ba09d,Sedang (Standar),0,0,True
+03e842a5-4f68-47d9-a6da-835880ce905d,78daf1df-58e4-4eb3-a24b-09addc9ba09d,Pedas Lada Hitam Mantap,0,1,True
+da4f62ce-e06b-4d36-a89c-227561e4772e,78daf1df-58e4-4eb3-a24b-09addc9ba09d,Ekstra Pedas Cabai Rawit,2000,2,True
+5c8906b5-02c5-4f4a-a023-636a11f9373b,7a0835ed-08c7-42e2-a047-f282d7924858,Tambah Nasi Putih Porsi,5000,0,True
+6509732a-18bf-4595-a071-34bc4d217164,7a23c30a-b6f9-4d5b-a5bd-05db76e06227,Sambal Kecap Rawit,0,0,True
+3e19b20f-0c59-4dd5-a7b3-a233602bec2b,7a23c30a-b6f9-4d5b-a5bd-05db76e06227,Sambal Bawang Pedas,0,1,True
+cfb4b96d-8d28-49e5-a021-a1a3e91d9d7f,7c3c3f4a-f4fa-45d6-aeaf-2d5ac0ba4dde,Tambah Susu Kental Manis,2000,0,True
+06c920ab-9ede-4b90-a8bc-69e9776d16fc,7c4856aa-d75d-4efa-a424-d6f51d0337f3,Ekstra Telur Ceplok,4000,0,True
+b3446064-5b9a-486d-a45d-4352e5e3bd8c,7c4856aa-d75d-4efa-a424-d6f51d0337f3,Ekstra Sosis,4000,1,True
+a78cab5e-18b1-4dcc-a49e-5c271b2324f0,7d42c8ee-7187-40cf-a01f-2756020a898a,Tidak Pedas,0,0,True
+1303f904-860c-4001-a082-27e444039c76,7d42c8ee-7187-40cf-a01f-2756020a898a,Pedas Sedang (Standar),0,1,True
+c98acbad-0ebc-4b3d-ad69-69c71ef25545,7d42c8ee-7187-40cf-a01f-2756020a898a,Pedas Mantap (Level 1),0,2,True
+e1c2c6f0-7e15-450d-a82f-d848eba2593f,7d42c8ee-7187-40cf-a01f-2756020a898a,Ekstra Pedas (Level 2),2000,3,True
+f7835b1f-bada-47d0-afdb-b115bb959a8e,7ead1f4d-3670-4577-a0c1-f994e213aca9,Sambal Terasi (Khas BB),0,0,True
+6621383a-6123-4e72-a8c8-e2e75ecc042f,7ead1f4d-3670-4577-a0c1-f994e213aca9,Sambal Bawang Gurih,0,1,True
+ffaac715-bcfe-4969-a6ba-9b727a55f0a8,7ead1f4d-3670-4577-a0c1-f994e213aca9,Sambal Kecap Pedas,0,2,True
+59d96d67-d538-4aa7-abe6-61f781b6da52,7ead1f4d-3670-4577-a0c1-f994e213aca9,Sambal Tomat Segar,0,3,True
+2a45dfe4-0a68-4147-a369-0a5cc91dc127,7f6c4cc5-e583-4caa-a90e-185ff2be96ae,Ekstra Keju Cheddar Lumer,4000,0,True
+148b1780-0490-46d4-a18f-2823b2e80a99,7f6c4cc5-e583-4caa-a90e-185ff2be96ae,Ekstra Telur Sizzling,4000,1,True
+bf830215-96e2-4cb4-acb4-28a4e5122308,7f99d848-961b-49c7-a6ab-5ed64991237a,Dingin (Pakai Es),0,0,True
+ba3d8fd7-1bea-4053-a432-fc6a75ca7527,7f99d848-961b-49c7-a6ab-5ed64991237a,Hangat (Tanpa Es),0,1,True
+f7759897-5b86-48a4-a521-8b9a47530aa1,81408371-9778-47dd-a15a-33f87932c87e,Tidak Pedas,0,0,True
+9a0006fc-0cfb-48f8-ac8e-ea239c702204,81408371-9778-47dd-a15a-33f87932c87e,Pedas Sedang (Standar),0,1,True
+cb04bd46-6c7b-4a01-a4cb-673a9c68ae34,81408371-9778-47dd-a15a-33f87932c87e,Pedas Mantap (Level 1),0,2,True
+55736d6f-d317-420a-aca5-327045d543d8,81408371-9778-47dd-a15a-33f87932c87e,Ekstra Pedas (Level 2),2000,3,True
+a281e9bb-cf12-4e30-a7d4-e7e70aff6c9a,825b94e3-b4c5-4253-ab0c-97818e0d2733,Manis Normal (Standar),0,0,True
+21ecd562-7db7-4ab0-a62e-b505d8c29db9,825b94e3-b4c5-4253-ab0c-97818e0d2733,Sedikit Gula (Less Sugar),0,1,True
+8ffd0186-1981-471f-ad08-4a7d8cab1a7f,825b94e3-b4c5-4253-ab0c-97818e0d2733,Tanpa Gula (Tawar),0,2,True
+3b9f4492-be7e-413f-aeee-821ad0f4dc8e,8270c539-f0e6-4812-afa6-0ef86bd5e96b,Sambal Terasi (Khas BB),0,0,True
+23b06905-b1af-4dc9-a116-e1baa44041de,8270c539-f0e6-4812-afa6-0ef86bd5e96b,Sambal Bawang Gurih,0,1,True
+2a327825-dd2c-400d-ab7e-a5daa634fcec,8270c539-f0e6-4812-afa6-0ef86bd5e96b,Sambal Kecap Pedas,0,2,True
+fa0294f0-0a60-4d4a-a238-9b9930410adb,8270c539-f0e6-4812-afa6-0ef86bd5e96b,Sambal Tomat Segar,0,3,True
+48acf547-1669-4082-aa6d-ee8315635725,83590272-0206-4a3e-a826-f13b0f4ade33,Sambal Terasi (Khas BB),0,0,True
+15f49473-fe0e-434b-a47f-5cb2d9df13a8,83590272-0206-4a3e-a826-f13b0f4ade33,Sambal Bawang Gurih,0,1,True
+703ea82d-713c-4bcc-a6ec-6893dffaa47f,83590272-0206-4a3e-a826-f13b0f4ade33,Sambal Kecap Pedas,0,2,True
+6434bdb7-6e9c-4b5a-a27e-37f479654a08,83590272-0206-4a3e-a826-f13b0f4ade33,Sambal Tomat Segar,0,3,True
+01a42b03-2ded-42e4-a47f-391909b7d710,853638dd-913f-4e4a-a46e-e5fc21884b9b,Goreng Kering Crispy,0,0,True
+50ce4544-b8fd-46cb-a731-651d2660d1c7,853638dd-913f-4e4a-a46e-e5fc21884b9b,Goreng Gurih Standar,0,1,True
+577d132a-97e9-4daf-ad22-c276f7162b62,85ef02d9-7c76-466d-a300-3095383fa2c9,Dingin (Pakai Es),0,0,True
+33ed6f06-e764-4a42-acb1-168fa7320f55,85ef02d9-7c76-466d-a300-3095383fa2c9,Hangat (Tanpa Es),0,1,True
+51d1d714-67c8-46ad-a778-dc77fc5811a0,85f78f85-beaf-47f1-a555-42be1a492d63,Ekstra Telur Ceplok,4000,0,True
+706e48a1-3d6a-44ce-adae-eca12b5fe644,85f78f85-beaf-47f1-a555-42be1a492d63,Ekstra Sosis,4000,1,True
+a0ab4776-e3c4-4700-a2fa-9f24e5b93bbb,8751fbdd-855a-442b-a653-2390b6706553,Manis Normal (Standar),0,0,True
+07a77a1a-6e77-4c29-a006-9827b1faaa9d,8751fbdd-855a-442b-a653-2390b6706553,Sedikit Gula (Less Sugar),0,1,True
+359c90d8-9e23-4c84-a354-86cad062d6c4,8751fbdd-855a-442b-a653-2390b6706553,Tanpa Gula (Tawar),0,2,True
+ec869082-6d25-4f16-a330-1fa63afa9da7,8773f441-3877-4c3c-aef0-59973ab5a17f,Ekstra Telur Ceplok,4000,0,True
+4c98840e-a279-42af-ac0b-67f751dfcb66,8773f441-3877-4c3c-aef0-59973ab5a17f,Ekstra Sosis,4000,1,True
+776460e8-11ef-4e94-aa4e-fa862b3a40ae,87db6818-ba3f-4c74-a7fd-1e776027e5c9,Sambal Terasi (Khas BB),0,0,True
+6758a4aa-50b1-42f8-a72c-e4bb8c831f4f,87db6818-ba3f-4c74-a7fd-1e776027e5c9,Sambal Bawang Gurih,0,1,True
+c027a18e-c176-46de-a856-6a8a94c60f73,87db6818-ba3f-4c74-a7fd-1e776027e5c9,Sambal Kecap Pedas,0,2,True
+2dd32fa2-d4bd-4b38-a80c-26858aca667f,87db6818-ba3f-4c74-a7fd-1e776027e5c9,Sambal Tomat Segar,0,3,True
+54ffd5a7-4d77-481e-a1a3-6d6e44d67963,8976bf17-5536-4c82-aced-731f8b5ce14c,Tambah Nasi Putih Porsi,5000,0,True
+8d079d11-b244-4c15-a233-551d773ecd0f,8b6bf7a2-1422-4c5b-ad6f-29fd0c76d282,Tambah Susu Kental Manis,2000,0,True
+d7cdad0c-60c0-4440-ab77-3e13b6b4b0ff,8f079151-281e-42f4-ac1d-1aa40b933e46,Sambal Terasi Meja,0,0,True
+936dab30-bae5-46e6-ae9e-654c83222ef8,8f079151-281e-42f4-ac1d-1aa40b933e46,Sambal Bawang Meja,0,1,True
+abd8c200-b242-4ae5-a59e-76eba0fdffca,8f079151-281e-42f4-ac1d-1aa40b933e46,Sambal Kecap Meja,0,2,True
+196d0d31-81b4-4211-aed5-c3ce71824421,900c156a-3e42-469d-ac41-f1d69f91b79d,Goreng Kering Crispy,0,0,True
+f281747d-3fae-41dc-abe8-47f05baa4315,900c156a-3e42-469d-ac41-f1d69f91b79d,Goreng Gurih Standar,0,1,True
+d1623353-b4fb-4c33-aab4-efa0b71c7d45,90d3b81a-52bf-4d51-a335-4e14f332041f,Sambal Terasi (Khas BB),0,0,True
+1a330733-0532-460f-aeca-66173ca57912,90d3b81a-52bf-4d51-a335-4e14f332041f,Sambal Bawang Gurih,0,1,True
+6efbb819-0f48-4702-af46-4748a9ab316d,90d3b81a-52bf-4d51-a335-4e14f332041f,Sambal Kecap Pedas,0,2,True
+22a24f9c-bf90-4117-a179-d77959331080,90d3b81a-52bf-4d51-a335-4e14f332041f,Sambal Tomat Segar,0,3,True
+c3d3c576-90d7-4a31-a2cd-a463c0314f8d,91072cda-ecb3-4613-a365-b27722f7cb2f,Sambal Terasi (Khas BB),0,0,True
+d0f0fdf8-f116-4859-aafb-aac771e75852,91072cda-ecb3-4613-a365-b27722f7cb2f,Sambal Bawang Gurih,0,1,True
+9275a510-b268-42f0-a200-360329f03561,91072cda-ecb3-4613-a365-b27722f7cb2f,Sambal Kecap Pedas,0,2,True
+590ce5c1-93b4-480b-acda-7eaedc2d871f,91072cda-ecb3-4613-a365-b27722f7cb2f,Sambal Tomat Segar,0,3,True
+da52c4b9-aa90-423a-a6d7-55d86d9ef727,916e8464-22e4-43ef-a42c-2004c967cfb1,Tambah Nasi Putih Porsi,5000,0,True
+46230c2b-0c91-4638-ae87-265cebf967cb,919072e6-a076-4021-ae95-8d02ce9a0840,Sambal Kecap Rawit,0,0,True
+2a476726-e98b-4eac-ae16-253dc0810c91,919072e6-a076-4021-ae95-8d02ce9a0840,Sambal Bawang Pedas,0,1,True
+0c6b0e80-16e2-40d2-abfe-8dc382f051f6,9321ee2c-237d-4b82-a50d-86796a931569,Goreng Kering Crispy,0,0,True
+abd38664-f414-44a3-ae32-fc9860cda155,9321ee2c-237d-4b82-a50d-86796a931569,Goreng Gurih Standar,0,1,True
+2355222a-e27f-4512-a538-238ca0f68aae,936d3198-0daf-4ff2-a0a1-3d6fff4e09cd,Tidak Pedas (Bening Gurih),0,0,True
+0a978a5e-b383-4bb6-af3d-045c3901555d,936d3198-0daf-4ff2-a0a1-3d6fff4e09cd,Pedas Sedang (Standar),0,1,True
+40d01322-ac45-4faa-a127-7878db644ebb,936d3198-0daf-4ff2-a0a1-3d6fff4e09cd,Pedas Cabai Rawit Mantap,0,2,True
+0bd6af9f-560e-47b2-a722-1edfdf56e7b2,95108085-79c6-47d8-a8f6-07293112038c,Tidak Pedas,0,0,True
+5e936977-d5f6-433a-a697-3eb977d27ed6,95108085-79c6-47d8-a8f6-07293112038c,Pedas Sedang (Standar),0,1,True
+12c0ca86-4a15-4b27-a61a-0f514e6f174a,95108085-79c6-47d8-a8f6-07293112038c,Pedas Mantap (Level 1),0,2,True
+b237c9a1-7da1-4bc8-a05a-d12b6ac86149,95108085-79c6-47d8-a8f6-07293112038c,Ekstra Pedas (Level 2),2000,3,True
+5bd0fd21-87db-416a-aea6-1623dca95c6e,95611dbf-c34c-4fc0-ab9b-51e89d4db630,Sambal Terasi (Khas BB),0,0,True
+12fdb6ac-e03b-4cb4-a4d3-98299f9c8706,95611dbf-c34c-4fc0-ab9b-51e89d4db630,Sambal Bawang Gurih,0,1,True
+5e3d390f-89bc-4ceb-a12c-c8d1ea5ab474,95611dbf-c34c-4fc0-ab9b-51e89d4db630,Sambal Kecap Pedas,0,2,True
+f5b524bd-392c-4b22-a156-1b8608d1423d,95611dbf-c34c-4fc0-ab9b-51e89d4db630,Sambal Tomat Segar,0,3,True
+6b27183c-f7bd-483a-ad06-811c205352b0,986bdd75-95d8-4b8d-ae6e-7b1ba6893b83,Ekstra Keju Cheddar Lumer,4000,0,True
+ab91944c-cc5a-43bc-a728-c4e496796c61,986bdd75-95d8-4b8d-ae6e-7b1ba6893b83,Ekstra Telur Sizzling,4000,1,True
+c91ece68-94c3-4c77-ae3b-c30775ffcd48,996bf6fe-ab1b-4284-a8b6-556eb640e2be,Tambah Nasi Putih Porsi,5000,0,True
+6620110f-c0a7-4baa-a2e6-22b68f58a4e4,9973f22e-653d-4ef5-a9b4-404d2848abb5,Dingin (Pakai Es),0,0,True
+c58cf099-7f00-46da-a9b5-01f0002e471c,9973f22e-653d-4ef5-a9b4-404d2848abb5,Hangat (Tanpa Es),0,1,True
+c5edf4a7-de1a-42df-a2c7-68a85a23526b,9b251977-c160-4c1d-a43c-259ea3cedbc8,Sambal Terasi (Khas BB),0,0,True
+ec4eceef-9fb2-4a1a-aa87-f29452501f24,9b251977-c160-4c1d-a43c-259ea3cedbc8,Sambal Bawang Gurih,0,1,True
+695d4e87-2984-4c7b-a65a-bbfa9a373f54,9b251977-c160-4c1d-a43c-259ea3cedbc8,Sambal Kecap Pedas,0,2,True
+0d424e4b-536f-4af9-ae3f-eaf877e8780f,9b251977-c160-4c1d-a43c-259ea3cedbc8,Sambal Tomat Segar,0,3,True
+9accc0a5-7300-4398-a2f3-f4229996abdb,9c0fdd84-5593-4417-a6b3-46ea4d63e592,Tidak Pedas,0,0,True
+4a27b9f4-acc9-4010-abf1-556580285c00,9c0fdd84-5593-4417-a6b3-46ea4d63e592,Pedas Sedang (Standar),0,1,True
+14141a3d-ceb0-4b14-a0b0-b380bef05c3a,9c0fdd84-5593-4417-a6b3-46ea4d63e592,Pedas Mantap (Level 1),0,2,True
+19ea6095-14cb-4aca-a470-51c3555b7936,9c0fdd84-5593-4417-a6b3-46ea4d63e592,Ekstra Pedas (Level 2),2000,3,True
+b4c23782-c409-4837-a787-c8d1452eaf7f,9ce5aff7-3c8f-4cc5-ac67-7a806503c45d,Tambah Nasi Putih Porsi,5000,0,True
+5af0f1cf-bcce-4eec-ae7b-adf027554270,9e733e79-54bb-4b77-aeec-9f77fcc881f8,Tambah Nasi Putih Porsi,5000,0,True
+7d53eaa2-48bd-4f3f-aee9-a18cb16ad02a,9ee3b75d-86cb-430c-a4b1-bd9bcc8775a1,Manis Normal (Standar),0,0,True
+ac457afd-c735-4f1e-ab03-13dea9c01311,9ee3b75d-86cb-430c-a4b1-bd9bcc8775a1,Sedikit Gula (Less Sugar),0,1,True
+4376350d-205d-4282-ac53-e49a24c4babb,9ee3b75d-86cb-430c-a4b1-bd9bcc8775a1,Tanpa Gula (Tawar),0,2,True
+e047da4c-d08d-426f-af0f-9f71c609702b,9fa813f6-46eb-47a2-a122-1c8263fe5261,Sambal Terasi (Khas BB),0,0,True
+befd27fd-690a-413f-ae2f-31a772885b92,9fa813f6-46eb-47a2-a122-1c8263fe5261,Sambal Bawang Gurih,0,1,True
+a7382a80-bfa8-4b16-a3a8-4afdf8f366c5,9fa813f6-46eb-47a2-a122-1c8263fe5261,Sambal Kecap Pedas,0,2,True
+d1dde5ee-549c-48d2-a241-3ef96d9c29e9,9fa813f6-46eb-47a2-a122-1c8263fe5261,Sambal Tomat Segar,0,3,True
+00abbaf5-47fa-4259-a129-5b543eb76ff2,a019c55e-feed-4b69-a3ec-931049cc23ec,Tambah Susu Kental Manis,2000,0,True
+b5f79b84-7017-42fa-ad98-15b835ef4411,a059a2a2-01bf-48b0-acae-59a2053a2a41,Sedang (Standar),0,0,True
+8b9bbd41-b3b2-4575-abfd-dcd437cee11a,a059a2a2-01bf-48b0-acae-59a2053a2a41,Pedas Lada Hitam Mantap,0,1,True
+062b8c56-8ee1-4717-a61d-694ea045d0ab,a059a2a2-01bf-48b0-acae-59a2053a2a41,Ekstra Pedas Cabai Rawit,2000,2,True
+e530aa3f-d94d-481a-a881-1d67fca2b093,a1348b68-0ace-4b2f-ac33-84510b1b8c37,Tambah Nasi Putih Porsi,5000,0,True
+f22ade79-e35a-4291-aa29-6edfe503b9c1,a17c251b-f693-48e5-a2f1-3997a67507a1,Ekstra Telur Ceplok,4000,0,True
+05ff16b3-61d1-4450-ab2a-bd53250b2ae4,a17c251b-f693-48e5-a2f1-3997a67507a1,Ekstra Sosis,4000,1,True
+c40c2d4e-c2fc-483e-a931-e18fbea00cea,a1f524df-98fe-4079-a5a5-e7586330341d,Tambah Nasi Putih Porsi,5000,0,True
+e94c2b2c-bbaf-4d1f-a39d-187465750b70,a33424d3-7f53-4ac8-a58f-560849eec397,Tambah Nasi Putih Porsi,5000,0,True
+f856dc6d-bbd1-4805-a6ff-49ebe68b0284,a3ea5ec8-72cf-4de5-a006-ebb2eb09106d,Tidak Pedas,0,0,True
+075c9b77-06b4-4a95-ae78-e544ebc8dd66,a3ea5ec8-72cf-4de5-a006-ebb2eb09106d,Pedas Sedang (Standar),0,1,True
+445e326f-a026-4b63-ac0f-1c91c0c50536,a3ea5ec8-72cf-4de5-a006-ebb2eb09106d,Pedas Mantap (Level 1),0,2,True
+a40243b8-c514-47af-a66f-5871ce7ec93d,a3ea5ec8-72cf-4de5-a006-ebb2eb09106d,Ekstra Pedas (Level 2),2000,3,True
+865eee72-7c97-445a-adca-4912b4e833d6,a44431ab-ce6c-4b28-af77-b6e6ffb1b4f6,Goreng Kering Crispy,0,0,True
+b9578b9a-77eb-4837-a6a6-d021a4cd0958,a44431ab-ce6c-4b28-af77-b6e6ffb1b4f6,Goreng Gurih Standar,0,1,True
+8164c35f-8628-4f05-a071-8d1479c9352d,a45e75ec-5383-4738-a0e0-cafac03d7054,Tambah Nasi Putih Porsi,5000,0,True
+af77ab6d-063e-42a7-abd5-537b43d402b1,a50f7bb7-6b47-49c9-acc0-9c132b01efcd,Sedang (Standar),0,0,True
+5656299a-0a5a-4713-a655-2ce139472446,a50f7bb7-6b47-49c9-acc0-9c132b01efcd,Pedas Lada Hitam Mantap,0,1,True
+f056746b-08c4-4a18-a4f6-331837566e75,a50f7bb7-6b47-49c9-acc0-9c132b01efcd,Ekstra Pedas Cabai Rawit,2000,2,True
+1a9bd058-70ba-4d3d-a4d2-51bf5a84fb8a,a54f3715-e18c-4f90-a3b7-1cb6f4470981,Sambal Terasi (Khas BB),0,0,True
+2af48fac-cd6f-4030-abe8-2356f6b10e03,a54f3715-e18c-4f90-a3b7-1cb6f4470981,Sambal Bawang Gurih,0,1,True
+df383056-52b9-4bb8-af29-ca0b2f741a07,a54f3715-e18c-4f90-a3b7-1cb6f4470981,Sambal Kecap Pedas,0,2,True
+c3712723-b7c6-4ba5-ac7a-9bafc20496f8,a54f3715-e18c-4f90-a3b7-1cb6f4470981,Sambal Tomat Segar,0,3,True
+025f17c2-a052-4c69-a54d-96face4b72f4,a6903a11-502e-45a9-a12a-d3dc6d1efbae,Tambah Nasi Putih Porsi,5000,0,True
+f2a0090a-d7fb-4015-ab8d-36d7d0b03fc7,a866f592-efed-427b-ae9f-26ad12f781c5,Sambal Kecap Rawit,0,0,True
+360eac85-8b87-4ad5-af6b-c3ed108b08ea,a866f592-efed-427b-ae9f-26ad12f781c5,Sambal Bawang Pedas,0,1,True
+454aea29-bfb7-4412-aa47-41b116b9a5ee,a921bc6c-cf94-4def-a4b1-27c3c377e2c9,Sedang (Standar),0,0,True
+01206ba0-1db6-4398-a705-a0dbce790b3b,a921bc6c-cf94-4def-a4b1-27c3c377e2c9,Pedas Lada Hitam Mantap,0,1,True
+acab8139-29af-4d20-a4ef-b5fd09d45f3a,a921bc6c-cf94-4def-a4b1-27c3c377e2c9,Ekstra Pedas Cabai Rawit,2000,2,True
+5d873364-1c09-4be0-aef9-fb7fdfeb555a,aae7a0cd-c47d-46ef-af41-47027a91ce1e,Sambal Terasi (Khas BB),0,0,True
+1a6d8c62-9d12-481b-a271-b6bf6d87bc48,aae7a0cd-c47d-46ef-af41-47027a91ce1e,Sambal Bawang Gurih,0,1,True
+17c8d178-391a-434c-af78-c2917c2bf3c6,aae7a0cd-c47d-46ef-af41-47027a91ce1e,Sambal Kecap Pedas,0,2,True
+64050996-badb-4fc0-ad86-0d7f7f03ef7f,aae7a0cd-c47d-46ef-af41-47027a91ce1e,Sambal Tomat Segar,0,3,True
+1351f108-fc74-4681-a300-e36a62328f00,aaf52c6d-00ad-48b9-ab2a-661d4b8749b0,Sambal Terasi (Khas BB),0,0,True
+5a2c656b-dc4f-47f8-a45f-3c05b8015722,aaf52c6d-00ad-48b9-ab2a-661d4b8749b0,Sambal Bawang Gurih,0,1,True
+8929bd3c-0b12-4446-ae48-f9d62d3e6225,aaf52c6d-00ad-48b9-ab2a-661d4b8749b0,Sambal Kecap Pedas,0,2,True
+d92c5b90-3aae-4804-ae0e-1ef9a4bc0193,aaf52c6d-00ad-48b9-ab2a-661d4b8749b0,Sambal Tomat Segar,0,3,True
+8c9a8e4a-8d55-4097-af31-76eca4d120b4,ab640324-328a-458d-ab8d-08a8808e9f40,Manis Normal (Standar),0,0,True
+38b132ff-83db-41a9-a65b-560617b51717,ab640324-328a-458d-ab8d-08a8808e9f40,Sedikit Gula (Less Sugar),0,1,True
+3bfd7f48-60bb-4d27-a8b5-77bb4772331a,ab640324-328a-458d-ab8d-08a8808e9f40,Tanpa Gula (Tawar),0,2,True
+ae3a49f3-ed5a-4ba0-ac2a-96e50f63fcb4,acfa7436-79e1-4b49-ac7a-6bad95b03aba,Ekstra Telur Ceplok,4000,0,True
+3e10ac81-914f-443c-a2cc-f34d82a0400a,acfa7436-79e1-4b49-ac7a-6bad95b03aba,Ekstra Sosis,4000,1,True
+f733b2a8-9058-4847-a01e-436c14df9768,af9dfa98-851c-4f7e-aaf0-191c2ed096e8,Tambah Nasi Putih Porsi,5000,0,True
+089bd3b7-fef7-42bc-a220-020e98db4158,b08dba96-12db-4e63-acaf-cf0d09f98181,Sedang (Standar),0,0,True
+b770fca2-50e1-4e72-a41d-790e2e335618,b08dba96-12db-4e63-acaf-cf0d09f98181,Pedas Lada Hitam Mantap,0,1,True
+dddbf2ba-4c84-4392-ae32-c46f8b20f75e,b08dba96-12db-4e63-acaf-cf0d09f98181,Ekstra Pedas Cabai Rawit,2000,2,True
+cd70ce07-9740-42b7-a767-9404f5f066ad,b090d15e-df24-457b-a5a5-3291ec001c7b,Tambah Nasi Putih Porsi,5000,0,True
+98588ab5-df74-4659-a590-38dded023c92,b26f293a-c6ef-45b7-a13f-99da51a2fdaf,Tidak Pedas,0,0,True
+e5611222-7794-4ffe-aebe-fa2305cac77c,b26f293a-c6ef-45b7-a13f-99da51a2fdaf,Pedas Sedang (Standar),0,1,True
+052faa4b-cb95-4077-ac2f-1eddd95c8110,b26f293a-c6ef-45b7-a13f-99da51a2fdaf,Pedas Mantap (Level 1),0,2,True
+462c9df4-a5da-4d54-af28-439218b19fe6,b26f293a-c6ef-45b7-a13f-99da51a2fdaf,Ekstra Pedas (Level 2),2000,3,True
+bfb2ace4-1758-4391-a046-d1af23ac1049,b2b0258a-cfde-4e20-acec-2e4fdcb708f7,Sambal Terasi (Khas BB),0,0,True
+c17ccf2a-4d13-4214-ac12-cb7d0df41626,b2b0258a-cfde-4e20-acec-2e4fdcb708f7,Sambal Bawang Gurih,0,1,True
+daba2b86-3dd4-485b-afe0-07d393b86504,b2b0258a-cfde-4e20-acec-2e4fdcb708f7,Sambal Kecap Pedas,0,2,True
+0817f6ee-1dca-4c82-a577-8d00699921e4,b2b0258a-cfde-4e20-acec-2e4fdcb708f7,Sambal Tomat Segar,0,3,True
+91f9b128-2981-4e47-a258-af46585e3921,b2bf666f-9ff5-408b-a9ae-4fbaa4304189,Tidak Pedas,0,0,True
+b6136b73-4ac7-429d-ae46-548f96775930,b2bf666f-9ff5-408b-a9ae-4fbaa4304189,Pedas Sedang (Standar),0,1,True
+d90f1cd7-2651-4d07-a20f-6898d155a8c8,b2bf666f-9ff5-408b-a9ae-4fbaa4304189,Pedas Mantap (Level 1),0,2,True
+3503a8a9-c7f5-4a7b-a7bb-fa3c0a2147cc,b2bf666f-9ff5-408b-a9ae-4fbaa4304189,Ekstra Pedas (Level 2),2000,3,True
+2c84efae-e8b2-4372-a6c2-87bc570b8fe0,b2c8d47c-eade-4fc7-a698-1a73ce284521,Tambah Susu Kental Manis,2000,0,True
+8a5c2f55-bfb8-4471-a81c-821cf9309e03,b2f74249-1561-47a9-a899-f4b10848bd62,Tidak Pedas,0,0,True
+55094640-7837-4e6d-ac3e-4d083686c053,b2f74249-1561-47a9-a899-f4b10848bd62,Pedas Sedang (Standar),0,1,True
+d35ec8ea-c058-4b27-a130-642fc0ac4220,b2f74249-1561-47a9-a899-f4b10848bd62,Pedas Mantap (Level 1),0,2,True
+a926e58f-a3a3-4b89-aed2-d10c73036cfd,b2f74249-1561-47a9-a899-f4b10848bd62,Ekstra Pedas (Level 2),2000,3,True
+6823f9fa-7374-4de1-af57-107ef5f1f982,b31dfa25-5547-4838-aedb-2895155ce888,Sambal Terasi (Khas BB),0,0,True
+2dea5e24-c180-45d5-a1a9-606ccefeb848,b31dfa25-5547-4838-aedb-2895155ce888,Sambal Bawang Gurih,0,1,True
+17ba8cfa-f8c6-48c6-a50b-cdfc4b4a5b82,b31dfa25-5547-4838-aedb-2895155ce888,Sambal Kecap Pedas,0,2,True
+27ff96f3-df13-4858-a6e7-0cff3575bdfa,b31dfa25-5547-4838-aedb-2895155ce888,Sambal Tomat Segar,0,3,True
+d9103098-bfb4-40b8-a432-902fe2aea685,b366fb97-642f-48b5-a5b3-cb917c6d6990,Sedang (Standar),0,0,True
+7a2a635d-59ba-48c0-a890-b5a894a76b83,b366fb97-642f-48b5-a5b3-cb917c6d6990,Pedas Lada Hitam Mantap,0,1,True
+7dc101a3-201e-40e8-a41d-2897d705b5a3,b366fb97-642f-48b5-a5b3-cb917c6d6990,Ekstra Pedas Cabai Rawit,2000,2,True
+899b2f61-c635-4ce8-ab62-662fb2b0ae9a,b3efaf24-aede-4fde-ac9e-e6b59481878f,Sambal Terasi (Khas BB),0,0,True
+edac6dde-8539-415d-a331-6df57210f0e7,b3efaf24-aede-4fde-ac9e-e6b59481878f,Sambal Bawang Gurih,0,1,True
+cb6e41cf-cc3a-41d7-a5a0-e3fc15ac610e,b3efaf24-aede-4fde-ac9e-e6b59481878f,Sambal Kecap Pedas,0,2,True
+60812890-cf43-4ccb-a8e8-4c4e6f11880d,b3efaf24-aede-4fde-ac9e-e6b59481878f,Sambal Tomat Segar,0,3,True
+4d147e76-29ba-4be7-aa32-f62eaf48419c,b6440358-82ed-4410-ac72-34c47d1f585f,Tambah Nasi Putih Porsi,5000,0,True
+5f38e058-d2fd-48ed-a25b-2caed820e3c5,b648eef9-c2f4-45cc-a01b-d79c2b4ab5cd,Ekstra Telur Ceplok,4000,0,True
+6e719348-5abb-4ca9-a96a-b26749cbccfc,b648eef9-c2f4-45cc-a01b-d79c2b4ab5cd,Ekstra Sosis,4000,1,True
+3e5262cb-3041-4e6f-a66b-a9677718d58f,b7d22815-1466-41a6-aa3e-5bc6ebbeef69,Tidak Pedas,0,0,True
+e913b3f7-91e9-495a-a303-b1344deb0fcc,b7d22815-1466-41a6-aa3e-5bc6ebbeef69,Pedas Sedang (Standar),0,1,True
+661dce3d-1cbc-46b1-a2af-df1ee21c78b0,b7d22815-1466-41a6-aa3e-5bc6ebbeef69,Pedas Mantap (Level 1),0,2,True
+49cb24df-9609-4e90-a87c-710161e5c512,b7d22815-1466-41a6-aa3e-5bc6ebbeef69,Ekstra Pedas (Level 2),2000,3,True
+f219e5be-62e1-4337-a331-ff384c7a7152,b90df5ef-1768-4af2-ac31-eecc56fb06ae,Ekstra Keju Cheddar Lumer,4000,0,True
+322454af-3c79-4726-a745-4b3615d617d0,b90df5ef-1768-4af2-ac31-eecc56fb06ae,Ekstra Telur Sizzling,4000,1,True
+2c050203-94da-48e2-a4a8-3bc929953bcd,b9c651e4-50b5-4772-a1ed-ba91bfcbd231,Tidak Pedas,0,0,True
+865ecc42-4c5f-403e-ab54-51ba6b4fe942,b9c651e4-50b5-4772-a1ed-ba91bfcbd231,Pedas Sedang (Standar),0,1,True
+ce2035a6-dd37-4f87-a76f-9a3d86581fc2,b9c651e4-50b5-4772-a1ed-ba91bfcbd231,Pedas Mantap (Level 1),0,2,True
+29d849cd-9daa-403d-ae5c-0fa4d0b80cfc,b9c651e4-50b5-4772-a1ed-ba91bfcbd231,Ekstra Pedas (Level 2),2000,3,True
+14d09298-2e32-4d00-ab43-7d6cccb36ff1,bace0140-3d7e-4c06-ace9-ef9f1fd048af,Tambah Susu Kental Manis,2000,0,True
+cf318be2-9fab-456d-aabd-98f3c962ed3e,bb5e6d03-48ce-4bb3-a3cf-b783ac4a2ec8,Manis Normal (Standar),0,0,True
+24d82e23-2bd2-4d81-ab3a-ccf6e1b566d8,bb5e6d03-48ce-4bb3-a3cf-b783ac4a2ec8,Sedikit Gula (Less Sugar),0,1,True
+c3939e8f-046c-43ee-a6fd-d44745aea97f,bb5e6d03-48ce-4bb3-a3cf-b783ac4a2ec8,Tanpa Gula (Tawar),0,2,True
+fe7f18e4-6ecc-4b81-ad67-b9759fb1d1ac,bb762659-79e7-433c-ae50-fb83d4d869d1,Manis Normal (Standar),0,0,True
+5bc43c0e-5c05-4c21-a030-9b1e046b7320,bb762659-79e7-433c-ae50-fb83d4d869d1,Sedikit Gula (Less Sugar),0,1,True
+f9b753d1-b930-4002-a0f5-7c5e5061de74,bb762659-79e7-433c-ae50-fb83d4d869d1,Tanpa Gula (Tawar),0,2,True
+f7e85d59-abc9-4956-a017-6634f5542a40,bbc8c6db-4875-424f-a55e-11ae9028c0f3,Sambal Terasi (Khas BB),0,0,True
+2bb0b44e-cfe4-48d3-a10f-cded5874a77e,bbc8c6db-4875-424f-a55e-11ae9028c0f3,Sambal Bawang Gurih,0,1,True
+15bc7277-9b78-409d-add4-a5c07fcfe15f,bbc8c6db-4875-424f-a55e-11ae9028c0f3,Sambal Kecap Pedas,0,2,True
+9d276f23-2757-4917-ab52-bf39d45224c2,bbc8c6db-4875-424f-a55e-11ae9028c0f3,Sambal Tomat Segar,0,3,True
+3a34f3c5-c326-4b52-a958-f05be00a62de,bdd1007f-3a15-496e-a066-f9e807bc375c,Tambah Nasi Putih Porsi,5000,0,True
+9b631be8-f9fd-46c1-a9e2-e60c826d3493,be92f4c0-5032-472e-a6d2-89ebd7545161,Ekstra Telur Ceplok,4000,0,True
+32c74196-c14f-469b-af7c-4aea334fa15d,be92f4c0-5032-472e-a6d2-89ebd7545161,Ekstra Sosis,4000,1,True
+ff0a2b96-3d26-47ba-ab81-2b5c8f672893,c121e425-e6e8-4730-ac2d-cf9c72094254,Tidak Pedas (Bening Gurih),0,0,True
+7743d3a0-0860-4a12-abce-e9a890e53600,c121e425-e6e8-4730-ac2d-cf9c72094254,Pedas Sedang (Standar),0,1,True
+7f466880-4734-48f5-a24f-e7872b19d6be,c121e425-e6e8-4730-ac2d-cf9c72094254,Pedas Cabai Rawit Mantap,0,2,True
+74348f5a-961e-4f88-acbf-af08bacffdce,c1dc5007-4850-418c-a806-926bda5bdf8d,Ekstra Parutan Keju,3000,0,True
+596d570c-3e6a-4cec-a20e-8c48c9ac17a2,c1dc5007-4850-418c-a806-926bda5bdf8d,Ekstra Coklat Meses,3000,1,True
+2efb51a7-e0a0-4bdb-aded-e63f6739673e,c1dc5007-4850-418c-a806-926bda5bdf8d,Ekstra Susu Kental Manis,2000,2,True
+5b882207-c695-4599-aa2f-dcece7904878,c29f2601-bad1-4f7f-af8f-340c7584883f,Ekstra Telur Ceplok,4000,0,True
+90df94db-5d95-45cb-a56d-76652e8aa8c9,c29f2601-bad1-4f7f-af8f-340c7584883f,Ekstra Sosis,4000,1,True
+e0b70b48-f559-4962-acbe-e46a9cb07289,c32dcc78-11ba-4992-a7c4-70d156d6ccd6,Tambah Nasi Putih Porsi,5000,0,True
+2ef342d0-da5b-4bc5-a21a-cee18bc6b659,c4620f93-c085-4fcf-a14d-85f74fbf2ea7,Sambal Terasi (Khas BB),0,0,True
+6203ce1d-fb96-4290-a7ac-cd25e247d7d9,c4620f93-c085-4fcf-a14d-85f74fbf2ea7,Sambal Bawang Gurih,0,1,True
+2b3d5694-8463-4802-ac81-8232578571ce,c4620f93-c085-4fcf-a14d-85f74fbf2ea7,Sambal Kecap Pedas,0,2,True
+7ddd033d-d0c0-4565-a105-f544e47bbfd3,c4620f93-c085-4fcf-a14d-85f74fbf2ea7,Sambal Tomat Segar,0,3,True
+5fc1c437-95f9-4d5b-afb4-89c32cc07a36,c4b47fb0-d07c-43cd-a28a-c6e3b529c7ec,Dingin (Pakai Es),0,0,True
+f3e480e0-5ddf-4cc7-a4fe-6ba893e28645,c4b47fb0-d07c-43cd-a28a-c6e3b529c7ec,Hangat (Tanpa Es),0,1,True
+e8311343-054e-40c2-a0f6-f45341e5f24f,c7ebb116-7726-4628-a002-55127d73e30e,Tidak Pedas (Bening Gurih),0,0,True
+90d0876a-607f-4769-ae2d-b8b8bdd08591,c7ebb116-7726-4628-a002-55127d73e30e,Pedas Sedang (Standar),0,1,True
+a8938161-69ed-4087-ace5-e1f21d8ae8de,c7ebb116-7726-4628-a002-55127d73e30e,Pedas Cabai Rawit Mantap,0,2,True
+68e6ad20-57d7-425f-af91-0dc00a926fae,c923392e-f3e9-4a84-a8d1-5ce7c08e05e8,Goreng Kering Crispy,0,0,True
+74f23e29-f9bf-4143-a27b-9c761e9728e2,c923392e-f3e9-4a84-a8d1-5ce7c08e05e8,Goreng Gurih Standar,0,1,True
+e5c7ee34-69e6-46e1-ac96-f6a9e890779d,c9882cd6-fd78-42ed-a357-2cd5e3c0f85d,Ekstra Keju Cheddar Lumer,4000,0,True
+5234cc0e-fdca-4f0c-ad2d-d9e628990da8,c9882cd6-fd78-42ed-a357-2cd5e3c0f85d,Ekstra Telur Sizzling,4000,1,True
+fa33fa6e-5377-49c5-a553-56825043f91b,c9f37c46-d0cd-4657-a6a3-93b8580742f6,Ekstra Telur Ceplok,4000,0,True
+98f4ebd4-c89b-472d-aac0-e00ddffb4f19,c9f37c46-d0cd-4657-a6a3-93b8580742f6,Ekstra Sosis,4000,1,True
+bd8152c8-781a-40e3-aa71-58879522544c,ca693a97-e595-4825-af4a-4faeaea04f5a,Manis Normal (Standar),0,0,True
+ad5410a1-e366-4183-abb6-27a79ba8f9a9,ca693a97-e595-4825-af4a-4faeaea04f5a,Sedikit Gula (Less Sugar),0,1,True
+3f0e54eb-315c-4107-a7dd-3dec8d097cec,ca693a97-e595-4825-af4a-4faeaea04f5a,Tanpa Gula (Tawar),0,2,True
+908d2b47-2d67-4cd4-aea9-41bb93cec3c2,cad3f850-f468-49a3-ad69-41d6147cc4aa,Sambal Terasi (Khas BB),0,0,True
+b65e4b43-d4e0-4d50-a746-cf18647ef938,cad3f850-f468-49a3-ad69-41d6147cc4aa,Sambal Bawang Gurih,0,1,True
+a12e96a3-0f26-46ba-a8aa-3230ce84176b,cad3f850-f468-49a3-ad69-41d6147cc4aa,Sambal Kecap Pedas,0,2,True
+0295213c-56bb-4703-a9e5-aaccc1cb1978,cad3f850-f468-49a3-ad69-41d6147cc4aa,Sambal Tomat Segar,0,3,True
+5b405bc8-5232-45ca-a7f8-9c0688998940,cae4c4ae-bf38-4125-a832-3c4764581cac,Sambal Terasi (Khas BB),0,0,True
+993c05ab-1886-465e-ad2e-b189a3c947b7,cae4c4ae-bf38-4125-a832-3c4764581cac,Sambal Bawang Gurih,0,1,True
+afe49fb3-4b37-45ad-a199-dabc86d36a11,cae4c4ae-bf38-4125-a832-3c4764581cac,Sambal Kecap Pedas,0,2,True
+19d9c826-e7ea-4c5f-aeaa-587255136647,cae4c4ae-bf38-4125-a832-3c4764581cac,Sambal Tomat Segar,0,3,True
+c050f384-1f51-4089-a157-1a71b395fbd3,cbe5978d-e79e-4ba7-a891-7d9c11f0a1b4,Sedang (Standar),0,0,True
+d10c8506-32b0-457b-a03a-40b75c9caa14,cbe5978d-e79e-4ba7-a891-7d9c11f0a1b4,Pedas Lada Hitam Mantap,0,1,True
+91452f42-485a-46a2-aa31-58a401097f1a,cbe5978d-e79e-4ba7-a891-7d9c11f0a1b4,Ekstra Pedas Cabai Rawit,2000,2,True
+dfd5c443-5b8c-4400-afd5-bd2ab6a21072,cbfc798a-3d42-4c4d-abe0-12824ef87ef8,Tidak Pedas,0,0,True
+ba61b9a6-a94e-4b34-a026-c5b5b6846d46,cbfc798a-3d42-4c4d-abe0-12824ef87ef8,Pedas Sedang (Standar),0,1,True
+38e2dc11-e8de-416d-a535-1aade79deceb,cbfc798a-3d42-4c4d-abe0-12824ef87ef8,Pedas Mantap (Level 1),0,2,True
+e64e447b-0383-430b-a707-0e21a0c21c8d,cbfc798a-3d42-4c4d-abe0-12824ef87ef8,Ekstra Pedas (Level 2),2000,3,True
+d82bd1d7-0cf6-40ab-ae57-0e290c14e6b2,ccad56fd-3aa4-453c-ae3c-3ecd9a055ca2,Tidak Pedas,0,0,True
+866a64e2-bc0f-425d-a3d4-7fda10aae351,ccad56fd-3aa4-453c-ae3c-3ecd9a055ca2,Pedas Sedang (Standar),0,1,True
+e65477b9-b0ca-4ffb-a03f-26baf40dc4c3,ccad56fd-3aa4-453c-ae3c-3ecd9a055ca2,Pedas Mantap (Level 1),0,2,True
+68294c25-644e-45f7-a23d-64222bc9f03a,ccad56fd-3aa4-453c-ae3c-3ecd9a055ca2,Ekstra Pedas (Level 2),2000,3,True
+da91f07d-e75b-43ff-a363-21e31bf6b702,cdca69bf-48f8-4f28-ac03-464c8326a956,Ekstra Telur Ceplok,4000,0,True
+3d65a5c0-f968-4a91-a550-c964424f554c,cdca69bf-48f8-4f28-ac03-464c8326a956,Ekstra Sosis,4000,1,True
+e6b11645-fb56-4a0a-abed-1c1566018bd0,ce73d852-a1c0-46aa-acec-4d4baa2e1e24,Dingin (Pakai Es),0,0,True
+7e965b49-0c50-4499-aa89-d146dc782e8f,ce73d852-a1c0-46aa-acec-4d4baa2e1e24,Hangat (Tanpa Es),0,1,True
+074f7e92-4d3c-4b83-ab6c-2e2a8aaa19d0,cf0f7036-7c04-4eb4-aaef-50d5dd33e3ca,Goreng Kering Crispy,0,0,True
+a3d19c53-f590-46f0-a9ae-cddbfb7bbc8d,cf0f7036-7c04-4eb4-aaef-50d5dd33e3ca,Goreng Gurih Standar,0,1,True
+6d141278-eb31-485e-afe3-d5a0a01ef64e,d072a068-f287-4ff8-ae79-8ed7eba02b2b,Ekstra Telur Ceplok,4000,0,True
+77d7d2ff-05eb-46a6-a5b0-0b70788602e9,d072a068-f287-4ff8-ae79-8ed7eba02b2b,Ekstra Sosis,4000,1,True
+88271fc1-1ae9-4b64-a7dc-10065816e80c,d0b88082-0c37-45f0-a408-fe434abd3a41,Ekstra Keju Cheddar Lumer,4000,0,True
+d3bc21c9-158a-47c4-a1a7-8406ecd2df5a,d0b88082-0c37-45f0-a408-fe434abd3a41,Ekstra Telur Sizzling,4000,1,True
+17885d63-5579-47da-a6b9-7ff5b14eab38,d1d6cd6d-a94d-4483-a7c2-afa366d16432,Tambah Susu Kental Manis,2000,0,True
+4cd1301f-1868-403a-a224-bcd1430db292,d1e46eb4-c3fc-4f46-a4c7-1612405cd61c,Dingin (Pakai Es),0,0,True
+4cf228de-b340-4a67-a47e-053511105d02,d1e46eb4-c3fc-4f46-a4c7-1612405cd61c,Hangat (Tanpa Es),0,1,True
+cce5d77f-c1c7-4362-a4d5-de3c3855d62e,d25f32fc-e43c-4676-a7f3-481d96a133f7,Ekstra Parutan Keju,3000,0,True
+b119ff7c-ce57-4b67-a67d-2e46c825fe5c,d25f32fc-e43c-4676-a7f3-481d96a133f7,Ekstra Coklat Meses,3000,1,True
+0d9a4474-c077-4265-aa92-9fb65c3a9bac,d25f32fc-e43c-4676-a7f3-481d96a133f7,Ekstra Susu Kental Manis,2000,2,True
+ec3b4772-0608-4dd4-a72d-fd777c4be18d,d2a709bf-5f4e-48e8-a56f-61b6d3f1a4d1,Tidak Pedas (Bening Gurih),0,0,True
+96fcf8d8-3cfc-4052-aac8-27ed26e6ce0e,d2a709bf-5f4e-48e8-a56f-61b6d3f1a4d1,Pedas Sedang (Standar),0,1,True
+3202b2b4-744c-44f3-a489-984ad9e85ab2,d2a709bf-5f4e-48e8-a56f-61b6d3f1a4d1,Pedas Cabai Rawit Mantap,0,2,True
+54ee0e55-e387-4fbb-a968-07ee807c1943,d33d78c2-b13a-4182-ae21-c078ccbb5df3,Tidak Pedas,0,0,True
+122e5cec-b0a3-4d04-af97-0ed6c3da8fee,d33d78c2-b13a-4182-ae21-c078ccbb5df3,Pedas Sedang (Standar),0,1,True
+8dbd70ec-1aa7-45b0-aab6-e999007630af,d33d78c2-b13a-4182-ae21-c078ccbb5df3,Pedas Mantap (Level 1),0,2,True
+a90d039e-47cc-4d1c-a8f6-059906e280f6,d33d78c2-b13a-4182-ae21-c078ccbb5df3,Ekstra Pedas (Level 2),2000,3,True
+62adfc62-e0bf-4ae9-ab2d-3aa919efb3b7,d50e7399-7940-47cc-a947-6caa82773ccb,Manis Normal (Standar),0,0,True
+4d166e59-1336-461d-a192-c79aac893b94,d50e7399-7940-47cc-a947-6caa82773ccb,Sedikit Gula (Less Sugar),0,1,True
+20a64360-1640-40c3-a688-12c5977f3ba1,d50e7399-7940-47cc-a947-6caa82773ccb,Tanpa Gula (Tawar),0,2,True
+7f296441-be88-48e4-a4b5-b9f8e25a27c5,d5ac3132-81c6-422b-a13f-43df96720c3d,Tambah Susu Kental Manis,2000,0,True
+65964f5e-5e28-4c86-ab7b-afdc1208bd11,d62e7347-eea4-47fe-a09e-5ebfbe39a135,Sedang (Standar),0,0,True
+5d29b3b7-7a14-4338-aca8-21dba9635bf7,d62e7347-eea4-47fe-a09e-5ebfbe39a135,Pedas Lada Hitam Mantap,0,1,True
+7eca883e-ed37-48c6-a986-7509f37899fd,d62e7347-eea4-47fe-a09e-5ebfbe39a135,Ekstra Pedas Cabai Rawit,2000,2,True
+8cf1e254-3b38-4bce-af61-40cc738a2cee,d8750bd0-3fbc-49a9-abe0-ff3151926c7b,Sambal Kecap Rawit,0,0,True
+fa6910e0-d886-465f-ae3b-063a0c3637ed,d8750bd0-3fbc-49a9-abe0-ff3151926c7b,Sambal Bawang Pedas,0,1,True
+7a28c287-1804-4844-aeb0-c718d4007c82,d8993157-2875-4c8a-a9d2-5644a4dbfac6,Dingin (Pakai Es),0,0,True
+c648e319-55f3-456e-ad60-6f46a000c317,d8993157-2875-4c8a-a9d2-5644a4dbfac6,Hangat (Tanpa Es),0,1,True
+a4980eb9-4a3d-4fc9-aa3e-3b06cd015cb4,da89c556-b6da-4677-af4b-228dadd3b306,Goreng Kering Crispy,0,0,True
+55384d2d-3840-4270-aa0a-6b1e4238c3af,da89c556-b6da-4677-af4b-228dadd3b306,Goreng Gurih Standar,0,1,True
+f3824808-5cee-4d99-a8e2-a8a0e880b0e7,dbcffe6b-bf61-467c-ae74-0a6d0634b34b,Manis Normal (Standar),0,0,True
+65b44402-964a-4d92-afb9-b93a799041e8,dbcffe6b-bf61-467c-ae74-0a6d0634b34b,Sedikit Gula (Less Sugar),0,1,True
+52f52de7-a8b9-4efa-a289-2f938b21c840,dbcffe6b-bf61-467c-ae74-0a6d0634b34b,Tanpa Gula (Tawar),0,2,True
+ca3c115c-9581-451b-a737-d6966eb7c6d8,dd3847ae-337b-4575-a8bc-186bc574b9dc,Tambah Nasi Putih Porsi,5000,0,True
+b8cf0d57-fd82-45ce-a745-7ea7f4fada13,ddac8cc6-2198-4526-aba3-f8f38f860052,Manis Normal (Standar),0,0,True
+8d38494c-b034-4621-a469-ec2f7d5ab746,ddac8cc6-2198-4526-aba3-f8f38f860052,Sedikit Gula (Less Sugar),0,1,True
+31c093b7-0847-49bc-a744-8b1dfae549df,ddac8cc6-2198-4526-aba3-f8f38f860052,Tanpa Gula (Tawar),0,2,True
+6a6ee3a4-9e94-4675-a2f3-9ec025abe0b7,df096578-5587-457c-a87b-a7d835b5e002,Ekstra Telur Ceplok,4000,0,True
+9375e9fa-84a3-4ca4-acb9-1dc43b73c934,df096578-5587-457c-a87b-a7d835b5e002,Ekstra Sosis,4000,1,True
+15faf414-ecb6-481d-a3be-59d240bd4cc5,df4703a2-a6e9-4e17-a33e-be5732ba1480,Tambah Nasi Putih Porsi,5000,0,True
+7831b26d-7263-40f2-a302-931c2ee67f19,dfdae52b-ae31-49f3-aa05-6b130f1d7f26,Sambal Terasi (Khas BB),0,0,True
+e6a094b8-25ac-44f2-a61d-fc3e5d05867b,dfdae52b-ae31-49f3-aa05-6b130f1d7f26,Sambal Bawang Gurih,0,1,True
+d29ac1df-c0c9-45c0-afd8-d3347da8355d,dfdae52b-ae31-49f3-aa05-6b130f1d7f26,Sambal Kecap Pedas,0,2,True
+73a40132-2726-4b8e-a931-9c703f2ccf11,dfdae52b-ae31-49f3-aa05-6b130f1d7f26,Sambal Tomat Segar,0,3,True
+d1cc7c83-624d-4945-a0e4-179cf253f212,e09c7dd1-e674-4075-abb2-f8ac2ca5c16d,Ekstra Keju Cheddar Lumer,4000,0,True
+b7fc0b82-93ac-47f9-a426-9cbf2905dfec,e09c7dd1-e674-4075-abb2-f8ac2ca5c16d,Ekstra Telur Sizzling,4000,1,True
+5dc3d26e-171b-4ca2-af90-30ded2f09a0b,e0ac481f-a2f1-4a04-a119-7f6650410cc5,Sambal Terasi (Khas BB),0,0,True
+9ba1927c-3031-45a4-a835-3628ad73693b,e0ac481f-a2f1-4a04-a119-7f6650410cc5,Sambal Bawang Gurih,0,1,True
+b335eff9-881e-4735-a4d6-a9741bd9ded1,e0ac481f-a2f1-4a04-a119-7f6650410cc5,Sambal Kecap Pedas,0,2,True
+739de26b-9acf-4c91-aa01-b87f4a6d6a94,e0ac481f-a2f1-4a04-a119-7f6650410cc5,Sambal Tomat Segar,0,3,True
+6e3dede6-6f3b-4122-a309-7760b27bbc8b,e1432e99-22b6-4000-ab0b-814d52e5b2de,Ekstra Telur Ceplok,4000,0,True
+ed5e8711-1364-4f53-a97d-eaf0843ba0d6,e1432e99-22b6-4000-ab0b-814d52e5b2de,Ekstra Sosis,4000,1,True
+ec5471d9-2a51-416e-a066-982cede7e1e4,e1599a19-1156-4738-a99c-8ac2ce04d3b5,Sambal Terasi (Khas BB),0,0,True
+c5bd2813-0f2c-4bd5-ae01-389ce72057f3,e1599a19-1156-4738-a99c-8ac2ce04d3b5,Sambal Bawang Gurih,0,1,True
+4509685b-b4a9-458b-a90b-d6c6c4bf1405,e1599a19-1156-4738-a99c-8ac2ce04d3b5,Sambal Kecap Pedas,0,2,True
+79e4941e-7b3e-4417-a850-9b90e1029296,e1599a19-1156-4738-a99c-8ac2ce04d3b5,Sambal Tomat Segar,0,3,True
+8c9686f5-1b47-45ea-a4f8-513ef1a2ffc7,e1a05f9f-8a72-4d9f-a87f-2b5cdfea7abc,Tambah Nasi Putih Porsi,5000,0,True
+e03c50d2-878c-445d-a51a-fe86a414b299,e2e44ab3-8e4a-4602-a7dc-8c94e32f8bfe,Ekstra Telur Ceplok,4000,0,True
+87bb94c0-7585-4c9c-aab4-cfeb8dcb4ef5,e2e44ab3-8e4a-4602-a7dc-8c94e32f8bfe,Ekstra Sosis,4000,1,True
+0600d385-a7e2-4b3e-aef9-fab40868dfb1,e3a82fc4-0aa4-4d0a-ad9a-4f11b5ff707a,Tidak Pedas,0,0,True
+c1200d1d-0b51-45f4-a02e-88050be2343c,e3a82fc4-0aa4-4d0a-ad9a-4f11b5ff707a,Pedas Sedang (Standar),0,1,True
+4ca188f5-0a6e-4a03-a037-96dc544fcb5a,e3a82fc4-0aa4-4d0a-ad9a-4f11b5ff707a,Pedas Mantap (Level 1),0,2,True
+fb5a6c8f-7511-4d4c-a3ad-3d1ff1249744,e3a82fc4-0aa4-4d0a-ad9a-4f11b5ff707a,Ekstra Pedas (Level 2),2000,3,True
+f1212c2d-9b47-42bf-a12b-b33812c98aa8,e3a9ab51-d172-4917-a51c-b99481ba4ff3,Sambal Terasi (Khas BB),0,0,True
+90e94dea-5713-41ba-aa5a-07dd84729dec,e3a9ab51-d172-4917-a51c-b99481ba4ff3,Sambal Bawang Gurih,0,1,True
+50f8c0cd-7016-42c5-a425-9a8af72e3a02,e3a9ab51-d172-4917-a51c-b99481ba4ff3,Sambal Kecap Pedas,0,2,True
+bad39e05-3da0-448c-aac8-d28b33880230,e3a9ab51-d172-4917-a51c-b99481ba4ff3,Sambal Tomat Segar,0,3,True
+f7187c48-7500-4691-a8fd-942c636f02e3,e3f2f043-5662-4fbf-a9ca-8d4dccb5cae6,Sambal Terasi (Khas BB),0,0,True
+2185db61-8921-4aed-af41-2478b1bd9852,e3f2f043-5662-4fbf-a9ca-8d4dccb5cae6,Sambal Bawang Gurih,0,1,True
+8d62ece9-711f-4ae2-a57c-8cf445339f57,e3f2f043-5662-4fbf-a9ca-8d4dccb5cae6,Sambal Kecap Pedas,0,2,True
+2fe50dae-1baf-4c32-a8b5-5da85a54bd93,e3f2f043-5662-4fbf-a9ca-8d4dccb5cae6,Sambal Tomat Segar,0,3,True
+8006f9b8-0edc-4341-a986-c2f186b64eda,e57eb889-efb1-47e4-ac89-480cb5250926,Dingin (Pakai Es),0,0,True
+690e4107-bf5d-4857-a221-e6a3ff5926ef,e57eb889-efb1-47e4-ac89-480cb5250926,Hangat (Tanpa Es),0,1,True
+1a4c5241-dbf0-413d-a071-df638c39f9b9,e67fec2a-3dbf-4339-afae-a2dacf188f67,Manis Normal (Standar),0,0,True
+80de105c-8e9e-4241-ae25-1fa48491a815,e67fec2a-3dbf-4339-afae-a2dacf188f67,Sedikit Gula (Less Sugar),0,1,True
+ae94ba7d-0e16-4b02-a2fe-01b6a9bd3f10,e67fec2a-3dbf-4339-afae-a2dacf188f67,Tanpa Gula (Tawar),0,2,True
+65863efe-af29-4c95-adba-21f821a21e31,e8882b00-eb8d-41d3-a189-f7bc13a75454,Dingin (Pakai Es),0,0,True
+39567274-fb80-49b3-aa85-12cd9c62415e,e8882b00-eb8d-41d3-a189-f7bc13a75454,Hangat (Tanpa Es),0,1,True
+51ac1afa-3f8a-403a-a59f-67a8f46911c2,e8f37293-6e59-4b2e-ad37-d0c7504f18f8,Dingin (Pakai Es),0,0,True
+cd12412d-d3f2-4e81-aaf3-70a7c5776ee6,e8f37293-6e59-4b2e-ad37-d0c7504f18f8,Hangat (Tanpa Es),0,1,True
+3972d5ca-21cc-4b2e-a237-71954890340c,e908b005-dcf0-49ac-a8bd-bed0421520e4,Tidak Pedas,0,0,True
+f4064a4d-88d2-43e2-a0f8-11414bb54a25,e908b005-dcf0-49ac-a8bd-bed0421520e4,Pedas Sedang (Standar),0,1,True
+048f2b77-f00c-4065-a74c-cea079de5a7c,e908b005-dcf0-49ac-a8bd-bed0421520e4,Pedas Mantap (Level 1),0,2,True
+6d3e7a46-cc3d-4c81-a691-27dbb707bc64,e908b005-dcf0-49ac-a8bd-bed0421520e4,Ekstra Pedas (Level 2),2000,3,True
+c22ba674-84d7-480e-af87-c2b56c3e30d7,e9473371-6a95-493b-a981-e43bca523d4b,Dingin (Pakai Es),0,0,True
+f4da5766-00c8-4728-ac51-5cf9c9bc7105,e9473371-6a95-493b-a981-e43bca523d4b,Hangat (Tanpa Es),0,1,True
+a0051528-afeb-4e00-a775-bcfd4d2dc315,e9823353-f7b6-4b22-a905-aa94e868bd8d,Sambal Terasi (Khas BB),0,0,True
+70aaf84c-9fe7-453c-a8e9-33609fbc58da,e9823353-f7b6-4b22-a905-aa94e868bd8d,Sambal Bawang Gurih,0,1,True
+f3442402-a119-4f44-a1cd-b19a183d8878,e9823353-f7b6-4b22-a905-aa94e868bd8d,Sambal Kecap Pedas,0,2,True
+8df72b85-5fd5-456f-acb5-5ac56280c94f,e9823353-f7b6-4b22-a905-aa94e868bd8d,Sambal Tomat Segar,0,3,True
+983ac3f7-5dde-49fe-a290-47ecb6f0968a,ea315745-86fc-40a5-af9b-8c4c3069b98f,Manis Normal (Standar),0,0,True
+33b04256-bbb8-4e69-a188-cfdf3b0353e0,ea315745-86fc-40a5-af9b-8c4c3069b98f,Sedikit Gula (Less Sugar),0,1,True
+8c5acb57-5b7e-4484-abd6-a0e6a6ddf9af,ea315745-86fc-40a5-af9b-8c4c3069b98f,Tanpa Gula (Tawar),0,2,True
+a9583659-aa28-4787-ae1f-f6f23ebe128d,eb1e351d-2247-4f57-a28b-89c32a2f443d,Sambal Kecap Rawit,0,0,True
+66c118ce-baba-4307-aee6-e2885fed9c90,eb1e351d-2247-4f57-a28b-89c32a2f443d,Sambal Bawang Pedas,0,1,True
+2a5a31d4-874f-4891-a905-2c3e9efb1369,eb68186b-dbe9-40bc-ae0d-49687a91a8b5,Ekstra Keju Cheddar Lumer,4000,0,True
+fe76787e-019a-429e-af8d-0ad2ada5cda7,eb68186b-dbe9-40bc-ae0d-49687a91a8b5,Ekstra Telur Sizzling,4000,1,True
+765d6c62-3d34-4b77-ae3a-00bd8bd1b0d7,eda0fff6-de74-47fa-a07c-3b91178e6ba6,Sambal Terasi (Khas BB),0,0,True
+5f41879f-ea51-48a6-a76b-76399caf7967,eda0fff6-de74-47fa-a07c-3b91178e6ba6,Sambal Bawang Gurih,0,1,True
+0bf99efd-0685-43a8-afc0-c1739611b323,eda0fff6-de74-47fa-a07c-3b91178e6ba6,Sambal Kecap Pedas,0,2,True
+1640343b-9e47-4f52-ac46-bfd1de829a89,eda0fff6-de74-47fa-a07c-3b91178e6ba6,Sambal Tomat Segar,0,3,True
+804145d5-8d2d-4a67-ad71-ddd0d37d8f5e,eec3cc21-72a4-4747-acc1-845162d6bec1,Sambal Terasi (Khas BB),0,0,True
+a98e5b7a-0d51-473b-af6d-d1dead35a2cf,eec3cc21-72a4-4747-acc1-845162d6bec1,Sambal Bawang Gurih,0,1,True
+6ab5f9fc-7919-4c2e-a7a1-f18df70bff3e,eec3cc21-72a4-4747-acc1-845162d6bec1,Sambal Kecap Pedas,0,2,True
+4a1c507d-5a93-4c40-ab10-2c06cfe955c5,eec3cc21-72a4-4747-acc1-845162d6bec1,Sambal Tomat Segar,0,3,True
+4af3f27e-30fa-4b03-af95-e052c95a165b,ef037f86-32eb-4e58-a20d-db405d454f9e,Manis Normal (Standar),0,0,True
+af350d11-b535-476b-af16-f22f3402188d,ef037f86-32eb-4e58-a20d-db405d454f9e,Sedikit Gula (Less Sugar),0,1,True
+4254785f-269d-4f1d-aca2-567dca7b0741,ef037f86-32eb-4e58-a20d-db405d454f9e,Tanpa Gula (Tawar),0,2,True
+be5c9783-1007-4575-ad31-2c0175881893,f00ef1a4-75f2-49c5-a76e-cedaefec7a2b,Dingin (Pakai Es),0,0,True
+b5b11eca-90ec-4a56-a483-0a38726864df,f00ef1a4-75f2-49c5-a76e-cedaefec7a2b,Hangat (Tanpa Es),0,1,True
+6a14b53b-bec8-4918-a693-485023ce07fb,f03acfe7-5381-40d5-a279-74fcd6e6d8b4,Tambah Susu Kental Manis,2000,0,True
+1dea53e1-cf22-4c57-a22b-f70f71594953,f0bc7cce-230a-4c68-aa80-fa607012f4e6,Goreng Kering Crispy,0,0,True
+acb5cb38-16fc-4c98-ae39-1e38a4bae45f,f0bc7cce-230a-4c68-aa80-fa607012f4e6,Goreng Gurih Standar,0,1,True
+810e08a9-95d3-41f3-ae9f-c2f521dad773,f0cd00f3-1789-46df-a06d-4d1e8f66647f,Tambah Nasi Putih Porsi,5000,0,True
+fc3ac863-5b4c-4028-a30f-0fde01e4a496,f1573b21-8476-4e33-adb9-edcf512e168a,Ekstra Telur Ceplok,4000,0,True
+fcb04834-1695-4be1-a21c-1379a7f80379,f1573b21-8476-4e33-adb9-edcf512e168a,Ekstra Sosis,4000,1,True
+858f6d27-036e-419f-a1a3-4f4eab4fd2bd,f1ee4dff-3512-42de-a9f6-e196f1616ba2,Ekstra Keju Cheddar Lumer,4000,0,True
+e9e2cb2f-e364-4b23-a051-1526d154192a,f1ee4dff-3512-42de-a9f6-e196f1616ba2,Ekstra Telur Sizzling,4000,1,True
+3afce19a-64cb-46e4-a65c-5546964b981e,f2b339cc-eab3-4e71-aa7c-602a6514ab14,Tidak Pedas,0,0,True
+231bbda3-d751-415b-a609-1348904038b9,f2b339cc-eab3-4e71-aa7c-602a6514ab14,Pedas Sedang (Standar),0,1,True
+84a9b5e8-7e74-4250-a8c8-65088f16e973,f2b339cc-eab3-4e71-aa7c-602a6514ab14,Pedas Mantap (Level 1),0,2,True
+37c3b3e9-048f-4f12-a395-01ba1aa648a6,f2b339cc-eab3-4e71-aa7c-602a6514ab14,Ekstra Pedas (Level 2),2000,3,True
+8d8b8d7b-5b1d-4fbc-a792-79bb7ace04ec,f2bb4468-a3c3-4e96-a353-5a0f2edd4c3a,Manis Normal (Standar),0,0,True
+09be66e9-8e14-4412-ab5a-e6df4dcbca54,f2bb4468-a3c3-4e96-a353-5a0f2edd4c3a,Sedikit Gula (Less Sugar),0,1,True
+ec83ddca-6bb5-478c-ad0d-37135c780631,f2bb4468-a3c3-4e96-a353-5a0f2edd4c3a,Tanpa Gula (Tawar),0,2,True
+2cebac3d-b4e7-4251-a8d3-6298790e26f7,f3219f34-4148-455e-a9dc-0f09b7308723,Sambal Terasi (Khas BB),0,0,True
+f006cc1d-5168-4f61-a8a7-3108daf328f4,f3219f34-4148-455e-a9dc-0f09b7308723,Sambal Bawang Gurih,0,1,True
+879667b3-37d9-45e6-a53a-66eb76cc8121,f3219f34-4148-455e-a9dc-0f09b7308723,Sambal Kecap Pedas,0,2,True
+59cbfce6-bfcc-462b-ac11-aa94c10b6025,f3219f34-4148-455e-a9dc-0f09b7308723,Sambal Tomat Segar,0,3,True
+3bc0e8f5-af52-4f2c-af33-456b467e15bb,f4735204-3da8-4c61-a34c-fe08ec5860eb,Manis Normal (Standar),0,0,True
+35522d63-a9d7-4d20-acda-3c632086ed48,f4735204-3da8-4c61-a34c-fe08ec5860eb,Sedikit Gula (Less Sugar),0,1,True
+67b91e85-5769-4f57-a9c8-3831631b7164,f4735204-3da8-4c61-a34c-fe08ec5860eb,Tanpa Gula (Tawar),0,2,True
+0c4ce3bb-d076-4b10-a0be-6e54c9e2131a,f50cf306-c178-47eb-a385-657c9e941f16,Ekstra Telur Ceplok,4000,0,True
+3be71363-8b0b-432b-a5a2-131d595b2fa5,f50cf306-c178-47eb-a385-657c9e941f16,Ekstra Sosis,4000,1,True
+6a3ffe06-94e5-46e7-a009-e01bcd754594,f559decf-bc9b-4e43-a19e-213e21822366,Ekstra Keju Cheddar Lumer,4000,0,True
+c959269d-9925-4518-a2f9-1a8ac1fbb6db,f559decf-bc9b-4e43-a19e-213e21822366,Ekstra Telur Sizzling,4000,1,True
+1be3651b-fb59-4ca1-aa6c-4e00515b7be6,f67520c6-bb38-4df8-a278-8abae5b85705,Tidak Pedas (Bening Gurih),0,0,True
+184d87a3-a889-436f-a642-4ce851424bb4,f67520c6-bb38-4df8-a278-8abae5b85705,Pedas Sedang (Standar),0,1,True
+97f08e7f-73ef-4655-ad01-980092ee2bc0,f67520c6-bb38-4df8-a278-8abae5b85705,Pedas Cabai Rawit Mantap,0,2,True
+6ddeaaec-a1c6-4a0d-ad86-b104401ad08c,f6775afd-3649-4282-aa57-c1ec65436926,Tidak Pedas,0,0,True
+3a28cb91-7b6a-415f-a792-898bbff9448c,f6775afd-3649-4282-aa57-c1ec65436926,Pedas Sedang (Standar),0,1,True
+9ac2b556-acd7-4767-acfb-fb4e738a35a4,f6775afd-3649-4282-aa57-c1ec65436926,Pedas Mantap (Level 1),0,2,True
+463cc473-08af-4264-af8f-e80ec493f921,f6775afd-3649-4282-aa57-c1ec65436926,Ekstra Pedas (Level 2),2000,3,True
+9d325b3e-c154-4270-a19c-18a7f18009c2,f7532360-800c-4473-a2e6-7135136a82c2,Sambal Terasi (Khas BB),0,0,True
+5a8b0896-ff19-489c-a3e4-111e073c2ee2,f7532360-800c-4473-a2e6-7135136a82c2,Sambal Bawang Gurih,0,1,True
+944dded9-9445-458f-a2ce-8344f9bcf53b,f7532360-800c-4473-a2e6-7135136a82c2,Sambal Kecap Pedas,0,2,True
+00f64871-e5ab-47ca-a5d7-53fa53edc98d,f7532360-800c-4473-a2e6-7135136a82c2,Sambal Tomat Segar,0,3,True
+8e548d70-3fa1-4880-a6f0-addb2a978d0f,f7cfac04-9d07-4d22-a915-e5d1b7303356,Sambal Terasi Meja,0,0,True
+4de88fd2-089b-432a-adfb-a07ef4062666,f7cfac04-9d07-4d22-a915-e5d1b7303356,Sambal Bawang Meja,0,1,True
+47c7628a-52e0-422a-a5a9-1308b3b2aa49,f7cfac04-9d07-4d22-a915-e5d1b7303356,Sambal Kecap Meja,0,2,True
+4d3bac67-b7df-4cc9-a2ee-a2a9ad136742,f7ef20e0-ca7b-4dcf-aa05-8944c027ddf2,Manis Normal (Standar),0,0,True
+88992cf3-817b-4136-acd0-ba5807bcb19c,f7ef20e0-ca7b-4dcf-aa05-8944c027ddf2,Sedikit Gula (Less Sugar),0,1,True
+ea78954e-dbdc-479f-aaec-6022fcb7a5f1,f7ef20e0-ca7b-4dcf-aa05-8944c027ddf2,Tanpa Gula (Tawar),0,2,True
+67a34892-af4c-4d7a-a2ae-1ff584d4e6ee,f856cc4b-6540-4420-a918-117b6340dc7d,Ekstra Telur Ceplok,4000,0,True
+c114425c-b7f3-4c20-a3f4-e71a24b31b1a,f856cc4b-6540-4420-a918-117b6340dc7d,Ekstra Sosis,4000,1,True
+8f20fe27-51fb-4bdf-a473-bd8fb8a64a8c,f96f7d0d-748f-4080-aeb6-ae9300468e4d,Sambal Terasi (Khas BB),0,0,True
+639c7712-b97e-4609-a859-8adb40533131,f96f7d0d-748f-4080-aeb6-ae9300468e4d,Sambal Bawang Gurih,0,1,True
+4b8f36ba-a83d-4176-acf5-da279b9bc705,f96f7d0d-748f-4080-aeb6-ae9300468e4d,Sambal Kecap Pedas,0,2,True
+638a46fc-166e-42cc-afd3-85aff62ef823,f96f7d0d-748f-4080-aeb6-ae9300468e4d,Sambal Tomat Segar,0,3,True
+4215ba72-038e-49bc-a212-b7ebcfaf1ada,fa2a68c9-76ba-4458-aea3-10c41da23da2,Tambah Nasi Putih Porsi,5000,0,True
+f2bcfe9e-740b-4845-a50c-d6a6efbef681,fa2bc506-aada-4f88-ab40-cf228609b7c5,Ekstra Parutan Keju,3000,0,True
+0c078621-7de3-40d4-a692-44033dab7ab3,fa2bc506-aada-4f88-ab40-cf228609b7c5,Ekstra Coklat Meses,3000,1,True
+6c98d4df-45a5-46b7-a64b-dba9a57bcd0d,fa2bc506-aada-4f88-ab40-cf228609b7c5,Ekstra Susu Kental Manis,2000,2,True
+79e61135-5595-4681-a168-a7369f5e99c3,fb7f1985-fc96-41db-a9a8-00fbf792a47b,Sambal Terasi Meja,0,0,True
+9cb8d377-c07b-45fe-a2be-c2433c176ab4,fb7f1985-fc96-41db-a9a8-00fbf792a47b,Sambal Bawang Meja,0,1,True
+31547bd3-331b-49e7-af7a-3dca978961f3,fb7f1985-fc96-41db-a9a8-00fbf792a47b,Sambal Kecap Meja,0,2,True
+1c24513a-862b-419d-ad7c-eac38a4ca715,fba91b7c-706b-43cf-a5b5-692ab3b348d8,Manis Normal (Standar),0,0,True
+bafc18b1-13d0-42ff-a386-9c90618a8d1b,fba91b7c-706b-43cf-a5b5-692ab3b348d8,Sedikit Gula (Less Sugar),0,1,True
+0b79130f-4ff5-41ab-a183-07cb9589f265,fba91b7c-706b-43cf-a5b5-692ab3b348d8,Tanpa Gula (Tawar),0,2,True
+6dd51e4f-2567-43d6-aae2-c59c8f8ba259,fbc04c6c-fd2b-4e02-ab8a-712a9319b68c,Tidak Pedas,0,0,True
+f54e0774-334d-49c4-ac89-36034a61e30e,fbc04c6c-fd2b-4e02-ab8a-712a9319b68c,Pedas Sedang (Standar),0,1,True
+fb5723a8-293e-4790-a0d1-a022d34609f5,fbc04c6c-fd2b-4e02-ab8a-712a9319b68c,Pedas Mantap (Level 1),0,2,True
+3b905dcd-6520-4bdd-a104-bba068d523ca,fbc04c6c-fd2b-4e02-ab8a-712a9319b68c,Ekstra Pedas (Level 2),2000,3,True
+fb5a9e3a-8a1c-412f-ae4b-9c1d093fec22,fc7ef12a-55dc-46b9-a904-24bd67ee9338,Tidak Pedas,0,0,True
+26139074-0d12-41de-a93d-80e9abf65a77,fc7ef12a-55dc-46b9-a904-24bd67ee9338,Pedas Sedang (Standar),0,1,True
+c4be688d-d2b1-4c1b-a01e-2de1cb0368c7,fc7ef12a-55dc-46b9-a904-24bd67ee9338,Pedas Mantap (Level 1),0,2,True
+857ee35e-f48d-4050-a8a2-bc92900361dc,fc7ef12a-55dc-46b9-a904-24bd67ee9338,Ekstra Pedas (Level 2),2000,3,True
+b01864a3-00d7-4704-aff6-1864b3ff9f2c,ffd17646-6794-430b-a41f-f8f7124dbbf8,Tidak Pedas,0,0,True
+9ac108d7-6e84-475c-ae47-542f80ab1bb1,ffd17646-6794-430b-a41f-f8f7124dbbf8,Pedas Sedang (Standar),0,1,True
+5636ebfa-395b-4117-a120-ab166ba16f50,ffd17646-6794-430b-a41f-f8f7124dbbf8,Pedas Mantap (Level 1),0,2,True
+fd4f70fe-a975-4ed7-a2dd-33b0558b26ae,ffd17646-6794-430b-a41f-f8f7124dbbf8,Ekstra Pedas (Level 2),2000,3,True

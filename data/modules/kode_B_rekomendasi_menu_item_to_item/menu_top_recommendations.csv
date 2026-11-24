@@ -1,0 +1,986 @@
+tenant_id,menu_id,menu_name,category_name,rank,recommended_menu_id,recommended_menu_name,recommended_category,recommended_price_idr,cosine_similarity,lift,source
+BBR001,M0001,Air Mineral Botol,Minuman Standar,1,M0003,Ayam Bakar Tok,Alacarte,23000,0.4864,4.9569,item_to_item_hybrid
+BBR001,M0001,Air Mineral Botol,Minuman Standar,2,M0005,Bakwan Jagung,Snack,13000,0.2829,5.8674,item_to_item_hybrid
+BBR001,M0001,Air Mineral Botol,Minuman Standar,3,M0046,Gurame Goreng Asam Pedas,Gurame,57500,0.1634,6.1498,item_to_item_hybrid
+BBR001,M0001,Air Mineral Botol,Minuman Standar,4,M0102,Mie Kuah Seafood,Mie,18000,0.0962,7.4676,item_to_item_hybrid
+BBR001,M0001,Air Mineral Botol,Minuman Standar,5,M0015,Bihun Siram Sapi Spesial BP,Bihun,23000,0.1005,2.7155,item_to_item_hybrid
+BBR001,M0002,Air Putih Gelas,Minuman Standar,1,M0004,Ayam Goreng Kremezz Tok,Alacarte,23000,0.3571,4.3758,item_to_item_hybrid
+BBR001,M0002,Air Putih Gelas,Minuman Standar,2,M0003,Ayam Bakar Tok,Alacarte,23000,0.2178,2.2513,item_to_item_hybrid
+BBR001,M0002,Air Putih Gelas,Minuman Standar,3,M0103,Mie Siram Ayam Spesial Blackpepper,Mie,20000,0.1543,7.681,item_to_item_hybrid
+BBR001,M0002,Air Putih Gelas,Minuman Standar,4,M0006,Bakwan Sayur,Snack,13000,0.161,2.987,item_to_item_hybrid
+BBR001,M0002,Air Putih Gelas,Minuman Standar,5,M0017,Cha Kangkung,Sayuran,15000,0.1599,2.9461,item_to_item_hybrid
+BBR001,M0003,Ayam Bakar Tok,Alacarte,1,M0001,Air Mineral Botol,Minuman Standar,5000,0.4864,4.9569,item_to_item_hybrid
+BBR001,M0003,Ayam Bakar Tok,Alacarte,2,M0005,Bakwan Jagung,Snack,13000,0.4036,5.7111,item_to_item_hybrid
+BBR001,M0003,Ayam Bakar Tok,Alacarte,3,M0002,Air Putih Gelas,Minuman Standar,1000,0.2178,2.2513,item_to_item_hybrid
+BBR001,M0003,Ayam Bakar Tok,Alacarte,4,M0006,Bakwan Sayur,Snack,13000,0.1547,1.9313,item_to_item_hybrid
+BBR001,M0003,Ayam Bakar Tok,Alacarte,5,M0017,Cha Kangkung,Sayuran,15000,0.1383,1.7143,item_to_item_hybrid
+BBR001,M0004,Ayam Goreng Kremezz Tok,Alacarte,1,M0002,Air Putih Gelas,Minuman Standar,1000,0.3571,4.3758,item_to_item_hybrid
+BBR001,M0004,Ayam Goreng Kremezz Tok,Alacarte,2,M0049,Jeruk,Minuman Standar,8000,0.2978,4.2073,item_to_item_hybrid
+BBR001,M0004,Ayam Goreng Kremezz Tok,Alacarte,3,M0006,Bakwan Sayur,Snack,13000,0.2936,4.3448,item_to_item_hybrid
+BBR001,M0004,Ayam Goreng Kremezz Tok,Alacarte,4,M0017,Cha Kangkung,Sayuran,15000,0.2278,3.3479,item_to_item_hybrid
+BBR001,M0004,Ayam Goreng Kremezz Tok,Alacarte,5,M0057,Juice Jambu,Juice,15000,0.193,3.5359,item_to_item_hybrid
+BBR001,M0005,Bakwan Jagung,Snack,1,M0003,Ayam Bakar Tok,Alacarte,23000,0.4036,5.7111,item_to_item_hybrid
+BBR001,M0005,Bakwan Jagung,Snack,2,M0001,Air Mineral Botol,Minuman Standar,5000,0.2829,5.8674,item_to_item_hybrid
+BBR001,M0005,Bakwan Jagung,Snack,3,M0177,Sprite 250 ml,Soda,5000,0.0896,4.3205,item_to_item_hybrid
+BBR001,M0005,Bakwan Jagung,Snack,4,M0092,Lemon Tea Jumbo,Minuman Jumbo,400000,0.0845,5.7607,item_to_item_hybrid
+BBR001,M0005,Bakwan Jagung,Snack,5,M0029,Es Sirup,Minuman Standar,7000,0.0945,2.4003,item_to_item_hybrid
+BBR001,M0006,Bakwan Sayur,Snack,1,M0004,Ayam Goreng Kremezz Tok,Alacarte,23000,0.2936,4.3448,item_to_item_hybrid
+BBR001,M0006,Bakwan Sayur,Snack,2,M0166,Saus Blackpepper,Saus,5000,0.1581,13.4417,item_to_item_hybrid
+BBR001,M0006,Bakwan Sayur,Snack,3,M0002,Air Putih Gelas,Minuman Standar,1000,0.161,2.987,item_to_item_hybrid
+BBR001,M0006,Bakwan Sayur,Snack,4,M0003,Ayam Bakar Tok,Alacarte,23000,0.1547,1.9313,item_to_item_hybrid
+BBR001,M0006,Bakwan Sayur,Snack,5,M0069,Kopi Hitam 1/2 Jumbo,Minuman Jumbo,200000,0.125,8.401,item_to_item_hybrid
+BBR001,M0007,Bihun Goreng Ayam,Bihun,1,M0016,Cap Cay Spesial Banyu Bening,Sayuran,25000,0.4553,10.7881,item_to_item_hybrid
+BBR001,M0007,Bihun Goreng Ayam,Bihun,2,M0029,Es Sirup,Minuman Standar,7000,0.3832,7.1776,item_to_item_hybrid
+BBR001,M0007,Bihun Goreng Ayam,Bihun,3,M0055,Juice Alpukat,Juice,15000,0.23,5.3311,item_to_item_hybrid
+BBR001,M0007,Bihun Goreng Ayam,Bihun,4,M0032,French Fries,Snack,15000,0.1742,4.8938,item_to_item_hybrid
+BBR001,M0007,Bihun Goreng Ayam,Bihun,5,M0068,Kopi Hitam,Minuman Standar,8000,0.104,2.4914,item_to_item_hybrid
+BBR001,M0008,Bihun Goreng Ayam Spesial BP,Bihun,1,M0047,Healthy Juice,Juice,15000,0.3397,9.7976,item_to_item_hybrid
+BBR001,M0008,Bihun Goreng Ayam Spesial BP,Bihun,2,M0017,Cha Kangkung,Sayuran,15000,0.3264,7.4736,item_to_item_hybrid
+BBR001,M0008,Bihun Goreng Ayam Spesial BP,Bihun,3,M0058,Juice Jeruk,Juice,13000,0.1917,5.9301,item_to_item_hybrid
+BBR001,M0008,Bihun Goreng Ayam Spesial BP,Bihun,4,M0035,Gudangan,Sayuran,15000,0.1574,4.9938,item_to_item_hybrid
+BBR001,M0008,Bihun Goreng Ayam Spesial BP,Bihun,5,M0175,Soda Susu,Soda,15000,0.1267,4.3128,item_to_item_hybrid
+BBR001,M0009,Bihun Goreng Sapi Spesial BP,Bihun,1,M0022,Crispy Chicken Tok,Snack,25000,0.3198,12.6931,item_to_item_hybrid
+BBR001,M0009,Bihun Goreng Sapi Spesial BP,Bihun,2,M0049,Jeruk,Minuman Standar,8000,0.2929,6.9213,item_to_item_hybrid
+BBR001,M0009,Bihun Goreng Sapi Spesial BP,Bihun,3,M0066,Kerupuk,Snack,2000,0.2659,10.37,item_to_item_hybrid
+BBR001,M0009,Bihun Goreng Sapi Spesial BP,Bihun,4,M0061,Juice Sirsak,Juice,15000,0.2523,7.8979,item_to_item_hybrid
+BBR001,M0009,Bihun Goreng Sapi Spesial BP,Bihun,5,M0190,Teh Teko,Minuman Teko,25000,0.0951,3.6452,item_to_item_hybrid
+BBR001,M0010,Bihun Goreng Seafood,Bihun,1,M0052,Jeruk Nipis,Minuman Standar,8000,0.4005,12.935,item_to_item_hybrid
+BBR001,M0010,Bihun Goreng Seafood,Bihun,2,M0032,French Fries,Snack,15000,0.2089,7.8217,item_to_item_hybrid
+BBR001,M0010,Bihun Goreng Seafood,Bihun,3,M0082,Lalap Sambal Krupuk,Sayuran,5000,0.1887,7.1769,item_to_item_hybrid
+BBR001,M0010,Bihun Goreng Seafood,Bihun,4,M0183,Tahu Goreng,Snack,13000,0.1695,9.2701,item_to_item_hybrid
+BBR001,M0010,Bihun Goreng Seafood,Bihun,5,M0068,Kopi Hitam,Minuman Standar,8000,0.099,3.1603,item_to_item_hybrid
+BBR001,M0011,Bihun Kuah Ayam,Bihun,1,M0054,Jeruk Teko,Minuman Teko,30000,0.3783,10.0376,item_to_item_hybrid
+BBR001,M0011,Bihun Kuah Ayam,Bihun,2,M0034,Gemblong Cotot,Snack,17500,0.3024,11.3469,item_to_item_hybrid
+BBR001,M0011,Bihun Kuah Ayam,Bihun,3,M0090,Lemon Tea,Minuman Standar,10000,0.1909,8.401,item_to_item_hybrid
+BBR001,M0011,Bihun Kuah Ayam,Bihun,4,M0095,Mendoan,Snack,13000,0.1909,8.401,item_to_item_hybrid
+BBR001,M0011,Bihun Kuah Ayam,Bihun,5,M0172,Sig. Chicken Rice Hotplate,Hotplate,25000,0.0772,9.6012,item_to_item_hybrid
+BBR001,M0012,Bihun Kuah Seafood,Bihun,1,M0055,Juice Alpukat,Juice,15000,0.2609,9.1518,item_to_item_hybrid
+BBR001,M0012,Bihun Kuah Seafood,Bihun,2,M0035,Gudangan,Sayuran,15000,0.2418,9.4327,item_to_item_hybrid
+BBR001,M0012,Bihun Kuah Seafood,Bihun,3,M0174,Soda Gembira,Soda,15000,0.2387,9.1909,item_to_item_hybrid
+BBR001,M0012,Bihun Kuah Seafood,Bihun,4,M0093,Lime Squash,Soda,15000,0.0877,4.1359,item_to_item_hybrid
+BBR001,M0012,Bihun Kuah Seafood,Bihun,5,M0006,Bakwan Sayur,Snack,13000,0.0878,2.4892,item_to_item_hybrid
+BBR001,M0013,Bihun Siram Ayam Spesial BP,Bihun,1,M0056,Juice Buah Naga,Juice,15000,0.4566,18.6834,item_to_item_hybrid
+BBR001,M0013,Bihun Siram Ayam Spesial BP,Bihun,2,M0048,Jamur Crispy,Snack,13000,0.2503,10.1065,item_to_item_hybrid
+BBR001,M0013,Bihun Siram Ayam Spesial BP,Bihun,3,M0181,Susu Jahe,Minuman Standar,11000,0.188,8.1465,item_to_item_hybrid
+BBR001,M0013,Bihun Siram Ayam Spesial BP,Bihun,4,M0127,Nasi Putih,Snack,5000,0.101,5.4864,item_to_item_hybrid
+BBR001,M0013,Bihun Siram Ayam Spesial BP,Bihun,5,M0027,Cumi Asam Pedas,Alacarte,50000,0.0965,5.0093,item_to_item_hybrid
+BBR001,M0014,Bihun Siram Ayam Spesial Teriyaki,Bihun,1,M0066,Kerupuk,Snack,2000,0.2457,13.9052,item_to_item_hybrid
+BBR001,M0014,Bihun Siram Ayam Spesial Teriyaki,Bihun,2,M0188,Teh Kampul,Minuman Standar,9000,0.207,11.5214,item_to_item_hybrid
+BBR001,M0014,Bihun Siram Ayam Spesial Teriyaki,Bihun,3,M0057,Juice Jambu,Juice,15000,0.1654,7.3541,item_to_item_hybrid
+BBR001,M0014,Bihun Siram Ayam Spesial Teriyaki,Bihun,4,M0115,Nasi Ayam Ori Teriyaki spesial BB,Aneka Nasi,25000,0.1336,14.4018,item_to_item_hybrid
+BBR001,M0014,Bihun Siram Ayam Spesial Teriyaki,Bihun,5,M0155,Pisang Goreng Ori,Snack,17500,0.1429,8.2296,item_to_item_hybrid
+BBR001,M0015,Bihun Siram Sapi Spesial BP,Bihun,1,M0058,Juice Jeruk,Juice,13000,0.3578,15.8856,item_to_item_hybrid
+BBR001,M0015,Bihun Siram Sapi Spesial BP,Bihun,2,M0157,Sambal Ijo,Sambal,5000,0.2843,16.2929,item_to_item_hybrid
+BBR001,M0015,Bihun Siram Sapi Spesial BP,Bihun,3,M0067,Kerupuk Prasmanan,Snack,20000,0.2132,12.2197,item_to_item_hybrid
+BBR001,M0015,Bihun Siram Sapi Spesial BP,Bihun,4,M0142,Paket Ayam Kremez,Paket Personal,35000,0.087,12.2197,item_to_item_hybrid
+BBR001,M0015,Bihun Siram Sapi Spesial BP,Bihun,5,M0001,Air Mineral Botol,Minuman Standar,5000,0.1005,2.7155,item_to_item_hybrid
+BBR001,M0016,Cap Cay Spesial Banyu Bening,Sayuran,1,M0007,Bihun Goreng Ayam,Bihun,18000,0.4553,10.7881,item_to_item_hybrid
+BBR001,M0016,Cap Cay Spesial Banyu Bening,Sayuran,2,M0055,Juice Alpukat,Juice,15000,0.1957,6.8638,item_to_item_hybrid
+BBR001,M0016,Cap Cay Spesial Banyu Bening,Sayuran,3,M0029,Es Sirup,Minuman Standar,7000,0.1757,4.9784,item_to_item_hybrid
+BBR001,M0016,Cap Cay Spesial Banyu Bening,Sayuran,4,M0122,Nasi Goreng Seafood,Nasi Goreng,18000,0.1217,11.9481,item_to_item_hybrid
+BBR001,M0016,Cap Cay Spesial Banyu Bening,Sayuran,5,M0169,Sig. Beef Pasta Hotplate,Hotplate,28000,0.1054,8.9611,item_to_item_hybrid
+BBR001,M0017,Cha Kangkung,Sayuran,1,M0008,Bihun Goreng Ayam Spesial BP,Bihun,20000,0.3264,7.4736,item_to_item_hybrid
+BBR001,M0017,Cha Kangkung,Sayuran,2,M0004,Ayam Goreng Kremezz Tok,Alacarte,23000,0.2278,3.3479,item_to_item_hybrid
+BBR001,M0017,Cha Kangkung,Sayuran,3,M0002,Air Putih Gelas,Minuman Standar,1000,0.1599,2.9461,item_to_item_hybrid
+BBR001,M0017,Cha Kangkung,Sayuran,4,M0003,Ayam Bakar Tok,Alacarte,23000,0.1383,1.7143,item_to_item_hybrid
+BBR001,M0017,Cha Kangkung,Sayuran,5,M0047,Healthy Juice,Juice,15000,0.1208,3.3624,item_to_item_hybrid
+BBR001,M0018,Crispy Chicken indomie Hotplate,Hotplate,1,M0059,Juice Mangga,Juice,15000,0.2759,15.3436,item_to_item_hybrid
+BBR001,M0018,Crispy Chicken indomie Hotplate,Hotplate,2,M0082,Lalap Sambal Krupuk,Sayuran,5000,0.2001,10.7653,item_to_item_hybrid
+BBR001,M0018,Crispy Chicken indomie Hotplate,Hotplate,3,M0159,Sambal Terasi,Sambal,5000,0.1351,9.8154,item_to_item_hybrid
+BBR001,M0018,Crispy Chicken indomie Hotplate,Hotplate,4,M0162,Sapo Tahu Sapi Hotplate,Sapo Tahu,25000,0.1072,18.5402,item_to_item_hybrid
+BBR001,M0018,Crispy Chicken indomie Hotplate,Hotplate,5,M0071,Kopi Hitam Teko,Minuman Teko,40000,0.0916,4.5098,item_to_item_hybrid
+BBR001,M0019,Crispy Chicken Pasta Hotplate,Hotplate,1,M0060,Juice Melon,Juice,13000,0.2835,14.4018,item_to_item_hybrid
+BBR001,M0019,Crispy Chicken Pasta Hotplate,Hotplate,2,M0167,Sayur Asem,Sayuran,15000,0.2635,22.4028,item_to_item_hybrid
+BBR001,M0019,Crispy Chicken Pasta Hotplate,Hotplate,3,M0083,Lalapan,Sayuran,5000,0.1826,13.4417,item_to_item_hybrid
+BBR001,M0019,Crispy Chicken Pasta Hotplate,Hotplate,4,M0133,Nila Bumbu Acar,Nila,38000,0.1179,22.4028,item_to_item_hybrid
+BBR001,M0019,Crispy Chicken Pasta Hotplate,Hotplate,5,M0199,Udang Asam Pedas,Alacarte,50000,0.0913,13.4417,item_to_item_hybrid
+BBR001,M0020,Crispy Chicken Rice Hotplate,Hotplate,1,M0173,Singkong Keju,Snack,17500,0.2475,19.7672,item_to_item_hybrid
+BBR001,M0020,Crispy Chicken Rice Hotplate,Hotplate,2,M0061,Juice Sirsak,Juice,15000,0.213,10.4546,item_to_item_hybrid
+BBR001,M0020,Crispy Chicken Rice Hotplate,Hotplate,3,M0192,Telur Dadar,Snack,5000,0.1925,14.9352,item_to_item_hybrid
+BBR001,M0020,Crispy Chicken Rice Hotplate,Hotplate,4,M0033,Fuyung Hai Spesial BB,Alacarte,20000,0.0937,7.0746,item_to_item_hybrid
+BBR001,M0020,Crispy Chicken Rice Hotplate,Hotplate,5,M0138,Nila Goreng Asam Pedas,Nila,38000,0.0772,9.6012,item_to_item_hybrid
+BBR001,M0021,Crispy Chicken Salted Egg Hotplate,Hotplate,1,M0109,Mix Platter,Snack,30000,0.3397,31.0192,item_to_item_hybrid
+BBR001,M0021,Crispy Chicken Salted Egg Hotplate,Hotplate,2,M0062,Juice Strawbery,Juice,13000,0.1741,12.2197,item_to_item_hybrid
+BBR001,M0021,Crispy Chicken Salted Egg Hotplate,Hotplate,3,M0060,Juice Melon,Juice,13000,0.126,6.4008,item_to_item_hybrid
+BBR001,M0021,Crispy Chicken Salted Egg Hotplate,Hotplate,4,M0197,Tumis Kangkung,Sayuran,15000,0.0962,7.4676,item_to_item_hybrid
+BBR001,M0021,Crispy Chicken Salted Egg Hotplate,Hotplate,5,M0160,Sambal Tomat,Sambal,5000,0.0891,6.4008,item_to_item_hybrid
+BBR001,M0022,Crispy Chicken Tok,Snack,1,M0009,Bihun Goreng Sapi Spesial BP,Bihun,23000,0.3198,12.6931,item_to_item_hybrid
+BBR001,M0022,Crispy Chicken Tok,Snack,2,M0049,Jeruk,Minuman Standar,8000,0.1914,6.5628,item_to_item_hybrid
+BBR001,M0022,Crispy Chicken Tok,Snack,3,M0097,Mie Goreng Ayam Spesial BP Hotplate,Mie,25000,0.1429,16.4592,item_to_item_hybrid
+BBR001,M0022,Crispy Chicken Tok,Snack,4,M0141,Paket Ayam Crispy Kecap,Paket Personal,34000,0.1195,11.5214,item_to_item_hybrid
+BBR001,M0022,Crispy Chicken Tok,Snack,5,M0075,Kwetiau Goreng Sapi Spesial BP,Kwetiau,23000,0.1195,11.5214,item_to_item_hybrid
+BBR001,M0023,Crispy Cumi Rice Hotplate,Hotplate,1,M0063,Juice Tomat,Juice,10000,0.4991,23.6388,item_to_item_hybrid
+BBR001,M0023,Crispy Cumi Rice Hotplate,Hotplate,2,M0116,Nasi Bakul Besar,Snack,30000,0.1802,13.0872,item_to_item_hybrid
+BBR001,M0023,Crispy Cumi Rice Hotplate,Hotplate,3,M0022,Crispy Chicken Tok,Snack,25000,0.1053,5.9594,item_to_item_hybrid
+BBR001,M0023,Crispy Cumi Rice Hotplate,Hotplate,4,M0130,Nila Bakar Manis,Nila,34000,0.0702,7.9458,item_to_item_hybrid
+BBR001,M0023,Crispy Cumi Rice Hotplate,Hotplate,5,M0084,Lele Bakar Manis,Lele,19500,0.0536,4.6351,item_to_item_hybrid
+BBR001,M0024,Crispy Dori Rice Hotplate,Hotplate,1,M0068,Kopi Hitam,Minuman Standar,8000,0.3077,15.2746,item_to_item_hybrid
+BBR001,M0024,Crispy Dori Rice Hotplate,Hotplate,2,M0117,Nasi Bakul Tanggung,Snack,20000,0.1277,8.7663,item_to_item_hybrid
+BBR001,M0024,Crispy Dori Rice Hotplate,Hotplate,3,M0072,Kopi Susu Spesial Mix,Minuman Standar,12000,0.1066,6.1098,item_to_item_hybrid
+BBR001,M0024,Crispy Dori Rice Hotplate,Hotplate,4,M0066,Kerupuk,Snack,2000,0.0758,4.6351,item_to_item_hybrid
+BBR001,M0024,Crispy Dori Rice Hotplate,Hotplate,5,M0075,Kwetiau Goreng Sapi Spesial BP,Kwetiau,23000,0.0645,6.7208,item_to_item_hybrid
+BBR001,M0025,Crispy Udang Rice Hotplate,Hotplate,1,M0071,Kopi Hitam Teko,Minuman Teko,40000,0.2959,15.6941,item_to_item_hybrid
+BBR001,M0025,Crispy Udang Rice Hotplate,Hotplate,2,M0196,Trancam,Sayuran,15000,0.253,25.808,item_to_item_hybrid
+BBR001,M0025,Crispy Udang Rice Hotplate,Hotplate,3,M0127,Nasi Putih,Snack,5000,0.2619,18.4343,item_to_item_hybrid
+BBR001,M0025,Crispy Udang Rice Hotplate,Hotplate,4,M0094,Lychee Tea,Minuman Standar,10000,0.1973,10.4627,item_to_item_hybrid
+BBR001,M0025,Crispy Udang Rice Hotplate,Hotplate,5,M0134,Nila Bumbu Bali,Nila,38000,0.0707,8.065,item_to_item_hybrid
+BBR001,M0026,Cumi Asam Manis,Alacarte,1,M0154,Pisang Goreng Coklat,Snack,17500,0.3705,31.6275,item_to_item_hybrid
+BBR001,M0026,Cumi Asam Manis,Alacarte,2,M0072,Kopi Susu Spesial Mix,Minuman Standar,12000,0.1899,11.6378,item_to_item_hybrid
+BBR001,M0026,Cumi Asam Manis,Alacarte,3,M0177,Sprite 250 ml,Soda,5000,0.0976,7.681,item_to_item_hybrid
+BBR001,M0026,Cumi Asam Manis,Alacarte,4,M0110,Nasi Ayam Bakar,Aneka Nasi,28000,0.0891,12.8016,item_to_item_hybrid
+BBR001,M0026,Cumi Asam Manis,Alacarte,5,M0167,Sayur Asem,Sayuran,15000,0.0563,5.1206,item_to_item_hybrid
+BBR001,M0027,Cumi Asam Pedas,Alacarte,1,M0155,Pisang Goreng Ori,Snack,17500,0.2758,17.5326,item_to_item_hybrid
+BBR001,M0027,Cumi Asam Pedas,Alacarte,2,M0090,Lemon Tea,Minuman Standar,10000,0.2128,14.6105,item_to_item_hybrid
+BBR001,M0027,Cumi Asam Pedas,Alacarte,3,M0185,Teh,Minuman Standar,5000,0.1703,11.6884,item_to_item_hybrid
+BBR001,M0027,Cumi Asam Pedas,Alacarte,4,M0013,Bihun Siram Ayam Spesial BP,Bihun,20000,0.0965,5.0093,item_to_item_hybrid
+BBR001,M0027,Cumi Asam Pedas,Alacarte,5,M0160,Sambal Tomat,Sambal,5000,0.091,6.6791,item_to_item_hybrid
+BBR001,M0028,Cup Minum,Kemasan Take Away,1,M0003,Ayam Bakar Tok,Alacarte,23000,0.0,1.0,cold_start_fallback
+BBR001,M0028,Cup Minum,Kemasan Take Away,2,M0004,Ayam Goreng Kremezz Tok,Alacarte,23000,0.0,1.0,cold_start_fallback
+BBR001,M0028,Cup Minum,Kemasan Take Away,3,M0001,Air Mineral Botol,Minuman Standar,5000,0.0,1.0,cold_start_fallback
+BBR001,M0028,Cup Minum,Kemasan Take Away,4,M0002,Air Putih Gelas,Minuman Standar,1000,0.0,1.0,cold_start_fallback
+BBR001,M0028,Cup Minum,Kemasan Take Away,5,M0007,Bihun Goreng Ayam,Bihun,18000,0.0,1.0,cold_start_fallback
+BBR001,M0029,Es Sirup,Minuman Standar,1,M0007,Bihun Goreng Ayam,Bihun,18000,0.3832,7.1776,item_to_item_hybrid
+BBR001,M0029,Es Sirup,Minuman Standar,2,M0051,Jeruk Jumbo,Minuman Jumbo,400000,0.2357,11.2014,item_to_item_hybrid
+BBR001,M0029,Es Sirup,Minuman Standar,3,M0016,Cap Cay Spesial Banyu Bening,Sayuran,25000,0.1757,4.9784,item_to_item_hybrid
+BBR001,M0029,Es Sirup,Minuman Standar,4,M0032,French Fries,Snack,15000,0.125,4.2005,item_to_item_hybrid
+BBR001,M0029,Es Sirup,Minuman Standar,5,M0003,Ayam Bakar Tok,Alacarte,23000,0.1315,1.6416,item_to_item_hybrid
+BBR001,M0032,French Fries,Snack,1,M0010,Bihun Goreng Seafood,Bihun,18000,0.2089,7.8217,item_to_item_hybrid
+BBR001,M0032,French Fries,Snack,2,M0125,Nasi Goreng Telur,Nasi Goreng,18000,0.1768,16.8021,item_to_item_hybrid
+BBR001,M0032,French Fries,Snack,3,M0007,Bihun Goreng Ayam,Bihun,18000,0.1742,4.8938,item_to_item_hybrid
+BBR001,M0032,French Fries,Snack,4,M0076,Kwetiau Goreng Seafood,Kwetiau,18000,0.1336,14.4018,item_to_item_hybrid
+BBR001,M0032,French Fries,Snack,5,M0029,Es Sirup,Minuman Standar,7000,0.125,4.2005,item_to_item_hybrid
+BBR001,M0033,Fuyung Hai Spesial BB,Alacarte,1,M0156,Sambal Bawang,Sambal,5000,0.1956,15.4354,item_to_item_hybrid
+BBR001,M0033,Fuyung Hai Spesial BB,Alacarte,2,M0184,Tahu Penyet,Snack,13000,0.1451,16.9789,item_to_item_hybrid
+BBR001,M0033,Fuyung Hai Spesial BB,Alacarte,3,M0093,Lime Squash,Soda,15000,0.135,9.7955,item_to_item_hybrid
+BBR001,M0033,Fuyung Hai Spesial BB,Alacarte,4,M0190,Teh Teko,Minuman Teko,25000,0.1257,8.4895,item_to_item_hybrid
+BBR001,M0033,Fuyung Hai Spesial BB,Alacarte,5,M0072,Kopi Susu Spesial Mix,Minuman Standar,12000,0.1198,7.7177,item_to_item_hybrid
+BBR001,M0034,Gemblong Cotot,Snack,1,M0011,Bihun Kuah Ayam,Bihun,18000,0.3024,11.3469,item_to_item_hybrid
+BBR001,M0034,Gemblong Cotot,Snack,2,M0077,Kwetiau Kuah Ayam,Kwetiau,18000,0.2513,20.3662,item_to_item_hybrid
+BBR001,M0034,Gemblong Cotot,Snack,3,M0142,Paket Ayam Kremez,Paket Personal,35000,0.1741,24.4394,item_to_item_hybrid
+BBR001,M0034,Gemblong Cotot,Snack,4,M0054,Jeruk Teko,Minuman Teko,30000,0.1928,6.6653,item_to_item_hybrid
+BBR001,M0034,Gemblong Cotot,Snack,5,M0176,Soto Ayam Banyu Bening,Soto,12000,0.1421,16.2929,item_to_item_hybrid
+BBR001,M0035,Gudangan,Sayuran,1,M0012,Bihun Kuah Seafood,Bihun,18000,0.2418,9.4327,item_to_item_hybrid
+BBR001,M0035,Gudangan,Sayuran,2,M0078,Kwetiau Kuah Seafood,Kwetiau,18000,0.2052,16.9789,item_to_item_hybrid
+BBR001,M0035,Gudangan,Sayuran,3,M0128,Nasi Sapi Bp spesial BB,Aneka Nasi,28000,0.1873,28.2982,item_to_item_hybrid
+BBR001,M0035,Gudangan,Sayuran,4,M0008,Bihun Goreng Ayam Spesial BP,Bihun,20000,0.1574,4.9938,item_to_item_hybrid
+BBR001,M0035,Gudangan,Sayuran,5,M0198,Udang Asam Manis,Alacarte,50000,0.1226,12.1278,item_to_item_hybrid
+BBR001,M0036,Gurame Bakar Madu,Gurame,1,M0094,Lychee Tea,Minuman Standar,10000,0.3797,19.3754,item_to_item_hybrid
+BBR001,M0036,Gurame Bakar Madu,Gurame,2,M0157,Sambal Ijo,Sambal,5000,0.1571,9.9568,item_to_item_hybrid
+BBR001,M0036,Gurame Bakar Madu,Gurame,3,M0181,Susu Jahe,Minuman Standar,11000,0.134,7.2413,item_to_item_hybrid
+BBR001,M0036,Gurame Bakar Madu,Gurame,4,M0034,Gemblong Cotot,Snack,17500,0.134,7.2413,item_to_item_hybrid
+BBR001,M0036,Gurame Bakar Madu,Gurame,5,M0195,Timus,Snack,17500,0.1068,9.1909,item_to_item_hybrid
+BBR001,M0037,Gurame Bakar Manis,Gurame,1,M0174,Soda Gembira,Soda,15000,0.1837,10.8839,item_to_item_hybrid
+BBR001,M0037,Gurame Bakar Manis,Gurame,2,M0052,Jeruk Nipis,Minuman Standar,8000,0.1749,9.8715,item_to_item_hybrid
+BBR001,M0037,Gurame Bakar Manis,Gurame,3,M0158,Sambal Kecap,Sambal,5000,0.1622,14.1491,item_to_item_hybrid
+BBR001,M0037,Gurame Bakar Manis,Gurame,4,M0163,Sapo Tahu Seafood Hotplate,Sapo Tahu,24000,0.1147,21.2237,item_to_item_hybrid
+BBR001,M0037,Gurame Bakar Manis,Gurame,5,M0170,Sig. Beef Rice Hotplate,Hotplate,27000,0.1147,21.2237,item_to_item_hybrid
+BBR001,M0038,Gurame Bakar Pedas,Gurame,1,M0056,Juice Buah Naga,Juice,15000,0.1937,12.1096,item_to_item_hybrid
+BBR001,M0038,Gurame Bakar Pedas,Gurame,2,M0159,Sambal Terasi,Sambal,5000,0.1715,15.8137,item_to_item_hybrid
+BBR001,M0038,Gurame Bakar Pedas,Gurame,3,M0175,Soda Susu,Soda,15000,0.1641,10.862,item_to_item_hybrid
+BBR001,M0038,Gurame Bakar Pedas,Gurame,4,M0067,Kerupuk Prasmanan,Snack,20000,0.1443,11.2014,item_to_item_hybrid
+BBR001,M0038,Gurame Bakar Pedas,Gurame,5,M0064,Kerang Asam Manis,Alacarte,30000,0.0711,8.1465,item_to_item_hybrid
+BBR001,M0039,Gurame Bakar Spesial,Gurame,1,M0160,Sambal Tomat,Sambal,5000,0.2182,25.6032,item_to_item_hybrid
+BBR001,M0039,Gurame Bakar Spesial,Gurame,2,M0177,Sprite 250 ml,Soda,5000,0.1491,17.9222,item_to_item_hybrid
+BBR001,M0039,Gurame Bakar Spesial,Gurame,3,M0099,Mie Goreng Sapi Spesial BP Hotplate,Mie,27000,0.1111,19.9136,item_to_item_hybrid
+BBR001,M0039,Gurame Bakar Spesial,Gurame,4,M0196,Trancam,Sayuran,15000,0.1054,17.9222,item_to_item_hybrid
+BBR001,M0039,Gurame Bakar Spesial,Gurame,5,M0109,Mix Platter,Snack,30000,0.0925,13.7863,item_to_item_hybrid
+BBR001,M0040,Gurame Bumbu Acar,Gurame,1,M0181,Susu Jahe,Minuman Standar,11000,0.338,26.3193,item_to_item_hybrid
+BBR001,M0040,Gurame Bumbu Acar,Gurame,2,M0128,Nasi Sapi Bp spesial BB,Aneka Nasi,28000,0.1601,41.359,item_to_item_hybrid
+BBR001,M0040,Gurame Bumbu Acar,Gurame,3,M0167,Sayur Asem,Sayuran,15000,0.1432,16.5436,item_to_item_hybrid
+BBR001,M0040,Gurame Bumbu Acar,Gurame,4,M0073,Kwetiau Goreng Ayam,Kwetiau,18000,0.0836,11.2797,item_to_item_hybrid
+BBR001,M0040,Gurame Bumbu Acar,Gurame,5,M0109,Mix Platter,Snack,30000,0.0769,9.5444,item_to_item_hybrid
+BBR001,M0041,Gurame Bumbu Bali,Gurame,1,M0182,Susu Putih/Coklat,Minuman Standar,10000,0.2887,22.4028,item_to_item_hybrid
+BBR001,M0041,Gurame Bumbu Bali,Gurame,2,M0168,Sayur Lodeh,Sayuran,15000,0.201,16.2929,item_to_item_hybrid
+BBR001,M0041,Gurame Bumbu Bali,Gurame,3,M0163,Sapo Tahu Seafood Hotplate,Sapo Tahu,24000,0.1179,22.4028,item_to_item_hybrid
+BBR001,M0041,Gurame Bumbu Bali,Gurame,4,M0129,Nila Bakar Madu,Nila,36000,0.1054,17.9222,item_to_item_hybrid
+BBR001,M0041,Gurame Bumbu Bali,Gurame,5,M0147,Paket Gokil,Paket Ber 5,190000,0.1054,17.9222,item_to_item_hybrid
+BBR001,M0042,Gurame Cabe Ijo,Gurame,1,M0173,Singkong Keju,Snack,17500,0.3131,31.6275,item_to_item_hybrid
+BBR001,M0042,Gurame Cabe Ijo,Gurame,2,M0185,Teh,Minuman Standar,5000,0.1581,13.4417,item_to_item_hybrid
+BBR001,M0042,Gurame Cabe Ijo,Gurame,3,M0076,Kwetiau Goreng Seafood,Kwetiau,18000,0.0976,15.3619,item_to_item_hybrid
+BBR001,M0042,Gurame Cabe Ijo,Gurame,4,M0130,Nila Bakar Manis,Nila,34000,0.0976,15.3619,item_to_item_hybrid
+BBR001,M0042,Gurame Cabe Ijo,Gurame,5,M0093,Lime Squash,Soda,15000,0.1013,8.2718,item_to_item_hybrid
+BBR001,M0043,Gurame Crispy Fillet,Gurame,1,M0188,Teh Kampul,Minuman Standar,9000,0.244,19.2024,item_to_item_hybrid
+BBR001,M0043,Gurame Crispy Fillet,Gurame,2,M0156,Sambal Bawang,Sambal,5000,0.1709,15.711,item_to_item_hybrid
+BBR001,M0043,Gurame Crispy Fillet,Gurame,3,M0183,Tahu Goreng,Snack,13000,0.138,15.3619,item_to_item_hybrid
+BBR001,M0043,Gurame Crispy Fillet,Gurame,4,M0149,Paket Nagih,Paket Ber 5,195000,0.1091,19.2024,item_to_item_hybrid
+BBR001,M0043,Gurame Crispy Fillet,Gurame,5,M0175,Soda Susu,Soda,15000,0.093,6.9827,item_to_item_hybrid
+BBR001,M0044,Gurame Goreng,Gurame,1,M0189,Teh Tarik,Minuman Standar,10000,0.3545,28.9513,item_to_item_hybrid
+BBR001,M0044,Gurame Goreng,Gurame,2,M0158,Sambal Kecap,Sambal,5000,0.1826,17.9222,item_to_item_hybrid
+BBR001,M0044,Gurame Goreng,Gurame,3,M0184,Tahu Penyet,Snack,13000,0.1633,21.5067,item_to_item_hybrid
+BBR001,M0044,Gurame Goreng,Gurame,4,M0070,Kopi Hitam Jumbo,Minuman Jumbo,400000,0.0745,8.9611,item_to_item_hybrid
+BBR001,M0044,Gurame Goreng,Gurame,5,M0052,Jeruk Nipis,Minuman Standar,8000,0.0787,5.0016,item_to_item_hybrid
+BBR001,M0045,Gurame Goreng Asam Manis,Gurame,1,M0190,Teh Teko,Minuman Teko,25000,0.2928,23.0429,item_to_item_hybrid
+BBR001,M0045,Gurame Goreng Asam Manis,Gurame,2,M0191,Telur Ceplok,Snack,5000,0.138,15.3619,item_to_item_hybrid
+BBR001,M0045,Gurame Goreng Asam Manis,Gurame,3,M0160,Sambal Tomat,Sambal,5000,0.1166,10.9728,item_to_item_hybrid
+BBR001,M0045,Gurame Goreng Asam Manis,Gurame,4,M0182,Susu Putih/Coklat,Minuman Standar,10000,0.1091,9.6012,item_to_item_hybrid
+BBR001,M0045,Gurame Goreng Asam Manis,Gurame,5,M0080,Kwetiau Siram Ayam Spesial Teriyaki,Kwetiau,20000,0.0891,12.8016,item_to_item_hybrid
+BBR001,M0046,Gurame Goreng Asam Pedas,Gurame,1,M0168,Sayur Lodeh,Sayuran,15000,0.1551,12.9385,item_to_item_hybrid
+BBR001,M0046,Gurame Goreng Asam Pedas,Gurame,2,M0001,Air Mineral Botol,Minuman Standar,5000,0.1634,6.1498,item_to_item_hybrid
+BBR001,M0046,Gurame Goreng Asam Pedas,Gurame,3,M0192,Telur Dadar,Snack,5000,0.1143,10.5425,item_to_item_hybrid
+BBR001,M0046,Gurame Goreng Asam Pedas,Gurame,4,M0099,Mie Goreng Sapi Spesial BP Hotplate,Mie,27000,0.0808,10.5425,item_to_item_hybrid
+BBR001,M0046,Gurame Goreng Asam Pedas,Gurame,5,M0029,Es Sirup,Minuman Standar,7000,0.0857,3.9534,item_to_item_hybrid
+BBR001,M0047,Healthy Juice,Juice,1,M0008,Bihun Goreng Ayam Spesial BP,Bihun,20000,0.3397,9.7976,item_to_item_hybrid
+BBR001,M0047,Healthy Juice,Juice,2,M0151,Paket Puas,Paket Ber 5,210000,0.1474,17.5326,item_to_item_hybrid
+BBR001,M0047,Healthy Juice,Juice,3,M0105,Mie Siram Sapi Spesial Blackpepper,Mie,23000,0.1523,9.3507,item_to_item_hybrid
+BBR001,M0047,Healthy Juice,Juice,4,M0053,Jeruk Nipis,Makanan,7000,0.1474,8.7663,item_to_item_hybrid
+BBR001,M0047,Healthy Juice,Juice,5,M0014,Bihun Siram Ayam Spesial Teriyaki,Bihun,20000,0.1393,6.2616,item_to_item_hybrid
+BBR001,M0048,Jamur Crispy,Snack,1,M0013,Bihun Siram Ayam Spesial BP,Bihun,20000,0.2503,10.1065,item_to_item_hybrid
+BBR001,M0048,Jamur Crispy,Snack,2,M0056,Juice Buah Naga,Juice,15000,0.1867,8.0306,item_to_item_hybrid
+BBR001,M0048,Jamur Crispy,Snack,3,M0129,Nila Bakar Madu,Nila,36000,0.1451,16.9789,item_to_item_hybrid
+BBR001,M0048,Jamur Crispy,Snack,4,M0004,Ayam Goreng Kremezz Tok,Alacarte,23000,0.1389,2.8298,item_to_item_hybrid
+BBR001,M0048,Jamur Crispy,Snack,5,M0079,Kwetiau Siram Ayam Spesial Blackpepper,Kwetiau,20000,0.0978,7.7177,item_to_item_hybrid
+BBR001,M0049,Jeruk,Minuman Standar,1,M0009,Bihun Goreng Sapi Spesial BP,Bihun,23000,0.2929,6.9213,item_to_item_hybrid
+BBR001,M0049,Jeruk,Minuman Standar,2,M0004,Ayam Goreng Kremezz Tok,Alacarte,23000,0.2978,4.2073,item_to_item_hybrid
+BBR001,M0049,Jeruk,Minuman Standar,3,M0022,Crispy Chicken Tok,Snack,25000,0.1914,6.5628,item_to_item_hybrid
+BBR001,M0049,Jeruk,Minuman Standar,4,M0144,Paket Ayam Teriyaki,Paket Personal,34000,0.1276,8.7505,item_to_item_hybrid
+BBR001,M0049,Jeruk,Minuman Standar,5,M0141,Paket Ayam Crispy Kecap,Paket Personal,34000,0.1067,6.1253,item_to_item_hybrid
+BBR001,M0050,Jeruk 1/2 Jumbo,Minuman Jumbo,1,M0193,Tempe Goreng,Snack,13000,0.2294,21.2237,item_to_item_hybrid
+BBR001,M0050,Jeruk 1/2 Jumbo,Minuman Jumbo,2,M0116,Nasi Bakul Besar,Snack,30000,0.1669,14.9814,item_to_item_hybrid
+BBR001,M0050,Jeruk 1/2 Jumbo,Minuman Jumbo,3,M0002,Air Putih Gelas,Minuman Standar,1000,0.1119,4.0426,item_to_item_hybrid
+BBR001,M0050,Jeruk 1/2 Jumbo,Minuman Jumbo,4,M0086,Lele Cabe Ijo,Lele,22500,0.0765,9.4327,item_to_item_hybrid
+BBR001,M0050,Jeruk 1/2 Jumbo,Minuman Jumbo,5,M0049,Jeruk,Minuman Standar,8000,0.0774,3.2239,item_to_item_hybrid
+BBR001,M0051,Jeruk Jumbo,Minuman Jumbo,1,M0194,Tempe Penyet,Snack,13000,0.3032,29.6507,item_to_item_hybrid
+BBR001,M0051,Jeruk Jumbo,Minuman Jumbo,2,M0029,Es Sirup,Minuman Standar,7000,0.2357,11.2014,item_to_item_hybrid
+BBR001,M0051,Jeruk Jumbo,Minuman Jumbo,3,M0055,Juice Alpukat,Juice,15000,0.1823,10.7247,item_to_item_hybrid
+BBR001,M0051,Jeruk Jumbo,Minuman Jumbo,4,M0195,Timus,Snack,17500,0.0693,7.7548,item_to_item_hybrid
+BBR001,M0051,Jeruk Jumbo,Minuman Jumbo,5,M0105,Mie Siram Sapi Spesial Blackpepper,Mie,23000,0.0645,6.7208,item_to_item_hybrid
+BBR001,M0052,Jeruk Nipis,Minuman Standar,1,M0010,Bihun Goreng Seafood,Bihun,18000,0.4005,12.935,item_to_item_hybrid
+BBR001,M0052,Jeruk Nipis,Minuman Standar,2,M0145,Paket Bar-Bar,Paket Ber 5,240000,0.249,25.0078,item_to_item_hybrid
+BBR001,M0052,Jeruk Nipis,Minuman Standar,3,M0037,Gurame Bakar Manis,Gurame,50000,0.1749,9.8715,item_to_item_hybrid
+BBR001,M0052,Jeruk Nipis,Minuman Standar,4,M0082,Lalap Sambal Krupuk,Sayuran,5000,0.1643,7.2603,item_to_item_hybrid
+BBR001,M0052,Jeruk Nipis,Minuman Standar,5,M0089,Lele Goreng Asam Pedas,Lele,22500,0.1321,9.3779,item_to_item_hybrid
+BBR001,M0053,Jeruk Nipis,Makanan,1,M0195,Timus,Snack,17500,0.3467,38.774,item_to_item_hybrid
+BBR001,M0053,Jeruk Nipis,Makanan,2,M0193,Tempe Goreng,Snack,13000,0.1875,18.9023,item_to_item_hybrid
+BBR001,M0053,Jeruk Nipis,Makanan,3,M0047,Healthy Juice,Juice,15000,0.1474,8.7663,item_to_item_hybrid
+BBR001,M0053,Jeruk Nipis,Makanan,4,M0175,Soda Susu,Soda,15000,0.087,6.1098,item_to_item_hybrid
+BBR001,M0053,Jeruk Nipis,Makanan,5,M0058,Juice Jeruk,Juice,13000,0.0791,5.0406,item_to_item_hybrid
+BBR001,M0054,Jeruk Teko,Minuman Teko,1,M0011,Bihun Kuah Ayam,Bihun,18000,0.3783,10.0376,item_to_item_hybrid
+BBR001,M0054,Jeruk Teko,Minuman Teko,2,M0034,Gemblong Cotot,Snack,17500,0.1928,6.6653,item_to_item_hybrid
+BBR001,M0054,Jeruk Teko,Minuman Teko,3,M0077,Kwetiau Kuah Ayam,Kwetiau,18000,0.1421,8.1465,item_to_item_hybrid
+BBR001,M0054,Jeruk Teko,Minuman Teko,4,M0069,Kopi Hitam 1/2 Jumbo,Minuman Jumbo,200000,0.1306,9.1648,item_to_item_hybrid
+BBR001,M0054,Jeruk Teko,Minuman Teko,5,M0120,Nasi Goreng Cheezy Chicken Hotplate,Nasi Goreng,28000,0.1066,6.1098,item_to_item_hybrid
+BBR001,M0055,Juice Alpukat,Juice,1,M0012,Bihun Kuah Seafood,Bihun,18000,0.2609,9.1518,item_to_item_hybrid
+BBR001,M0055,Juice Alpukat,Juice,2,M0007,Bihun Goreng Ayam,Bihun,18000,0.23,5.3311,item_to_item_hybrid
+BBR001,M0055,Juice Alpukat,Juice,3,M0016,Cap Cay Spesial Banyu Bening,Sayuran,25000,0.1957,6.8638,item_to_item_hybrid
+BBR001,M0055,Juice Alpukat,Juice,4,M0051,Jeruk Jumbo,Minuman Jumbo,400000,0.1823,10.7247,item_to_item_hybrid
+BBR001,M0055,Juice Alpukat,Juice,5,M0035,Gudangan,Sayuran,15000,0.1183,4.5157,item_to_item_hybrid
+BBR001,M0056,Juice Buah Naga,Juice,1,M0013,Bihun Siram Ayam Spesial BP,Bihun,20000,0.4566,18.6834,item_to_item_hybrid
+BBR001,M0056,Juice Buah Naga,Juice,2,M0038,Gurame Bakar Pedas,Gurame,50000,0.1937,12.1096,item_to_item_hybrid
+BBR001,M0056,Juice Buah Naga,Juice,3,M0048,Jamur Crispy,Snack,13000,0.1867,8.0306,item_to_item_hybrid
+BBR001,M0056,Juice Buah Naga,Juice,4,M0114,Nasi Ayam Ori Bp Spesial BB,Aneka Nasi,25000,0.1243,12.4556,item_to_item_hybrid
+BBR001,M0056,Juice Buah Naga,Juice,5,M0091,Lemon Tea 1/2 Jumbo,Minuman Jumbo,200000,0.1096,9.6877,item_to_item_hybrid
+BBR001,M0057,Juice Jambu,Juice,1,M0074,Kwetiau Goreng Ayam Spesial BP,Kwetiau,20000,0.2023,13.1997,item_to_item_hybrid
+BBR001,M0057,Juice Jambu,Juice,2,M0004,Ayam Goreng Kremezz Tok,Alacarte,23000,0.193,3.5359,item_to_item_hybrid
+BBR001,M0057,Juice Jambu,Juice,3,M0014,Bihun Siram Ayam Spesial Teriyaki,Bihun,20000,0.1654,7.3541,item_to_item_hybrid
+BBR001,M0057,Juice Jambu,Juice,4,M0078,Kwetiau Kuah Seafood,Kwetiau,18000,0.1384,10.2957,item_to_item_hybrid
+BBR001,M0057,Juice Jambu,Juice,5,M0153,Paket Sapi Lada Hitam,Paket Personal,36000,0.1191,11.4397,item_to_item_hybrid
+BBR001,M0058,Juice Jeruk,Juice,1,M0015,Bihun Siram Sapi Spesial BP,Bihun,23000,0.3578,15.8856,item_to_item_hybrid
+BBR001,M0058,Juice Jeruk,Juice,2,M0118,Nasi Goreng Ayam,Nasi Goreng,18000,0.1793,17.2821,item_to_item_hybrid
+BBR001,M0058,Juice Jeruk,Juice,3,M0008,Bihun Goreng Ayam Spesial BP,Bihun,20000,0.1917,5.9301,item_to_item_hybrid
+BBR001,M0058,Juice Jeruk,Juice,4,M0075,Kwetiau Goreng Sapi Spesial BP,Kwetiau,23000,0.15,12.0975,item_to_item_hybrid
+BBR001,M0058,Juice Jeruk,Juice,5,M0150,Paket Nila,Paket Personal,36000,0.1291,13.4417,item_to_item_hybrid
+BBR001,M0059,Juice Mangga,Juice,1,M0119,Nasi Goreng Banyu Bening Hotplate,Nasi Goreng,25000,0.2626,27.8103,item_to_item_hybrid
+BBR001,M0059,Juice Mangga,Juice,2,M0018,Crispy Chicken indomie Hotplate,Hotplate,25000,0.2759,15.3436,item_to_item_hybrid
+BBR001,M0059,Juice Mangga,Juice,3,M0176,Soto Ayam Banyu Bening,Soto,12000,0.1516,18.5402,item_to_item_hybrid
+BBR001,M0059,Juice Mangga,Juice,4,M0076,Kwetiau Goreng Seafood,Kwetiau,18000,0.1404,15.8916,item_to_item_hybrid
+BBR001,M0059,Juice Mangga,Juice,5,M0197,Tumis Kangkung,Sayuran,15000,0.1313,9.2701,item_to_item_hybrid
+BBR001,M0060,Juice Melon,Juice,1,M0019,Crispy Chicken Pasta Hotplate,Hotplate,27000,0.2835,14.4018,item_to_item_hybrid
+BBR001,M0060,Juice Melon,Juice,2,M0077,Kwetiau Kuah Ayam,Kwetiau,18000,0.2227,16.002,item_to_item_hybrid
+BBR001,M0060,Juice Melon,Juice,3,M0152,Paket Santuy,Paket Ber 5,150000,0.207,23.0429,item_to_item_hybrid
+BBR001,M0060,Juice Melon,Juice,4,M0120,Nasi Goreng Cheezy Chicken Hotplate,Nasi Goreng,28000,0.1782,12.8016,item_to_item_hybrid
+BBR001,M0060,Juice Melon,Juice,5,M0083,Lalapan,Sayuran,5000,0.138,7.681,item_to_item_hybrid
+BBR001,M0061,Juice Sirsak,Juice,1,M0009,Bihun Goreng Sapi Spesial BP,Bihun,23000,0.2523,7.8979,item_to_item_hybrid
+BBR001,M0061,Juice Sirsak,Juice,2,M0020,Crispy Chicken Rice Hotplate,Hotplate,25000,0.213,10.4546,item_to_item_hybrid
+BBR001,M0061,Juice Sirsak,Juice,3,M0064,Kerang Asam Manis,Alacarte,30000,0.1348,9.7758,item_to_item_hybrid
+BBR001,M0061,Juice Sirsak,Juice,4,M0146,Paket Geprek Boneless,Paket Personal,25000,0.1054,17.9222,item_to_item_hybrid
+BBR001,M0061,Juice Sirsak,Juice,5,M0144,Paket Ayam Teriyaki,Paket Personal,34000,0.1127,10.2413,item_to_item_hybrid
+BBR001,M0062,Juice Strawbery,Juice,1,M0079,Kwetiau Siram Ayam Spesial Blackpepper,Kwetiau,20000,0.3214,33.3264,item_to_item_hybrid
+BBR001,M0062,Juice Strawbery,Juice,2,M0122,Nasi Goreng Seafood,Nasi Goreng,18000,0.2611,36.6591,item_to_item_hybrid
+BBR001,M0062,Juice Strawbery,Juice,3,M0021,Crispy Chicken Salted Egg Hotplate,Hotplate,27000,0.1741,12.2197,item_to_item_hybrid
+BBR001,M0062,Juice Strawbery,Juice,4,M0186,Teh 1/2 Jumbo,Minuman Jumbo,150000,0.1612,20.9481,item_to_item_hybrid
+BBR001,M0062,Juice Strawbery,Juice,5,M0162,Sapo Tahu Sapi Hotplate,Sapo Tahu,25000,0.1231,24.4394,item_to_item_hybrid
+BBR001,M0063,Juice Tomat,Juice,1,M0023,Crispy Cumi Rice Hotplate,Hotplate,26000,0.4991,23.6388,item_to_item_hybrid
+BBR001,M0063,Juice Tomat,Juice,2,M0080,Kwetiau Siram Ayam Spesial Teriyaki,Kwetiau,20000,0.2635,22.4028,item_to_item_hybrid
+BBR001,M0063,Juice Tomat,Juice,3,M0162,Sapo Tahu Sapi Hotplate,Sapo Tahu,25000,0.1826,26.8833,item_to_item_hybrid
+BBR001,M0063,Juice Tomat,Juice,4,M0092,Lemon Tea Jumbo,Minuman Jumbo,400000,0.15,12.0975,item_to_item_hybrid
+BBR001,M0063,Juice Tomat,Juice,5,M0116,Nasi Bakul Besar,Snack,30000,0.1534,9.4882,item_to_item_hybrid
+BBR001,M0064,Kerang Asam Manis,Alacarte,1,M0195,Timus,Snack,17500,0.1672,22.5594,item_to_item_hybrid
+BBR001,M0064,Kerang Asam Manis,Alacarte,2,M0150,Paket Nila,Paket Personal,36000,0.1231,24.4394,item_to_item_hybrid
+BBR001,M0064,Kerang Asam Manis,Alacarte,3,M0061,Juice Sirsak,Juice,15000,0.1348,9.7758,item_to_item_hybrid
+BBR001,M0064,Kerang Asam Manis,Alacarte,4,M0196,Trancam,Sayuran,15000,0.0953,14.6636,item_to_item_hybrid
+BBR001,M0064,Kerang Asam Manis,Alacarte,5,M0049,Jeruk,Minuman Standar,8000,0.1018,5.5685,item_to_item_hybrid
+BBR001,M0065,Kerang Asam Pedas,Alacarte,1,M0197,Tumis Kangkung,Sayuran,15000,0.2357,22.4028,item_to_item_hybrid
+BBR001,M0065,Kerang Asam Pedas,Alacarte,2,M0068,Kopi Hitam,Minuman Standar,8000,0.1884,11.456,item_to_item_hybrid
+BBR001,M0065,Kerang Asam Pedas,Alacarte,3,M0081,Kwetiau Siram Sapi Spesial Blackpepper,Kwetiau,23000,0.1508,18.3295,item_to_item_hybrid
+BBR001,M0065,Kerang Asam Pedas,Alacarte,4,M0157,Sambal Ijo,Sambal,5000,0.1021,8.401,item_to_item_hybrid
+BBR001,M0065,Kerang Asam Pedas,Alacarte,5,M0180,Sup Nila,Nila,38000,0.0884,12.6016,item_to_item_hybrid
+BBR001,M0066,Kerupuk,Snack,1,M0009,Bihun Goreng Sapi Spesial BP,Bihun,23000,0.2659,10.37,item_to_item_hybrid
+BBR001,M0066,Kerupuk,Snack,2,M0014,Bihun Siram Ayam Spesial Teriyaki,Bihun,20000,0.2457,13.9052,item_to_item_hybrid
+BBR001,M0066,Kerupuk,Snack,3,M0186,Teh 1/2 Jumbo,Minuman Jumbo,150000,0.2106,23.8374,item_to_item_hybrid
+BBR001,M0066,Kerupuk,Snack,4,M0080,Kwetiau Siram Ayam Spesial Teriyaki,Kwetiau,20000,0.1238,12.3602,item_to_item_hybrid
+BBR001,M0066,Kerupuk,Snack,5,M0061,Juice Sirsak,Juice,15000,0.1107,4.9441,item_to_item_hybrid
+BBR001,M0067,Kerupuk Prasmanan,Snack,1,M0144,Paket Ayam Teriyaki,Paket Personal,34000,0.2315,28.8036,item_to_item_hybrid
+BBR001,M0067,Kerupuk Prasmanan,Snack,2,M0015,Bihun Siram Sapi Spesial BP,Bihun,23000,0.2132,12.2197,item_to_item_hybrid
+BBR001,M0067,Kerupuk Prasmanan,Snack,3,M0081,Kwetiau Siram Sapi Spesial Blackpepper,Kwetiau,23000,0.1846,18.3295,item_to_item_hybrid
+BBR001,M0067,Kerupuk Prasmanan,Snack,4,M0038,Gurame Bakar Pedas,Gurame,50000,0.1443,11.2014,item_to_item_hybrid
+BBR001,M0067,Kerupuk Prasmanan,Snack,5,M0100,Mie Goreng Seafood,Mie,18000,0.1361,14.9352,item_to_item_hybrid
+BBR001,M0068,Kopi Hitam,Minuman Standar,1,M0024,Crispy Dori Rice Hotplate,Hotplate,25000,0.3077,15.2746,item_to_item_hybrid
+BBR001,M0068,Kopi Hitam,Minuman Standar,2,M0124,Nasi Goreng Sosis,Nasi Goreng,18000,0.2091,14.0997,item_to_item_hybrid
+BBR001,M0068,Kopi Hitam,Minuman Standar,3,M0065,Kerang Asam Pedas,Alacarte,30000,0.1884,11.456,item_to_item_hybrid
+BBR001,M0068,Kopi Hitam,Minuman Standar,4,M0081,Kwetiau Siram Sapi Spesial Blackpepper,Kwetiau,23000,0.0909,6.6653,item_to_item_hybrid
+BBR001,M0068,Kopi Hitam,Minuman Standar,5,M0007,Bihun Goreng Ayam,Bihun,18000,0.104,2.4914,item_to_item_hybrid
+BBR001,M0069,Kopi Hitam 1/2 Jumbo,Minuman Jumbo,1,M0054,Jeruk Teko,Minuman Teko,30000,0.1306,9.1648,item_to_item_hybrid
+BBR001,M0069,Kopi Hitam 1/2 Jumbo,Minuman Jumbo,2,M0006,Bakwan Sayur,Snack,13000,0.125,8.401,item_to_item_hybrid
+BBR001,M0069,Kopi Hitam 1/2 Jumbo,Minuman Jumbo,3,M0194,Tempe Penyet,Snack,13000,0.0857,11.8603,item_to_item_hybrid
+BBR001,M0069,Kopi Hitam 1/2 Jumbo,Minuman Jumbo,4,M0083,Lalapan,Sayuran,5000,0.0791,10.0812,item_to_item_hybrid
+BBR001,M0069,Kopi Hitam 1/2 Jumbo,Minuman Jumbo,5,M0020,Crispy Chicken Rice Hotplate,Hotplate,25000,0.0722,8.401,item_to_item_hybrid
+BBR001,M0070,Kopi Hitam Jumbo,Minuman Jumbo,1,M0174,Soda Gembira,Soda,15000,0.0925,6.8932,item_to_item_hybrid
+BBR001,M0070,Kopi Hitam Jumbo,Minuman Jumbo,2,M0077,Kwetiau Kuah Ayam,Kwetiau,18000,0.0833,11.2014,item_to_item_hybrid
+BBR001,M0070,Kopi Hitam Jumbo,Minuman Jumbo,3,M0055,Juice Alpukat,Juice,15000,0.0842,5.7199,item_to_item_hybrid
+BBR001,M0070,Kopi Hitam Jumbo,Minuman Jumbo,4,M0043,Gurame Crispy Fillet,Gurame,70000,0.0772,9.6012,item_to_item_hybrid
+BBR001,M0070,Kopi Hitam Jumbo,Minuman Jumbo,5,M0044,Gurame Goreng,Gurame,45000,0.0745,8.9611,item_to_item_hybrid
+BBR001,M0071,Kopi Hitam Teko,Minuman Teko,1,M0084,Lele Bakar Manis,Lele,19500,0.3322,25.4302,item_to_item_hybrid
+BBR001,M0071,Kopi Hitam Teko,Minuman Teko,2,M0025,Crispy Udang Rice Hotplate,Hotplate,26000,0.2959,15.6941,item_to_item_hybrid
+BBR001,M0071,Kopi Hitam Teko,Minuman Teko,3,M0164,Saus Asam Manis/Pedas,Saus,5000,0.147,17.4378,item_to_item_hybrid
+BBR001,M0071,Kopi Hitam Teko,Minuman Teko,4,M0097,Mie Goreng Ayam Spesial BP Hotplate,Mie,25000,0.1243,12.4556,item_to_item_hybrid
+BBR001,M0071,Kopi Hitam Teko,Minuman Teko,5,M0125,Nasi Goreng Telur,Nasi Goreng,18000,0.1096,9.6877,item_to_item_hybrid
+BBR001,M0072,Kopi Susu Spesial Mix,Minuman Standar,1,M0126,Nasi Goreng Teri,Nasi Goreng,18000,0.2335,29.3273,item_to_item_hybrid
+BBR001,M0072,Kopi Susu Spesial Mix,Minuman Standar,2,M0026,Cumi Asam Manis,Alacarte,50000,0.1899,11.6378,item_to_item_hybrid
+BBR001,M0072,Kopi Susu Spesial Mix,Minuman Standar,3,M0085,Lele Bakar Pedas,Lele,19500,0.1651,14.6636,item_to_item_hybrid
+BBR001,M0072,Kopi Susu Spesial Mix,Minuman Standar,4,M0165,Saus Barbeque,Saus,5000,0.1557,19.5515,item_to_item_hybrid
+BBR001,M0072,Kopi Susu Spesial Mix,Minuman Standar,5,M0154,Pisang Goreng Coklat,Snack,17500,0.1267,8.6257,item_to_item_hybrid
+BBR001,M0073,Kwetiau Goreng Ayam,Kwetiau,1,M0143,Paket Ayam Lada Hitam,Paket Personal,34000,0.1508,36.6591,item_to_item_hybrid
+BBR001,M0073,Kwetiau Goreng Ayam,Kwetiau,2,M0181,Susu Jahe,Minuman Standar,11000,0.1575,13.3306,item_to_item_hybrid
+BBR001,M0073,Kwetiau Goreng Ayam,Kwetiau,3,M0199,Udang Asam Pedas,Alacarte,50000,0.1348,29.3273,item_to_item_hybrid
+BBR001,M0073,Kwetiau Goreng Ayam,Kwetiau,4,M0087,Lele Goreng,Lele,18000,0.1231,24.4394,item_to_item_hybrid
+BBR001,M0073,Kwetiau Goreng Ayam,Kwetiau,5,M0056,Juice Buah Naga,Juice,15000,0.0991,7.9263,item_to_item_hybrid
+BBR001,M0074,Kwetiau Goreng Ayam Spesial BP,Kwetiau,1,M0057,Juice Jambu,Juice,15000,0.2023,13.1997,item_to_item_hybrid
+BBR001,M0074,Kwetiau Goreng Ayam Spesial BP,Kwetiau,2,M0188,Teh Kampul,Minuman Standar,9000,0.1013,8.2718,item_to_item_hybrid
+BBR001,M0074,Kwetiau Goreng Ayam Spesial BP,Kwetiau,3,M0039,Gurame Bakar Spesial,Gurame,52500,0.0925,13.7863,item_to_item_hybrid
+BBR001,M0074,Kwetiau Goreng Ayam Spesial BP,Kwetiau,4,M0174,Soda Gembira,Soda,15000,0.0888,6.3629,item_to_item_hybrid
+BBR001,M0074,Kwetiau Goreng Ayam Spesial BP,Kwetiau,5,M0177,Sprite 250 ml,Soda,5000,0.062,6.2038,item_to_item_hybrid
+BBR001,M0075,Kwetiau Goreng Sapi Spesial BP,Kwetiau,1,M0058,Juice Jeruk,Juice,13000,0.15,12.0975,item_to_item_hybrid
+BBR001,M0075,Kwetiau Goreng Sapi Spesial BP,Kwetiau,2,M0117,Nasi Bakul Tanggung,Snack,20000,0.1319,14.0261,item_to_item_hybrid
+BBR001,M0075,Kwetiau Goreng Sapi Spesial BP,Kwetiau,3,M0022,Crispy Chicken Tok,Snack,25000,0.1195,11.5214,item_to_item_hybrid
+BBR001,M0075,Kwetiau Goreng Sapi Spesial BP,Kwetiau,4,M0089,Lele Goreng Asam Pedas,Lele,22500,0.0913,13.4417,item_to_item_hybrid
+BBR001,M0075,Kwetiau Goreng Sapi Spesial BP,Kwetiau,5,M0124,Nasi Goreng Sosis,Nasi Goreng,18000,0.0877,12.4077,item_to_item_hybrid
+BBR001,M0076,Kwetiau Goreng Seafood,Kwetiau,1,M0059,Juice Mangga,Juice,15000,0.1404,15.8916,item_to_item_hybrid
+BBR001,M0076,Kwetiau Goreng Seafood,Kwetiau,2,M0032,French Fries,Snack,15000,0.1336,14.4018,item_to_item_hybrid
+BBR001,M0076,Kwetiau Goreng Seafood,Kwetiau,3,M0042,Gurame Cabe Ijo,Gurame,57500,0.0976,15.3619,item_to_item_hybrid
+BBR001,M0076,Kwetiau Goreng Seafood,Kwetiau,4,M0029,Es Sirup,Minuman Standar,7000,0.0891,6.4008,item_to_item_hybrid
+BBR001,M0076,Kwetiau Goreng Seafood,Kwetiau,5,M0082,Lalap Sambal Krupuk,Sayuran,5000,0.0679,7.4332,item_to_item_hybrid
+BBR001,M0077,Kwetiau Kuah Ayam,Kwetiau,1,M0034,Gemblong Cotot,Snack,17500,0.2513,20.3662,item_to_item_hybrid
+BBR001,M0077,Kwetiau Kuah Ayam,Kwetiau,2,M0060,Juice Melon,Juice,13000,0.2227,16.002,item_to_item_hybrid
+BBR001,M0077,Kwetiau Kuah Ayam,Kwetiau,3,M0054,Jeruk Teko,Minuman Teko,30000,0.1421,8.1465,item_to_item_hybrid
+BBR001,M0077,Kwetiau Kuah Ayam,Kwetiau,4,M0110,Nasi Ayam Bakar,Aneka Nasi,28000,0.1179,22.4028,item_to_item_hybrid
+BBR001,M0077,Kwetiau Kuah Ayam,Kwetiau,5,M0070,Kopi Hitam Jumbo,Minuman Jumbo,400000,0.0833,11.2014,item_to_item_hybrid
+BBR001,M0078,Kwetiau Kuah Seafood,Kwetiau,1,M0035,Gudangan,Sayuran,15000,0.2052,16.9789,item_to_item_hybrid
+BBR001,M0078,Kwetiau Kuah Seafood,Kwetiau,2,M0116,Nasi Bakul Besar,Snack,30000,0.1534,18.9765,item_to_item_hybrid
+BBR001,M0078,Kwetiau Kuah Seafood,Kwetiau,3,M0057,Juice Jambu,Juice,15000,0.1384,10.2957,item_to_item_hybrid
+BBR001,M0078,Kwetiau Kuah Seafood,Kwetiau,4,M0125,Nasi Goreng Telur,Nasi Goreng,18000,0.1054,17.9222,item_to_item_hybrid
+BBR001,M0078,Kwetiau Kuah Seafood,Kwetiau,5,M0190,Teh Teko,Minuman Teko,25000,0.0577,5.3767,item_to_item_hybrid
+BBR001,M0079,Kwetiau Siram Ayam Spesial Blackpepper,Kwetiau,1,M0062,Juice Strawbery,Juice,13000,0.3214,33.3264,item_to_item_hybrid
+BBR001,M0079,Kwetiau Siram Ayam Spesial Blackpepper,Kwetiau,2,M0186,Teh 1/2 Jumbo,Minuman Jumbo,150000,0.114,20.9481,item_to_item_hybrid
+BBR001,M0079,Kwetiau Siram Ayam Spesial Blackpepper,Kwetiau,3,M0048,Jamur Crispy,Snack,13000,0.0978,7.7177,item_to_item_hybrid
+BBR001,M0079,Kwetiau Siram Ayam Spesial Blackpepper,Kwetiau,4,M0060,Juice Melon,Juice,13000,0.093,6.9827,item_to_item_hybrid
+BBR001,M0079,Kwetiau Siram Ayam Spesial Blackpepper,Kwetiau,5,M0191,Telur Ceplok,Snack,5000,0.0778,9.7758,item_to_item_hybrid
+BBR001,M0080,Kwetiau Siram Ayam Spesial Teriyaki,Kwetiau,1,M0063,Juice Tomat,Juice,10000,0.2635,22.4028,item_to_item_hybrid
+BBR001,M0080,Kwetiau Siram Ayam Spesial Teriyaki,Kwetiau,2,M0066,Kerupuk,Snack,2000,0.1238,12.3602,item_to_item_hybrid
+BBR001,M0080,Kwetiau Siram Ayam Spesial Teriyaki,Kwetiau,3,M0045,Gurame Goreng Asam Manis,Gurame,57500,0.0891,12.8016,item_to_item_hybrid
+BBR001,M0080,Kwetiau Siram Ayam Spesial Teriyaki,Kwetiau,4,M0160,Sambal Tomat,Sambal,5000,0.0727,8.5344,item_to_item_hybrid
+BBR001,M0080,Kwetiau Siram Ayam Spesial Teriyaki,Kwetiau,5,M0155,Pisang Goreng Ori,Snack,17500,0.063,6.4008,item_to_item_hybrid
+BBR001,M0081,Kwetiau Siram Sapi Spesial Blackpepper,Kwetiau,1,M0067,Kerupuk Prasmanan,Snack,20000,0.1846,18.3295,item_to_item_hybrid
+BBR001,M0081,Kwetiau Siram Sapi Spesial Blackpepper,Kwetiau,2,M0065,Kerang Asam Pedas,Alacarte,30000,0.1508,18.3295,item_to_item_hybrid
+BBR001,M0081,Kwetiau Siram Sapi Spesial Blackpepper,Kwetiau,3,M0186,Teh 1/2 Jumbo,Minuman Jumbo,150000,0.114,20.9481,item_to_item_hybrid
+BBR001,M0081,Kwetiau Siram Sapi Spesial Blackpepper,Kwetiau,4,M0068,Kopi Hitam,Minuman Standar,8000,0.0909,6.6653,item_to_item_hybrid
+BBR001,M0081,Kwetiau Siram Sapi Spesial Blackpepper,Kwetiau,5,M0083,Lalapan,Sayuran,5000,0.0674,7.3318,item_to_item_hybrid
+BBR001,M0082,Lalap Sambal Krupuk,Sayuran,1,M0084,Lele Bakar Manis,Lele,19500,0.2074,17.3441,item_to_item_hybrid
+BBR001,M0082,Lalap Sambal Krupuk,Sayuran,2,M0018,Crispy Chicken indomie Hotplate,Hotplate,25000,0.2001,10.7653,item_to_item_hybrid
+BBR001,M0082,Lalap Sambal Krupuk,Sayuran,3,M0010,Bihun Goreng Seafood,Bihun,18000,0.1887,7.1769,item_to_item_hybrid
+BBR001,M0082,Lalap Sambal Krupuk,Sayuran,4,M0052,Jeruk Nipis,Minuman Standar,8000,0.1643,7.2603,item_to_item_hybrid
+BBR001,M0082,Lalap Sambal Krupuk,Sayuran,5,M0059,Juice Mangga,Juice,15000,0.1334,7.1769,item_to_item_hybrid
+BBR001,M0083,Lalapan,Sayuran,1,M0019,Crispy Chicken Pasta Hotplate,Hotplate,27000,0.1826,13.4417,item_to_item_hybrid
+BBR001,M0083,Lalapan,Sayuran,2,M0162,Sapo Tahu Sapi Hotplate,Sapo Tahu,25000,0.1291,26.8833,item_to_item_hybrid
+BBR001,M0083,Lalapan,Sayuran,3,M0060,Juice Melon,Juice,13000,0.138,7.681,item_to_item_hybrid
+BBR001,M0083,Lalapan,Sayuran,4,M0199,Udang Asam Pedas,Alacarte,50000,0.1,16.13,item_to_item_hybrid
+BBR001,M0083,Lalapan,Sayuran,5,M0122,Nasi Goreng Seafood,Nasi Goreng,18000,0.0913,13.4417,item_to_item_hybrid
+BBR001,M0084,Lele Bakar Manis,Lele,1,M0071,Kopi Hitam Teko,Minuman Teko,40000,0.3322,25.4302,item_to_item_hybrid
+BBR001,M0084,Lele Bakar Manis,Lele,2,M0082,Lalap Sambal Krupuk,Sayuran,5000,0.2074,17.3441,item_to_item_hybrid
+BBR001,M0084,Lele Bakar Manis,Lele,3,M0094,Lychee Tea,Minuman Standar,10000,0.1424,10.8986,item_to_item_hybrid
+BBR001,M0084,Lele Bakar Manis,Lele,4,M0065,Kerang Asam Pedas,Alacarte,30000,0.0722,8.401,item_to_item_hybrid
+BBR001,M0084,Lele Bakar Manis,Lele,5,M0159,Sambal Terasi,Sambal,5000,0.07,7.9069,item_to_item_hybrid
+BBR001,M0085,Lele Bakar Pedas,Lele,1,M0167,Sayur Asem,Sayuran,15000,0.1633,21.5067,item_to_item_hybrid
+BBR001,M0085,Lele Bakar Pedas,Lele,2,M0072,Kopi Susu Spesial Mix,Minuman Standar,12000,0.1651,14.6636,item_to_item_hybrid
+BBR001,M0085,Lele Bakar Pedas,Lele,3,M0083,Lalapan,Sayuran,5000,0.0707,8.065,item_to_item_hybrid
+BBR001,M0085,Lele Bakar Pedas,Lele,4,M0177,Sprite 250 ml,Soda,5000,0.0707,8.065,item_to_item_hybrid
+BBR001,M0085,Lele Bakar Pedas,Lele,5,M0090,Lemon Tea,Minuman Standar,10000,0.0645,6.7208,item_to_item_hybrid
+BBR001,M0086,Lele Cabe Ijo,Lele,1,M0095,Mendoan,Snack,13000,0.1361,14.9352,item_to_item_hybrid
+BBR001,M0086,Lele Cabe Ijo,Lele,2,M0185,Teh,Minuman Standar,5000,0.1361,14.9352,item_to_item_hybrid
+BBR001,M0086,Lele Cabe Ijo,Lele,3,M0090,Lemon Tea,Minuman Standar,10000,0.1361,14.9352,item_to_item_hybrid
+BBR001,M0086,Lele Cabe Ijo,Lele,4,M0059,Juice Mangga,Juice,15000,0.1238,12.3602,item_to_item_hybrid
+BBR001,M0086,Lele Cabe Ijo,Lele,5,M0050,Jeruk 1/2 Jumbo,Minuman Jumbo,200000,0.0765,9.4327,item_to_item_hybrid
+BBR001,M0087,Lele Goreng,Lele,1,M0184,Tahu Penyet,Snack,13000,0.2582,53.7667,item_to_item_hybrid
+BBR001,M0087,Lele Goreng,Lele,2,M0093,Lime Squash,Soda,15000,0.1601,20.6795,item_to_item_hybrid
+BBR001,M0087,Lele Goreng,Lele,3,M0073,Kwetiau Goreng Ayam,Kwetiau,18000,0.1231,24.4394,item_to_item_hybrid
+BBR001,M0087,Lele Goreng,Lele,4,M0109,Mix Platter,Snack,30000,0.1132,20.6795,item_to_item_hybrid
+BBR001,M0087,Lele Goreng,Lele,5,M0190,Teh Teko,Minuman Teko,25000,0.0745,8.9611,item_to_item_hybrid
+BBR001,M0088,Lele Goreng Asam Manis,Lele,1,M0186,Teh 1/2 Jumbo,Minuman Jumbo,150000,0.1543,38.4048,item_to_item_hybrid
+BBR001,M0088,Lele Goreng Asam Manis,Lele,2,M0116,Nasi Bakul Besar,Snack,30000,0.099,15.8137,item_to_item_hybrid
+BBR001,M0088,Lele Goreng Asam Manis,Lele,3,M0192,Telur Dadar,Snack,5000,0.0962,14.9352,item_to_item_hybrid
+BBR001,M0088,Lele Goreng Asam Manis,Lele,4,M0067,Kerupuk Prasmanan,Snack,20000,0.0833,11.2014,item_to_item_hybrid
+BBR001,M0088,Lele Goreng Asam Manis,Lele,5,M0095,Mendoan,Snack,13000,0.0833,11.2014,item_to_item_hybrid
+BBR001,M0089,Lele Goreng Asam Pedas,Lele,1,M0117,Nasi Bakul Tanggung,Snack,20000,0.1806,17.5326,item_to_item_hybrid
+BBR001,M0089,Lele Goreng Asam Pedas,Lele,2,M0052,Jeruk Nipis,Minuman Standar,8000,0.1321,9.3779,item_to_item_hybrid
+BBR001,M0089,Lele Goreng Asam Pedas,Lele,3,M0169,Sig. Beef Pasta Hotplate,Hotplate,28000,0.1021,16.8021,item_to_item_hybrid
+BBR001,M0089,Lele Goreng Asam Pedas,Lele,4,M0075,Kwetiau Goreng Sapi Spesial BP,Kwetiau,23000,0.0913,13.4417,item_to_item_hybrid
+BBR001,M0089,Lele Goreng Asam Pedas,Lele,5,M0174,Soda Gembira,Soda,15000,0.0925,6.8932,item_to_item_hybrid
+BBR001,M0090,Lemon Tea,Minuman Standar,1,M0027,Cumi Asam Pedas,Alacarte,50000,0.2128,14.6105,item_to_item_hybrid
+BBR001,M0090,Lemon Tea,Minuman Standar,2,M0011,Bihun Kuah Ayam,Bihun,18000,0.1909,8.401,item_to_item_hybrid
+BBR001,M0090,Lemon Tea,Minuman Standar,3,M0086,Lele Cabe Ijo,Lele,22500,0.1361,14.9352,item_to_item_hybrid
+BBR001,M0090,Lemon Tea,Minuman Standar,4,M0128,Nasi Sapi Bp spesial BB,Aneka Nasi,28000,0.1179,22.4028,item_to_item_hybrid
+BBR001,M0090,Lemon Tea,Minuman Standar,5,M0067,Kerupuk Prasmanan,Snack,20000,0.125,8.401,item_to_item_hybrid
+BBR001,M0091,Lemon Tea 1/2 Jumbo,Minuman Jumbo,1,M0127,Nasi Putih,Snack,5000,0.291,34.1376,item_to_item_hybrid
+BBR001,M0091,Lemon Tea 1/2 Jumbo,Minuman Jumbo,2,M0196,Trancam,Sayuran,15000,0.2108,35.8444,item_to_item_hybrid
+BBR001,M0091,Lemon Tea 1/2 Jumbo,Minuman Jumbo,3,M0175,Soda Susu,Soda,15000,0.1741,16.2929,item_to_item_hybrid
+BBR001,M0091,Lemon Tea 1/2 Jumbo,Minuman Jumbo,4,M0056,Juice Buah Naga,Juice,15000,0.1096,9.6877,item_to_item_hybrid
+BBR001,M0091,Lemon Tea 1/2 Jumbo,Minuman Jumbo,5,M0033,Fuyung Hai Spesial BB,Alacarte,20000,0.0765,9.4327,item_to_item_hybrid
+BBR001,M0092,Lemon Tea Jumbo,Minuman Jumbo,1,M0154,Pisang Goreng Coklat,Snack,17500,0.1534,18.9765,item_to_item_hybrid
+BBR001,M0092,Lemon Tea Jumbo,Minuman Jumbo,2,M0063,Juice Tomat,Juice,10000,0.15,12.0975,item_to_item_hybrid
+BBR001,M0092,Lemon Tea Jumbo,Minuman Jumbo,3,M0148,Paket Lele,Paket Personal,25000,0.1118,20.1625,item_to_item_hybrid
+BBR001,M0092,Lemon Tea Jumbo,Minuman Jumbo,4,M0100,Mie Goreng Seafood,Mie,18000,0.1054,17.9222,item_to_item_hybrid
+BBR001,M0092,Lemon Tea Jumbo,Minuman Jumbo,5,M0047,Healthy Juice,Juice,15000,0.0933,7.013,item_to_item_hybrid
+BBR001,M0093,Lime Squash,Soda,1,M0169,Sig. Beef Pasta Hotplate,Hotplate,28000,0.208,23.2644,item_to_item_hybrid
+BBR001,M0093,Lime Squash,Soda,2,M0098,Mie Goreng Chezzy Chicken Hotplate,Mie,28000,0.1754,24.8154,item_to_item_hybrid
+BBR001,M0093,Lime Squash,Soda,3,M0087,Lele Goreng,Lele,18000,0.1601,20.6795,item_to_item_hybrid
+BBR001,M0093,Lime Squash,Soda,4,M0113,Nasi Ayam Goreng Kremez,Aneka Nasi,28000,0.1601,20.6795,item_to_item_hybrid
+BBR001,M0093,Lime Squash,Soda,5,M0033,Fuyung Hai Spesial BB,Alacarte,20000,0.135,9.7955,item_to_item_hybrid
+BBR001,M0094,Lychee Tea,Minuman Standar,1,M0036,Gurame Bakar Madu,Gurame,52500,0.3797,19.3754,item_to_item_hybrid
+BBR001,M0094,Lychee Tea,Minuman Standar,2,M0025,Crispy Udang Rice Hotplate,Hotplate,26000,0.1973,10.4627,item_to_item_hybrid
+BBR001,M0094,Lychee Tea,Minuman Standar,3,M0125,Nasi Goreng Telur,Nasi Goreng,18000,0.1644,14.5315,item_to_item_hybrid
+BBR001,M0094,Lychee Tea,Minuman Standar,4,M0084,Lele Bakar Manis,Lele,19500,0.1424,10.8986,item_to_item_hybrid
+BBR001,M0094,Lychee Tea,Minuman Standar,5,M0196,Trancam,Sayuran,15000,0.104,8.7189,item_to_item_hybrid
+BBR001,M0095,Mendoan,Snack,1,M0011,Bihun Kuah Ayam,Bihun,18000,0.1909,8.401,item_to_item_hybrid
+BBR001,M0095,Mendoan,Snack,2,M0134,Nila Bumbu Bali,Nila,38000,0.1443,16.8021,item_to_item_hybrid
+BBR001,M0095,Mendoan,Snack,3,M0086,Lele Cabe Ijo,Lele,22500,0.1361,14.9352,item_to_item_hybrid
+BBR001,M0095,Mendoan,Snack,4,M0126,Nasi Goreng Teri,Nasi Goreng,18000,0.0913,13.4417,item_to_item_hybrid
+BBR001,M0095,Mendoan,Snack,5,M0033,Fuyung Hai Spesial BB,Alacarte,20000,0.0937,7.0746,item_to_item_hybrid
+BBR001,M0096,Mie Goreng Ayam,Mie,1,M0194,Tempe Penyet,Snack,13000,0.099,15.8137,item_to_item_hybrid
+BBR001,M0096,Mie Goreng Ayam,Mie,2,M0192,Telur Dadar,Snack,5000,0.0962,14.9352,item_to_item_hybrid
+BBR001,M0096,Mie Goreng Ayam,Mie,3,M0093,Lime Squash,Soda,15000,0.0801,10.3397,item_to_item_hybrid
+BBR001,M0096,Mie Goreng Ayam,Mie,4,M0066,Kerupuk,Snack,2000,0.0758,9.2701,item_to_item_hybrid
+BBR001,M0096,Mie Goreng Ayam,Mie,5,M0032,French Fries,Snack,15000,0.0722,8.401,item_to_item_hybrid
+BBR001,M0097,Mie Goreng Ayam Spesial BP Hotplate,Mie,1,M0156,Sambal Bawang,Sambal,5000,0.2417,31.4221,item_to_item_hybrid
+BBR001,M0097,Mie Goreng Ayam Spesial BP Hotplate,Mie,2,M0022,Crispy Chicken Tok,Snack,25000,0.1429,16.4592,item_to_item_hybrid
+BBR001,M0097,Mie Goreng Ayam Spesial BP Hotplate,Mie,3,M0184,Tahu Penyet,Snack,13000,0.1195,23.0429,item_to_item_hybrid
+BBR001,M0097,Mie Goreng Ayam Spesial BP Hotplate,Mie,4,M0071,Kopi Hitam Teko,Minuman Teko,40000,0.1243,12.4556,item_to_item_hybrid
+BBR001,M0097,Mie Goreng Ayam Spesial BP Hotplate,Mie,5,M0033,Fuyung Hai Spesial BB,Alacarte,20000,0.0867,12.1278,item_to_item_hybrid
+BBR001,M0098,Mie Goreng Chezzy Chicken Hotplate,Mie,1,M0157,Sambal Ijo,Sambal,5000,0.1826,26.8833,item_to_item_hybrid
+BBR001,M0098,Mie Goreng Chezzy Chicken Hotplate,Mie,2,M0093,Lime Squash,Soda,15000,0.1754,24.8154,item_to_item_hybrid
+BBR001,M0098,Mie Goreng Chezzy Chicken Hotplate,Mie,3,M0101,Mie Kuah Ayam,Mie,18000,0.1581,40.325,item_to_item_hybrid
+BBR001,M0098,Mie Goreng Chezzy Chicken Hotplate,Mie,4,M0160,Sambal Tomat,Sambal,5000,0.0976,15.3619,item_to_item_hybrid
+BBR001,M0098,Mie Goreng Chezzy Chicken Hotplate,Mie,5,M0082,Lalap Sambal Krupuk,Sayuran,5000,0.0803,10.4065,item_to_item_hybrid
+BBR001,M0099,Mie Goreng Sapi Spesial BP Hotplate,Mie,1,M0158,Sambal Kecap,Sambal,5000,0.2357,29.8704,item_to_item_hybrid
+BBR001,M0099,Mie Goreng Sapi Spesial BP Hotplate,Mie,2,M0188,Teh Kampul,Minuman Standar,9000,0.1217,11.9481,item_to_item_hybrid
+BBR001,M0099,Mie Goreng Sapi Spesial BP Hotplate,Mie,3,M0039,Gurame Bakar Spesial,Gurame,52500,0.1111,19.9136,item_to_item_hybrid
+BBR001,M0099,Mie Goreng Sapi Spesial BP Hotplate,Mie,4,M0175,Soda Susu,Soda,15000,0.1161,10.862,item_to_item_hybrid
+BBR001,M0099,Mie Goreng Sapi Spesial BP Hotplate,Mie,5,M0112,Nasi Ayam Crispy Saus Merah,Aneka Nasi,25000,0.1005,16.2929,item_to_item_hybrid
+BBR001,M0100,Mie Goreng Seafood,Mie,1,M0159,Sambal Terasi,Sambal,5000,0.1617,21.085,item_to_item_hybrid
+BBR001,M0100,Mie Goreng Seafood,Mie,2,M0067,Kerupuk Prasmanan,Snack,20000,0.1361,14.9352,item_to_item_hybrid
+BBR001,M0100,Mie Goreng Seafood,Mie,3,M0182,Susu Putih/Coklat,Minuman Standar,10000,0.1361,14.9352,item_to_item_hybrid
+BBR001,M0100,Mie Goreng Seafood,Mie,4,M0189,Teh Tarik,Minuman Standar,10000,0.1307,13.7863,item_to_item_hybrid
+BBR001,M0100,Mie Goreng Seafood,Mie,5,M0092,Lemon Tea Jumbo,Minuman Jumbo,400000,0.1054,17.9222,item_to_item_hybrid
+BBR001,M0101,Mie Kuah Ayam,Mie,1,M0160,Sambal Tomat,Sambal,5000,0.2315,28.8036,item_to_item_hybrid
+BBR001,M0101,Mie Kuah Ayam,Mie,2,M0190,Teh Teko,Minuman Teko,25000,0.1936,20.1625,item_to_item_hybrid
+BBR001,M0101,Mie Kuah Ayam,Mie,3,M0153,Paket Sapi Lada Hitam,Paket Personal,36000,0.1443,33.6042,item_to_item_hybrid
+BBR001,M0101,Mie Kuah Ayam,Mie,4,M0098,Mie Goreng Chezzy Chicken Hotplate,Mie,28000,0.1581,40.325,item_to_item_hybrid
+BBR001,M0101,Mie Kuah Ayam,Mie,5,M0104,Mie Siram Ayam Spesial Teriyaki,Mie,20000,0.1443,33.6042,item_to_item_hybrid
+BBR001,M0102,Mie Kuah Seafood,Mie,1,M0115,Nasi Ayam Ori Teriyaki spesial BB,Aneka Nasi,25000,0.1768,50.4062,item_to_item_hybrid
+BBR001,M0102,Mie Kuah Seafood,Mie,2,M0109,Mix Platter,Snack,30000,0.1387,31.0192,item_to_item_hybrid
+BBR001,M0102,Mie Kuah Seafood,Mie,3,M0002,Air Putih Gelas,Minuman Standar,1000,0.0976,7.681,item_to_item_hybrid
+BBR001,M0102,Mie Kuah Seafood,Mie,4,M0001,Air Mineral Botol,Minuman Standar,5000,0.0962,7.4676,item_to_item_hybrid
+BBR001,M0102,Mie Kuah Seafood,Mie,5,M0003,Ayam Bakar Tok,Alacarte,23000,0.0328,1.7381,item_to_item_hybrid
+BBR001,M0103,Mie Siram Ayam Spesial Blackpepper,Mie,1,M0168,Sayur Lodeh,Sayuran,15000,0.2023,21.9955,item_to_item_hybrid
+BBR001,M0103,Mie Siram Ayam Spesial Blackpepper,Mie,2,M0002,Air Putih Gelas,Minuman Standar,1000,0.1543,7.681,item_to_item_hybrid
+BBR001,M0103,Mie Siram Ayam Spesial Blackpepper,Mie,3,M0160,Sambal Tomat,Sambal,5000,0.069,7.681,item_to_item_hybrid
+BBR001,M0103,Mie Siram Ayam Spesial Blackpepper,Mie,4,M0117,Nasi Bakul Tanggung,Snack,20000,0.0659,7.013,item_to_item_hybrid
+BBR001,M0103,Mie Siram Ayam Spesial Blackpepper,Mie,5,M0019,Crispy Chicken Pasta Hotplate,Hotplate,27000,0.0645,6.7208,item_to_item_hybrid
+BBR001,M0104,Mie Siram Ayam Spesial Teriyaki,Mie,1,M0131,Nila Bakar Pedas,Nila,34000,0.1667,44.8056,item_to_item_hybrid
+BBR001,M0104,Mie Siram Ayam Spesial Teriyaki,Mie,2,M0101,Mie Kuah Ayam,Mie,18000,0.1443,33.6042,item_to_item_hybrid
+BBR001,M0104,Mie Siram Ayam Spesial Teriyaki,Mie,3,M0157,Sambal Ijo,Sambal,5000,0.0833,11.2014,item_to_item_hybrid
+BBR001,M0104,Mie Siram Ayam Spesial Teriyaki,Mie,4,M0015,Bihun Siram Sapi Spesial BP,Bihun,23000,0.0711,8.1465,item_to_item_hybrid
+BBR001,M0104,Mie Siram Ayam Spesial Teriyaki,Mie,5,M0058,Juice Jeruk,Juice,13000,0.0645,6.7208,item_to_item_hybrid
+BBR001,M0105,Mie Siram Sapi Spesial Blackpepper,Mie,1,M0047,Healthy Juice,Juice,15000,0.1523,9.3507,item_to_item_hybrid
+BBR001,M0105,Mie Siram Sapi Spesial Blackpepper,Mie,2,M0183,Tahu Goreng,Snack,13000,0.1333,14.3378,item_to_item_hybrid
+BBR001,M0105,Mie Siram Sapi Spesial Blackpepper,Mie,3,M0175,Soda Susu,Soda,15000,0.0899,6.5172,item_to_item_hybrid
+BBR001,M0105,Mie Siram Sapi Spesial Blackpepper,Mie,4,M0051,Jeruk Jumbo,Minuman Jumbo,400000,0.0645,6.7208,item_to_item_hybrid
+BBR001,M0105,Mie Siram Sapi Spesial Blackpepper,Mie,5,M0083,Lalapan,Sayuran,5000,0.0577,5.3767,item_to_item_hybrid
+BBR001,M0106,Mika Besar,Kemasan Take Away,1,M0003,Ayam Bakar Tok,Alacarte,23000,0.0,1.0,cold_start_fallback
+BBR001,M0106,Mika Besar,Kemasan Take Away,2,M0004,Ayam Goreng Kremezz Tok,Alacarte,23000,0.0,1.0,cold_start_fallback
+BBR001,M0106,Mika Besar,Kemasan Take Away,3,M0001,Air Mineral Botol,Minuman Standar,5000,0.0,1.0,cold_start_fallback
+BBR001,M0106,Mika Besar,Kemasan Take Away,4,M0002,Air Putih Gelas,Minuman Standar,1000,0.0,1.0,cold_start_fallback
+BBR001,M0106,Mika Besar,Kemasan Take Away,5,M0007,Bihun Goreng Ayam,Bihun,18000,0.0,1.0,cold_start_fallback
+BBR001,M0107,Mika Kecil,Kemasan Take Away,1,M0003,Ayam Bakar Tok,Alacarte,23000,0.0,1.0,cold_start_fallback
+BBR001,M0107,Mika Kecil,Kemasan Take Away,2,M0004,Ayam Goreng Kremezz Tok,Alacarte,23000,0.0,1.0,cold_start_fallback
+BBR001,M0107,Mika Kecil,Kemasan Take Away,3,M0001,Air Mineral Botol,Minuman Standar,5000,0.0,1.0,cold_start_fallback
+BBR001,M0107,Mika Kecil,Kemasan Take Away,4,M0002,Air Putih Gelas,Minuman Standar,1000,0.0,1.0,cold_start_fallback
+BBR001,M0107,Mika Kecil,Kemasan Take Away,5,M0007,Bihun Goreng Ayam,Bihun,18000,0.0,1.0,cold_start_fallback
+BBR001,M0108,Mika Tanggung,Kemasan Take Away,1,M0003,Ayam Bakar Tok,Alacarte,23000,0.0,1.0,cold_start_fallback
+BBR001,M0108,Mika Tanggung,Kemasan Take Away,2,M0004,Ayam Goreng Kremezz Tok,Alacarte,23000,0.0,1.0,cold_start_fallback
+BBR001,M0108,Mika Tanggung,Kemasan Take Away,3,M0001,Air Mineral Botol,Minuman Standar,5000,0.0,1.0,cold_start_fallback
+BBR001,M0108,Mika Tanggung,Kemasan Take Away,4,M0002,Air Putih Gelas,Minuman Standar,1000,0.0,1.0,cold_start_fallback
+BBR001,M0108,Mika Tanggung,Kemasan Take Away,5,M0007,Bihun Goreng Ayam,Bihun,18000,0.0,1.0,cold_start_fallback
+BBR001,M0109,Mix Platter,Snack,1,M0021,Crispy Chicken Salted Egg Hotplate,Hotplate,27000,0.3397,31.0192,item_to_item_hybrid
+BBR001,M0109,Mix Platter,Snack,2,M0146,Paket Geprek Boneless,Paket Personal,25000,0.1961,62.0385,item_to_item_hybrid
+BBR001,M0109,Mix Platter,Snack,3,M0135,Nila Cabe Ijo,Nila,38000,0.1387,31.0192,item_to_item_hybrid
+BBR001,M0109,Mix Platter,Snack,4,M0102,Mie Kuah Seafood,Mie,18000,0.1387,31.0192,item_to_item_hybrid
+BBR001,M0109,Mix Platter,Snack,5,M0087,Lele Goreng,Lele,18000,0.1132,20.6795,item_to_item_hybrid
+BBR001,M0110,Nasi Ayam Bakar,Aneka Nasi,1,M0131,Nila Bakar Pedas,Nila,34000,0.1667,44.8056,item_to_item_hybrid
+BBR001,M0110,Nasi Ayam Bakar,Aneka Nasi,2,M0077,Kwetiau Kuah Ayam,Kwetiau,18000,0.1179,22.4028,item_to_item_hybrid
+BBR001,M0110,Nasi Ayam Bakar,Aneka Nasi,3,M0154,Pisang Goreng Coklat,Snack,17500,0.099,15.8137,item_to_item_hybrid
+BBR001,M0110,Nasi Ayam Bakar,Aneka Nasi,4,M0194,Tempe Penyet,Snack,13000,0.099,15.8137,item_to_item_hybrid
+BBR001,M0110,Nasi Ayam Bakar,Aneka Nasi,5,M0026,Cumi Asam Manis,Alacarte,50000,0.0891,12.8016,item_to_item_hybrid
+BBR001,M0111,Nasi Ayam Crispy Saus Kecap,Aneka Nasi,1,M0191,Telur Ceplok,Snack,5000,0.2582,35.8444,item_to_item_hybrid
+BBR001,M0111,Nasi Ayam Crispy Saus Kecap,Aneka Nasi,2,M0126,Nasi Goreng Teri,Nasi Goreng,18000,0.1491,35.8444,item_to_item_hybrid
+BBR001,M0111,Nasi Ayam Crispy Saus Kecap,Aneka Nasi,3,M0052,Jeruk Nipis,Minuman Standar,8000,0.1017,8.3359,item_to_item_hybrid
+BBR001,M0111,Nasi Ayam Crispy Saus Kecap,Aneka Nasi,4,M0197,Tumis Kangkung,Sayuran,15000,0.0786,9.9568,item_to_item_hybrid
+BBR001,M0111,Nasi Ayam Crispy Saus Kecap,Aneka Nasi,5,M0054,Jeruk Teko,Minuman Teko,30000,0.0821,5.431,item_to_item_hybrid
+BBR001,M0112,Nasi Ayam Crispy Saus Merah,Aneka Nasi,1,M0187,Teh Jumbo,Minuman Jumbo,300000,0.1231,24.4394,item_to_item_hybrid
+BBR001,M0112,Nasi Ayam Crispy Saus Merah,Aneka Nasi,2,M0168,Sayur Lodeh,Sayuran,15000,0.1286,13.3306,item_to_item_hybrid
+BBR001,M0112,Nasi Ayam Crispy Saus Merah,Aneka Nasi,3,M0067,Kerupuk Prasmanan,Snack,20000,0.1231,12.2197,item_to_item_hybrid
+BBR001,M0112,Nasi Ayam Crispy Saus Merah,Aneka Nasi,4,M0113,Nasi Ayam Goreng Kremez,Aneka Nasi,28000,0.1231,24.4394,item_to_item_hybrid
+BBR001,M0112,Nasi Ayam Crispy Saus Merah,Aneka Nasi,5,M0099,Mie Goreng Sapi Spesial BP Hotplate,Mie,27000,0.1005,16.2929,item_to_item_hybrid
+BBR001,M0113,Nasi Ayam Goreng Kremez,Aneka Nasi,1,M0093,Lime Squash,Soda,15000,0.1601,20.6795,item_to_item_hybrid
+BBR001,M0113,Nasi Ayam Goreng Kremez,Aneka Nasi,2,M0195,Timus,Snack,17500,0.1132,20.6795,item_to_item_hybrid
+BBR001,M0113,Nasi Ayam Goreng Kremez,Aneka Nasi,3,M0183,Tahu Goreng,Snack,13000,0.1054,17.9222,item_to_item_hybrid
+BBR001,M0113,Nasi Ayam Goreng Kremez,Aneka Nasi,4,M0193,Tempe Goreng,Snack,13000,0.1021,16.8021,item_to_item_hybrid
+BBR001,M0113,Nasi Ayam Goreng Kremez,Aneka Nasi,5,M0112,Nasi Ayam Crispy Saus Merah,Aneka Nasi,25000,0.1231,24.4394,item_to_item_hybrid
+BBR001,M0114,Nasi Ayam Ori Bp Spesial BB,Aneka Nasi,1,M0162,Sapo Tahu Sapi Hotplate,Sapo Tahu,25000,0.2182,76.8095,item_to_item_hybrid
+BBR001,M0114,Nasi Ayam Ori Bp Spesial BB,Aneka Nasi,2,M0125,Nasi Goreng Telur,Nasi Goreng,18000,0.126,25.6032,item_to_item_hybrid
+BBR001,M0114,Nasi Ayam Ori Bp Spesial BB,Aneka Nasi,3,M0056,Juice Buah Naga,Juice,15000,0.1243,12.4556,item_to_item_hybrid
+BBR001,M0114,Nasi Ayam Ori Bp Spesial BB,Aneka Nasi,4,M0193,Tempe Goreng,Snack,13000,0.0945,14.4018,item_to_item_hybrid
+BBR001,M0114,Nasi Ayam Ori Bp Spesial BB,Aneka Nasi,5,M0194,Tempe Penyet,Snack,13000,0.0917,13.5546,item_to_item_hybrid
+BBR001,M0115,Nasi Ayam Ori Teriyaki spesial BB,Aneka Nasi,1,M0102,Mie Kuah Seafood,Mie,18000,0.1768,50.4062,item_to_item_hybrid
+BBR001,M0115,Nasi Ayam Ori Teriyaki spesial BB,Aneka Nasi,2,M0188,Teh Kampul,Minuman Standar,9000,0.1936,20.1625,item_to_item_hybrid
+BBR001,M0115,Nasi Ayam Ori Teriyaki spesial BB,Aneka Nasi,3,M0193,Tempe Goreng,Snack,13000,0.1768,25.2031,item_to_item_hybrid
+BBR001,M0115,Nasi Ayam Ori Teriyaki spesial BB,Aneka Nasi,4,M0014,Bihun Siram Ayam Spesial Teriyaki,Bihun,20000,0.1336,14.4018,item_to_item_hybrid
+BBR001,M0115,Nasi Ayam Ori Teriyaki spesial BB,Aneka Nasi,5,M0195,Timus,Snack,17500,0.0981,15.5096,item_to_item_hybrid
+BBR001,M0116,Nasi Bakul Besar,Snack,1,M0023,Crispy Cumi Rice Hotplate,Hotplate,26000,0.1802,13.0872,item_to_item_hybrid
+BBR001,M0116,Nasi Bakul Besar,Snack,2,M0050,Jeruk 1/2 Jumbo,Minuman Jumbo,200000,0.1669,14.9814,item_to_item_hybrid
+BBR001,M0116,Nasi Bakul Besar,Snack,3,M0078,Kwetiau Kuah Seafood,Kwetiau,18000,0.1534,18.9765,item_to_item_hybrid
+BBR001,M0116,Nasi Bakul Besar,Snack,4,M0128,Nasi Sapi Bp spesial BB,Aneka Nasi,28000,0.14,31.6275,item_to_item_hybrid
+BBR001,M0116,Nasi Bakul Besar,Snack,5,M0063,Juice Tomat,Juice,10000,0.1534,9.4882,item_to_item_hybrid
+BBR001,M0117,Nasi Bakul Tanggung,Snack,1,M0089,Lele Goreng Asam Pedas,Lele,22500,0.1806,17.5326,item_to_item_hybrid
+BBR001,M0117,Nasi Bakul Tanggung,Snack,2,M0075,Kwetiau Goreng Sapi Spesial BP,Kwetiau,23000,0.1319,14.0261,item_to_item_hybrid
+BBR001,M0117,Nasi Bakul Tanggung,Snack,3,M0024,Crispy Dori Rice Hotplate,Hotplate,25000,0.1277,8.7663,item_to_item_hybrid
+BBR001,M0117,Nasi Bakul Tanggung,Snack,4,M0041,Gurame Bumbu Bali,Gurame,57500,0.0983,7.7923,item_to_item_hybrid
+BBR001,M0117,Nasi Bakul Tanggung,Snack,5,M0131,Nila Bakar Pedas,Nila,34000,0.0851,11.6884,item_to_item_hybrid
+BBR001,M0118,Nasi Goreng Ayam,Nasi Goreng,1,M0196,Trancam,Sayuran,15000,0.239,46.0857,item_to_item_hybrid
+BBR001,M0118,Nasi Goreng Ayam,Nasi Goreng,2,M0191,Telur Ceplok,Snack,5000,0.1952,30.7238,item_to_item_hybrid
+BBR001,M0118,Nasi Goreng Ayam,Nasi Goreng,3,M0058,Juice Jeruk,Juice,13000,0.1793,17.2821,item_to_item_hybrid
+BBR001,M0118,Nasi Goreng Ayam,Nasi Goreng,4,M0195,Timus,Snack,17500,0.1048,17.7253,item_to_item_hybrid
+BBR001,M0118,Nasi Goreng Ayam,Nasi Goreng,5,M0001,Air Mineral Botol,Minuman Standar,5000,0.0727,4.2672,item_to_item_hybrid
+BBR001,M0119,Nasi Goreng Banyu Bening Hotplate,Nasi Goreng,1,M0197,Tumis Kangkung,Sayuran,15000,0.3333,44.8056,item_to_item_hybrid
+BBR001,M0119,Nasi Goreng Banyu Bening Hotplate,Nasi Goreng,2,M0059,Juice Mangga,Juice,15000,0.2626,27.8103,item_to_item_hybrid
+BBR001,M0119,Nasi Goreng Banyu Bening Hotplate,Nasi Goreng,3,M0018,Crispy Chicken indomie Hotplate,Hotplate,25000,0.0657,6.9526,item_to_item_hybrid
+BBR001,M0119,Nasi Goreng Banyu Bening Hotplate,Nasi Goreng,4,M0066,Kerupuk,Snack,2000,0.0657,6.9526,item_to_item_hybrid
+BBR001,M0119,Nasi Goreng Banyu Bening Hotplate,Nasi Goreng,5,M0190,Teh Teko,Minuman Teko,25000,0.0645,6.7208,item_to_item_hybrid
+BBR001,M0120,Nasi Goreng Cheezy Chicken Hotplate,Nasi Goreng,1,M0060,Juice Melon,Juice,13000,0.1782,12.8016,item_to_item_hybrid
+BBR001,M0120,Nasi Goreng Cheezy Chicken Hotplate,Nasi Goreng,2,M0054,Jeruk Teko,Minuman Teko,30000,0.1066,6.1098,item_to_item_hybrid
+BBR001,M0120,Nasi Goreng Cheezy Chicken Hotplate,Nasi Goreng,3,M0005,Bakwan Jagung,Snack,13000,0.0772,4.8006,item_to_item_hybrid
+BBR001,M0120,Nasi Goreng Cheezy Chicken Hotplate,Nasi Goreng,4,M0197,Tumis Kangkung,Sayuran,15000,0.068,7.4676,item_to_item_hybrid
+BBR001,M0120,Nasi Goreng Cheezy Chicken Hotplate,Nasi Goreng,5,M0124,Nasi Goreng Sosis,Nasi Goreng,18000,0.0801,10.3397,item_to_item_hybrid
+BBR001,M0121,Nasi Goreng Mawut,Nasi Goreng,1,M0134,Nila Bumbu Bali,Nila,38000,0.1768,50.4062,item_to_item_hybrid
+BBR001,M0121,Nasi Goreng Mawut,Nasi Goreng,2,M0174,Soda Gembira,Soda,15000,0.0801,10.3397,item_to_item_hybrid
+BBR001,M0121,Nasi Goreng Mawut,Nasi Goreng,3,M0061,Juice Sirsak,Juice,15000,0.0745,8.9611,item_to_item_hybrid
+BBR001,M0121,Nasi Goreng Mawut,Nasi Goreng,4,M0005,Bakwan Jagung,Snack,13000,0.0668,7.2009,item_to_item_hybrid
+BBR001,M0121,Nasi Goreng Mawut,Nasi Goreng,5,M0010,Bihun Goreng Seafood,Bihun,18000,0.0657,6.9526,item_to_item_hybrid
+BBR001,M0122,Nasi Goreng Seafood,Nasi Goreng,1,M0062,Juice Strawbery,Juice,13000,0.2611,36.6591,item_to_item_hybrid
+BBR001,M0122,Nasi Goreng Seafood,Nasi Goreng,2,M0016,Cap Cay Spesial Banyu Bening,Sayuran,25000,0.1217,11.9481,item_to_item_hybrid
+BBR001,M0122,Nasi Goreng Seafood,Nasi Goreng,3,M0037,Gurame Bakar Manis,Gurame,50000,0.0937,14.1491,item_to_item_hybrid
+BBR001,M0122,Nasi Goreng Seafood,Nasi Goreng,4,M0083,Lalapan,Sayuran,5000,0.0913,13.4417,item_to_item_hybrid
+BBR001,M0122,Nasi Goreng Seafood,Nasi Goreng,5,M0063,Juice Tomat,Juice,10000,0.0645,6.7208,item_to_item_hybrid
+BBR001,M0123,Nasi Goreng Sig. Beef Hotplate,Nasi Goreng,1,M0063,Juice Tomat,Juice,10000,0.1291,13.4417,item_to_item_hybrid
+BBR001,M0123,Nasi Goreng Sig. Beef Hotplate,Nasi Goreng,2,M0154,Pisang Goreng Coklat,Snack,17500,0.099,15.8137,item_to_item_hybrid
+BBR001,M0123,Nasi Goreng Sig. Beef Hotplate,Nasi Goreng,3,M0062,Juice Strawbery,Juice,13000,0.087,12.2197,item_to_item_hybrid
+BBR001,M0123,Nasi Goreng Sig. Beef Hotplate,Nasi Goreng,4,M0018,Crispy Chicken indomie Hotplate,Hotplate,25000,0.0758,9.2701,item_to_item_hybrid
+BBR001,M0123,Nasi Goreng Sig. Beef Hotplate,Nasi Goreng,5,M0035,Gudangan,Sayuran,15000,0.0662,7.0746,item_to_item_hybrid
+BBR001,M0124,Nasi Goreng Sosis,Nasi Goreng,1,M0068,Kopi Hitam,Minuman Standar,8000,0.2091,14.0997,item_to_item_hybrid
+BBR001,M0124,Nasi Goreng Sosis,Nasi Goreng,2,M0134,Nila Bumbu Bali,Nila,38000,0.0981,15.5096,item_to_item_hybrid
+BBR001,M0124,Nasi Goreng Sosis,Nasi Goreng,3,M0075,Kwetiau Goreng Sapi Spesial BP,Kwetiau,23000,0.0877,12.4077,item_to_item_hybrid
+BBR001,M0124,Nasi Goreng Sosis,Nasi Goreng,4,M0120,Nasi Goreng Cheezy Chicken Hotplate,Nasi Goreng,28000,0.0801,10.3397,item_to_item_hybrid
+BBR001,M0124,Nasi Goreng Sosis,Nasi Goreng,5,M0041,Gurame Bumbu Bali,Gurame,57500,0.0654,6.8932,item_to_item_hybrid
+BBR001,M0125,Nasi Goreng Telur,Nasi Goreng,1,M0171,Sig. Chicken Pasta Hotplate,Hotplate,26000,0.1925,59.7407,item_to_item_hybrid
+BBR001,M0125,Nasi Goreng Telur,Nasi Goreng,2,M0032,French Fries,Snack,15000,0.1768,16.8021,item_to_item_hybrid
+BBR001,M0125,Nasi Goreng Telur,Nasi Goreng,3,M0094,Lychee Tea,Minuman Standar,10000,0.1644,14.5315,item_to_item_hybrid
+BBR001,M0125,Nasi Goreng Telur,Nasi Goreng,4,M0114,Nasi Ayam Ori Bp Spesial BB,Aneka Nasi,25000,0.126,25.6032,item_to_item_hybrid
+BBR001,M0125,Nasi Goreng Telur,Nasi Goreng,5,M0078,Kwetiau Kuah Seafood,Kwetiau,18000,0.1054,17.9222,item_to_item_hybrid
+BBR001,M0126,Nasi Goreng Teri,Nasi Goreng,1,M0072,Kopi Susu Spesial Mix,Minuman Standar,12000,0.2335,29.3273,item_to_item_hybrid
+BBR001,M0126,Nasi Goreng Teri,Nasi Goreng,2,M0129,Nila Bakar Madu,Nila,36000,0.2,64.52,item_to_item_hybrid
+BBR001,M0126,Nasi Goreng Teri,Nasi Goreng,3,M0111,Nasi Ayam Crispy Saus Kecap,Aneka Nasi,25000,0.1491,35.8444,item_to_item_hybrid
+BBR001,M0126,Nasi Goreng Teri,Nasi Goreng,4,M0197,Tumis Kangkung,Sayuran,15000,0.1054,17.9222,item_to_item_hybrid
+BBR001,M0126,Nasi Goreng Teri,Nasi Goreng,5,M0160,Sambal Tomat,Sambal,5000,0.0976,15.3619,item_to_item_hybrid
+BBR001,M0127,Nasi Putih,Snack,1,M0091,Lemon Tea 1/2 Jumbo,Minuman Jumbo,200000,0.291,34.1376,item_to_item_hybrid
+BBR001,M0127,Nasi Putih,Snack,2,M0025,Crispy Udang Rice Hotplate,Hotplate,26000,0.2619,18.4343,item_to_item_hybrid
+BBR001,M0127,Nasi Putih,Snack,3,M0056,Juice Buah Naga,Juice,15000,0.1076,6.2278,item_to_item_hybrid
+BBR001,M0127,Nasi Putih,Snack,4,M0071,Kopi Hitam Teko,Minuman Teko,40000,0.1076,6.2278,item_to_item_hybrid
+BBR001,M0127,Nasi Putih,Snack,5,M0013,Bihun Siram Ayam Spesial BP,Bihun,20000,0.101,5.4864,item_to_item_hybrid
+BBR001,M0128,Nasi Sapi Bp spesial BB,Aneka Nasi,1,M0035,Gudangan,Sayuran,15000,0.1873,28.2982,item_to_item_hybrid
+BBR001,M0128,Nasi Sapi Bp spesial BB,Aneka Nasi,2,M0040,Gurame Bumbu Acar,Gurame,57500,0.1601,41.359,item_to_item_hybrid
+BBR001,M0128,Nasi Sapi Bp spesial BB,Aneka Nasi,3,M0116,Nasi Bakul Besar,Snack,30000,0.14,31.6275,item_to_item_hybrid
+BBR001,M0128,Nasi Sapi Bp spesial BB,Aneka Nasi,4,M0090,Lemon Tea,Minuman Standar,10000,0.1179,22.4028,item_to_item_hybrid
+BBR001,M0128,Nasi Sapi Bp spesial BB,Aneka Nasi,5,M0093,Lime Squash,Soda,15000,0.1132,20.6795,item_to_item_hybrid
+BBR001,M0129,Nila Bakar Madu,Nila,1,M0126,Nasi Goreng Teri,Nasi Goreng,18000,0.2,64.52,item_to_item_hybrid
+BBR001,M0129,Nila Bakar Madu,Nila,2,M0190,Teh Teko,Minuman Teko,25000,0.1633,21.5067,item_to_item_hybrid
+BBR001,M0129,Nila Bakar Madu,Nila,3,M0048,Jamur Crispy,Snack,13000,0.1451,16.9789,item_to_item_hybrid
+BBR001,M0129,Nila Bakar Madu,Nila,4,M0041,Gurame Bumbu Bali,Gurame,57500,0.1054,17.9222,item_to_item_hybrid
+BBR001,M0129,Nila Bakar Madu,Nila,5,M0034,Gemblong Cotot,Snack,17500,0.0778,9.7758,item_to_item_hybrid
+BBR001,M0130,Nila Bakar Manis,Nila,1,M0191,Telur Ceplok,Snack,5000,0.0976,15.3619,item_to_item_hybrid
+BBR001,M0130,Nila Bakar Manis,Nila,2,M0042,Gurame Cabe Ijo,Gurame,57500,0.0976,15.3619,item_to_item_hybrid
+BBR001,M0130,Nila Bakar Manis,Nila,3,M0173,Singkong Keju,Snack,17500,0.0917,13.5546,item_to_item_hybrid
+BBR001,M0130,Nila Bakar Manis,Nila,4,M0090,Lemon Tea,Minuman Standar,10000,0.0772,9.6012,item_to_item_hybrid
+BBR001,M0130,Nila Bakar Manis,Nila,5,M0155,Pisang Goreng Ori,Snack,17500,0.0714,8.2296,item_to_item_hybrid
+BBR001,M0131,Nila Bakar Pedas,Nila,1,M0110,Nasi Ayam Bakar,Aneka Nasi,28000,0.1667,44.8056,item_to_item_hybrid
+BBR001,M0131,Nila Bakar Pedas,Nila,2,M0104,Mie Siram Ayam Spesial Teriyaki,Mie,20000,0.1667,44.8056,item_to_item_hybrid
+BBR001,M0131,Nila Bakar Pedas,Nila,3,M0117,Nasi Bakul Tanggung,Snack,20000,0.0851,11.6884,item_to_item_hybrid
+BBR001,M0131,Nila Bakar Pedas,Nila,4,M0174,Soda Gembira,Soda,15000,0.0654,6.8932,item_to_item_hybrid
+BBR001,M0131,Nila Bakar Pedas,Nila,5,M0052,Jeruk Nipis,Minuman Standar,8000,0.0623,6.2519,item_to_item_hybrid
+BBR001,M0132,Nila Bakar Spesial,Nila,1,M0159,Sambal Terasi,Sambal,5000,0.1085,18.9765,item_to_item_hybrid
+BBR001,M0132,Nila Bakar Spesial,Nila,2,M0082,Lalap Sambal Krupuk,Sayuran,5000,0.0803,10.4065,item_to_item_hybrid
+BBR001,M0132,Nila Bakar Spesial,Nila,3,M0175,Soda Susu,Soda,15000,0.0778,9.7758,item_to_item_hybrid
+BBR001,M0132,Nila Bakar Spesial,Nila,4,M0056,Juice Buah Naga,Juice,15000,0.0735,8.7189,item_to_item_hybrid
+BBR001,M0132,Nila Bakar Spesial,Nila,5,M0061,Juice Sirsak,Juice,15000,0.0667,7.1689,item_to_item_hybrid
+BBR001,M0133,Nila Bumbu Acar,Nila,1,M0177,Sprite 250 ml,Soda,5000,0.1291,26.8833,item_to_item_hybrid
+BBR001,M0133,Nila Bumbu Acar,Nila,2,M0019,Crispy Chicken Pasta Hotplate,Hotplate,27000,0.1179,22.4028,item_to_item_hybrid
+BBR001,M0133,Nila Bumbu Acar,Nila,3,M0155,Pisang Goreng Ori,Snack,17500,0.1091,19.2024,item_to_item_hybrid
+BBR001,M0133,Nila Bumbu Acar,Nila,4,M0059,Juice Mangga,Juice,15000,0.1072,18.5402,item_to_item_hybrid
+BBR001,M0133,Nila Bumbu Acar,Nila,5,M0016,Cap Cay Spesial Banyu Bening,Sayuran,25000,0.0861,11.9481,item_to_item_hybrid
+BBR001,M0134,Nila Bumbu Bali,Nila,1,M0121,Nasi Goreng Mawut,Nasi Goreng,18000,0.1768,50.4062,item_to_item_hybrid
+BBR001,M0134,Nila Bumbu Bali,Nila,2,M0095,Mendoan,Snack,13000,0.1443,16.8021,item_to_item_hybrid
+BBR001,M0134,Nila Bumbu Bali,Nila,3,M0181,Susu Jahe,Minuman Standar,11000,0.1231,12.2197,item_to_item_hybrid
+BBR001,M0134,Nila Bumbu Bali,Nila,4,M0180,Sup Nila,Nila,38000,0.125,25.2031,item_to_item_hybrid
+BBR001,M0134,Nila Bumbu Bali,Nila,5,M0124,Nasi Goreng Sosis,Nasi Goreng,18000,0.0981,15.5096,item_to_item_hybrid
+BBR001,M0135,Nila Cabe Ijo,Nila,1,M0182,Susu Putih/Coklat,Minuman Standar,10000,0.2041,33.6042,item_to_item_hybrid
+BBR001,M0135,Nila Cabe Ijo,Nila,2,M0184,Tahu Penyet,Snack,13000,0.1581,40.325,item_to_item_hybrid
+BBR001,M0135,Nila Cabe Ijo,Nila,3,M0109,Mix Platter,Snack,30000,0.1387,31.0192,item_to_item_hybrid
+BBR001,M0135,Nila Cabe Ijo,Nila,4,M0192,Telur Dadar,Snack,5000,0.1179,22.4028,item_to_item_hybrid
+BBR001,M0135,Nila Cabe Ijo,Nila,5,M0175,Soda Susu,Soda,15000,0.087,12.2197,item_to_item_hybrid
+BBR001,M0136,Nila Goreng,Nila,1,M0154,Pisang Goreng Coklat,Snack,17500,0.1085,18.9765,item_to_item_hybrid
+BBR001,M0136,Nila Goreng,Nila,2,M0116,Nasi Bakul Besar,Snack,30000,0.1085,18.9765,item_to_item_hybrid
+BBR001,M0136,Nila Goreng,Nila,3,M0093,Lime Squash,Soda,15000,0.0877,12.4077,item_to_item_hybrid
+BBR001,M0136,Nila Goreng,Nila,4,M0048,Jamur Crispy,Snack,13000,0.0725,8.4895,item_to_item_hybrid
+BBR001,M0136,Nila Goreng,Nila,5,M0058,Juice Jeruk,Juice,13000,0.0707,8.065,item_to_item_hybrid
+BBR001,M0137,Nila Goreng Asam Manis,Nila,1,M0188,Teh Kampul,Minuman Standar,9000,0.138,15.3619,item_to_item_hybrid
+BBR001,M0137,Nila Goreng Asam Manis,Nila,2,M0158,Sambal Kecap,Sambal,5000,0.0891,12.8016,item_to_item_hybrid
+BBR001,M0137,Nila Goreng Asam Manis,Nila,3,M0127,Nasi Putih,Snack,5000,0.0825,10.9728,item_to_item_hybrid
+BBR001,M0137,Nila Goreng Asam Manis,Nila,4,M0117,Nasi Bakul Tanggung,Snack,20000,0.0788,10.0186,item_to_item_hybrid
+BBR001,M0137,Nila Goreng Asam Manis,Nila,5,M0036,Gurame Bakar Madu,Gurame,52500,0.0727,8.5344,item_to_item_hybrid
+BBR001,M0138,Nila Goreng Asam Pedas,Nila,1,M0165,Saus Barbeque,Saus,5000,0.169,46.0857,item_to_item_hybrid
+BBR001,M0138,Nila Goreng Asam Pedas,Nila,2,M0020,Crispy Chicken Rice Hotplate,Hotplate,25000,0.0772,9.6012,item_to_item_hybrid
+BBR001,M0138,Nila Goreng Asam Pedas,Nila,3,M0090,Lemon Tea,Minuman Standar,10000,0.0772,9.6012,item_to_item_hybrid
+BBR001,M0138,Nila Goreng Asam Pedas,Nila,4,M0182,Susu Putih/Coklat,Minuman Standar,10000,0.0772,9.6012,item_to_item_hybrid
+BBR001,M0138,Nila Goreng Asam Pedas,Nila,5,M0189,Teh Tarik,Minuman Standar,10000,0.0741,8.8626,item_to_item_hybrid
+BBR001,M0139,Paket Asik,Paket Ber 5,1,M0190,Teh Teko,Minuman Teko,25000,0.2108,35.8444,item_to_item_hybrid
+BBR001,M0139,Paket Asik,Paket Ber 5,2,M0182,Susu Putih/Coklat,Minuman Standar,10000,0.1179,22.4028,item_to_item_hybrid
+BBR001,M0139,Paket Asik,Paket Ber 5,3,M0155,Pisang Goreng Ori,Snack,17500,0.1091,19.2024,item_to_item_hybrid
+BBR001,M0139,Paket Asik,Paket Ber 5,4,M0005,Bakwan Jagung,Snack,13000,0.0772,9.6012,item_to_item_hybrid
+BBR001,M0139,Paket Asik,Paket Ber 5,5,M0003,Ayam Bakar Tok,Alacarte,23000,0.0,1.0,cold_start_fallback
+BBR001,M0140,Paket Ayam Bakar,Paket Personal,1,M0165,Saus Barbeque,Saus,5000,0.1581,40.325,item_to_item_hybrid
+BBR001,M0140,Paket Ayam Bakar,Paket Personal,2,M0109,Mix Platter,Snack,30000,0.0981,15.5096,item_to_item_hybrid
+BBR001,M0140,Paket Ayam Bakar,Paket Personal,3,M0029,Es Sirup,Minuman Standar,7000,0.0833,5.6007,item_to_item_hybrid
+BBR001,M0140,Paket Ayam Bakar,Paket Personal,4,M0168,Sayur Lodeh,Sayuran,15000,0.0754,9.1648,item_to_item_hybrid
+BBR001,M0140,Paket Ayam Bakar,Paket Personal,5,M0021,Crispy Chicken Salted Egg Hotplate,Hotplate,27000,0.0722,8.401,item_to_item_hybrid
+BBR001,M0141,Paket Ayam Crispy Kecap,Paket Personal,1,M0156,Sambal Bawang,Sambal,5000,0.1348,14.6636,item_to_item_hybrid
+BBR001,M0141,Paket Ayam Crispy Kecap,Paket Personal,2,M0022,Crispy Chicken Tok,Snack,25000,0.1195,11.5214,item_to_item_hybrid
+BBR001,M0141,Paket Ayam Crispy Kecap,Paket Personal,3,M0049,Jeruk,Minuman Standar,8000,0.1067,6.1253,item_to_item_hybrid
+BBR001,M0141,Paket Ayam Crispy Kecap,Paket Personal,4,M0043,Gurame Crispy Fillet,Gurame,70000,0.0845,11.5214,item_to_item_hybrid
+BBR001,M0141,Paket Ayam Crispy Kecap,Paket Personal,5,M0045,Gurame Goreng Asam Manis,Gurame,57500,0.0845,11.5214,item_to_item_hybrid
+BBR001,M0142,Paket Ayam Kremez,Paket Personal,1,M0034,Gemblong Cotot,Snack,17500,0.1741,24.4394,item_to_item_hybrid
+BBR001,M0142,Paket Ayam Kremez,Paket Personal,2,M0067,Kerupuk Prasmanan,Snack,20000,0.1021,16.8021,item_to_item_hybrid
+BBR001,M0142,Paket Ayam Kremez,Paket Personal,3,M0015,Bihun Siram Sapi Spesial BP,Bihun,23000,0.087,12.2197,item_to_item_hybrid
+BBR001,M0142,Paket Ayam Kremez,Paket Personal,4,M0058,Juice Jeruk,Juice,13000,0.0791,10.0812,item_to_item_hybrid
+BBR001,M0142,Paket Ayam Kremez,Paket Personal,5,M0060,Juice Melon,Juice,13000,0.0772,9.6012,item_to_item_hybrid
+BBR001,M0143,Paket Ayam Lada Hitam,Paket Personal,1,M0073,Kwetiau Goreng Ayam,Kwetiau,18000,0.1508,36.6591,item_to_item_hybrid
+BBR001,M0143,Paket Ayam Lada Hitam,Paket Personal,2,M0175,Soda Susu,Soda,15000,0.087,12.2197,item_to_item_hybrid
+BBR001,M0143,Paket Ayam Lada Hitam,Paket Personal,3,M0181,Susu Jahe,Minuman Standar,11000,0.087,12.2197,item_to_item_hybrid
+BBR001,M0143,Paket Ayam Lada Hitam,Paket Personal,4,M0174,Soda Gembira,Soda,15000,0.0801,10.3397,item_to_item_hybrid
+BBR001,M0143,Paket Ayam Lada Hitam,Paket Personal,5,M0016,Cap Cay Spesial Banyu Bening,Sayuran,25000,0.0745,8.9611,item_to_item_hybrid
+BBR001,M0144,Paket Ayam Teriyaki,Paket Personal,1,M0067,Kerupuk Prasmanan,Snack,20000,0.2315,28.8036,item_to_item_hybrid
+BBR001,M0144,Paket Ayam Teriyaki,Paket Personal,2,M0159,Sambal Terasi,Sambal,5000,0.1833,27.1092,item_to_item_hybrid
+BBR001,M0144,Paket Ayam Teriyaki,Paket Personal,3,M0035,Gudangan,Sayuran,15000,0.1226,12.1278,item_to_item_hybrid
+BBR001,M0144,Paket Ayam Teriyaki,Paket Personal,4,M0049,Jeruk,Minuman Standar,8000,0.1276,8.7505,item_to_item_hybrid
+BBR001,M0144,Paket Ayam Teriyaki,Paket Personal,5,M0061,Juice Sirsak,Juice,15000,0.1127,10.2413,item_to_item_hybrid
+BBR001,M0145,Paket Bar-Bar,Paket Ber 5,1,M0052,Jeruk Nipis,Minuman Standar,8000,0.249,25.0078,item_to_item_hybrid
+BBR001,M0145,Paket Bar-Bar,Paket Ber 5,2,M0083,Lalapan,Sayuran,5000,0.0913,13.4417,item_to_item_hybrid
+BBR001,M0145,Paket Bar-Bar,Paket Ber 5,3,M0160,Sambal Tomat,Sambal,5000,0.0891,12.8016,item_to_item_hybrid
+BBR001,M0145,Paket Bar-Bar,Paket Ber 5,4,M0157,Sambal Ijo,Sambal,5000,0.0833,11.2014,item_to_item_hybrid
+BBR001,M0145,Paket Bar-Bar,Paket Ber 5,5,M0036,Gurame Bakar Madu,Gurame,52500,0.0786,9.9568,item_to_item_hybrid
+BBR001,M0146,Paket Geprek Boneless,Paket Personal,1,M0109,Mix Platter,Snack,30000,0.1961,62.0385,item_to_item_hybrid
+BBR001,M0146,Paket Geprek Boneless,Paket Personal,2,M0061,Juice Sirsak,Juice,15000,0.1054,17.9222,item_to_item_hybrid
+BBR001,M0146,Paket Geprek Boneless,Paket Personal,3,M0054,Jeruk Teko,Minuman Teko,30000,0.087,12.2197,item_to_item_hybrid
+BBR001,M0146,Paket Geprek Boneless,Paket Personal,4,M0003,Ayam Bakar Tok,Alacarte,23000,0.0,1.0,cold_start_fallback
+BBR001,M0146,Paket Geprek Boneless,Paket Personal,5,M0004,Ayam Goreng Kremezz Tok,Alacarte,23000,0.0,1.0,cold_start_fallback
+BBR001,M0147,Paket Gokil,Paket Ber 5,1,M0174,Soda Gembira,Soda,15000,0.2864,33.0872,item_to_item_hybrid
+BBR001,M0147,Paket Gokil,Paket Ber 5,2,M0168,Sayur Lodeh,Sayuran,15000,0.1907,29.3273,item_to_item_hybrid
+BBR001,M0147,Paket Gokil,Paket Ber 5,3,M0041,Gurame Bumbu Bali,Gurame,57500,0.1054,17.9222,item_to_item_hybrid
+BBR001,M0147,Paket Gokil,Paket Ber 5,4,M0003,Ayam Bakar Tok,Alacarte,23000,0.0,1.0,cold_start_fallback
+BBR001,M0147,Paket Gokil,Paket Ber 5,5,M0004,Ayam Goreng Kremezz Tok,Alacarte,23000,0.0,1.0,cold_start_fallback
+BBR001,M0148,Paket Lele,Paket Personal,1,M0173,Singkong Keju,Snack,17500,0.1715,23.7206,item_to_item_hybrid
+BBR001,M0148,Paket Lele,Paket Personal,2,M0185,Teh,Minuman Standar,5000,0.1443,16.8021,item_to_item_hybrid
+BBR001,M0148,Paket Lele,Paket Personal,3,M0181,Susu Jahe,Minuman Standar,11000,0.1231,12.2197,item_to_item_hybrid
+BBR001,M0148,Paket Lele,Paket Personal,4,M0092,Lemon Tea Jumbo,Minuman Jumbo,400000,0.1118,20.1625,item_to_item_hybrid
+BBR001,M0148,Paket Lele,Paket Personal,5,M0154,Pisang Goreng Coklat,Snack,17500,0.0857,11.8603,item_to_item_hybrid
+BBR001,M0149,Paket Nagih,Paket Ber 5,1,M0156,Sambal Bawang,Sambal,5000,0.2611,36.6591,item_to_item_hybrid
+BBR001,M0149,Paket Nagih,Paket Ber 5,2,M0043,Gurame Crispy Fillet,Gurame,70000,0.1091,19.2024,item_to_item_hybrid
+BBR001,M0149,Paket Nagih,Paket Ber 5,3,M0183,Tahu Goreng,Snack,13000,0.1054,17.9222,item_to_item_hybrid
+BBR001,M0149,Paket Nagih,Paket Ber 5,4,M0047,Healthy Juice,Juice,15000,0.0602,5.8442,item_to_item_hybrid
+BBR001,M0149,Paket Nagih,Paket Ber 5,5,M0055,Juice Alpukat,Juice,15000,0.0595,5.7199,item_to_item_hybrid
+BBR001,M0150,Paket Nila,Paket Personal,1,M0064,Kerang Asam Manis,Alacarte,30000,0.1231,24.4394,item_to_item_hybrid
+BBR001,M0150,Paket Nila,Paket Personal,2,M0058,Juice Jeruk,Juice,13000,0.1291,13.4417,item_to_item_hybrid
+BBR001,M0150,Paket Nila,Paket Personal,3,M0195,Timus,Snack,17500,0.1132,20.6795,item_to_item_hybrid
+BBR001,M0150,Paket Nila,Paket Personal,4,M0158,Sambal Kecap,Sambal,5000,0.0962,14.9352,item_to_item_hybrid
+BBR001,M0150,Paket Nila,Paket Personal,5,M0155,Pisang Goreng Ori,Snack,17500,0.0772,9.6012,item_to_item_hybrid
+BBR001,M0151,Paket Puas,Paket Ber 5,1,M0047,Healthy Juice,Juice,15000,0.1474,17.5326,item_to_item_hybrid
+BBR001,M0151,Paket Puas,Paket Ber 5,2,M0183,Tahu Goreng,Snack,13000,0.1291,26.8833,item_to_item_hybrid
+BBR001,M0151,Paket Puas,Paket Ber 5,3,M0032,French Fries,Snack,15000,0.0884,12.6016,item_to_item_hybrid
+BBR001,M0151,Paket Puas,Paket Ber 5,4,M0054,Jeruk Teko,Minuman Teko,30000,0.0615,6.1098,item_to_item_hybrid
+BBR001,M0151,Paket Puas,Paket Ber 5,5,M0003,Ayam Bakar Tok,Alacarte,23000,0.0328,1.7381,item_to_item_hybrid
+BBR001,M0152,Paket Santuy,Paket Ber 5,1,M0192,Telur Dadar,Snack,5000,0.2108,35.8444,item_to_item_hybrid
+BBR001,M0152,Paket Santuy,Paket Ber 5,2,M0060,Juice Melon,Juice,13000,0.207,23.0429,item_to_item_hybrid
+BBR001,M0152,Paket Santuy,Paket Ber 5,3,M0168,Sayur Lodeh,Sayuran,15000,0.0953,14.6636,item_to_item_hybrid
+BBR001,M0152,Paket Santuy,Paket Ber 5,4,M0054,Jeruk Teko,Minuman Teko,30000,0.055,4.8879,item_to_item_hybrid
+BBR001,M0152,Paket Santuy,Paket Ber 5,5,M0003,Ayam Bakar Tok,Alacarte,23000,0.0,1.0,cold_start_fallback
+BBR001,M0153,Paket Sapi Lada Hitam,Paket Personal,1,M0193,Tempe Goreng,Snack,13000,0.3062,50.4062,item_to_item_hybrid
+BBR001,M0153,Paket Sapi Lada Hitam,Paket Personal,2,M0101,Mie Kuah Ayam,Mie,18000,0.1443,33.6042,item_to_item_hybrid
+BBR001,M0153,Paket Sapi Lada Hitam,Paket Personal,3,M0057,Juice Jambu,Juice,15000,0.1191,11.4397,item_to_item_hybrid
+BBR001,M0153,Paket Sapi Lada Hitam,Paket Personal,4,M0001,Air Mineral Botol,Minuman Standar,5000,0.0786,4.9784,item_to_item_hybrid
+BBR001,M0153,Paket Sapi Lada Hitam,Paket Personal,5,M0061,Juice Sirsak,Juice,15000,0.0609,5.9741,item_to_item_hybrid
+BBR001,M0154,Pisang Goreng Coklat,Snack,1,M0026,Cumi Asam Manis,Alacarte,50000,0.3705,31.6275,item_to_item_hybrid
+BBR001,M0154,Pisang Goreng Coklat,Snack,2,M0092,Lemon Tea Jumbo,Minuman Jumbo,400000,0.1534,18.9765,item_to_item_hybrid
+BBR001,M0154,Pisang Goreng Coklat,Snack,3,M0072,Kopi Susu Spesial Mix,Minuman Standar,12000,0.1267,8.6257,item_to_item_hybrid
+BBR001,M0154,Pisang Goreng Coklat,Snack,4,M0136,Nila Goreng,Nila,32000,0.1085,18.9765,item_to_item_hybrid
+BBR001,M0154,Pisang Goreng Coklat,Snack,5,M0008,Bihun Goreng Ayam Spesial BP,Bihun,20000,0.1176,5.5813,item_to_item_hybrid
+BBR001,M0155,Pisang Goreng Ori,Snack,1,M0027,Cumi Asam Pedas,Alacarte,50000,0.2758,17.5326,item_to_item_hybrid
+BBR001,M0155,Pisang Goreng Ori,Snack,2,M0014,Bihun Siram Ayam Spesial Teriyaki,Bihun,20000,0.1429,8.2296,item_to_item_hybrid
+BBR001,M0155,Pisang Goreng Ori,Snack,3,M0133,Nila Bumbu Acar,Nila,38000,0.1091,19.2024,item_to_item_hybrid
+BBR001,M0155,Pisang Goreng Ori,Snack,4,M0139,Paket Asik,Paket Ber 5,175000,0.1091,19.2024,item_to_item_hybrid
+BBR001,M0155,Pisang Goreng Ori,Snack,5,M0165,Saus Barbeque,Saus,5000,0.0845,11.5214,item_to_item_hybrid
+BBR001,M0156,Sambal Bawang,Sambal,1,M0149,Paket Nagih,Paket Ber 5,195000,0.2611,36.6591,item_to_item_hybrid
+BBR001,M0156,Sambal Bawang,Sambal,2,M0097,Mie Goreng Ayam Spesial BP Hotplate,Mie,25000,0.2417,31.4221,item_to_item_hybrid
+BBR001,M0156,Sambal Bawang,Sambal,3,M0033,Fuyung Hai Spesial BB,Alacarte,20000,0.1956,15.4354,item_to_item_hybrid
+BBR001,M0156,Sambal Bawang,Sambal,4,M0043,Gurame Crispy Fillet,Gurame,70000,0.1709,15.711,item_to_item_hybrid
+BBR001,M0156,Sambal Bawang,Sambal,5,M0141,Paket Ayam Crispy Kecap,Paket Personal,34000,0.1348,14.6636,item_to_item_hybrid
+BBR001,M0157,Sambal Ijo,Sambal,1,M0015,Bihun Siram Sapi Spesial BP,Bihun,23000,0.2843,16.2929,item_to_item_hybrid
+BBR001,M0157,Sambal Ijo,Sambal,2,M0098,Mie Goreng Chezzy Chicken Hotplate,Mie,28000,0.1826,26.8833,item_to_item_hybrid
+BBR001,M0157,Sambal Ijo,Sambal,3,M0036,Gurame Bakar Madu,Gurame,52500,0.1571,9.9568,item_to_item_hybrid
+BBR001,M0157,Sambal Ijo,Sambal,4,M0058,Juice Jeruk,Juice,13000,0.1291,6.7208,item_to_item_hybrid
+BBR001,M0157,Sambal Ijo,Sambal,5,M0065,Kerang Asam Pedas,Alacarte,30000,0.1021,8.401,item_to_item_hybrid
+BBR001,M0158,Sambal Kecap,Sambal,1,M0099,Mie Goreng Sapi Spesial BP Hotplate,Mie,27000,0.2357,29.8704,item_to_item_hybrid
+BBR001,M0158,Sambal Kecap,Sambal,2,M0044,Gurame Goreng,Gurame,45000,0.1826,17.9222,item_to_item_hybrid
+BBR001,M0158,Sambal Kecap,Sambal,3,M0037,Gurame Bakar Manis,Gurame,50000,0.1622,14.1491,item_to_item_hybrid
+BBR001,M0158,Sambal Kecap,Sambal,4,M0170,Sig. Beef Rice Hotplate,Hotplate,27000,0.1179,22.4028,item_to_item_hybrid
+BBR001,M0158,Sambal Kecap,Sambal,5,M0150,Paket Nila,Paket Personal,36000,0.0962,14.9352,item_to_item_hybrid
+BBR001,M0159,Sambal Terasi,Sambal,1,M0144,Paket Ayam Teriyaki,Paket Personal,34000,0.1833,27.1092,item_to_item_hybrid
+BBR001,M0159,Sambal Terasi,Sambal,2,M0038,Gurame Bakar Pedas,Gurame,50000,0.1715,15.8137,item_to_item_hybrid
+BBR001,M0159,Sambal Terasi,Sambal,3,M0100,Mie Goreng Seafood,Mie,18000,0.1617,21.085,item_to_item_hybrid
+BBR001,M0159,Sambal Terasi,Sambal,4,M0018,Crispy Chicken indomie Hotplate,Hotplate,25000,0.1351,9.8154,item_to_item_hybrid
+BBR001,M0159,Sambal Terasi,Sambal,5,M0132,Nila Bakar Spesial,Nila,36000,0.1085,18.9765,item_to_item_hybrid
+BBR001,M0160,Sambal Tomat,Sambal,1,M0101,Mie Kuah Ayam,Mie,18000,0.2315,28.8036,item_to_item_hybrid
+BBR001,M0160,Sambal Tomat,Sambal,2,M0039,Gurame Bakar Spesial,Gurame,52500,0.2182,25.6032,item_to_item_hybrid
+BBR001,M0160,Sambal Tomat,Sambal,3,M0045,Gurame Goreng Asam Manis,Gurame,57500,0.1166,10.9728,item_to_item_hybrid
+BBR001,M0160,Sambal Tomat,Sambal,4,M0190,Teh Teko,Minuman Teko,25000,0.1195,7.681,item_to_item_hybrid
+BBR001,M0160,Sambal Tomat,Sambal,5,M0126,Nasi Goreng Teri,Nasi Goreng,18000,0.0976,15.3619,item_to_item_hybrid
+BBR001,M0161,Sapo Tahu Ayam Hotplate,Sapo Tahu,1,M0194,Tempe Penyet,Snack,13000,0.1833,27.1092,item_to_item_hybrid
+BBR001,M0161,Sapo Tahu Ayam Hotplate,Sapo Tahu,2,M0060,Juice Melon,Juice,13000,0.1166,10.9728,item_to_item_hybrid
+BBR001,M0161,Sapo Tahu Ayam Hotplate,Sapo Tahu,3,M0156,Sambal Bawang,Sambal,5000,0.0806,10.474,item_to_item_hybrid
+BBR001,M0161,Sapo Tahu Ayam Hotplate,Sapo Tahu,4,M0062,Juice Strawbery,Juice,13000,0.0806,10.474,item_to_item_hybrid
+BBR001,M0161,Sapo Tahu Ayam Hotplate,Sapo Tahu,5,M0067,Kerupuk Prasmanan,Snack,20000,0.0772,9.6012,item_to_item_hybrid
+BBR001,M0162,Sapo Tahu Sapi Hotplate,Sapo Tahu,1,M0114,Nasi Ayam Ori Bp Spesial BB,Aneka Nasi,25000,0.2182,76.8095,item_to_item_hybrid
+BBR001,M0162,Sapo Tahu Sapi Hotplate,Sapo Tahu,2,M0063,Juice Tomat,Juice,10000,0.1826,26.8833,item_to_item_hybrid
+BBR001,M0162,Sapo Tahu Sapi Hotplate,Sapo Tahu,3,M0167,Sayur Asem,Sayuran,15000,0.1491,35.8444,item_to_item_hybrid
+BBR001,M0162,Sapo Tahu Sapi Hotplate,Sapo Tahu,4,M0193,Tempe Goreng,Snack,13000,0.1443,33.6042,item_to_item_hybrid
+BBR001,M0162,Sapo Tahu Sapi Hotplate,Sapo Tahu,5,M0083,Lalapan,Sayuran,5000,0.1291,26.8833,item_to_item_hybrid
+BBR001,M0163,Sapo Tahu Seafood Hotplate,Sapo Tahu,1,M0191,Telur Ceplok,Snack,5000,0.1291,26.8833,item_to_item_hybrid
+BBR001,M0163,Sapo Tahu Seafood Hotplate,Sapo Tahu,2,M0041,Gurame Bumbu Bali,Gurame,57500,0.1179,22.4028,item_to_item_hybrid
+BBR001,M0163,Sapo Tahu Seafood Hotplate,Sapo Tahu,3,M0037,Gurame Bakar Manis,Gurame,50000,0.1147,21.2237,item_to_item_hybrid
+BBR001,M0163,Sapo Tahu Seafood Hotplate,Sapo Tahu,4,M0168,Sayur Lodeh,Sayuran,15000,0.1066,18.3295,item_to_item_hybrid
+BBR001,M0163,Sapo Tahu Seafood Hotplate,Sapo Tahu,5,M0048,Jamur Crispy,Snack,13000,0.0811,10.6118,item_to_item_hybrid
+BBR001,M0164,Saus Asam Manis/Pedas,Saus,1,M0197,Tumis Kangkung,Sayuran,15000,0.2108,35.8444,item_to_item_hybrid
+BBR001,M0164,Saus Asam Manis/Pedas,Saus,2,M0071,Kopi Hitam Teko,Minuman Teko,40000,0.147,17.4378,item_to_item_hybrid
+BBR001,M0164,Saus Asam Manis/Pedas,Saus,3,M0175,Soda Susu,Soda,15000,0.0778,9.7758,item_to_item_hybrid
+BBR001,M0164,Saus Asam Manis/Pedas,Saus,4,M0094,Lychee Tea,Minuman Standar,10000,0.0735,8.7189,item_to_item_hybrid
+BBR001,M0164,Saus Asam Manis/Pedas,Saus,5,M0016,Cap Cay Spesial Banyu Bening,Sayuran,25000,0.0667,7.1689,item_to_item_hybrid
+BBR001,M0165,Saus Barbeque,Saus,1,M0138,Nila Goreng Asam Pedas,Nila,38000,0.169,46.0857,item_to_item_hybrid
+BBR001,M0165,Saus Barbeque,Saus,2,M0140,Paket Ayam Bakar,Paket Personal,35000,0.1581,40.325,item_to_item_hybrid
+BBR001,M0165,Saus Barbeque,Saus,3,M0072,Kopi Susu Spesial Mix,Minuman Standar,12000,0.1557,19.5515,item_to_item_hybrid
+BBR001,M0165,Saus Barbeque,Saus,4,M0177,Sprite 250 ml,Soda,5000,0.1,16.13,item_to_item_hybrid
+BBR001,M0165,Saus Barbeque,Saus,5,M0155,Pisang Goreng Ori,Snack,17500,0.0845,11.5214,item_to_item_hybrid
+BBR001,M0166,Saus Blackpepper,Saus,1,M0185,Teh,Minuman Standar,5000,0.1826,26.8833,item_to_item_hybrid
+BBR001,M0166,Saus Blackpepper,Saus,2,M0006,Bakwan Sayur,Snack,13000,0.1581,13.4417,item_to_item_hybrid
+BBR001,M0166,Saus Blackpepper,Saus,3,M0005,Bakwan Jagung,Snack,13000,0.0598,5.7607,item_to_item_hybrid
+BBR001,M0166,Saus Blackpepper,Saus,4,M0002,Air Putih Gelas,Minuman Standar,1000,0.0436,3.0724,item_to_item_hybrid
+BBR001,M0166,Saus Blackpepper,Saus,5,M0001,Air Mineral Botol,Minuman Standar,5000,0.043,2.987,item_to_item_hybrid
+BBR001,M0167,Sayur Asem,Sayuran,1,M0019,Crispy Chicken Pasta Hotplate,Hotplate,27000,0.2635,22.4028,item_to_item_hybrid
+BBR001,M0167,Sayur Asem,Sayuran,2,M0199,Udang Asam Pedas,Alacarte,50000,0.2309,43.0133,item_to_item_hybrid
+BBR001,M0167,Sayur Asem,Sayuran,3,M0085,Lele Bakar Pedas,Lele,19500,0.1633,21.5067,item_to_item_hybrid
+BBR001,M0167,Sayur Asem,Sayuran,4,M0162,Sapo Tahu Sapi Hotplate,Sapo Tahu,25000,0.1491,35.8444,item_to_item_hybrid
+BBR001,M0167,Sayur Asem,Sayuran,5,M0040,Gurame Bumbu Acar,Gurame,57500,0.1432,16.5436,item_to_item_hybrid
+BBR001,M0168,Sayur Lodeh,Sayuran,1,M0103,Mie Siram Ayam Spesial Blackpepper,Mie,20000,0.2023,21.9955,item_to_item_hybrid
+BBR001,M0168,Sayur Lodeh,Sayuran,2,M0147,Paket Gokil,Paket Ber 5,190000,0.1907,29.3273,item_to_item_hybrid
+BBR001,M0168,Sayur Lodeh,Sayuran,3,M0041,Gurame Bumbu Bali,Gurame,57500,0.201,16.2929,item_to_item_hybrid
+BBR001,M0168,Sayur Lodeh,Sayuran,4,M0046,Gurame Goreng Asam Pedas,Gurame,57500,0.1551,12.9385,item_to_item_hybrid
+BBR001,M0168,Sayur Lodeh,Sayuran,5,M0112,Nasi Ayam Crispy Saus Merah,Aneka Nasi,25000,0.1286,13.3306,item_to_item_hybrid
+BBR001,M0169,Sig. Beef Pasta Hotplate,Hotplate,1,M0093,Lime Squash,Soda,15000,0.208,23.2644,item_to_item_hybrid
+BBR001,M0169,Sig. Beef Pasta Hotplate,Hotplate,2,M0190,Teh Teko,Minuman Teko,25000,0.1291,13.4417,item_to_item_hybrid
+BBR001,M0169,Sig. Beef Pasta Hotplate,Hotplate,3,M0089,Lele Goreng Asam Pedas,Lele,22500,0.1021,16.8021,item_to_item_hybrid
+BBR001,M0169,Sig. Beef Pasta Hotplate,Hotplate,4,M0016,Cap Cay Spesial Banyu Bening,Sayuran,25000,0.1054,8.9611,item_to_item_hybrid
+BBR001,M0169,Sig. Beef Pasta Hotplate,Hotplate,5,M0065,Kerang Asam Pedas,Alacarte,30000,0.0884,12.6016,item_to_item_hybrid
+BBR001,M0170,Sig. Beef Rice Hotplate,Hotplate,1,M0158,Sambal Kecap,Sambal,5000,0.1179,22.4028,item_to_item_hybrid
+BBR001,M0170,Sig. Beef Rice Hotplate,Hotplate,2,M0037,Gurame Bakar Manis,Gurame,50000,0.1147,21.2237,item_to_item_hybrid
+BBR001,M0170,Sig. Beef Rice Hotplate,Hotplate,3,M0062,Juice Strawbery,Juice,13000,0.1066,18.3295,item_to_item_hybrid
+BBR001,M0170,Sig. Beef Rice Hotplate,Hotplate,4,M0094,Lychee Tea,Minuman Standar,10000,0.0822,10.8986,item_to_item_hybrid
+BBR001,M0170,Sig. Beef Rice Hotplate,Hotplate,5,M0035,Gudangan,Sayuran,15000,0.0811,10.6118,item_to_item_hybrid
+BBR001,M0171,Sig. Chicken Pasta Hotplate,Hotplate,1,M0125,Nasi Goreng Telur,Nasi Goreng,18000,0.1925,59.7407,item_to_item_hybrid
+BBR001,M0171,Sig. Chicken Pasta Hotplate,Hotplate,2,M0022,Crispy Chicken Tok,Snack,25000,0.1091,19.2024,item_to_item_hybrid
+BBR001,M0171,Sig. Chicken Pasta Hotplate,Hotplate,3,M0035,Gudangan,Sayuran,15000,0.0937,14.1491,item_to_item_hybrid
+BBR001,M0171,Sig. Chicken Pasta Hotplate,Hotplate,4,M0174,Soda Gembira,Soda,15000,0.0925,13.7863,item_to_item_hybrid
+BBR001,M0171,Sig. Chicken Pasta Hotplate,Hotplate,5,M0057,Juice Jambu,Juice,15000,0.0842,11.4397,item_to_item_hybrid
+BBR001,M0172,Sig. Chicken Rice Hotplate,Hotplate,1,M0032,French Fries,Snack,15000,0.1021,16.8021,item_to_item_hybrid
+BBR001,M0172,Sig. Chicken Rice Hotplate,Hotplate,2,M0072,Kopi Susu Spesial Mix,Minuman Standar,12000,0.1005,16.2929,item_to_item_hybrid
+BBR001,M0172,Sig. Chicken Rice Hotplate,Hotplate,3,M0058,Juice Jeruk,Juice,13000,0.0913,13.4417,item_to_item_hybrid
+BBR001,M0172,Sig. Chicken Rice Hotplate,Hotplate,4,M0011,Bihun Kuah Ayam,Bihun,18000,0.0772,9.6012,item_to_item_hybrid
+BBR001,M0172,Sig. Chicken Rice Hotplate,Hotplate,5,M0054,Jeruk Teko,Minuman Teko,30000,0.0711,8.1465,item_to_item_hybrid
+BBR001,M0173,Singkong Keju,Snack,1,M0042,Gurame Cabe Ijo,Gurame,57500,0.3131,31.6275,item_to_item_hybrid
+BBR001,M0173,Singkong Keju,Snack,2,M0020,Crispy Chicken Rice Hotplate,Hotplate,25000,0.2475,19.7672,item_to_item_hybrid
+BBR001,M0173,Singkong Keju,Snack,3,M0148,Paket Lele,Paket Personal,25000,0.1715,23.7206,item_to_item_hybrid
+BBR001,M0173,Singkong Keju,Snack,4,M0061,Juice Sirsak,Juice,15000,0.1085,6.3255,item_to_item_hybrid
+BBR001,M0173,Singkong Keju,Snack,5,M0185,Teh,Minuman Standar,5000,0.099,7.9069,item_to_item_hybrid
+BBR001,M0174,Soda Gembira,Soda,1,M0147,Paket Gokil,Paket Ber 5,190000,0.2864,33.0872,item_to_item_hybrid
+BBR001,M0174,Soda Gembira,Soda,2,M0012,Bihun Kuah Seafood,Bihun,18000,0.2387,9.1909,item_to_item_hybrid
+BBR001,M0174,Soda Gembira,Soda,3,M0037,Gurame Bakar Manis,Gurame,50000,0.1837,10.8839,item_to_item_hybrid
+BBR001,M0174,Soda Gembira,Soda,4,M0171,Sig. Chicken Pasta Hotplate,Hotplate,26000,0.0925,13.7863,item_to_item_hybrid
+BBR001,M0174,Soda Gembira,Soda,5,M0035,Gudangan,Sayuran,15000,0.1039,4.3536,item_to_item_hybrid
+BBR001,M0175,Soda Susu,Soda,1,M0091,Lemon Tea 1/2 Jumbo,Minuman Jumbo,200000,0.1741,16.2929,item_to_item_hybrid
+BBR001,M0175,Soda Susu,Soda,2,M0038,Gurame Bakar Pedas,Gurame,50000,0.1641,10.862,item_to_item_hybrid
+BBR001,M0175,Soda Susu,Soda,3,M0099,Mie Goreng Sapi Spesial BP Hotplate,Mie,27000,0.1161,10.862,item_to_item_hybrid
+BBR001,M0175,Soda Susu,Soda,4,M0008,Bihun Goreng Ayam Spesial BP,Bihun,20000,0.1267,4.3128,item_to_item_hybrid
+BBR001,M0175,Soda Susu,Soda,5,M0196,Trancam,Sayuran,15000,0.1101,9.7758,item_to_item_hybrid
+BBR001,M0176,Soto Ayam Banyu Bening,Soto,1,M0177,Sprite 250 ml,Soda,5000,0.1826,26.8833,item_to_item_hybrid
+BBR001,M0176,Soto Ayam Banyu Bening,Soto,2,M0059,Juice Mangga,Juice,15000,0.1516,18.5402,item_to_item_hybrid
+BBR001,M0176,Soto Ayam Banyu Bening,Soto,3,M0034,Gemblong Cotot,Snack,17500,0.1421,16.2929,item_to_item_hybrid
+BBR001,M0176,Soto Ayam Banyu Bening,Soto,4,M0095,Mendoan,Snack,13000,0.0833,11.2014,item_to_item_hybrid
+BBR001,M0176,Soto Ayam Banyu Bening,Soto,5,M0063,Juice Tomat,Juice,10000,0.0645,6.7208,item_to_item_hybrid
+BBR001,M0177,Sprite 250 ml,Soda,1,M0176,Soto Ayam Banyu Bening,Soto,12000,0.1826,26.8833,item_to_item_hybrid
+BBR001,M0177,Sprite 250 ml,Soda,2,M0039,Gurame Bakar Spesial,Gurame,52500,0.1491,17.9222,item_to_item_hybrid
+BBR001,M0177,Sprite 250 ml,Soda,3,M0133,Nila Bumbu Acar,Nila,38000,0.1291,26.8833,item_to_item_hybrid
+BBR001,M0177,Sprite 250 ml,Soda,4,M0154,Pisang Goreng Coklat,Snack,17500,0.1085,9.4882,item_to_item_hybrid
+BBR001,M0177,Sprite 250 ml,Soda,5,M0165,Saus Barbeque,Saus,5000,0.1,16.13,item_to_item_hybrid
+BBR001,M0178,Sterofoam,Kemasan Take Away,1,M0003,Ayam Bakar Tok,Alacarte,23000,0.0,1.0,cold_start_fallback
+BBR001,M0178,Sterofoam,Kemasan Take Away,2,M0004,Ayam Goreng Kremezz Tok,Alacarte,23000,0.0,1.0,cold_start_fallback
+BBR001,M0178,Sterofoam,Kemasan Take Away,3,M0001,Air Mineral Botol,Minuman Standar,5000,0.0,1.0,cold_start_fallback
+BBR001,M0178,Sterofoam,Kemasan Take Away,4,M0002,Air Putih Gelas,Minuman Standar,1000,0.0,1.0,cold_start_fallback
+BBR001,M0178,Sterofoam,Kemasan Take Away,5,M0007,Bihun Goreng Ayam,Bihun,18000,0.0,1.0,cold_start_fallback
+BBR001,M0179,Sup Gurame,Gurame,1,M0003,Ayam Bakar Tok,Alacarte,23000,0.0657,6.9526,item_to_item_hybrid
+BBR001,M0179,Sup Gurame,Gurame,2,M0004,Ayam Goreng Kremezz Tok,Alacarte,23000,0.0,1.0,cold_start_fallback
+BBR001,M0179,Sup Gurame,Gurame,3,M0001,Air Mineral Botol,Minuman Standar,5000,0.0,1.0,cold_start_fallback
+BBR001,M0179,Sup Gurame,Gurame,4,M0002,Air Putih Gelas,Minuman Standar,1000,0.0,1.0,cold_start_fallback
+BBR001,M0179,Sup Gurame,Gurame,5,M0007,Bihun Goreng Ayam,Bihun,18000,0.0,1.0,cold_start_fallback
+BBR001,M0180,Sup Nila,Nila,1,M0134,Nila Bumbu Bali,Nila,38000,0.125,25.2031,item_to_item_hybrid
+BBR001,M0180,Sup Nila,Nila,2,M0065,Kerang Asam Pedas,Alacarte,30000,0.0884,12.6016,item_to_item_hybrid
+BBR001,M0180,Sup Nila,Nila,3,M0194,Tempe Penyet,Snack,13000,0.0857,11.8603,item_to_item_hybrid
+BBR001,M0180,Sup Nila,Nila,4,M0197,Tumis Kangkung,Sayuran,15000,0.0833,11.2014,item_to_item_hybrid
+BBR001,M0180,Sup Nila,Nila,5,M0182,Susu Putih/Coklat,Minuman Standar,10000,0.0722,8.401,item_to_item_hybrid
+BBR001,M0181,Susu Jahe,Minuman Standar,1,M0040,Gurame Bumbu Acar,Gurame,57500,0.338,26.3193,item_to_item_hybrid
+BBR001,M0181,Susu Jahe,Minuman Standar,2,M0013,Bihun Siram Ayam Spesial BP,Bihun,20000,0.188,8.1465,item_to_item_hybrid
+BBR001,M0181,Susu Jahe,Minuman Standar,3,M0073,Kwetiau Goreng Ayam,Kwetiau,18000,0.1575,13.3306,item_to_item_hybrid
+BBR001,M0181,Susu Jahe,Minuman Standar,4,M0036,Gurame Bakar Madu,Gurame,52500,0.134,7.2413,item_to_item_hybrid
+BBR001,M0181,Susu Jahe,Minuman Standar,5,M0148,Paket Lele,Paket Personal,25000,0.1231,12.2197,item_to_item_hybrid
+BBR001,M0182,Susu Putih/Coklat,Minuman Standar,1,M0041,Gurame Bumbu Bali,Gurame,57500,0.2887,22.4028,item_to_item_hybrid
+BBR001,M0182,Susu Putih/Coklat,Minuman Standar,2,M0135,Nila Cabe Ijo,Nila,38000,0.2041,33.6042,item_to_item_hybrid
+BBR001,M0182,Susu Putih/Coklat,Minuman Standar,3,M0100,Mie Goreng Seafood,Mie,18000,0.1361,14.9352,item_to_item_hybrid
+BBR001,M0182,Susu Putih/Coklat,Minuman Standar,4,M0184,Tahu Penyet,Snack,13000,0.1291,13.4417,item_to_item_hybrid
+BBR001,M0182,Susu Putih/Coklat,Minuman Standar,5,M0139,Paket Asik,Paket Ber 5,175000,0.1179,22.4028,item_to_item_hybrid
+BBR001,M0183,Tahu Goreng,Snack,1,M0010,Bihun Goreng Seafood,Bihun,18000,0.1695,9.2701,item_to_item_hybrid
+BBR001,M0183,Tahu Goreng,Snack,2,M0151,Paket Puas,Paket Ber 5,210000,0.1291,26.8833,item_to_item_hybrid
+BBR001,M0183,Tahu Goreng,Snack,3,M0043,Gurame Crispy Fillet,Gurame,70000,0.138,15.3619,item_to_item_hybrid
+BBR001,M0183,Tahu Goreng,Snack,4,M0188,Teh Kampul,Minuman Standar,9000,0.1414,10.7533,item_to_item_hybrid
+BBR001,M0183,Tahu Goreng,Snack,5,M0105,Mie Siram Sapi Spesial Blackpepper,Mie,23000,0.1333,14.3378,item_to_item_hybrid
+BBR001,M0184,Tahu Penyet,Snack,1,M0087,Lele Goreng,Lele,18000,0.2582,53.7667,item_to_item_hybrid
+BBR001,M0184,Tahu Penyet,Snack,2,M0135,Nila Cabe Ijo,Nila,38000,0.1581,40.325,item_to_item_hybrid
+BBR001,M0184,Tahu Penyet,Snack,3,M0044,Gurame Goreng,Gurame,45000,0.1633,21.5067,item_to_item_hybrid
+BBR001,M0184,Tahu Penyet,Snack,4,M0033,Fuyung Hai Spesial BB,Alacarte,20000,0.1451,16.9789,item_to_item_hybrid
+BBR001,M0184,Tahu Penyet,Snack,5,M0182,Susu Putih/Coklat,Minuman Standar,10000,0.1291,13.4417,item_to_item_hybrid
+BBR001,M0185,Teh,Minuman Standar,1,M0166,Saus Blackpepper,Saus,5000,0.1826,26.8833,item_to_item_hybrid
+BBR001,M0185,Teh,Minuman Standar,2,M0027,Cumi Asam Pedas,Alacarte,50000,0.1703,11.6884,item_to_item_hybrid
+BBR001,M0185,Teh,Minuman Standar,3,M0042,Gurame Cabe Ijo,Gurame,57500,0.1581,13.4417,item_to_item_hybrid
+BBR001,M0185,Teh,Minuman Standar,4,M0148,Paket Lele,Paket Personal,25000,0.1443,16.8021,item_to_item_hybrid
+BBR001,M0185,Teh,Minuman Standar,5,M0086,Lele Cabe Ijo,Lele,22500,0.1361,14.9352,item_to_item_hybrid
+BBR001,M0186,Teh 1/2 Jumbo,Minuman Jumbo,1,M0066,Kerupuk,Snack,2000,0.2106,23.8374,item_to_item_hybrid
+BBR001,M0186,Teh 1/2 Jumbo,Minuman Jumbo,2,M0088,Lele Goreng Asam Manis,Lele,22500,0.1543,38.4048,item_to_item_hybrid
+BBR001,M0186,Teh 1/2 Jumbo,Minuman Jumbo,3,M0062,Juice Strawbery,Juice,13000,0.1612,20.9481,item_to_item_hybrid
+BBR001,M0186,Teh 1/2 Jumbo,Minuman Jumbo,4,M0079,Kwetiau Siram Ayam Spesial Blackpepper,Kwetiau,20000,0.114,20.9481,item_to_item_hybrid
+BBR001,M0186,Teh 1/2 Jumbo,Minuman Jumbo,5,M0081,Kwetiau Siram Sapi Spesial Blackpepper,Kwetiau,23000,0.114,20.9481,item_to_item_hybrid
+BBR001,M0187,Teh Jumbo,Minuman Jumbo,1,M0188,Teh Kampul,Minuman Standar,9000,0.1491,17.9222,item_to_item_hybrid
+BBR001,M0187,Teh Jumbo,Minuman Jumbo,2,M0112,Nasi Ayam Crispy Saus Merah,Aneka Nasi,25000,0.1231,24.4394,item_to_item_hybrid
+BBR001,M0187,Teh Jumbo,Minuman Jumbo,3,M0117,Nasi Bakul Tanggung,Snack,20000,0.0851,11.6884,item_to_item_hybrid
+BBR001,M0187,Teh Jumbo,Minuman Jumbo,4,M0157,Sambal Ijo,Sambal,5000,0.0833,11.2014,item_to_item_hybrid
+BBR001,M0187,Teh Jumbo,Minuman Jumbo,5,M0067,Kerupuk Prasmanan,Snack,20000,0.0833,11.2014,item_to_item_hybrid
+BBR001,M0188,Teh Kampul,Minuman Standar,1,M0043,Gurame Crispy Fillet,Gurame,70000,0.244,19.2024,item_to_item_hybrid
+BBR001,M0188,Teh Kampul,Minuman Standar,2,M0115,Nasi Ayam Ori Teriyaki spesial BB,Aneka Nasi,25000,0.1936,20.1625,item_to_item_hybrid
+BBR001,M0188,Teh Kampul,Minuman Standar,3,M0014,Bihun Siram Ayam Spesial Teriyaki,Bihun,20000,0.207,11.5214,item_to_item_hybrid
+BBR001,M0188,Teh Kampul,Minuman Standar,4,M0187,Teh Jumbo,Minuman Jumbo,300000,0.1491,17.9222,item_to_item_hybrid
+BBR001,M0188,Teh Kampul,Minuman Standar,5,M0137,Nila Goreng Asam Manis,Nila,38000,0.138,15.3619,item_to_item_hybrid
+BBR001,M0189,Teh Tarik,Minuman Standar,1,M0044,Gurame Goreng,Gurame,45000,0.3545,28.9513,item_to_item_hybrid
+BBR001,M0189,Teh Tarik,Minuman Standar,2,M0198,Udang Asam Manis,Alacarte,50000,0.2965,35.4505,item_to_item_hybrid
+BBR001,M0189,Teh Tarik,Minuman Standar,3,M0100,Mie Goreng Seafood,Mie,18000,0.1307,13.7863,item_to_item_hybrid
+BBR001,M0189,Teh Tarik,Minuman Standar,4,M0184,Tahu Penyet,Snack,13000,0.124,12.4077,item_to_item_hybrid
+BBR001,M0189,Teh Tarik,Minuman Standar,5,M0199,Udang Asam Pedas,Alacarte,50000,0.0877,12.4077,item_to_item_hybrid
+BBR001,M0190,Teh Teko,Minuman Teko,1,M0045,Gurame Goreng Asam Manis,Gurame,57500,0.2928,23.0429,item_to_item_hybrid
+BBR001,M0190,Teh Teko,Minuman Teko,2,M0139,Paket Asik,Paket Ber 5,175000,0.2108,35.8444,item_to_item_hybrid
+BBR001,M0190,Teh Teko,Minuman Teko,3,M0101,Mie Kuah Ayam,Mie,18000,0.1936,20.1625,item_to_item_hybrid
+BBR001,M0190,Teh Teko,Minuman Teko,4,M0199,Udang Asam Pedas,Alacarte,50000,0.1633,21.5067,item_to_item_hybrid
+BBR001,M0190,Teh Teko,Minuman Teko,5,M0129,Nila Bakar Madu,Nila,36000,0.1633,21.5067,item_to_item_hybrid
+BBR001,M0191,Telur Ceplok,Snack,1,M0111,Nasi Ayam Crispy Saus Kecap,Aneka Nasi,25000,0.2582,35.8444,item_to_item_hybrid
+BBR001,M0191,Telur Ceplok,Snack,2,M0118,Nasi Goreng Ayam,Nasi Goreng,18000,0.1952,30.7238,item_to_item_hybrid
+BBR001,M0191,Telur Ceplok,Snack,3,M0163,Sapo Tahu Seafood Hotplate,Sapo Tahu,24000,0.1291,26.8833,item_to_item_hybrid
+BBR001,M0191,Telur Ceplok,Snack,4,M0045,Gurame Goreng Asam Manis,Gurame,57500,0.138,15.3619,item_to_item_hybrid
+BBR001,M0191,Telur Ceplok,Snack,5,M0130,Nila Bakar Manis,Nila,34000,0.0976,15.3619,item_to_item_hybrid
+BBR001,M0192,Telur Dadar,Snack,1,M0152,Paket Santuy,Paket Ber 5,150000,0.2108,35.8444,item_to_item_hybrid
+BBR001,M0192,Telur Dadar,Snack,2,M0020,Crispy Chicken Rice Hotplate,Hotplate,25000,0.1925,14.9352,item_to_item_hybrid
+BBR001,M0192,Telur Dadar,Snack,3,M0135,Nila Cabe Ijo,Nila,38000,0.1179,22.4028,item_to_item_hybrid
+BBR001,M0192,Telur Dadar,Snack,4,M0046,Gurame Goreng Asam Pedas,Gurame,57500,0.1143,10.5425,item_to_item_hybrid
+BBR001,M0192,Telur Dadar,Snack,5,M0096,Mie Goreng Ayam,Mie,18000,0.0962,14.9352,item_to_item_hybrid
+BBR001,M0193,Tempe Goreng,Snack,1,M0153,Paket Sapi Lada Hitam,Paket Personal,36000,0.3062,50.4062,item_to_item_hybrid
+BBR001,M0193,Tempe Goreng,Snack,2,M0050,Jeruk 1/2 Jumbo,Minuman Jumbo,200000,0.2294,21.2237,item_to_item_hybrid
+BBR001,M0193,Tempe Goreng,Snack,3,M0053,Jeruk Nipis,Makanan,7000,0.1875,18.9023,item_to_item_hybrid
+BBR001,M0193,Tempe Goreng,Snack,4,M0115,Nasi Ayam Ori Teriyaki spesial BB,Aneka Nasi,25000,0.1768,25.2031,item_to_item_hybrid
+BBR001,M0193,Tempe Goreng,Snack,5,M0162,Sapo Tahu Sapi Hotplate,Sapo Tahu,25000,0.1443,33.6042,item_to_item_hybrid
+BBR001,M0194,Tempe Penyet,Snack,1,M0051,Jeruk Jumbo,Minuman Jumbo,400000,0.3032,29.6507,item_to_item_hybrid
+BBR001,M0194,Tempe Penyet,Snack,2,M0161,Sapo Tahu Ayam Hotplate,Sapo Tahu,23000,0.1833,27.1092,item_to_item_hybrid
+BBR001,M0194,Tempe Penyet,Snack,3,M0096,Mie Goreng Ayam,Mie,18000,0.099,15.8137,item_to_item_hybrid
+BBR001,M0194,Tempe Penyet,Snack,4,M0110,Nasi Ayam Bakar,Aneka Nasi,28000,0.099,15.8137,item_to_item_hybrid
+BBR001,M0194,Tempe Penyet,Snack,5,M0055,Juice Alpukat,Juice,15000,0.1061,6.0563,item_to_item_hybrid
+BBR001,M0195,Timus,Snack,1,M0053,Jeruk Nipis,Makanan,7000,0.3467,38.774,item_to_item_hybrid
+BBR001,M0195,Timus,Snack,2,M0064,Kerang Asam Manis,Alacarte,30000,0.1672,22.5594,item_to_item_hybrid
+BBR001,M0195,Timus,Snack,3,M0113,Nasi Ayam Goreng Kremez,Aneka Nasi,28000,0.1132,20.6795,item_to_item_hybrid
+BBR001,M0195,Timus,Snack,4,M0150,Paket Nila,Paket Personal,36000,0.1132,20.6795,item_to_item_hybrid
+BBR001,M0195,Timus,Snack,5,M0118,Nasi Goreng Ayam,Nasi Goreng,18000,0.1048,17.7253,item_to_item_hybrid
+BBR001,M0196,Trancam,Sayuran,1,M0118,Nasi Goreng Ayam,Nasi Goreng,18000,0.239,46.0857,item_to_item_hybrid
+BBR001,M0196,Trancam,Sayuran,2,M0025,Crispy Udang Rice Hotplate,Hotplate,26000,0.253,25.808,item_to_item_hybrid
+BBR001,M0196,Trancam,Sayuran,3,M0091,Lemon Tea 1/2 Jumbo,Minuman Jumbo,200000,0.2108,35.8444,item_to_item_hybrid
+BBR001,M0196,Trancam,Sayuran,4,M0039,Gurame Bakar Spesial,Gurame,52500,0.1054,17.9222,item_to_item_hybrid
+BBR001,M0196,Trancam,Sayuran,5,M0175,Soda Susu,Soda,15000,0.1101,9.7758,item_to_item_hybrid
+BBR001,M0197,Tumis Kangkung,Sayuran,1,M0119,Nasi Goreng Banyu Bening Hotplate,Nasi Goreng,25000,0.3333,44.8056,item_to_item_hybrid
+BBR001,M0197,Tumis Kangkung,Sayuran,2,M0065,Kerang Asam Pedas,Alacarte,30000,0.2357,22.4028,item_to_item_hybrid
+BBR001,M0197,Tumis Kangkung,Sayuran,3,M0164,Saus Asam Manis/Pedas,Saus,5000,0.2108,35.8444,item_to_item_hybrid
+BBR001,M0197,Tumis Kangkung,Sayuran,4,M0059,Juice Mangga,Juice,15000,0.1313,9.2701,item_to_item_hybrid
+BBR001,M0197,Tumis Kangkung,Sayuran,5,M0126,Nasi Goreng Teri,Nasi Goreng,18000,0.1054,17.9222,item_to_item_hybrid
+BBR001,M0198,Udang Asam Manis,Alacarte,1,M0189,Teh Tarik,Minuman Standar,10000,0.2965,35.4505,item_to_item_hybrid
+BBR001,M0198,Udang Asam Manis,Alacarte,2,M0035,Gudangan,Sayuran,15000,0.1226,12.1278,item_to_item_hybrid
+BBR001,M0198,Udang Asam Manis,Alacarte,3,M0159,Sambal Terasi,Sambal,5000,0.0917,13.5546,item_to_item_hybrid
+BBR001,M0198,Udang Asam Manis,Alacarte,4,M0197,Tumis Kangkung,Sayuran,15000,0.0891,12.8016,item_to_item_hybrid
+BBR001,M0198,Udang Asam Manis,Alacarte,5,M0093,Lime Squash,Soda,15000,0.0741,8.8626,item_to_item_hybrid
+BBR001,M0199,Udang Asam Pedas,Alacarte,1,M0167,Sayur Asem,Sayuran,15000,0.2309,43.0133,item_to_item_hybrid
+BBR001,M0199,Udang Asam Pedas,Alacarte,2,M0190,Teh Teko,Minuman Teko,25000,0.1633,21.5067,item_to_item_hybrid
+BBR001,M0199,Udang Asam Pedas,Alacarte,3,M0073,Kwetiau Goreng Ayam,Kwetiau,18000,0.1348,29.3273,item_to_item_hybrid
+BBR001,M0199,Udang Asam Pedas,Alacarte,4,M0083,Lalapan,Sayuran,5000,0.1,16.13,item_to_item_hybrid
+BBR001,M0199,Udang Asam Pedas,Alacarte,5,M0182,Susu Putih/Coklat,Minuman Standar,10000,0.0913,13.4417,item_to_item_hybrid

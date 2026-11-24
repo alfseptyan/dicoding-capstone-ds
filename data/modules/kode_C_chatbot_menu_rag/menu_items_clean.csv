@@ -1,0 +1,200 @@
+tenant_id,menu_id,category_id,category_name,menu_name,selling_price_idr,estimated_hpp_idr,gross_margin_idr,gross_margin_pct,selling_unit,was_per_ons,portion_factor,is_bundle,is_available,data_origin
+BBR001,M0001,CAT001,Minuman Standar,Air Mineral Botol,5000,1800,3200,64.0,porsi,False,1,False,True,primary
+BBR001,M0002,CAT001,Minuman Standar,Air Putih Gelas,1000,100,900,90.0,porsi,False,1,False,True,primary
+BBR001,M0003,CAT002,Alacarte,Ayam Bakar Tok,23000,8686,14314,62.23,porsi,False,1,False,True,primary
+BBR001,M0004,CAT002,Alacarte,Ayam Goreng Kremezz Tok,23000,8640,14360,62.43,porsi,False,1,False,True,primary
+BBR001,M0005,CAT003,Snack,Bakwan Jagung,13000,2547,10453,80.41,porsi,False,1,False,True,primary
+BBR001,M0006,CAT003,Snack,Bakwan Sayur,13000,2427,10573,81.33,porsi,False,1,False,True,primary
+BBR001,M0007,CAT004,Bihun,Bihun Goreng Ayam,18000,8190,9810,54.5,porsi,False,1,False,True,primary
+BBR001,M0008,CAT004,Bihun,Bihun Goreng Ayam Spesial BP,20000,9994,10006,50.03,porsi,False,1,False,True,primary
+BBR001,M0009,CAT004,Bihun,Bihun Goreng Sapi Spesial BP,23000,13054,9946,43.24,porsi,False,1,False,True,primary
+BBR001,M0010,CAT004,Bihun,Bihun Goreng Seafood,18000,8990,9010,50.06,porsi,False,1,False,True,primary
+BBR001,M0011,CAT004,Bihun,Bihun Kuah Ayam,18000,5384,12616,70.09,porsi,False,1,False,True,primary
+BBR001,M0012,CAT004,Bihun,Bihun Kuah Seafood,18000,6184,11816,65.64,porsi,False,1,False,True,primary
+BBR001,M0013,CAT004,Bihun,Bihun Siram Ayam Spesial BP,20000,7890,12110,60.55,porsi,False,1,False,True,primary
+BBR001,M0014,CAT004,Bihun,Bihun Siram Ayam Spesial Teriyaki,20000,7890,12110,60.55,porsi,False,1,False,True,primary
+BBR001,M0015,CAT004,Bihun,Bihun Siram Sapi Spesial BP,23000,10950,12050,52.39,porsi,False,1,False,True,primary
+BBR001,M0016,CAT005,Sayuran,Cap Cay Spesial Banyu Bening,25000,5811,19189,76.76,porsi,False,1,False,True,primary
+BBR001,M0017,CAT005,Sayuran,Cha Kangkung,15000,2792,12208,81.39,porsi,False,1,False,True,primary
+BBR001,M0018,CAT006,Hotplate,Crispy Chicken indomie Hotplate,25000,12430,12570,50.28,porsi,False,1,False,True,primary
+BBR001,M0019,CAT006,Hotplate,Crispy Chicken Pasta Hotplate,27000,9757,17243,63.86,porsi,False,1,False,True,primary
+BBR001,M0020,CAT006,Hotplate,Crispy Chicken Rice Hotplate,25000,11135,13865,55.46,porsi,False,1,False,True,primary
+BBR001,M0021,CAT006,Hotplate,Crispy Chicken Salted Egg Hotplate,27000,13275,13725,50.83,porsi,False,1,False,True,primary
+BBR001,M0022,CAT003,Snack,Crispy Chicken Tok,25000,6650,18350,73.4,porsi,False,1,False,True,primary
+BBR001,M0023,CAT006,Hotplate,Crispy Cumi Rice Hotplate,26000,13515,12485,48.02,porsi,False,1,False,True,primary
+BBR001,M0024,CAT006,Hotplate,Crispy Dori Rice Hotplate,25000,11215,13785,55.14,porsi,False,1,False,True,primary
+BBR001,M0025,CAT006,Hotplate,Crispy Udang Rice Hotplate,26000,13215,12785,49.17,porsi,False,1,False,True,primary
+BBR001,M0026,CAT002,Alacarte,Cumi Asam Manis,50000,13738,36262,72.52,porsi,False,1,False,True,primary
+BBR001,M0027,CAT002,Alacarte,Cumi Asam Pedas,50000,14938,35062,70.12,porsi,False,1,False,True,primary
+BBR001,M0028,CAT007,Kemasan Take Away,Cup Minum,1000,600,400,40.0,porsi,False,1,False,True,primary
+BBR001,M0029,CAT001,Minuman Standar,Es Sirup,7000,1070,5930,84.71,porsi,False,1,False,True,primary
+BBR001,M0030,CAT008,FREE,Free Kerupuk,0,780,-780,0.0,porsi,False,1,False,True,primary
+BBR001,M0031,CAT008,FREE,Free Teh,0,970,-970,0.0,porsi,False,1,False,True,primary
+BBR001,M0032,CAT003,Snack,French Fries,15000,5528,9472,63.15,porsi,False,1,False,True,primary
+BBR001,M0033,CAT002,Alacarte,Fuyung Hai Spesial BB,20000,10145,9855,49.28,porsi,False,1,False,True,primary
+BBR001,M0034,CAT003,Snack,Gemblong Cotot,17500,2850,14650,83.71,porsi,False,1,False,True,primary
+BBR001,M0035,CAT005,Sayuran,Gudangan,15000,3229,11771,78.47,porsi,False,1,False,True,primary
+BBR001,M0036,CAT009,Gurame,Gurame Bakar Madu,52500,28730,23770,45.28,porsi,True,5,False,True,primary
+BBR001,M0037,CAT009,Gurame,Gurame Bakar Manis,50000,24535,25465,50.93,porsi,True,5,False,True,primary
+BBR001,M0038,CAT009,Gurame,Gurame Bakar Pedas,50000,27930,22070,44.14,porsi,True,5,False,True,primary
+BBR001,M0039,CAT009,Gurame,Gurame Bakar Spesial,52500,27565,24935,47.5,porsi,True,5,False,True,primary
+BBR001,M0040,CAT009,Gurame,Gurame Bumbu Acar,57500,30820,26680,46.4,porsi,True,5,False,True,primary
+BBR001,M0041,CAT009,Gurame,Gurame Bumbu Bali,57500,32095,25405,44.18,porsi,True,5,False,True,primary
+BBR001,M0042,CAT009,Gurame,Gurame Cabe Ijo,57500,31350,26150,45.48,porsi,True,5,False,True,primary
+BBR001,M0043,CAT009,Gurame,Gurame Crispy Fillet,70000,26650,43350,61.93,porsi,True,5,False,True,primary
+BBR001,M0044,CAT009,Gurame,Gurame Goreng,45000,23120,21880,48.62,porsi,True,5,False,True,primary
+BBR001,M0045,CAT009,Gurame,Gurame Goreng Asam Manis,57500,28670,28830,50.14,porsi,True,5,False,True,primary
+BBR001,M0046,CAT009,Gurame,Gurame Goreng Asam Pedas,57500,29720,27780,48.31,porsi,True,5,False,True,primary
+BBR001,M0047,CAT010,Juice,Healthy Juice,15000,4700,10300,68.67,porsi,False,1,False,True,primary
+BBR001,M0048,CAT003,Snack,Jamur Crispy,13000,4840,8160,62.77,porsi,False,1,False,True,primary
+BBR001,M0049,CAT001,Minuman Standar,Jeruk,8000,3220,4780,59.75,porsi,False,1,False,True,primary
+BBR001,M0050,CAT011,Minuman Jumbo,Jeruk 1/2 Jumbo,200000,80500,119500,59.75,porsi,False,1,False,True,primary
+BBR001,M0051,CAT011,Minuman Jumbo,Jeruk Jumbo,400000,161000,239000,59.75,porsi,False,1,False,True,primary
+BBR001,M0052,CAT001,Minuman Standar,Jeruk Nipis,8000,1620,6380,79.75,porsi,False,1,False,True,primary
+BBR001,M0053,CAT012,Makanan,Jeruk Nipis,7000,1620,5380,76.86,porsi,False,1,False,True,primary
+BBR001,M0054,CAT013,Minuman Teko,Jeruk Teko,30000,12880,17120,57.07,porsi,False,1,False,True,primary
+BBR001,M0055,CAT010,Juice,Juice Alpukat,15000,4770,10230,68.2,porsi,False,1,False,True,primary
+BBR001,M0056,CAT010,Juice,Juice Buah Naga,15000,3720,11280,75.2,porsi,False,1,False,True,primary
+BBR001,M0057,CAT010,Juice,Juice Jambu,15000,3120,11880,79.2,porsi,False,1,False,True,primary
+BBR001,M0058,CAT010,Juice,Juice Jeruk,13000,4020,8980,69.08,porsi,False,1,False,True,primary
+BBR001,M0059,CAT010,Juice,Juice Mangga,15000,3720,11280,75.2,porsi,False,1,False,True,primary
+BBR001,M0060,CAT010,Juice,Juice Melon,13000,2220,10780,82.92,porsi,False,1,False,True,primary
+BBR001,M0061,CAT010,Juice,Juice Sirsak,15000,4720,10280,68.53,porsi,False,1,False,True,primary
+BBR001,M0062,CAT010,Juice,Juice Strawbery,13000,5420,7580,58.31,porsi,False,1,False,True,primary
+BBR001,M0063,CAT010,Juice,Juice Tomat,10000,2670,7330,73.3,porsi,False,1,False,True,primary
+BBR001,M0064,CAT002,Alacarte,Kerang Asam Manis,30000,8123,21877,72.92,porsi,False,1,False,True,primary
+BBR001,M0065,CAT002,Alacarte,Kerang Asam Pedas,30000,9323,20677,68.92,porsi,False,1,False,True,primary
+BBR001,M0066,CAT003,Snack,Kerupuk,2000,780,1220,61.0,porsi,False,1,False,True,primary
+BBR001,M0067,CAT003,Snack,Kerupuk Prasmanan,20000,7800,12200,61.0,porsi,False,1,False,True,primary
+BBR001,M0068,CAT001,Minuman Standar,Kopi Hitam,8000,1404,6596,82.45,porsi,False,1,False,True,primary
+BBR001,M0069,CAT011,Minuman Jumbo,Kopi Hitam 1/2 Jumbo,200000,35100,164900,82.45,porsi,False,1,False,True,primary
+BBR001,M0070,CAT011,Minuman Jumbo,Kopi Hitam Jumbo,400000,70200,329800,82.45,porsi,False,1,False,True,primary
+BBR001,M0071,CAT013,Minuman Teko,Kopi Hitam Teko,40000,7020,32980,82.45,porsi,False,1,False,True,primary
+BBR001,M0072,CAT001,Minuman Standar,Kopi Susu Spesial Mix,12000,1795,10205,85.04,porsi,False,1,False,True,primary
+BBR001,M0073,CAT014,Kwetiau,Kwetiau Goreng Ayam,18000,8730,9270,51.5,porsi,False,1,False,True,primary
+BBR001,M0074,CAT014,Kwetiau,Kwetiau Goreng Ayam Spesial BP,20000,10534,9466,47.33,porsi,False,1,False,True,primary
+BBR001,M0075,CAT014,Kwetiau,Kwetiau Goreng Sapi Spesial BP,23000,13594,9406,40.9,porsi,False,1,False,True,primary
+BBR001,M0076,CAT014,Kwetiau,Kwetiau Goreng Seafood,18000,9530,8470,47.06,porsi,False,1,False,True,primary
+BBR001,M0077,CAT014,Kwetiau,Kwetiau Kuah Ayam,18000,5924,12076,67.09,porsi,False,1,False,True,primary
+BBR001,M0078,CAT014,Kwetiau,Kwetiau Kuah Seafood,18000,6724,11276,62.64,porsi,False,1,False,True,primary
+BBR001,M0079,CAT014,Kwetiau,Kwetiau Siram Ayam Spesial Blackpepper,20000,8430,11570,57.85,porsi,False,1,False,True,primary
+BBR001,M0080,CAT014,Kwetiau,Kwetiau Siram Ayam Spesial Teriyaki,20000,8430,11570,57.85,porsi,False,1,False,True,primary
+BBR001,M0081,CAT014,Kwetiau,Kwetiau Siram Sapi Spesial Blackpepper,23000,11490,11510,50.04,porsi,False,1,False,True,primary
+BBR001,M0082,CAT005,Sayuran,Lalap Sambal Krupuk,5000,2145,2855,57.1,porsi,False,1,False,True,primary
+BBR001,M0083,CAT005,Sayuran,Lalapan,5000,1200,3800,76.0,porsi,False,1,False,True,primary
+BBR001,M0084,CAT015,Lele,Lele Bakar Manis,19500,9921,9579,49.12,porsi,True,3,False,True,primary
+BBR001,M0085,CAT015,Lele,Lele Bakar Pedas,19500,11958,7542,38.68,porsi,True,3,False,True,primary
+BBR001,M0086,CAT015,Lele,Lele Cabe Ijo,22500,14010,8490,37.73,porsi,True,3,False,True,primary
+BBR001,M0087,CAT015,Lele,Lele Goreng,18000,9072,8928,49.6,porsi,True,3,False,True,primary
+BBR001,M0088,CAT015,Lele,Lele Goreng Asam Manis,22500,12402,10098,44.88,porsi,True,3,False,True,primary
+BBR001,M0089,CAT015,Lele,Lele Goreng Asam Pedas,22500,13032,9468,42.08,porsi,True,3,False,True,primary
+BBR001,M0090,CAT001,Minuman Standar,Lemon Tea,10000,2220,7780,77.8,porsi,False,1,False,True,primary
+BBR001,M0091,CAT011,Minuman Jumbo,Lemon Tea 1/2 Jumbo,200000,44400,155600,77.8,porsi,False,1,False,True,primary
+BBR001,M0092,CAT011,Minuman Jumbo,Lemon Tea Jumbo,400000,88800,311200,77.8,porsi,False,1,False,True,primary
+BBR001,M0093,CAT016,Soda,Lime Squash,15000,2720,12280,81.87,porsi,False,1,False,True,primary
+BBR001,M0094,CAT001,Minuman Standar,Lychee Tea,10000,3370,6630,66.3,porsi,False,1,False,True,primary
+BBR001,M0095,CAT003,Snack,Mendoan,13000,3872,9128,70.22,porsi,False,1,False,True,primary
+BBR001,M0096,CAT017,Mie,Mie Goreng Ayam,18000,8730,9270,51.5,porsi,False,1,False,True,primary
+BBR001,M0097,CAT017,Mie,Mie Goreng Ayam Spesial BP Hotplate,25000,10959,14041,56.16,porsi,False,1,False,True,primary
+BBR001,M0098,CAT017,Mie,Mie Goreng Chezzy Chicken Hotplate,28000,11555,16445,58.73,porsi,False,1,False,True,primary
+BBR001,M0099,CAT017,Mie,Mie Goreng Sapi Spesial BP Hotplate,27000,14019,12981,48.08,porsi,False,1,False,True,primary
+BBR001,M0100,CAT017,Mie,Mie Goreng Seafood,18000,9530,8470,47.06,porsi,False,1,False,True,primary
+BBR001,M0101,CAT017,Mie,Mie Kuah Ayam,18000,5924,12076,67.09,porsi,False,1,False,True,primary
+BBR001,M0102,CAT017,Mie,Mie Kuah Seafood,18000,6724,11276,62.64,porsi,False,1,False,True,primary
+BBR001,M0103,CAT017,Mie,Mie Siram Ayam Spesial Blackpepper,20000,8430,11570,57.85,porsi,False,1,False,True,primary
+BBR001,M0104,CAT017,Mie,Mie Siram Ayam Spesial Teriyaki,20000,8430,11570,57.85,porsi,False,1,False,True,primary
+BBR001,M0105,CAT017,Mie,Mie Siram Sapi Spesial Blackpepper,23000,11490,11510,50.04,porsi,False,1,False,True,primary
+BBR001,M0106,CAT007,Kemasan Take Away,Mika Besar,4000,1500,2500,62.5,porsi,False,1,False,True,primary
+BBR001,M0107,CAT007,Kemasan Take Away,Mika Kecil,2000,700,1300,65.0,porsi,False,1,False,True,primary
+BBR001,M0108,CAT007,Kemasan Take Away,Mika Tanggung,3000,1100,1900,63.33,porsi,False,1,False,True,primary
+BBR001,M0109,CAT003,Snack,Mix Platter,30000,10140,19860,66.2,porsi,False,1,False,True,primary
+BBR001,M0110,CAT018,Aneka Nasi,Nasi Ayam Bakar,28000,12657,15343,54.8,porsi,False,1,False,True,primary
+BBR001,M0111,CAT018,Aneka Nasi,Nasi Ayam Crispy Saus Kecap,25000,9207,15793,63.17,porsi,False,1,False,True,primary
+BBR001,M0112,CAT018,Aneka Nasi,Nasi Ayam Crispy Saus Merah,25000,9232,15768,63.07,porsi,False,1,False,True,primary
+BBR001,M0113,CAT018,Aneka Nasi,Nasi Ayam Goreng Kremez,28000,12611,15389,54.96,porsi,False,1,False,True,primary
+BBR001,M0114,CAT018,Aneka Nasi,Nasi Ayam Ori Bp Spesial BB,25000,8765,16235,64.94,porsi,False,1,False,True,primary
+BBR001,M0115,CAT018,Aneka Nasi,Nasi Ayam Ori Teriyaki spesial BB,25000,8879,16121,64.48,porsi,False,1,False,True,primary
+BBR001,M0116,CAT003,Snack,Nasi Bakul Besar,30000,7000,23000,76.67,porsi,False,1,False,True,primary
+BBR001,M0117,CAT003,Snack,Nasi Bakul Tanggung,20000,4900,15100,75.5,porsi,False,1,False,True,primary
+BBR001,M0118,CAT019,Nasi Goreng,Nasi Goreng Ayam,18000,7675,10325,57.36,porsi,False,1,False,True,primary
+BBR001,M0119,CAT019,Nasi Goreng,Nasi Goreng Banyu Bening Hotplate,25000,9315,15685,62.74,porsi,False,1,False,True,primary
+BBR001,M0120,CAT019,Nasi Goreng,Nasi Goreng Cheezy Chicken Hotplate,28000,11715,16285,58.16,porsi,False,1,False,True,primary
+BBR001,M0121,CAT019,Nasi Goreng,Nasi Goreng Mawut,18000,6455,11545,64.14,porsi,False,1,False,True,primary
+BBR001,M0122,CAT019,Nasi Goreng,Nasi Goreng Seafood,18000,8475,9525,52.92,porsi,False,1,False,True,primary
+BBR001,M0123,CAT019,Nasi Goreng,Nasi Goreng Sig. Beef Hotplate,28000,14625,13375,47.77,porsi,False,1,False,True,primary
+BBR001,M0124,CAT019,Nasi Goreng,Nasi Goreng Sosis,18000,9175,8825,49.03,porsi,False,1,False,True,primary
+BBR001,M0125,CAT019,Nasi Goreng,Nasi Goreng Telur,18000,7675,10325,57.36,porsi,False,1,False,True,primary
+BBR001,M0126,CAT019,Nasi Goreng,Nasi Goreng Teri,18000,7575,10425,57.92,porsi,False,1,False,True,primary
+BBR001,M0127,CAT003,Snack,Nasi Putih,5000,1400,3600,72.0,porsi,False,1,False,True,primary
+BBR001,M0128,CAT018,Aneka Nasi,Nasi Sapi Bp spesial BB,28000,12545,15455,55.2,porsi,False,1,False,True,primary
+BBR001,M0129,CAT020,Nila,Nila Bakar Madu,36000,18184,17816,49.49,porsi,True,4,False,True,primary
+BBR001,M0130,CAT020,Nila,Nila Bakar Manis,34000,14828,19172,56.39,porsi,True,4,False,True,primary
+BBR001,M0131,CAT020,Nila,Nila Bakar Pedas,34000,17544,16456,48.4,porsi,True,4,False,True,primary
+BBR001,M0132,CAT020,Nila,Nila Bakar Spesial,36000,17252,18748,52.08,porsi,True,4,False,True,primary
+BBR001,M0133,CAT020,Nila,Nila Bumbu Acar,38000,19856,18144,47.75,porsi,True,4,False,True,primary
+BBR001,M0134,CAT020,Nila,Nila Bumbu Bali,38000,20876,17124,45.06,porsi,True,4,False,True,primary
+BBR001,M0135,CAT020,Nila,Nila Cabe Ijo,38000,20280,17720,46.63,porsi,True,4,False,True,primary
+BBR001,M0136,CAT020,Nila,Nila Goreng,32000,13696,18304,57.2,porsi,True,4,False,True,primary
+BBR001,M0137,CAT020,Nila,Nila Goreng Asam Manis,38000,18136,19864,52.27,porsi,True,4,False,True,primary
+BBR001,M0138,CAT020,Nila,Nila Goreng Asam Pedas,38000,18976,19024,50.06,porsi,True,4,False,True,primary
+BBR001,M0139,CAT021,Paket Ber 5,Paket Asik,175000,67905,107095,61.2,porsi,False,1,True,True,primary
+BBR001,M0140,CAT022,Paket Personal,Paket Ayam Bakar,35000,13627,21373,61.07,porsi,False,1,True,True,primary
+BBR001,M0141,CAT022,Paket Personal,Paket Ayam Crispy Kecap,34000,11758,22242,65.42,porsi,False,1,True,True,primary
+BBR001,M0142,CAT022,Paket Personal,Paket Ayam Kremez,35000,13581,21419,61.2,porsi,False,1,True,True,primary
+BBR001,M0143,CAT022,Paket Personal,Paket Ayam Lada Hitam,34000,11316,22684,66.72,porsi,False,1,True,True,primary
+BBR001,M0144,CAT022,Paket Personal,Paket Ayam Teriyaki,34000,11430,22570,66.38,porsi,False,1,True,True,primary
+BBR001,M0145,CAT021,Paket Ber 5,Paket Bar-Bar,240000,75480,164520,68.55,porsi,False,1,True,True,primary
+BBR001,M0146,CAT022,Paket Personal,Paket Geprek Boneless,25000,12189,12811,51.24,porsi,False,1,True,True,primary
+BBR001,M0147,CAT021,Paket Ber 5,Paket Gokil,190000,58790,131210,69.06,porsi,False,1,True,True,primary
+BBR001,M0148,CAT022,Paket Personal,Paket Lele,25000,10583,14417,57.67,porsi,False,1,True,True,primary
+BBR001,M0149,CAT021,Paket Ber 5,Paket Nagih,195000,68135,126865,65.06,porsi,False,1,True,True,primary
+BBR001,M0150,CAT022,Paket Personal,Paket Nila,36000,12873,23127,64.24,porsi,False,1,True,True,primary
+BBR001,M0151,CAT021,Paket Ber 5,Paket Puas,210000,57150,152850,72.79,porsi,False,1,True,True,primary
+BBR001,M0152,CAT021,Paket Ber 5,Paket Santuy,150000,52915,97085,64.72,porsi,False,1,True,True,primary
+BBR001,M0153,CAT022,Paket Personal,Paket Sapi Lada Hitam,36000,15096,20904,58.07,porsi,False,1,True,True,primary
+BBR001,M0154,CAT003,Snack,Pisang Goreng Coklat,17500,4350,13150,75.14,porsi,False,1,False,True,primary
+BBR001,M0155,CAT003,Snack,Pisang Goreng Ori,17500,3000,14500,82.86,porsi,False,1,False,True,primary
+BBR001,M0156,CAT023,Sambal,Sambal Bawang,5000,2202,2798,55.96,porsi,False,1,False,True,primary
+BBR001,M0157,CAT023,Sambal,Sambal Ijo,5000,1982,3018,60.36,porsi,False,1,False,True,primary
+BBR001,M0158,CAT023,Sambal,Sambal Kecap,5000,1685,3315,66.3,porsi,False,1,False,True,primary
+BBR001,M0159,CAT023,Sambal,Sambal Terasi,5000,2686,2314,46.28,porsi,False,1,False,True,primary
+BBR001,M0160,CAT023,Sambal,Sambal Tomat,5000,2276,2724,54.48,porsi,False,1,False,True,primary
+BBR001,M0161,CAT024,Sapo Tahu,Sapo Tahu Ayam Hotplate,23000,9443,13557,58.94,porsi,False,1,False,True,primary
+BBR001,M0162,CAT024,Sapo Tahu,Sapo Tahu Sapi Hotplate,25000,13343,11657,46.63,porsi,False,1,False,True,primary
+BBR001,M0163,CAT024,Sapo Tahu,Sapo Tahu Seafood Hotplate,24000,10243,13757,57.32,porsi,False,1,False,True,primary
+BBR001,M0164,CAT025,Saus,Saus Asam Manis/Pedas,5000,1000,4000,80.0,porsi,False,1,False,True,primary
+BBR001,M0165,CAT025,Saus,Saus Barbeque,5000,1200,3800,76.0,porsi,False,1,False,True,primary
+BBR001,M0166,CAT025,Saus,Saus Blackpepper,5000,1200,3800,76.0,porsi,False,1,False,True,primary
+BBR001,M0167,CAT005,Sayuran,Sayur Asem,15000,2854,12146,80.97,porsi,False,1,False,True,primary
+BBR001,M0168,CAT005,Sayuran,Sayur Lodeh,15000,5216,9784,65.23,porsi,False,1,False,True,primary
+BBR001,M0169,CAT006,Hotplate,Sig. Beef Pasta Hotplate,28000,12362,15638,55.85,porsi,False,1,False,True,primary
+BBR001,M0170,CAT006,Hotplate,Sig. Beef Rice Hotplate,27000,13740,13260,49.11,porsi,False,1,False,True,primary
+BBR001,M0171,CAT006,Hotplate,Sig. Chicken Pasta Hotplate,26000,8942,17058,65.61,porsi,False,1,False,True,primary
+BBR001,M0172,CAT006,Hotplate,Sig. Chicken Rice Hotplate,25000,10320,14680,58.72,porsi,False,1,False,True,primary
+BBR001,M0173,CAT003,Snack,Singkong Keju,17500,3920,13580,77.6,porsi,False,1,False,True,primary
+BBR001,M0174,CAT016,Soda,Soda Gembira,15000,2695,12305,82.03,porsi,False,1,False,True,primary
+BBR001,M0175,CAT016,Soda,Soda Susu,15000,2595,12405,82.7,porsi,False,1,False,True,primary
+BBR001,M0176,CAT026,Soto,Soto Ayam Banyu Bening,12000,2936,9064,75.53,porsi,False,1,False,True,primary
+BBR001,M0177,CAT016,Soda,Sprite 250 ml,5000,3000,2000,40.0,porsi,False,1,False,True,primary
+BBR001,M0178,CAT007,Kemasan Take Away,Sterofoam,2000,800,1200,60.0,porsi,False,1,False,True,primary
+BBR001,M0179,CAT009,Gurame,Sup Gurame,57500,25670,31830,55.36,porsi,True,5,False,True,primary
+BBR001,M0180,CAT020,Nila,Sup Nila,38000,15736,22264,58.59,porsi,True,4,False,True,primary
+BBR001,M0181,CAT001,Minuman Standar,Susu Jahe,11000,3245,7755,70.5,porsi,False,1,False,True,primary
+BBR001,M0182,CAT001,Minuman Standar,Susu Putih/Coklat,10000,4410,5590,55.9,porsi,False,1,False,True,primary
+BBR001,M0183,CAT003,Snack,Tahu Goreng,13000,4148,8852,68.09,porsi,False,1,False,True,primary
+BBR001,M0184,CAT003,Snack,Tahu Penyet,13000,5531,7469,57.45,porsi,False,1,False,True,primary
+BBR001,M0185,CAT001,Minuman Standar,Teh,5000,970,4030,80.6,porsi,False,1,False,True,primary
+BBR001,M0186,CAT011,Minuman Jumbo,Teh 1/2 Jumbo,150000,29100,120900,80.6,porsi,False,1,False,True,primary
+BBR001,M0187,CAT011,Minuman Jumbo,Teh Jumbo,300000,58200,241800,80.6,porsi,False,1,False,True,primary
+BBR001,M0188,CAT001,Minuman Standar,Teh Kampul,9000,1570,7430,82.56,porsi,False,1,False,True,primary
+BBR001,M0189,CAT001,Minuman Standar,Teh Tarik,10000,1800,8200,82.0,porsi,False,1,False,True,primary
+BBR001,M0190,CAT013,Minuman Teko,Teh Teko,25000,3500,21500,86.0,porsi,False,1,False,True,primary
+BBR001,M0191,CAT003,Snack,Telur Ceplok,5000,2316,2684,53.68,porsi,False,1,False,True,primary
+BBR001,M0192,CAT003,Snack,Telur Dadar,5000,2565,2435,48.7,porsi,False,1,False,True,primary
+BBR001,M0193,CAT003,Snack,Tempe Goreng,13000,3548,9452,72.71,porsi,False,1,False,True,primary
+BBR001,M0194,CAT003,Snack,Tempe Penyet,13000,4931,8069,62.07,porsi,False,1,False,True,primary
+BBR001,M0195,CAT003,Snack,Timus,17500,3050,14450,82.57,porsi,False,1,False,True,primary
+BBR001,M0196,CAT005,Sayuran,Trancam,15000,3077,11923,79.49,porsi,False,1,False,True,primary
+BBR001,M0197,CAT005,Sayuran,Tumis Kangkung,15000,2748,12252,81.68,porsi,False,1,False,True,primary
+BBR001,M0198,CAT002,Alacarte,Udang Asam Manis,50000,14488,35512,71.02,porsi,False,1,False,True,primary
+BBR001,M0199,CAT002,Alacarte,Udang Asam Pedas,50000,15688,34312,68.62,porsi,False,1,False,True,primary

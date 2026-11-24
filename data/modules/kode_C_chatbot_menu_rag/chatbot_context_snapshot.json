@@ -1,0 +1,21 @@
+{
+  "tenant": {
+    "id": "4d1f5d21-6d61-4b7c-9c3e-4f4a2a5db001",
+    "code": "BBR001",
+    "name": "Banyu Bening Resto",
+    "slug": "banyu-bening",
+    "city": "Salatiga",
+    "timezone": "Asia/Jakarta",
+    "hostname": "banyubening.tumbass.localhost",
+    "qr_base_url": "http://www.tumbass.localhost:5173/menu",
+    "order_expiry_minutes": 15,
+    "status": "active",
+    "chatbot_enabled": true,
+    "chatbot_knowledge": "Jam operasional: Senin-Jumat 10.00-22.00, Sabtu-Minggu 09.00-23.00 WIB. Dapur tutup (last order) 30 menit sebelum resto tutup.\nPembayaran: Melayani pembayaran tunai di kasir dan QRIS (dinamis/statis). Saat ini belum menerima pembayaran kartu debit atau kartu kredit.\nFasilitas restoran: Tersedia mushola bersih dengan tempat wudhu, toilet pria/wanita terpisah, area makan indoor & outdoor, serta area parkir luas untuk motor dan mobil.\nKonektivitas Wi-Fi: Tersedia Wi-Fi gratis untuk pelanggan dengan nama jaringan (SSID) BanyuBening-Guest. Kata sandi dapat ditanyakan langsung ke kasir saat memesan.\nKehalalan & Kualitas: Seluruh menu makanan dan minuman 100% halal, bebas alkohol, dan tidak menggunakan bahan olahan babi atau minyak babi (no pork, no lard).\nPemesanan Takeaway / Bawa Pulang: Pesanan dapat dibawa pulang (takeaway). Kemasan makanan dan minuman menggunakan kemasan food-grade dengan biaya kemasan standar yang dihitung kasir saat pembayaran.\nReservasi Meja & Rombongan: Melayani reservasi meja untuk keluarga atau rombongan (lebih dari 10 orang). Reservasi dapat dilakukan melalui WhatsApp resmi resto (tanyakan nomor kontak resmi ke kasir/staf kami).\nTingkat pedas bisa diminta saat memesan untuk menu yang punya pilihan level pedas."
+  },
+  "categories_count": 26,
+  "menu_items_count": 199,
+  "option_groups_count": 307,
+  "option_choices_count": 809,
+  "rag_chunks_count": 202
+}

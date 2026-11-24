@@ -1,0 +1,101 @@
+test_id,tenant_id,comment,sentiment_label,difficulty_group,data_origin
+TST001,BBR001,"Ayam bakarnya empuk banget, bumbunya sampai ke dalam. Puas deh",positive,normal,handwritten_independent_test
+TST002,BBR001,"Tempatnya adem, makanan datang cepat, kami sekeluarga senang",positive,normal,handwritten_independent_test
+TST003,BBR001,"Es jeruknya segar, nasi gorengnya wangi. Recommended buat makan siang",positive,normal,handwritten_independent_test
+TST004,BBR001,"Pelayan ramah banget, dikasih tambahan sambal tanpa diminta",positive,normal,handwritten_independent_test
+TST005,BBR001,"Harga segini dapat porsi sebanyak ini, murah menurut saya",positive,normal,handwritten_independent_test
+TST006,BBR001,"Gurame goreng crispy luar dalam, sambalnya juara",positive,normal,handwritten_independent_test
+TST007,BBR001,"Sumpah enak, bakal balik lagi minggu depan",positive,normal,handwritten_independent_test
+TST008,BBR001,Makanan sampai masih panas dan rasanya konsisten enak,positive,normal,handwritten_independent_test
+TST009,BBR001,"Soto-nya gurih, kuahnya bening tapi kaya rasa. Mantap",positive,normal,handwritten_independent_test
+TST010,BBR001,"Dari awal datang disambut ramah, pesanan cepat selesai",positive,normal,handwritten_independent_test
+TST011,BBR001,"Pesan lewat barcode gampang, nggak perlu antre. Praktis banget",positive,normal,handwritten_independent_test
+TST012,BBR001,"Nila bakarnya matang merata dan wangi, nggak amis sama sekali",positive,normal,handwritten_independent_test
+TST013,BBR001,"Kenyang dan puas, suasananya nyaman buat ngobrol lama",positive,normal,handwritten_independent_test
+TST014,BBR001,"Mie gorengnya mantap, pedasnya pas, porsi lumayan besar",positive,normal,handwritten_independent_test
+TST015,BBR001,Overall pengalaman makan di sini menyenangkan,positive,normal,handwritten_independent_test
+TST016,BBR001,"Jusnya seger, nggak terlalu manis. Cocok banget",positive,normal,handwritten_independent_test
+TST017,BBR001,"Kwetiaunya juara, sayurnya masih renyah",positive,normal,handwritten_independent_test
+TST018,BBR001,"Top lah pokoknya, nggak ada yang bikin kecewa",positive,normal,handwritten_independent_test
+TST019,BBR001,"Tempat bersih, toiletnya juga terawat. Nilai plus",positive,normal,handwritten_independent_test
+TST020,BBR001,"Sapo tahunya enak banget, hangat dan gurih",positive,normal,handwritten_independent_test
+TST021,BBR001,"Lele gorengnya kriuk, nggak bau tanah. Suka",positive,normal,handwritten_independent_test
+TST022,BBR001,"Paket keluarganya worth it, semua kenyang",positive,normal,handwritten_independent_test
+TST023,BBR001,"Staf cekatan, meja langsung dibersihkan setelah kami selesai",positive,normal,handwritten_independent_test
+TST024,BBR001,"Bumbu rawonnya pekat dan sedap, pasti pesan lagi",positive,normal,handwritten_independent_test
+TST025,BBR001,"Datang rame-rame, semua pesanan keluar barengan dan enak",positive,normal,handwritten_independent_test
+TST026,BBR001,"Es teh jumbonya mantul, pas buat siang panas",positive,normal,handwritten_independent_test
+TST027,BBR001,"Pas dibungkus, kemasannya rapi dan kuah nggak tumpah",positive,normal,handwritten_independent_test
+TST028,BBR001,Murah meriah tapi rasanya nggak murahan,positive,normal,handwritten_independent_test
+TST029,BBR001,"Pesanan lengkap, rasanya oke, pelayanan memuaskan",positive,normal,handwritten_independent_test
+TST030,BBR001,"Salah satu tempat makan favorit saya di sini, konsisten tiap datang",positive,normal,handwritten_independent_test
+TST031,BBR001,"Saya suka sambal matahnya, pedas segar",positive,normal,handwritten_independent_test
+TST032,BBR001,"Makan malam yang menyenangkan, terima kasih ya",positive,normal,handwritten_independent_test
+TST033,BBR001,"Enak, enak, enak! Nambah nasi dua kali",positive,normal,handwritten_independent_test
+TST034,BBR001,"Cepat dan enak, nggak pakai nunggu lama",positive,normal,handwritten_independent_test
+TST035,BBR001,"Ikan bakar di sini the best, wangi arang",positive,normal,handwritten_independent_test
+TST036,BBR001,"Bagus banget pelayanannya, sopan dan sigap",positive,normal,handwritten_independent_test
+TST037,BBR001,"Nasi gorengnya medok, telurnya pas matang",positive,normal,handwritten_independent_test
+TST038,BBR001,Menu banyak pilihan dan semuanya terjamin enak,positive,normal,handwritten_independent_test
+TST039,BBR001,"Rasanya otentik, mirip masakan ibu di rumah",positive,normal,handwritten_independent_test
+TST040,BBR001,Pokoknya puas dari awal sampai bayar,positive,normal,handwritten_independent_test
+TST041,BBR001,"Nunggu hampir satu jam, makanan baru keluar. Kecewa berat",negative,normal,handwritten_independent_test
+TST042,BBR001,"Nasinya dingin dan ayamnya alot, rasanya mengecewakan",negative,normal,handwritten_independent_test
+TST043,BBR001,"Pelayannya cuek, ditanya malah diam saja",negative,normal,handwritten_independent_test
+TST044,BBR001,"Porsi kecil banget buat harga segitu, nggak worth it",negative,normal,handwritten_independent_test
+TST045,BBR001,"Ikannya amis dan bumbunya hambar, nggak akan pesan lagi",negative,normal,handwritten_independent_test
+TST046,BBR001,Pesanan saya salah dan nggak ada yang minta maaf,negative,normal,handwritten_independent_test
+TST047,BBR001,"Meja kotor, banyak lalat, bikin nggak selera makan",negative,normal,handwritten_independent_test
+TST048,BBR001,Sudah bayar lewat QRIS tapi pesanan tak kunjung diproses,negative,normal,handwritten_independent_test
+TST049,BBR001,"Sup-nya keasinan parah, nggak bisa dimakan",negative,normal,handwritten_independent_test
+TST050,BBR001,"Lama banget, teman sampai selesai makan baru punyaku datang",negative,normal,handwritten_independent_test
+TST051,BBR001,"Mie gorengnya berminyak dan hambar, zonk",negative,normal,handwritten_independent_test
+TST052,BBR001,Minuman datang paling akhir dan esnya sudah cair semua,negative,normal,handwritten_independent_test
+TST053,BBR001,"Harga mahal tapi rasa biasa saja, sayang uangnya",negative,normal,handwritten_independent_test
+TST054,BBR001,"Ayam goreng terlalu kering, rasanya aneh",negative,normal,handwritten_independent_test
+TST055,BBR001,"Kapok, nggak balik lagi",negative,normal,handwritten_independent_test
+TST056,BBR001,"Tempatnya pengap dan panas, makanan juga lama",negative,normal,handwritten_independent_test
+TST057,BBR001,"Kuah tumpah ke mana-mana pas dibungkus, kemasan asal-asalan",negative,normal,handwritten_independent_test
+TST058,BBR001,Dipanggil berkali-kali nggak ada yang datang,negative,normal,handwritten_independent_test
+TST059,BBR001,"Rasanya jauh dari ekspektasi, sangat mengecewakan",negative,normal,handwritten_independent_test
+TST060,BBR001,"Nasi goreng gosong di bagian bawah, pahit",negative,normal,handwritten_independent_test
+TST061,BBR001,"Staf judes, bikin nggak nyaman",negative,normal,handwritten_independent_test
+TST062,BBR001,"Aplikasi pemesanan error terus, akhirnya harus ke kasir",negative,normal,handwritten_independent_test
+TST063,BBR001,"Pesan dari tadi belum juga datang, parah",negative,normal,handwritten_independent_test
+TST064,BBR001,"Lele gorengnya bau tanah, nyesel pesan",negative,normal,handwritten_independent_test
+TST065,BBR001,"Porsinya pelit, lauk cuma sepotong kecil",negative,normal,handwritten_independent_test
+TST066,BBR001,"Bumbu kurang, rasa datar banget",negative,normal,handwritten_independent_test
+TST067,BBR001,"Sudah antre lama, ternyata menu yang dipesan habis, nggak dikabari",negative,normal,handwritten_independent_test
+TST068,BBR001,"Makanan sampai udah dingin, nggak enak lagi",negative,normal,handwritten_independent_test
+TST069,BBR001,"Pengalaman terburuk, nggak recommended sama sekali",negative,normal,handwritten_independent_test
+TST070,BBR001,Sambalnya pedas kebangetan sampai perut sakit,negative,normal,handwritten_independent_test
+TST071,BBR001,"Piring dan sendok masih kotor, jijik",negative,normal,handwritten_independent_test
+TST072,BBR001,"Overpriced, rasa nggak sebanding",negative,normal,handwritten_independent_test
+TST073,BBR001,Nunggu 45 menit untuk sepiring nasi? nggak masuk akal,negative,normal,handwritten_independent_test
+TST074,BBR001,"Es tehnya cuma manis gula, nggak ada rasa tehnya",negative,normal,handwritten_independent_test
+TST075,BBR001,"Kecewa, ayamnya masih berdarah di tengah",negative,normal,handwritten_independent_test
+TST076,BBR001,Kasirnya ketus dan salah hitung,negative,normal,handwritten_independent_test
+TST077,BBR001,Salah banget pilih makan di sini,negative,normal,handwritten_independent_test
+TST078,BBR001,"Rasa tidak karuan, bikin eneg",negative,normal,handwritten_independent_test
+TST079,BBR001,Sayurnya layu dan nggak segar,negative,normal,handwritten_independent_test
+TST080,BBR001,"Lambat banget, bikin kesel",negative,normal,handwritten_independent_test
+TST081,BBR001,"Nggak mengecewakan sama sekali, malah di luar dugaan enak",positive,hard_negation_contrast,handwritten_independent_test
+TST082,BBR001,"Tidak ada yang kurang, semuanya pas",positive,hard_negation_contrast,handwritten_independent_test
+TST083,BBR001,Nggak nyesel datang ke sini,positive,hard_negation_contrast,handwritten_independent_test
+TST084,BBR001,"Pelayanannya tidak lambat, malah cepat",positive,hard_negation_contrast,handwritten_independent_test
+TST085,BBR001,"Rasanya nggak hambar, bumbunya terasa",positive,hard_negation_contrast,handwritten_independent_test
+TST086,BBR001,Tidak mahal untuk kualitas segini,positive,hard_negation_contrast,handwritten_independent_test
+TST087,BBR001,"Dikira bakal lama, ternyata cepat banget",positive,hard_negation_contrast,handwritten_independent_test
+TST088,BBR001,"Awalnya ragu, tapi ternyata enak banget",positive,hard_negation_contrast,handwritten_independent_test
+TST089,BBR001,"Memang agak ramai, tapi tetap dilayani dengan baik dan makanannya enak",positive,hard_negation_contrast,handwritten_independent_test
+TST090,BBR001,"Porsi nggak kecil, cukup bikin kenyang",positive,hard_negation_contrast,handwritten_independent_test
+TST091,BBR001,"Enak sih, tapi nunggunya lama banget sampai nggak sabar, nggak akan balik",negative,hard_negation_contrast,handwritten_independent_test
+TST092,BBR001,"Tempatnya bagus, sayang makanannya hambar dan mahal",negative,hard_negation_contrast,handwritten_independent_test
+TST093,BBR001,"Ayamnya enak tapi pelayanannya parah, males datang lagi",negative,hard_negation_contrast,handwritten_independent_test
+TST094,BBR001,"Bukan makanan yang enak, jauh dari kata layak",negative,hard_negation_contrast,handwritten_independent_test
+TST095,BBR001,"Nggak ada yang istimewa, rasanya mengecewakan",negative,hard_negation_contrast,handwritten_independent_test
+TST096,BBR001,"Katanya recommended, ternyata biasa dan kemahalan",negative,hard_negation_contrast,handwritten_independent_test
+TST097,BBR001,"Lumayan cepat, tapi rasanya nggak enak sama sekali",negative,hard_negation_contrast,handwritten_independent_test
+TST098,BBR001,"Tidak puas, tidak akan kembali",negative,hard_negation_contrast,handwritten_independent_test
+TST099,BBR001,"Suasana oke, tapi minumannya nggak segar dan nasinya dingin, kecewa",negative,hard_negation_contrast,handwritten_independent_test
+TST100,BBR001,"Awalnya senang sama tempatnya, akhirnya kecewa sama rasanya",negative,hard_negation_contrast,handwritten_independent_test
