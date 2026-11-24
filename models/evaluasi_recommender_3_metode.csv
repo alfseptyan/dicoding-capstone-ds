@@ -1,0 +1,4 @@
+model,test_baskets,precision_at_3,recall_at_3,hit_rate_at_3,precision_at_5,recall_at_5,hit_rate_at_5,catalog_coverage_pct
+M1 Baseline: Global Best-Sellers (Popularity),378,0.0582,0.0992,0.1746,0.0444,0.1265,0.2169,3.05
+M2 Kandidat 1: Association Rules (FP-Growth Confidence-Lift),378,0.1887,0.3408,0.4921,0.1418,0.4153,0.5661,55.33
+M3 Kandidat 2 (Winner): Item-to-Item Co-occurrence (Cosine + Lift + Cross-Category),378,0.2249,0.399,0.5794,0.1762,0.5137,0.7037,96.45

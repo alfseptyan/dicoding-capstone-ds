@@ -7,7 +7,11 @@
     "ingredients_clean": 106,
     "recipes_bom_clean": 1481,
     "paid_orders_clean": 2017,
-    "reviews_clean": 2000
+    "reviews_clean": 2000,
+    "order_items_clean": 5352,
+    "menu_cooccurrence_pairs": 4168,
+    "menu_top_recommendations": 985,
+    "intent_dataset_clean": 546
   },
   "data_wrangling_fixes": {
     "missing_ordered_at_fixed": "Replacedorders.csv (missing timestamps) with orders_dengan_timestamp.xlsx (2026-05-01 to 2026-10-31)",
@@ -85,6 +89,25 @@
         "M5 Negation-Tagged TF-IDF + Logistic Regression",
         "M6 Hybrid: Negation Lexicon + Negation-Tagged TF-IDF + Logistic Regression (Selected Winner)"
       ]
+    },
+    "module_b_menu_recommender": {
+      "model": "M3 Kandidat 2 (Winner): Item-to-Item Co-occurrence (Cosine + Lift + Cross-Category)",
+      "test_baskets": 378,
+      "precision_at_3": 0.2249,
+      "recall_at_3": 0.399,
+      "hit_rate_at_3": 0.5794,
+      "precision_at_5": 0.1762,
+      "recall_at_5": 0.5137,
+      "hit_rate_at_5": 0.7037,
+      "catalog_coverage_pct": 96.45
+    },
+    "module_d_intent_classification": {
+      "model": "M4 Kandidat 3 (Winner): Hybrid Word+Char TF-IDF + Logistic Regression",
+      "cv_5fold_macro_f1": 0.9891,
+      "test_accuracy": 1.0,
+      "test_macro_precision": 1.0,
+      "test_macro_recall": 1.0,
+      "test_macro_f1": 1.0
     }
   }
 }

@@ -107,3 +107,54 @@ Sesuai syarat rubrik **Penyediaan Data untuk Model AI**, setiap tabel dan baris 
 | `comment` | `string` | `"Makan siang di sini hari Minggu. Ayam bakarnya empuk..."` | Teks ulasan pelanggan berbahasa Indonesia (mencakup variasi bahasa formal, santai, singkatan, negasi, dan kalimat kontras). |
 | `sentiment_label` | `string (enum)`| `positive` | Label kelas sentimen: `positive` (rating 4–5), `negative` (rating 1–2), atau `neutral` (rating 3). |
 | `data_origin` | `string` | `synthetic_contextual_v2` | Label sumber data. |
+
+
+---
+
+## 4. Tabel Khusus Modul B (Rekomendasi Menu Item-to-Item) & Modul D (Klasifikasi Intent)
+
+### 4.1 `order_items_clean.csv` (3.922 Baris Detail Item Transaksi Lunas) & `recommender_baskets_train.csv` / `test.csv`
+
+| Nama Kolom | Tipe Data | Contoh Nilai | Deskripsi & Aturan Validasi |
+| :--- | :--- | :--- | :--- |
+| `tenant_id` | `string` | `BBR001` | Identifier tenant. |
+| `order_item_id` | `string (PK)` | `OI000001` | Identifier unik baris item pesanan. |
+| `order_id` | `string (FK)` | `ORD000001` | Mengacu ke `orders_clean.order_id` (hanya order `paid`). |
+| `ordered_at` | `datetime` | `2026-05-01 11:07:43` | Timestamp pesanan untuk pembagian kronologis *train/test* (80% Train `2026-05-01..2026-09-26`, 20% Test `2026-09-26..2026-10-31`). |
+| `menu_id` | `string (FK)` | `M0003` | Mengacu ke `menu_items_clean.menu_id`. |
+| `menu_name` | `string` | `Ayam Bakar Tok` | Snapshot nama menu. |
+| `category_name` | `string` | `Alacarte` | Snapshot kategori menu. |
+| `quantity` | `integer` | `2` | Jumlah porsi yang dipesan (`> 0`). |
+| `unit_price_at_sale_idr`| `integer` | `23000` | Snapshot harga jual satuan saat transaksi. |
+| `unit_hpp_at_sale_idr` | `integer` | `8280` | Snapshot HPP satuan saat transaksi. |
+| `line_subtotal_idr` | `integer` | `46000` | `quantity * unit_price_at_sale_idr`. |
+| `line_hpp_idr` | `integer` | `16560` | `quantity * unit_hpp_at_sale_idr`. |
+| `line_gross_margin_idr`| `integer` | `29440` | `line_subtotal_idr - line_hpp_idr`. |
+| `data_origin` | `string` | `synthetic_seed_20261112` | Label sumber data. |
+
+### 4.2 `menu_cooccurrence_pairs.csv` (4.168 Pasangan Item-to-Item) & `menu_top_recommendations.csv` (985 Baris Top-5 per Menu)
+
+| Nama Kolom | Tipe Data | Contoh Nilai | Deskripsi & Aturan Validasi |
+| :--- | :--- | :--- | :--- |
+| `tenant_id` | `string` | `BBR001` | Identifier tenant. |
+| `anchor_menu_id` / `menu_id` | `string (FK)` | `M0003` | ID menu utama yang sedang dipilih/dilihat pelanggan di Halaman QR. |
+| `recommended_menu_id` | `string (FK)` | `M0090` | ID menu pendamping yang direkomendasikan. |
+| `rank` | `integer` | `1` | Peringkat rekomendasi (`1` s.d. `5` pada `menu_top_recommendations.csv`). |
+| `co_occurrence_count` | `integer` | `42` | Frekuensi kedua menu muncul bersama dalam satu struk pada *training set*. |
+| `support` | `float` | `0.02604` | Proporsi struk yang memuat pasangan `(A, B)` terhadap total struk latih. |
+| `confidence` | `float` | `0.4118` | Probabilitas bersyarat $P(B \mid A) = \text{count}(A \cap B) / \text{count}(A)$. |
+| `lift` | `float` | `3.8421` | Rasio kekuatan asosiasi $\text{Lift}(A, B) = P(A \cap B) / (P(A) \times P(B))$. |
+| `cosine_similarity` | `float` | `0.3654` | Kemiripan vektor ko-okurensi $\text{count}(A \cap B) / \sqrt{\text{count}(A)\text{count}(B)}$. |
+| `hybrid_score` | `float` | `0.5862` | Skor gabungan Cosine Similarity, Log-Lift, dan bobot komplementer lintas-kategori. |
+| `source` | `string` | `item_to_item_hybrid` | `item_to_item_hybrid` atau `cold_start_fallback` (untuk menu tanpa riwayat pasangan). |
+
+### 4.3 `intent_dataset_clean.csv` (546 Kalimat Unik — `intent_train.csv` 436 Baris & `intent_test.csv` 110 Baris)
+
+| Nama Kolom | Tipe Data | Contoh Nilai | Deskripsi & Aturan Validasi |
+| :--- | :--- | :--- | :--- |
+| `intent_id` | `string (PK)` | `INT00001` | Identifier unik baris kalimat intent. |
+| `tenant_id` | `string (FK)` | `BBR001` | Identifier tenant. |
+| `text` | `string` | `"tolong tambahkan Ayam Bakar Tok 2 porsi ke keranjang ya"` | Kalimat asli masukan pengguna di widget Chatbot QR. |
+| `text_clean` | `string` | `"tolong tambahkan ayam bakar tok 2 porsi ke keranjang ya"` | Kalimat hasil normalisasi huruf kecil & kamus kata tidak baku (`gak/ga/nggak -> tidak`) dengan tetap mempertahankan kata negasi dan bebas duplikat (`assert overlap(train, test) == 0`). |
+| `intent_label` | `string (enum)`| `pemesanan` | Label 5 kelas router chatbot: `tanya_menu` (123), `pemesanan` (148), `info_resto` (103), `keluhan` (103), dan `lainnya` (69). |
+| `data_origin` | `string` | `synthetic_curated` | Label sumber data. |

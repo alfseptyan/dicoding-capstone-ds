@@ -129,7 +129,26 @@ Diuji pada **2 Skema Pelatihan** (*Skema A: Korpus Sintetis 4.000 kalimat* vs *S
 | **M3** | TF-IDF Kata + Karakter `(2,5)` + Logistic Regression | Tahan salah ketik/slang (`class_weight='balanced'`) | Sangat Tinggi | Cukup baik lewat bigram, namun jendela negasi >1 kata masih lolos | Kandidat Linear Kuat |
 | **M4** | TF-IDF Kata + Karakter + Calibrated LinearSVM | Margin maksimum + kalibrasi Sigmoid 5-Fold | Sangat Tinggi | Setara M3 dengan kalibrasi probabilitas baik | Kandidat SVM |
 | **M5** | TF-IDF Penanda Negasi (`negtag`) + Logistic Regression | Transformasi 3 kata setelah negasi menjadi token `n_<kata>` | Sangat Tinggi | **Sangat Tangguh** membedakan `enak` vs `n_enak` | Kandidat Fitur Negasi |
-| **M6** | **Hibrida: Leksikon-Negasi + TF-IDF(`negtag`) + Logistic Regression** | Gabungan `FunctionTransformer(negcol)` + `lexfeat` + `LogisticRegression(C=4, balanced)` | **Terbaik** | **Terbaik (Macro-F1 Tertinggi & Brier/ECE Terendah)** | **Model Final Terpilih** |
+| **M6** | **Hibrida: Leksikon-Negasi + TF-IDF(`negtag`) + Logistic Regression** | Gabungan `FunctionTransformer(negcol)` + `lexfeat` + `LogisticRegression(C=4, balanced)` | **Terbaik (F1 = 0,950)** | **Terbaik (F1 Sulit = 0,950 & Brier = 0,049)** | **Model Final Terpilih (`model_sentiment_m6.joblib`)** |
+
+### 6.3 Komparasi 3 Metode Modul B: Rekomendasi Menu Item-to-Item (`05_menu_recommender_and_intent_classification.ipynb`)
+Dievaluasi menggunakan *Order-Level Chronological Split* (80% Train = 1.613 order `2026-05-01..2026-09-26` : 20% Test = 404 order `2026-09-26..2026-10-31`, diuji pada 383 keranjang multi-item dengan menyembunyikan item pendamping untuk ditebak dari item utama):
+
+| Kode | Metode Recommender | Precision@3 $\uparrow$ | Recall@3 $\uparrow$ | HitRate@3 $\uparrow$ | Precision@5 $\uparrow$ | Recall@5 $\uparrow$ | Catalog Coverage $\uparrow$ | Keputusan |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| **M1** | **Global Best-Sellers (Popularity Baseline)** | 0,0583 | 0,0992 | 17,49% | 0,0580 | 0,1684 | 3,05% | Digunakan khusus sebagai *fallback cold-start* saat keranjang kosong. |
+| **M2** | **Association Rules (FP-Growth Confidence-Lift)** | 0,1889 | 0,3407 | 49,09% | 0,1415 | 0,4217 | 55,33% | Akurat pada pasangan populer, namun cakupan katalog terbatas (55,3%). |
+| **M3** | **Item-to-Item Co-occurrence (Cosine + Lift + Cross-Category)** | **0,2254** | **0,3990** | **57,96%** | **0,1713** | **0,5039** | **96,45%** | **Model Terpilih (`model_recommender_item_to_item.joblib`)** — meningkatkan HitRate@3 lebih dari 3x lipat atas baseline dan mencakup 96,5% katalog menu. |
+
+### 6.4 Komparasi 4 Metode Modul D: Klasifikasi Intent Router Chatbot (`05_menu_recommender_and_intent_classification.ipynb`)
+Dievaluasi pada **546 kalimat unik** setelah pembersihan & penghapusan 448 duplikat dari 994 kalimat mentah, dibagi menggunakan *Stratified Train/Test Split* 80/20 (436 Train : 110 Test, `overlap = 0`) untuk 5 kelas intent (`pemesanan`, `tanya_menu`, `info_resto`, `keluhan`, `lainnya`):
+
+| Kode | Metode Klasifikasi Teks | 5-Fold CV Macro-F1 $\uparrow$ | Test Accuracy $\uparrow$ | Test Macro Precision $\uparrow$ | Test Macro Recall $\uparrow$ | Test Macro-F1 $\uparrow$ | Keputusan |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
+| **M1** | Word TF-IDF `(1,2)` + Multinomial Naive Bayes (`alpha=0.5`) | 0,9830 | 0,9818 | 0,9855 | 0,9788 | 0,9815 | Baseline Probabilistik Cepat |
+| **M2** | Word TF-IDF `(1,2)` + Logistic Regression (`balanced`) | 0,9918 | 1,0000 | 1,0000 | 1,0000 | 1,0000 | Kandidat Linear Ringan |
+| **M3** | Word TF-IDF `(1,2)` + Calibrated LinearSVM | 0,9918 | 1,0000 | 1,0000 | 1,0000 | 1,0000 | Kandidat Margin Maksimum |
+| **M4** | **Hybrid Word `(1,2)` + Char-WB `(3,5)` TF-IDF + Logistic Regression** | **0,9889** | **1,0000** | **1,0000** | **1,0000** | **1,0000** | **Model Terpilih (`model_intent_classifier.joblib`)** — paling tahan terhadap variasi *typo*/salah ketik pelanggan berkat fitur *character n-gram*. |
 
 ---
 
