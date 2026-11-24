@@ -1,0 +1,200 @@
+Column 1,menu_id,category,menu_name,selling_price_idr,selling_unit,is_bundle,is_available,estimated_hpp_idr,source_name,source_url,verification_status,review_flags,source_line
+BBR001,M0001,Minuman Standar,Air Mineral Botol,"5,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,48
+BBR001,M0002,Minuman Standar,Air Putih Gelas,"1,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,56
+BBR001,M0003,Alacarte,Ayam Bakar Tok,"23,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,64
+BBR001,M0004,Alacarte,Ayam Goreng Kremezz Tok,"23,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,71
+BBR001,M0005,Snack,Bakwan Jagung,"13,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,79
+BBR001,M0006,Snack,Bakwan Sayur,"13,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,87
+BBR001,M0007,Bihun,Bihun Goreng Ayam,"18,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,95
+BBR001,M0008,Bihun,Bihun Goreng Ayam Spesial BP,"20,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,103
+BBR001,M0009,Bihun,Bihun Goreng Sapi Spesial BP,"23,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,111
+BBR001,M0010,Bihun,Bihun Goreng Seafood,"18,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,118
+BBR001,M0011,Bihun,Bihun Kuah Ayam,"18,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,126
+BBR001,M0012,Bihun,Bihun Kuah Seafood,"18,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,134
+BBR001,M0013,Bihun,Bihun Siram Ayam Spesial BP,"20,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,142
+BBR001,M0014,Bihun,Bihun Siram Ayam Spesial Teriyaki,"20,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,150
+BBR001,M0015,Bihun,Bihun Siram Sapi Spesial BP,"23,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,158
+BBR001,M0016,Sayuran,Cap Cay Spesial Banyu Bening,"25,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,165
+BBR001,M0017,Sayuran,Cha Kangkung,"15,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,173
+BBR001,M0018,Hotplate,Crispy Chicken indomie Hotplate,"25,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,181
+BBR001,M0019,Hotplate,Crispy Chicken Pasta Hotplate,"27,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,189
+BBR001,M0020,Hotplate,Crispy Chicken Rice Hotplate,"25,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,197
+BBR001,M0021,Hotplate,Crispy Chicken Salted Egg Hotplate,"27,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,204
+BBR001,M0022,Snack,Crispy Chicken Tok,"25,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,212
+BBR001,M0023,Hotplate,Crispy Cumi Rice Hotplate,"26,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,218
+BBR001,M0024,Hotplate,Crispy Dori Rice Hotplate,"25,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,226
+BBR001,M0025,Hotplate,Crispy Udang Rice Hotplate,"26,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,234
+BBR001,M0026,Alacarte,Cumi Asam Manis,"50,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,241
+BBR001,M0027,Alacarte,Cumi Asam Pedas,"50,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,249
+BBR001,M0028,Kemasan Take Away,Cup Minum,"1,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,257
+BBR001,M0029,Minuman Standar,Es Sirup,"7,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,265
+BBR001,M0030,FREE,Free Kerupuk,0,porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,harga_nol,273
+BBR001,M0031,FREE,Free Teh,0,porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,harga_nol,279
+BBR001,M0032,Snack,French Fries,"15,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,285
+BBR001,M0033,Alacarte,Fuyung Hai Spesial BB,"20,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,292
+BBR001,M0034,Snack,Gemblong Cotot,"17,500",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,300
+BBR001,M0035,Sayuran,Gudangan,"15,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,308
+BBR001,M0036,Gurame,Gurame Bakar Madu / ons,"10,500",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,316
+BBR001,M0037,Gurame,Gurame Bakar Manis / ons,"10,000",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,324
+BBR001,M0038,Gurame,Gurame Bakar Pedas / ons,"10,000",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,332
+BBR001,M0039,Gurame,Gurame Bakar Spesial / ons,"10,500",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,339
+BBR001,M0040,Gurame,Gurame Bumbu Acar / ons,"11,500",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,347
+BBR001,M0041,Gurame,Gurame Bumbu Bali / ons,"11,500",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,355
+BBR001,M0042,Gurame,Gurame Cabe Ijo / ons,"11,500",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,363
+BBR001,M0043,Gurame,Gurame Crispy Fillet / ons,"14,000",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,371
+BBR001,M0044,Gurame,Gurame Goreng / ons,"9,000",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,379
+BBR001,M0045,Gurame,Gurame Goreng Asam Manis / ons,"11,500",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,386
+BBR001,M0046,Gurame,Gurame Goreng Asam Pedas / ons,"11,500",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,394
+BBR001,M0047,Juice,Healthy Juice,"15,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,402
+BBR001,M0048,Snack,Jamur Crispy,"13,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,410
+BBR001,M0049,Minuman Standar,Jeruk,"8,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,418
+BBR001,M0050,Minuman Jumbo,Jeruk 1/2 Jumbo,"200,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,harga_jumbo_verifikasi,426
+BBR001,M0051,Minuman Jumbo,Jeruk Jumbo,"400,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,harga_jumbo_verifikasi,433
+BBR001,M0052,Minuman Standar,Jeruk Nipis,"8,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,nama_duplikat,441
+BBR001,M0053,Makanan,Jeruk Nipis,"7,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,nama_duplikat,449
+BBR001,M0054,Minuman Teko,Jeruk Teko,"30,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,457
+BBR001,M0055,Juice,Juice Alpukat,"15,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,465
+BBR001,M0056,Juice,Juice Buah Naga,"15,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,473
+BBR001,M0057,Juice,Juice Jambu,"15,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,480
+BBR001,M0058,Juice,Juice Jeruk,"13,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,488
+BBR001,M0059,Juice,Juice Mangga,"15,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,496
+BBR001,M0060,Juice,Juice Melon,"13,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,504
+BBR001,M0061,Juice,Juice Sirsak,"15,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,512
+BBR001,M0062,Juice,Juice Strawbery,"13,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,520
+BBR001,M0063,Juice,Juice Tomat,"10,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,527
+BBR001,M0064,Alacarte,Kerang Asam Manis,"30,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,535
+BBR001,M0065,Alacarte,Kerang Asam Pedas,"30,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,543
+BBR001,M0066,Snack,Kerupuk,"2,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,551
+BBR001,M0067,Snack,Kerupuk Prasmanan,"20,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,557
+BBR001,M0068,Minuman Standar,Kopi Hitam,"8,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,565
+BBR001,M0069,Minuman Jumbo,Kopi Hitam 1/2 Jumbo,"200,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,harga_jumbo_verifikasi,572
+BBR001,M0070,Minuman Jumbo,Kopi Hitam Jumbo,"400,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,harga_jumbo_verifikasi,580
+BBR001,M0071,Minuman Teko,Kopi Hitam Teko,"40,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,588
+BBR001,M0072,Minuman Standar,Kopi Susu Spesial Mix,"12,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,596
+BBR001,M0073,Kwetiau,Kwetiau Goreng Ayam,"18,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,604
+BBR001,M0074,Kwetiau,Kwetiau Goreng Ayam Spesial BP,"20,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,611
+BBR001,M0075,Kwetiau,Kwetiau Goreng Sapi Spesial BP,"23,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,619
+BBR001,M0076,Kwetiau,Kwetiau Goreng Seafood,"18,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,627
+BBR001,M0077,Kwetiau,Kwetiau Kuah Ayam,"18,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,635
+BBR001,M0078,Kwetiau,Kwetiau Kuah Seafood,"18,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,643
+BBR001,M0079,Kwetiau,Kwetiau Siram Ayam Spesial Blackpepper,"20,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,650
+BBR001,M0080,Kwetiau,Kwetiau Siram Ayam Spesial Teriyaki,"20,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,658
+BBR001,M0081,Kwetiau,Kwetiau Siram Sapi Spesial Blackpepper,"23,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,666
+BBR001,M0082,Sayuran,Lalap Sambal Krupuk,"5,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,674
+BBR001,M0083,Sayuran,Lalapan,"5,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,682
+BBR001,M0084,Lele,Lele Bakar Manis / ons,"6,500",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,689
+BBR001,M0085,Lele,Lele Bakar Pedas / ons,"6,500",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,697
+BBR001,M0086,Lele,Lele Cabe Ijo / ons,"7,500",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,705
+BBR001,M0087,Lele,Lele Goreng / ons,"6,000",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,713
+BBR001,M0088,Lele,Lele Goreng Asam Manis / ons,"7,500",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,721
+BBR001,M0089,Lele,Lele Goreng Asam Pedas / ons,"7,500",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,729
+BBR001,M0090,Minuman Standar,Lemon Tea,"10,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,736
+BBR001,M0091,Minuman Jumbo,Lemon Tea 1/2 Jumbo,"200,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,harga_jumbo_verifikasi,744
+BBR001,M0092,Minuman Jumbo,Lemon Tea Jumbo,"400,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,harga_jumbo_verifikasi,752
+BBR001,M0093,Soda,Lime Squash,"15,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,760
+BBR001,M0094,Minuman Standar,Lychee Tea,"10,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,768
+BBR001,M0095,Snack,Mendoan,"13,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,776
+BBR001,M0096,Mie,Mie Goreng Ayam,"18,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,783
+BBR001,M0097,Mie,Mie Goreng Ayam Spesial BP Hotplate,"25,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,791
+BBR001,M0098,Mie,Mie Goreng Chezzy Chicken Hotplate,"28,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,799
+BBR001,M0099,Mie,Mie Goreng Sapi Spesial BP Hotplate,"27,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,807
+BBR001,M0100,Mie,Mie Goreng Seafood,"18,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,815
+BBR001,M0101,Mie,Mie Kuah Ayam,"18,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,823
+BBR001,M0102,Mie,Mie Kuah Seafood,"18,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,830
+BBR001,M0103,Mie,Mie Siram Ayam Spesial Blackpepper,"20,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,838
+BBR001,M0104,Mie,Mie Siram Ayam Spesial Teriyaki,"20,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,846
+BBR001,M0105,Mie,Mie Siram Sapi Spesial Blackpepper,"23,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,854
+BBR001,M0106,Kemasan Take Away,Mika Besar,"4,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,862
+BBR001,M0107,Kemasan Take Away,Mika Kecil,"2,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,869
+BBR001,M0108,Kemasan Take Away,Mika Tanggung,"3,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,877
+BBR001,M0109,Snack,Mix Platter,"30,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,885
+BBR001,M0110,Aneka Nasi,Nasi Ayam Bakar,"28,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,893
+BBR001,M0111,Aneka Nasi,Nasi Ayam Crispy Saus Kecap,"25,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,901
+BBR001,M0112,Aneka Nasi,Nasi Ayam Crispy Saus Merah,"25,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,909
+BBR001,M0113,Aneka Nasi,Nasi Ayam Goreng Kremez,"28,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,916
+BBR001,M0114,Aneka Nasi,Nasi Ayam Ori Bp Spesial BB,"25,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,924
+BBR001,M0115,Aneka Nasi,Nasi Ayam Ori Teriyaki spesial BB,"25,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,932
+BBR001,M0116,Snack,Nasi Bakul Besar,"30,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,938
+BBR001,M0117,Snack,Nasi Bakul Tanggung,"20,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,944
+BBR001,M0118,Nasi Goreng,Nasi Goreng Ayam,"18,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,950
+BBR001,M0119,Nasi Goreng,Nasi Goreng Banyu Bening Hotplate,"25,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,957
+BBR001,M0120,Nasi Goreng,Nasi Goreng Cheezy Chicken Hotplate,"28,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,965
+BBR001,M0121,Nasi Goreng,Nasi Goreng Mawut,"18,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,973
+BBR001,M0122,Nasi Goreng,Nasi Goreng Seafood,"18,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,981
+BBR001,M0123,Nasi Goreng,Nasi Goreng Sig. Beef Hotplate,"28,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,989
+BBR001,M0124,Nasi Goreng,Nasi Goreng Sosis,"18,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,996
+BBR001,M0125,Nasi Goreng,Nasi Goreng Telur,"18,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1004
+BBR001,M0126,Nasi Goreng,Nasi Goreng Teri,"18,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1012
+BBR001,M0127,Snack,Nasi Putih,"5,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1020
+BBR001,M0128,Aneka Nasi,Nasi Sapi Bp spesial BB,"28,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1028
+BBR001,M0129,Nila,Nila Bakar Madu / ons,"9,000",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,1036
+BBR001,M0130,Nila,Nila Bakar Manis / ons,"8,500",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,1043
+BBR001,M0131,Nila,Nila Bakar Pedas / ons,"8,500",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,1051
+BBR001,M0132,Nila,Nila Bakar Spesial / ons,"9,000",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,1059
+BBR001,M0133,Nila,Nila Bumbu Acar / ons,"9,500",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,1067
+BBR001,M0134,Nila,Nila Bumbu Bali / ons,"9,500",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,1075
+BBR001,M0135,Nila,Nila Cabe Ijo / ons,"9,500",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,1083
+BBR001,M0136,Nila,Nila Goreng / ons,"8,000",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,1090
+BBR001,M0137,Nila,Nila Goreng Asam Manis / ons,"9,500",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,1098
+BBR001,M0138,Nila,Nila Goreng Asam Pedas / ons,"9,500",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,1106
+BBR001,M0139,Paket Ber 5,Paket Asik,"175,000",porsi (sesuai situs),TRUE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,isi_paket_belum_dikonfirmasi,1114
+BBR001,M0140,Paket Personal,Paket Ayam Bakar,"35,000",porsi (sesuai situs),TRUE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,isi_paket_belum_dikonfirmasi,1122
+BBR001,M0141,Paket Personal,Paket Ayam Crispy Kecap,"34,000",porsi (sesuai situs),TRUE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,isi_paket_belum_dikonfirmasi,1129
+BBR001,M0142,Paket Personal,Paket Ayam Kremez,"35,000",porsi (sesuai situs),TRUE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,isi_paket_belum_dikonfirmasi,1137
+BBR001,M0143,Paket Personal,Paket Ayam Lada Hitam,"34,000",porsi (sesuai situs),TRUE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,isi_paket_belum_dikonfirmasi,1145
+BBR001,M0144,Paket Personal,Paket Ayam Teriyaki,"34,000",porsi (sesuai situs),TRUE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,isi_paket_belum_dikonfirmasi,1153
+BBR001,M0145,Paket Ber 5,Paket Bar-Bar,"240,000",porsi (sesuai situs),TRUE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,isi_paket_belum_dikonfirmasi,1161
+BBR001,M0146,Paket Personal,Paket Geprek Boneless,"25,000",porsi (sesuai situs),TRUE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,isi_paket_belum_dikonfirmasi,1168
+BBR001,M0147,Paket Ber 5,Paket Gokil,"190,000",porsi (sesuai situs),TRUE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,isi_paket_belum_dikonfirmasi,1176
+BBR001,M0148,Paket Personal,Paket Lele,"25,000",porsi (sesuai situs),TRUE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,isi_paket_belum_dikonfirmasi,1184
+BBR001,M0149,Paket Ber 5,Paket Nagih,"195,000",porsi (sesuai situs),TRUE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,isi_paket_belum_dikonfirmasi,1192
+BBR001,M0150,Paket Personal,Paket Nila,"36,000",porsi (sesuai situs),TRUE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,isi_paket_belum_dikonfirmasi,1200
+BBR001,M0151,Paket Ber 5,Paket Puas,"210,000",porsi (sesuai situs),TRUE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,isi_paket_belum_dikonfirmasi,1208
+BBR001,M0152,Paket Ber 5,Paket Santuy,"150,000",porsi (sesuai situs),TRUE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,isi_paket_belum_dikonfirmasi,1215
+BBR001,M0153,Paket Personal,Paket Sapi Lada Hitam,"36,000",porsi (sesuai situs),TRUE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,isi_paket_belum_dikonfirmasi,1223
+BBR001,M0154,Snack,Pisang Goreng Coklat,"17,500",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1231
+BBR001,M0155,Snack,Pisang Goreng Ori,"17,500",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1237
+BBR001,M0156,Sambal,Sambal Bawang,"5,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1245
+BBR001,M0157,Sambal,Sambal Ijo,"5,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1253
+BBR001,M0158,Sambal,Sambal Kecap,"5,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1260
+BBR001,M0159,Sambal,Sambal Terasi,"5,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1266
+BBR001,M0160,Sambal,Sambal Tomat,"5,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1274
+BBR001,M0161,Sapo Tahu,Sapo Tahu Ayam Hotplate,"23,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1282
+BBR001,M0162,Sapo Tahu,Sapo Tahu Sapi Hotplate,"25,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1290
+BBR001,M0163,Sapo Tahu,Sapo Tahu Seafood Hotplate,"24,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1298
+BBR001,M0164,Saus,Saus Asam Manis/Pedas,"5,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1305
+BBR001,M0165,Saus,Saus Barbeque,"5,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1313
+BBR001,M0166,Saus,Saus Blackpepper,"5,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1321
+BBR001,M0167,Sayuran,Sayur Asem,"15,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1329
+BBR001,M0168,Sayuran,Sayur Lodeh,"15,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1337
+BBR001,M0169,Hotplate,Sig. Beef Pasta Hotplate,"28,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1345
+BBR001,M0170,Hotplate,Sig. Beef Rice Hotplate,"27,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1352
+BBR001,M0171,Hotplate,Sig. Chicken Pasta Hotplate,"26,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1360
+BBR001,M0172,Hotplate,Sig. Chicken Rice Hotplate,"25,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1368
+BBR001,M0173,Snack,Singkong Keju,"17,500",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1376
+BBR001,M0174,Soda,Soda Gembira,"15,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1384
+BBR001,M0175,Soda,Soda Susu,"15,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1392
+BBR001,M0176,Soto,Soto Ayam Banyu Bening,"12,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1399
+BBR001,M0177,Soda,Sprite 250 ml,"5,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1407
+BBR001,M0178,Kemasan Take Away,Sterofoam,"2,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1415
+BBR001,M0179,Gurame,Sup Gurame / ons,"11,500",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,1423
+BBR001,M0180,Nila,Sup Nila / ons,"9,500",ons (verifikasi),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,satuan_ons_vs_porsi_situs,1431
+BBR001,M0181,Minuman Standar,Susu Jahe,"11,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1439
+BBR001,M0182,Minuman Standar,Susu Putih/Coklat,"10,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1446
+BBR001,M0183,Snack,Tahu Goreng,"13,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1454
+BBR001,M0184,Snack,Tahu Penyet,"13,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1462
+BBR001,M0185,Minuman Standar,Teh,"5,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1470
+BBR001,M0186,Minuman Jumbo,Teh 1/2 Jumbo,"150,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,harga_jumbo_verifikasi,1478
+BBR001,M0187,Minuman Jumbo,Teh Jumbo,"300,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,perlu_verifikasi,harga_jumbo_verifikasi,1486
+BBR001,M0188,Minuman Standar,Teh Kampul,"9,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1493
+BBR001,M0189,Minuman Standar,Teh Tarik,"10,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1501
+BBR001,M0190,Minuman Teko,Teh Teko,"25,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1507
+BBR001,M0191,Snack,Telur Ceplok,"5,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1515
+BBR001,M0192,Snack,Telur Dadar,"5,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1523
+BBR001,M0193,Snack,Tempe Goreng,"13,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1531
+BBR001,M0194,Snack,Tempe Penyet,"13,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1539
+BBR001,M0195,Snack,Timus,"17,500",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1546
+BBR001,M0196,Sayuran,Trancam,"15,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1554
+BBR001,M0197,Sayuran,Tumis Kangkung,"15,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1562
+BBR001,M0198,Alacarte,Udang Asam Manis,"50,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1568
+BBR001,M0199,Alacarte,Udang Asam Pedas,"50,000",porsi (sesuai situs),FALSE,,,website Banyu Bening,https://restobanyubening.com/,belum_diverifikasi,,1576

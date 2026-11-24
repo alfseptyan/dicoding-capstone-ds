@@ -1,0 +1,90 @@
+{
+  "project": "Tumbass SaaS — Banyu Bening Resto Salatiga (Module Data Science)",
+  "tenant_id": "BBR001",
+  "dataset_counts": {
+    "categories": 26,
+    "menu_items_clean": 199,
+    "ingredients_clean": 106,
+    "recipes_bom_clean": 1481,
+    "paid_orders_clean": 2017,
+    "reviews_clean": 2000
+  },
+  "data_wrangling_fixes": {
+    "missing_ordered_at_fixed": "Replacedorders.csv (missing timestamps) with orders_dengan_timestamp.xlsx (2026-05-01 to 2026-10-31)",
+    "ons_unit_normalized": "29 menu items (Gurame x5 ons, Nila x4 ons, Lele x3 ons) normalized to standard portion prices and BOM quantities",
+    "non_paid_orders_filtered": 268,
+    "card_payment_standardized": "Mapped legacy 'card' payment method to 'QRIS' per MVP Payment contract (Cash & QRIS only)"
+  },
+  "eda_findings": {
+    "peak_hours_wib": [
+      12,
+      19,
+      13
+    ],
+    "channel_distribution": {
+      "QR": 1587,
+      "POS": 430
+    },
+    "payment_method_distribution": {
+      "QRIS": 1134,
+      "cash": 883
+    },
+    "review_sentiment_distribution": {
+      "positive": 1524,
+      "negative": 476
+    }
+  },
+  "model_evaluations": {
+    "forecasting_ingredient_demand": {
+      "protocol": "Nested Two-Fold Time-Series Split (Fold A: Sep 2026, Fold B: Oct 2026) — Zero Future Leakage",
+      "features_count": 34,
+      "models_compared": [
+        {
+          "model": "Random Forest Regressor (Tuned)",
+          "weekly_wape": 0.266,
+          "weekly_bias_pct": 0.3,
+          "selected": true
+        },
+        {
+          "model": "Pooled Day-of-Week Baseline",
+          "weekly_wape": 0.268,
+          "weekly_bias_pct": -2.6,
+          "selected": false
+        },
+        {
+          "model": "LightGBM Tweedie (Tuned)",
+          "val_nmae": 0.917,
+          "selected": false
+        },
+        {
+          "model": "Extra Trees Regressor (Tuned)",
+          "val_nmae": 1.033,
+          "selected": false
+        },
+        {
+          "model": "Lasso Regression (Tuned)",
+          "val_nmae": 1.047,
+          "selected": false
+        },
+        {
+          "model": "Ridge Regression (Tuned)",
+          "val_nmae": 1.086,
+          "selected": false
+        }
+      ],
+      "restock_coverage_out_of_sample": 0.961
+    },
+    "sentiment_classification": {
+      "protocol": "100 Hand-Written Independent Test Set (Normal & Hard Negation/Contrast) + 5-Fold Out-of-Fold CV on 2,000 Reviews",
+      "models_compared": [
+        "M1 Lexicon Baseline (without negation)",
+        "M1b Lexicon + Negation Flip",
+        "M2 Word TF-IDF + Multinomial Naive Bayes",
+        "M3 Word+Char TF-IDF + Logistic Regression (balanced)",
+        "M4 Word+Char TF-IDF + Calibrated LinearSVM",
+        "M5 Negation-Tagged TF-IDF + Logistic Regression",
+        "M6 Hybrid: Negation Lexicon + Negation-Tagged TF-IDF + Logistic Regression (Selected Winner)"
+      ]
+    }
+  }
+}
